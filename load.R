@@ -2,13 +2,17 @@ library(tidyverse)
 library(readtext)
 library(textclean)
 
-policies <- read_file("data/15249.xml")
+policies_raw <- readtext("data/policies/*")
 
-policies <- replace_html(policies)
+policy_titles <- read_csv("data/policies.csv")
 
-policies <- str_split(policies, "   ")
-
-policies <- tibble(id = "15249", text = policies) %>%
+requirements <- tibble(id = policies_raw$doc_id, text = policies_raw$text) %>%
+  mutate(text = replace_html(text)) %>%
+  mutate(text = str_split(text, "   ")) %>%
   unnest() %>%
   mutate(text = trimws(text)) %>%
-  filter(text != "")
+  filter(text != "") %>%
+  mutate(id = as.integer(str_remove(id, ".xml.txt"))) %>%
+  mutate(row = row_number()) %>%
+  left_join(policy_titles) %>%
+  select(row, id, title, text)
