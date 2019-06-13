@@ -1,6 +1,6 @@
 source("load.R")
 
-responsibles <- requirements %>%
+responsibles <- requirements_with_tokens %>%
   filter(str_detect(text, "responsible"))
 
 responsibles %>% write_csv("data/out/responsibles.csv")
