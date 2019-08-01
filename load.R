@@ -9,7 +9,7 @@ policies_raw <- readtext("data/policies/*")
 policy_titles <- read_csv("data/policies.csv")
 
 requirements_chapter_titles <- tibble(
-    title = c("Requirements", "Policy requirements", "6 Requirements")
+    title = c("Requirements", "Policy requirements", "6 Requirements", "6. Requirements")
   ) %>%
   mutate(title = paste0("title=\"", title, "\""))
 
@@ -25,6 +25,9 @@ requirements_with_tokens <- tibble(id = policies_raw$doc_id, text = policies_raw
   unnest() %>%
   mutate(text = trimws(text)) %>%
   filter(text != "") %>%
+  mutate(text = str_replace_all(text, "\n", " ")) %>%
+  mutate(text = str_replace_all(text, "\r\n", " ")) %>%
+  mutate(text = str_replace_all(text, "  ", " ")) %>%
   mutate(id = as.integer(str_remove(id, ".xml.txt"))) %>%
   left_join(policy_titles) %>%
   group_by(id) %>%
