@@ -2,6 +2,8 @@ library(tidyverse)
 library(readtext)
 library(textclean)
 
+responsible_actors <- read_csv("data/responsible_actors.csv")
+
 policies_raw <- readtext("data/policies/*")
 
 policy_titles <- read_csv("data/policies.csv")
