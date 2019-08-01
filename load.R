@@ -8,10 +8,15 @@ policies_raw <- readtext("data/policies/*")
 
 policy_titles <- read_csv("data/policies.csv")
 
+requirements_chapter_titles <- tibble(
+    title = c("Requirements", "Policy requirements", "6 Requirements")
+  ) %>%
+  mutate(title = paste0("title=\"", title, "\""))
+
 requirements_with_tokens <- tibble(id = policies_raw$doc_id, text = policies_raw$text) %>%
   mutate(text = str_split(text, "</chapter>")) %>%
   unnest() %>%
-  filter(str_detect(text, regex("title=\"Requirements\"|title=\"Policy requirements\"", ignore_case = TRUE))) %>%
+  filter(str_detect(text, regex(paste(collapse = "|", requirements_chapter_titles %>% pull(title)), ignore_case = TRUE))) %>%
   mutate(text = str_replace_all(text, pattern = "<p", "030SEP070<p")) %>%
   mutate(text = str_replace_all(text, pattern = "<li", "030SEP070<li")) %>%
   mutate(text = str_replace_all(text, pattern = "<clause", "030SEP070<clause")) %>%
