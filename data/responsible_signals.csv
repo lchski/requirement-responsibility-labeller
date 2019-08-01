@@ -1,0 +1,12 @@
+actor,actor_id,pluralization,suffix
+Secretary of the Treasury Board,1,singular,
+Deputy heads,2,plural,
+Deputy head,2,singular,
+Departmental Chief Information Officers,4,plural,
+Departmental Chief Information Officer,4,singular,
+Chief Information Officer of the Government of Canada,3,singular,
+Deputy heads[a-z ]*,2,plural,
+departmental CIO or equivalent,4,singular,
+TBS \(CIOB\),5,singular,
+Treasury Board of Canada Secretariat,6,,will monitor
+Treasury Board of Canada Secretariat,6,,will review
