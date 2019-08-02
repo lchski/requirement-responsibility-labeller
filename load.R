@@ -1,6 +1,7 @@
 library(tidyverse)
 library(readtext)
 library(textclean)
+library(tidytext)
 
 responsible_actors <- read_csv("data/responsible_actors.csv")
 
@@ -17,11 +18,10 @@ requirements_with_tokens <- tibble(id = policies_raw$doc_id, text = policies_raw
   mutate(text = str_split(text, "</chapter>")) %>%
   unnest() %>%
   filter(str_detect(text, regex(paste(collapse = "|", requirements_chapter_titles %>% pull(title)), ignore_case = TRUE))) %>%
-  mutate(text = str_replace_all(text, pattern = "<p", "030SEP070<p")) %>%
-  mutate(text = str_replace_all(text, pattern = "<li", "030SEP070<li")) %>%
-  mutate(text = str_replace_all(text, pattern = "<clause", "030SEP070<clause")) %>%
   mutate(text = replace_html(text)) %>%
-  mutate(text = str_split(text, "030SEP070")) %>%
+  unnest_tokens(sentence, text, token = "sentences", to_lower = FALSE) %>%
+  mutate(text = str_split(sentence, "   ")) %>%
+  select(-sentence) %>%
   unnest() %>%
   mutate(text = trimws(text)) %>%
   filter(text != "") %>%
