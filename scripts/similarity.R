@@ -27,7 +27,10 @@ requirements_to_compare <- requirements_tagged_with_responsibles %>%
 
 compared_statements <- analyse_statement_similarity(
   statements = requirements_to_compare,
-  similarity_threshold = 0.9
+  similarity_threshold = 0.75
 ) %>%
   get_details_about_statement_pairs(all_statements = requirements_to_compare) %>%
   unnest()
+
+compared_statements %>% find_pairs_with_different_values(column_to_compare = psd_group) %>% View()
+compared_statements %>% find_pairs_with_different_values(column_to_compare = policy_id) %>% View()
