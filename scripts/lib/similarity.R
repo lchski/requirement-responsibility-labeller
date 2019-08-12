@@ -23,8 +23,8 @@ analyse_statement_similarity <- function(statements, similarity_threshold = 0.9)
 
 tokenize_by_lemma <- function(statements) {
   statements %>%
-    select(id, content_en_plaintext) %>%
-    unnest_tokens(word, content_en_plaintext) %>%
+    select(id, text) %>%
+    unnest_tokens(word, text) %>%
     anti_join(stop_words) %>%
     mutate(word = wordStem(word))
 }
@@ -83,7 +83,6 @@ view_specific_statements <- function(all_statements, statement_ids) {
 }
 
 view_useful_fields <- function(statements, ...) {
-  statements %>%
-    select(id, time, year_week, h2_en, who_en, short_name_en, content_en_plaintext, ...)
+  statements
 }
 

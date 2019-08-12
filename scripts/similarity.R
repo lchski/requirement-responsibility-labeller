@@ -7,8 +7,8 @@ source("scripts/lib/cluster.R")
 library(magrittr)
 library(lubridate)
 library(tidytext)
-#library(SnowballC)
-#library(exploratory)
+library(SnowballC)
+library(exploratory)
 
 #library(cluster)
 #library(factoextra)
@@ -16,7 +16,18 @@ library(tidytext)
 
 data("stop_words")
 
-analyse_statement_similarity(
-  statements = requirements_tagged_with_responsibles,
+psd_policies <- read_csv("data/indices/digital-policy.csv")
+
+requirements_to_compare <- requirements_tagged_with_responsibles %>%
+  rename(policy_id = id) %>%
+  mutate(id = paste0(policy_id, "-", row)) %>%
+  filter(policy_id %in% psd_policies$id) %>%
+  left_join(psd_policies, by = c("policy_id" = "id")) %>%
+  rename(psd_group = group)
+
+compared_statements <- analyse_statement_similarity(
+  statements = requirements_to_compare,
   similarity_threshold = 0.9
-)
+) %>%
+  get_details_about_statement_pairs(all_statements = requirements_to_compare) %>%
+  unnest()
