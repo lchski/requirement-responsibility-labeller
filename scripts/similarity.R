@@ -1,6 +1,6 @@
 # SETUP
 source("load.R")
-source("analyse.R")
+source("assign_responsibility.R")
 source("scripts/lib/similarity.R")
 source("scripts/lib/cluster.R")
 
