@@ -48,6 +48,7 @@ requirements_tagged_with_responsibles <- requirements_with_tokens %>%
       TRUE ~ NA_character_
     )
   ) %>%
+  mutate(clause_assigns_responsiblity = ! is.na(responsible_clause)) %>%
   fill(responsible_clause, responsible_actor) %>%
   left_join(
     responsible_signals %>%

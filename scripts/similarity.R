@@ -22,6 +22,7 @@ requirements_to_compare <- requirements_tagged_with_responsibles %>%
   rename(policy_id = id) %>%
   mutate(id = paste0(policy_id, "-", row)) %>%
   filter(policy_id %in% psd_policies$id) %>%
+  filter(! clause_assigns_responsiblity) %>%
   left_join(psd_policies, by = c("policy_id" = "id")) %>%
   rename(psd_group = group)
 
