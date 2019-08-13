@@ -35,3 +35,7 @@ compared_statements <- analyse_statement_similarity(
 
 compared_statements %>% find_pairs_with_different_values(column_to_compare = psd_group) %>% View()
 compared_statements %>% find_pairs_with_different_values(column_to_compare = policy_id) %>% View()
+
+compared_statements %>%
+  find_pairs_with_different_values(column_to_compare = psd_group) %>%
+  select(pair_number, value, psd_group, id, title, text)
