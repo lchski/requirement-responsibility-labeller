@@ -28,7 +28,7 @@ requirements_to_compare <- requirements_tagged_with_responsibles %>%
 
 compared_statements <- analyse_statement_similarity(
   statements = requirements_to_compare,
-  similarity_threshold = 0.75
+  similarity_threshold = 0.25
 ) %>%
   get_details_about_statement_pairs(all_statements = requirements_to_compare) %>%
   unnest()
@@ -38,4 +38,5 @@ compared_statements %>% find_pairs_with_different_values(column_to_compare = pol
 
 compared_statements %>%
   find_pairs_with_different_values(column_to_compare = psd_group) %>%
-  select(pair_number, value, psd_group, id, title, text)
+  select(pair_number, value, psd_group, id, title, actor = responsible_actor_standardized, text) %>%
+  write_csv("data/out/psd_comparisons_25.csv")
