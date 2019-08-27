@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Standard for Electronic Documents and Records Management Solutions (EDRMS)" documentID="18910" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective Date"><p>1.1 
+This standard takes effect on June 1, 2010.  The standard will apply
+only when new investments or significant upgrades in EDRM solutions are proposed.</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 
+Thisstandard
+applies to departments as defined in section 2 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/" title="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration
+Act (FAA)</em></a>, unless excluded by specific acts, regulations or
+Orders in Council.</p><p>2.2 
+Those portions of sections 6.2.1, 6.2.2, and 7.1 relating to the role of
+the Treasury Board Secretariat in monitoring compliance and directing
+consequences for non-compliance do not apply with respect to the Office of the
+Auditor General, the Office of the Privacy Commissioner, the Office of the
+Information Commissioner, the Office of the Chief Electoral Officer, the Office
+of the Commissioner of Lobbying, the Office of the Commissioner of Official
+Languages and the Office of the Public Sector Integrity Commissioner.  The
+deputy heads of these organizations are solely responsible for monitoring and
+ensuring compliance with this standard within their organizations, as well as
+for responding to cases of non-compliance in accordance with any Treasury Board
+instruments that address the management of compliance.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 
+This standard supports the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on
+Information Management</em></a> and <a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management
+of Information Technology</em></a> by outlining information management (IM) and
+information technology (IT) requirements for the departmental IM Senior
+Official and the Chief Information Officer (CIO) or equivalent in the area of Electronic
+Document and Records Management (EDRM) solutions. </p><p>3.2 
+Information resources of business value are strategic assets used across
+government to support effective decision making and facilitate ongoing
+operations and the delivery of programs and services.  The Directive on
+Recordkeeping requires departments to establish the mechanisms and tools to
+support the departmental recordkeeping requirements throughout the information
+life cycle.</p><p>3.3 
+EDRM solutions are automated systems used to manage, protect and
+preserve information resources from creation to disposition.  These solutions
+maintain appropriate contextual information (metadata) and enable organizations
+to access, use and dispose of records (i.e., their retention, destruction or
+transfer) in a managed, systematic and auditable way in order to ensure
+accountability, transparency and meet departmental business objectives.</p><p>3.4 
+EDRM solutions may be a part of a suite of products that, along with effective
+policies and practices, enable a department-wide approach to information
+management that improves the quality and reliability of information for
+decision-making, improves services to managers and employees, and reduces
+inefficiencies, duplication and costs.  </p><p>3.5 
+Through the implementation of government-wide IM business processes and
+practices and the use of government-wide procurement options in support of EDRM
+solutions, the government will see a reduction in the overall cost of service
+delivery.</p><p>3.6 
+Investment decisions to acquire EDRM solutions resulting from government-wide
+procurement activities may be combined with other departmental solutions to
+provide a more comprehensive product suite.</p><p>3.7 
+EDRM solutions enable GC employees to find, share and collaboratively
+develop information resources of business value, therefore increasing their
+productivity, and the efficiency and effectiveness of their departments.</p><p>3.8 
+This standard is issued pursuant to section 7 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration
+Act</a>.</p><p>3.9 
+This standard is to be read in conjunction with the <a href="/pol/doc-eng.aspx?id=12452"><em>Policy Framework
+for Information and Technology</em></a>, the <a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management
+of Information Technology</em></a>, the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information
+Management</em></a>, the <a href="/pol/doc-eng.aspx?id=16552"><em>Directive on
+Recordkeeping</em></a>, the <a href="/pol/doc-eng.aspx?id=12754"><em>Directive on
+Information Management Roles and Responsibilities</em></a>, the <a href="/pol/doc-eng.aspx?id=12037"><em>Policy on
+Investing Planning - Assets and Acquired Services</em></a>, the <a href="/pol/doc-eng.aspx?id=12629"><em>Policy on
+the Management of Projects</em></a> and the <a href="/pol/doc-eng.aspx?id=12075"><em>Project Approval
+Policy</em></a><em>.</em></p></chapter><chapter anchor="4" title="4.  Definitions"><p>4.1 
+Definitions to be used in the interpretation of this standard are
+contained in Appendix A.</p></chapter><chapter anchor="5" title="5. Standard Statement"><section anchor="5.1" title="5.1 Objectives"><p>5.1.1  To
+support efficient and effective management of information
+through the use of EDRM solutions to increase timely access to relevant,
+reliable, and comprehensive information to support decision-making in program
+and service delivery. </p><p>5.1.2 
+To maximize the benefit of GC investments
+related to EDRM solutions by reducing the overall cost associated with
+implementation and ongoing operations through standardization and economies of
+scale.</p></section><section anchor="5.2" title="5.2 Expected Results"><p>5.2.1 
+Increased government-wide access to information within and across
+departments to enable increased employee productivity and the efficiency and
+effectiveness of program and service delivery to Canadians.</p><p>5.2.2 
+Increased use of common or shared information and technology solutions,
+assets, and services in support of EDRM solutions, in order to
+avoid duplication, reduce costs and leverage partnership opportunities.</p></section></chapter><chapter anchor="6" title="6.  Requirements"><h3>6.1 
+The departmental IM Senior Official
+designated by the deputy head and CIO or equivalent, are responsible for: </h3><p>6.1.1 
+Ensuring that investment decisions which pertain to
+the acquisition of EDRM solutions maximize the use of products and services
+made available as a result of government-wide procurement processes, as
+described in Appendix B.</p><p>6.1.2 
+Ensuring common, consistent, and cost effective departmental
+implementation of EDRM solutions to meet recordkeeping requirements.</p><p>6.1.3 
+Ensuring that EDRM solutions meet a defined set of standard
+GC requirements, as described in Appendix C. </p><h3>6.2 
+Monitoring and reporting requirements are as
+follows: </h3><p>6.2.1 
+IM Senior Officials and CIO or equivalent, are responsible for
+supporting their deputy head by overseeing the implementation and monitoring of
+this standard in their departments, bringing to the deputy head's attention any
+significant difficulties, gaps in performance, or compliance issues, developing
+proposals to address them, and reporting significant performance or compliance
+issues to the Chief Information Officer Branch of Treasury Board Secretariat.</p><p>6.2.2 
+The Treasury Board Secretariat will monitor compliance with all aspects
+of this standard and the achievement of expected results in a variety of ways,
+including but not limited to assessments under the <a href="/maf-crg/index-eng.asp"><em>Management
+Accountability Framework</em></a>, examinations of Treasury Board submissions, Reports
+on Plans and Priorities, Departmental Performance Reports, departmental IM/IT
+strategies and plans, audits results, evaluations, and studies.</p><p>6.2.3 
+The Treasury Board Secretariat will review this standard and its
+effectiveness at the five-year mark from the effective date of the standard (or
+earlier if warranted).</p></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 
+Consequences of non-compliance can include informal follow-ups and
+requests from the Treasury Board Secretariat, external audits, or formal
+direction on corrective measures.</p><p>7.2 
+Consequences of
+non-compliance with this standard can include any measure allowed by the
+Financial Administration Act that the Treasury Board would determine as
+appropriate and acceptable in the circumstances.</p></chapter><chapter anchor="8" title="8. Roles and Responsibilities of Government Organizations"><p>Note. This section identifies other departments that have a
+role in the standard. In and of itself, the section does not confer authority. </p><section anchor="8.1" title="8.1 Treasury Board Secretariat"><p>8.1.1 
+The Treasury Board Secretariat provides interpretive advice and guidance
+on this standard.</p></section><section anchor="8.2" title="8.2 Public Works and Government Services Canada"><p>8.2.1 
+The Department of Public Works and Government Services Canada is
+responsible for providing common government-wide solutions to meet IM
+requirements of departments and agencies for delivering services such as
+document management, Web content management, portal and collaboration, and
+enterprise search management. </p><p>8.3 
+The roles and responsibilities of other government organizations are
+described in section 8 of the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information
+Management</em></a>.</p></section></chapter><chapter anchor="9" title="9. References"><p>9.1 
+Relevant legislation for this standard is the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration
+Act</a>.</p><p>9.2 
+Related instruments and publications are as follows:</p><ul><li><a href="/pol/doc-eng.aspx?id=12025"><em>Common Services Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=18218"><em>Policy on Management, Resources and Results Structures</em></a></li><li><a href="/pol/doc-eng.aspx?id=17060"><em>Directive on Delegation of Financial Authorities for Disbursements</em></a></li><li><a href="/pol/doc-eng.aspx?id=12206"><em>Policy on Electronic Authorization and Authentication</em></a></li><li><a href="/pol/doc-eng.aspx?id=15024"><em>Policy on Evaluation</em></a></li><li><a href="/pol/doc-eng.aspx?id=16578"><em>Policy on Government Security</em></a></li><li><a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a></li><li><a href="/pol/doc-eng.aspx?id=16484"><em>Policy on Internal Audit</em></a></li><li><a href="/pol/doc-eng.aspx?id=18225"><em>Policy on Investing Planning - Assets and Acquired Services</em></a></li><li><a href="/pol/doc-eng.aspx?id=12520"><em>Policy on Language of Work</em></a></li><li><a href="/pol/doc-eng.aspx?id=12405"><em>Policy on Learning, Training and Development</em></a></li><li><a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of Information Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=12521"><em>Policy on Official Languages for Human Resources Management</em></a></li><li><a href="/pol/doc-eng.aspx?id=12541"><em>Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service</em></a></li><li><a href="/pol/doc-eng.aspx?id=18229"><em>Policy on the Management of Projects</em></a></li><li><a href="/pol/doc-eng.aspx?id=12526"><em>Policy on the Use of Official Languages for Communications with and Services to the Public</em></a></li><li><a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy Protection</em></a></li><li><a href="/pol/doc-eng.aspx?id=12452"><em>Policy Framework for Information and Technology</em></a></li><li><a href="/pol/doc-eng.aspx?evttoo=X&amp;section=text&amp;id=12075"><em>Project Approval Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=16552"><em>Directive on Recordkeeping</em></a></li><li><a href="/pol/doc-eng.aspx?id=12754"><em>Directive on Information Management Roles and Responsibilities</em></a></li></ul></chapter><chapter anchor="10" title="10. Enquiries"><p>Please direct
+enquiries about this standard to your department's headquarters.  For
+interpretation of this standard, departmental headquarters should contact: </p><p>Office of the Chief Information Officer<br />
+Treasury Board of Canada Secretariat<br />
+Ottawa ON K1A 0R5<br /><a href="mailto:dppn@tbs-sct.gc.ca" title="Contact Information Management Division by email">dppn@tbs-sct.gc.ca</a></p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A: Definitions"><dl><dt><strong>EDRM solutions</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>solutions de GEDD</em></span>)</dt><dd>Are automated systems used to manage, protect and preserve information resources creation to disposition. These solutions maintain appropriate contextual information (metadata) and enable organizations to access, use and dispose of records (i.e., their retention, destruction or transfer) in a managed, systematic and auditable way in order to ensure accountability, transparency and meet departmental business objectives.</dd><dt><strong>information life cycle</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>cycle de vie de l'information</em></span>)</dt><dd>The life cycle of information management encompasses the following: planning; the collection, creation, receipt, and capture of information; its organization, use and dissemination; its maintenance, protection and preservation; its disposition; and its evaluation.</dd><dt><strong>information resources</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>ressources documentaires</em></span>)</dt><dd>Any documentary material produced in published and unpublished form regardless of communications source, information format, production mode or recording medium. Information resources include textual records (memos, reports, invoices, contracts, etc.), electronic records (emails, databases, internet, intranet, data etc.), new communication media (instant messages, wikis, blogs, podcasts, etc.), publications (reports, books, magazines), films, sound recordings, photographs, documentary art, graphics, maps, and artefacts.</dd><dt><strong>information resources of business value</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>ressources documentaires à valeur opérationnelle</em></span>)</dt><dd>Are published and unpublished materials, regardless of medium or form, that are created or acquired because they enable and document decision-making in support of programs, services and ongoing operations, and support departmental reporting, performance and accountability requirements.</dd><dt><strong>information technology</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>technologies de l'information</em></span>)</dt><dd>Includes any equipment or system that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information. It includes all matters concerned with the design, development, installation and implementation of information systems and applications to meet business requirements.</dd><dt><strong>investment</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>investissement</em></span>)</dt><dd>Is the use of resources with the expectation of a future return, such as an increase in output, income or assets, or the acquisition of knowledge, or capacity.</dd><dt><strong>management of information technology</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>gestion des technologies de l'information</em></span>)</dt><dd>Includes planning, building (or procuring), operating and measuring performance.</dd><dt><strong>metadata</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>métadonnées</em></span>)</dt><dd>The definition and description of the structure and meaning of information resources, and the context and systems in which they exist.</dd><dt><strong>record</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>document</em></span>)</dt><dd>For the purpose of this standard, records are information created, received, and maintained by an organization or person for business purposes, legal obligations, or both, regardless of medium or form.</dd><dt><strong>recordkeeping</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>tenue de documents</em></span>)</dt><dd>A framework of accountability and stewardship in which information resources are created or acquired, captured, and managed as a vital business asset and knowledge resource to support effective decision-making and achieve results for Canadians.</dd><dt><strong>repository(ies)</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>dépôt(s)</em></span>)</dt><dd>A repository is a preservation environment for information resources of business value. It includes specified physical or electronic storage space and the associated infrastructure required for its maintenance. Business rules for the management of the information resources captured in a repository(ies) need to be established, and there must be sufficient control for the resources to be authentic, reliable, accessible and usable on a continuing basis.</dd></dl></appendix><appendix anchor="B" title="Appendix B: Investment"><p>When investing in an EDRM solution, departments are required
+to use products, licenses, or services resulting from government-wide
+procurement processes undertaken by PWGSC.</p><ul><li>
+	For information on relevant products, licenses, and services,
+	contact your PWGSC <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/its/apps/support/index.cfm?lang=eng">Client
+	Relationship Manager</a> at: Place du Portage, Phase III, 4A1, 11 Laurier Street<br />
+	  Gatineau, Québec, K1A 0S5.</li></ul><p>Investment in EDRM solutions is subject to the requirements
+of this standard whether the purpose of the investment is the implementation of
+a new EDRM solution, the replacement of an existing EDRM solution, or a
+significant upgrade to an existing solution.</p><ul><li>
+	Significant upgrade refers to increases in the number of users
+	greater than 100% of the initial planned implementation of the existing
+	solution and/or functional improvements which exceed the original functionality
+	of the existing solution, and <strong>not</strong> activities related to regular operational
+	maintenance (e.g. bug fixes) or incremental system upgrades (e.g. version 1.1
+	to version 1.2).</li></ul><p>The departmental IM Senior Official is responsible for
+submitting a justification for any proposed alternative to the products or
+services made available as a result of government-wide procurement processes. 
+The justification is to be provided to the Government of Canada's Chief
+Information Officer prior to any investment.</p><p>The justification should include: the departmental IM Strategy
+	and implementation plan, and be accompanied by a strong rationale (including cost
+	effectiveness) to support the proposed alternate solution.</p></appendix><appendix anchor="C" title="Appendix C: Requirements for EDRM Solutions"><p>The International Council on Archives <a href="http://www.adri.gov.au/resources/documents/ICA-M2-ERMS.pdf">Principles and Functional Requirements
+for Records in Electronic Office Environments – Module 2 (PDF Document)</a> requirements
+are the minimum requirement set to support the Government of Canada Electronic
+Document and Records Management implementation.</p><p>International Council on Archives, Principles and
+Functional Requirements for Records in Electronic Office Environments – Module
+2: Guidelines and Functional Requirements for Electronic Records Management
+Systems, 2008, published at <a href="http://www.ica.org/" title="International Council on Archives">www.ica.org</a>.</p></appendix></appendices></doc>

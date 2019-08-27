@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Standard on Metadata" documentID="18909" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective Date"><p>1.1 This standard takes effect on July 1, 2010.</p><p>1.2 It
+replaces the following Treasury Board policy instruments: Government On-Line
+Metadata Standard (TBITS 39.1) and Controlled Vocabulary Standard (TBITS 39.2).
+</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 This
+standard applies to departments as defined in section 2 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/" title="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration
+Act</em></a>, unless excluded by specific acts, regulations or Orders in Council.</p><p>2.2 In
+this standard, any reference to all or part of national or international
+standards or specifications shall be construed as a reference to the most
+recent version of those standards or specifications, as well as any officially
+issued correction. Any change to referenced national or international standards
+or specifications that affect this standard shall be implemented no later than
+one year after the effective date of the change.</p><p>2.3 Those
+portions of sections 6.5.1, 6.5.2 and 7.1 relating to the role of the Treasury
+Board Secretariat in monitoring compliance and directing consequences for non-compliance
+do not apply with respect to the Office of the Auditor General, the Office of
+the Privacy Commissioner, the Office of the Information Commissioner, the
+Office of the Chief Electoral Officer, the Office of the Commissioner of
+Lobbying, the Office of the Commissioner of Official Languages and the Office
+of the Public Sector Integrity Commissioner. The deputy heads of these
+organizations are solely responsible for monitoring and ensuring compliance
+with the standard within their organizations, as well as for responding to
+cases of non-compliance in accordance with any Treasury Board instruments
+providing principles and guidance on the management of compliance.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1  This
+standard supports the <a href="/pol/doc-eng.aspx?id=12742">Policy on Information Management</a> and <a href="/pol/doc-eng.aspx?id=12755">Policy on Management of Information Technology</a> by outlining
+information management (IM) and information technology (IT) requirements for
+the departmental IM Senior Official, the Chief Information Officer (CIO) or
+equivalent, information management functional specialists, and employees in the
+area of metadata.</p><p>3.2  Metadata
+defines and describes the structure and meaning of information resources, and
+the context and systems in which they exist. It is used to support efficient and
+effective management of these information resources over time.</p><p>3.3  The
+consistent creation, capture and use of metadata contribute to the objectives
+of the <a href="/pol/doc-eng.aspx?id=12742">Policy on Information Management</a> and the <a href="/pol/doc-eng.aspx?id=16552">Directive on Recordkeeping</a> to manage
+information as a strategic asset by supporting the capture, description, retrieval,
+use, re-use, accessibility, sharing, authenticity, reliability, integrity, and
+maintenance of information resources to facilitate decision-making,
+accountability, and the efficient delivery of Government programs and services.</p><p>3.4  Standardized
+metadata in the design, documentation and implementation of systems and
+components supports interoperability within and across systems, and re-use of
+information resources within departments and across the Government of Canada
+(GC) to the extent that government laws and policies permit it.</p><p>3.5 Along
+with standardized metadata, consistent use of value domains supports the
+exchange of information resources within and across systems.  Value domains
+include, but are not limited to, controlled vocabularies, taxonomies,
+ontologies, thesauri, reference data, authority lists, naming conventions, and
+value string instructions.</p><p>3.6 The
+requirements of this standard apply to the following domains:</p><div class="indent1"><p>3.6.1 <strong>Recordkeeping</strong>: Recordkeeping metadata
+	supports recordkeeping as a management function through which information
+	resources of business value are created, acquired, captured, and managed in
+	departmental repositories over time, and used as a strategic asset to support
+	effective decision making and facilitate ongoing operations and the
+	delivery of programs and services.</p><p>3.6.2 <strong>Web resource
+	discovery</strong>: Web resource discovery metadata supports the navigation, searching,
+	display and sharing of Web information resources. </p><p>3.6.3 <strong>Web content management systems</strong>:
+	Web content management system (WCMS) metadata supports business and technical
+	processes for authoring, managing and publishing Web content in Web content
+	management systems.</p></div><p>3.7 A related standard, the <a href="/pol/doc-eng.aspx?id=16553&amp;section=text"><em>Standard
+on Geospatial Data</em></a>, establishes requirements for geospatial
+metadata. </p><p>3.8 This
+standard is issued pursuant to section 7 of the <em>Financial
+Administration Act</em>.</p><p>3.9 This
+standard is to be read in conjunction with the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a>, the <a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of Information Technology</em></a> and the <a href="/pol/doc-eng.aspx?id=16552"><em>Directive on Recordkeeping</em></a>.</p></chapter><chapter anchor="4" title="4 Definitions"><p>4.1 Definitions
+to be used in the interpretation of this standard are attached in Appendix A.</p></chapter><chapter anchor="5" title="5. Standard Statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this
+standard is to increase the use of standardized metadata and value domains in support
+of the management of information resources.</p></section><section anchor="5.2" title="5.2 Expected results"><p>The expected results of this standard are:</p><p>5.2.1 Improved accessibility, sharing, authenticity,
+reliability, integrity through the consistent capture,
+description, retrieval, use, re-use, and maintenanceof information resources, regardless of systems in
+which they exist, and across departments; and</p><p>5.2.2 The ability of programs and services to share
+information efficiently and effectively between systems and across departments.</p></section></chapter><chapter anchor="6" title="6. Requirements"><h3>6.1 The departmental Information Management
+Senior Official designated by the deputy head is responsible for:</h3><p>6.1.1 Ensuring that the responsibility for the development
+and management of departmental metadata and value domains is assigned;</p><p>6.1.2 Ensuring that departmental metadata is used
+and maintained in a registry of
+standardized metadata and value domains;</p><p>6.1.3 Ensuring that GC standardized metadata and
+value domains are incorporated in the design and implementation of departmental
+systems managing information resources; and</p><p>6.1.4 Ensuring that metadata and value domain requirements
+are addressed during the planning phase of information systems that support departmental
+programs and services.</p><h3>6.2 The departmental CIO or equivalent is responsible
+for:</h3><p>6.2.1 Ensuring that software and systems acquired
+by departments in order to create, edit, generate, manage, register, parse,
+harvest, extract, index, search, browse and display metadata adhere to the
+requirements of this standard or are modifiable to adhere to these
+requirements.</p><h3>6.3 Information
+management functional specialists are responsible for:</h3><p>6.3.1 Providing support directly to employees in
+applying recordkeeping, Web resource discovery and Web content management
+system metadata, as outlined in Appendices B, C and D;</p><p>6.3.2 Documenting and maintaining metadata which
+describes business requirements, system design requirements, and data element
+requirements to enable the interpretation and exchange of information resources
+within and across systems; </p><p>6.3.3 Incorporating GC standardized metadata and
+value domains in the phases of planning, design, and implementation of systems
+that support departmental programs and services; and</p><p>6.3.4 Participating in the creation of GC and
+departmental metadata and value domains.</p><h3>6.4
+Employees are responsible for:</h3><p>6.4.1 Applying recordkeeping metadata to information
+resources of business value according to the conditions outlined in Appendix B;</p><p>6.4.2 Applying Web resource discovery metadata to information
+resources available to the public on the World Wide Web according to the
+conditions outlined in Appendix C; and</p><p>6.4.3 Applying Web content management system metadata to information
+resources within Web content management systems according to the conditions
+outlined in Appendix D.</p><h3>6.5
+Monitoring and Reporting Requirements</h3><p>6.5.1 IM Senior Officials and CIO or equivalent are
+responsible for supporting their deputy head by overseeing the implementation
+and monitoring of this standard in their departments, bringing to the deputy
+head's attention any significant difficulties, gaps in performance, or
+compliance issues, developing proposals to address them, and reporting
+significant performance or compliance issues to the Chief Information Officer
+Branch of Treasury Board of Canada Secretariat.</p><p>6.5.2 The Treasury Board Secretariat will monitor
+compliance with all aspects of this standard and the achievement of expected
+results in a variety of ways, including but not limited to assessments under
+the <a href="/maf-crg/index-eng.asp">Management Accountability Framework</a>, examinations of Treasury Board submissions, Reports
+on Plans and Priorities, Departmental Performance Reports, departmental IM/IT
+strategies and plans, audits results, evaluations, and studies.</p><p>6.5.3 The Treasury Board Secretariat will review this
+standard and its effectiveness at the five-year mark from the effective date of
+the standard (or earlier if warranted).</p></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 Consequences of non-compliance can
+include informal follow-ups and requests from the Treasury Board of Canada
+Secretariat, external audits, or formal direction on corrective measures.</p><p>7.2 Consequences of non-compliance with this standard
+can include any measure allowed by the Financial Administration Act that the
+Treasury Board would determine as appropriate and acceptable in the
+circumstances.</p></chapter><chapter anchor="8" title="8. Roles and&#xA;responsibilities of government organizations"><p>Note:
+This section identifies other significant departments in this policy area. In
+and of itself, it does not confer an authority.</p><h3>8.1 Treasury Board Secretariat: </h3><p>8.1.1 Provides interpretive advice and
+guidance on this standard; and</p><p>8.1.2 Designates the requirements for metadata
+registries and repositories.</p><h3>8.2 Library and Archives Canada:</h3><p>8.2.1 Maintains the <em>Government of
+Canada Core Subject Thesaurus</em> and ensures that it remains publically
+available; and</p><p>8.1.3 Ensures the registration of
+controlled vocabularies in use in the Government of Canada or that have been
+approved by interdepartmental or regulatory agencies designated by the Treasury
+Board Secretariat, and that meet the requirements outlined in Appendix B.</p><h3>8.3 Public Works and Government Services Canada:</h3><p>8.3.1 Is responsible for
+providing common government-wide solutions to meet IM requirements of
+departments and agencies for delivering services such as document management,
+Web content management, portal and collaboration, and enterprise search
+management.</p><h3>8.4 Service Canada:</h3><p>8.4.1 Configures and optimizes the
+Canada Site search engine to make use of Web resource discovery metadata as outlined
+in Appendix C.</p></chapter><chapter anchor="9" title="9. References"><section anchor="9.1" title="9.1 Relevant Legislation"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/"><em>Access to Information Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/C-5/"><em>Canada Evidence Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/C-42/"><em>Copyright Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/C-47/"><em>Criminal Records Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/E-4.6/"><em>Emergency Preparedness Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/L-7.7/"><em>Library and Archives of Canada Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-2006-337/"><em>Legal Deposit of Publications regulations (SOR/2006-337)</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/O-3.01/"><em>Official Languages Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-8.6/"><em>Personal Information Protection and Electronic Documents Act (Part 2)</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/O-5/"><em>Security of Information Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/S-19/"><em>Statistics Act</em></a></li></ul></section><section anchor="9.2" title="9.2. Related Treasury Board Policy Instruments and Publications"><ul><li><a href="http://www.tbs-sct.gc.ca/clf2-nsi2/index-eng.asp"><em>Common Look and Feel for the Internet 2.0</em></a></li><li><a href="/pol/doc-eng.aspx?id=12025"><em>Common Services Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12754"><em>Directive on Information Management Roles and Responsibilities</em></a></li><li><a href="/pol/doc-eng.aspx?section=text&amp;id=16552"><em>Directive on Recordkeeping</em></a></li><li><a href="/pol/doc-eng.aspx?id=12528"><em>Directive on the Use of Official Languages on Web Sites</em></a></li><li><a href="/pol/doc-eng.aspx?id=17151"><em>Framework for the Management of Compliance</em></a></li><li><a href="/pol/doc-eng.aspx?id=16557"><em>Guideline for Employees of the Government of Canada: Information Management (IM) Basics</em></a></li><li><a href="/pol/doc-eng.aspx?id=12452"><em>Policy Framework for Information and Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=12453"><em>Policy on Access to Information</em></a></li><li><a href="/pol/doc-eng.aspx?id=12206"><em>Policy on Electronic Authorization and Authentication</em></a></li><li><a href="/pol/doc-eng.aspx?id=15024"><em>Policy on Evaluation</em></a></li><li><a href="/pol/doc-eng.aspx?id=16578"><em>Policy on Government Security</em></a></li><li><a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a></li><li><a href="/pol/doc-eng.aspx?id=16484"><em>Policy on Internal Audit</em></a></li><li><a href="/pol/doc-eng.aspx?id=12520"><em>Policy on Language of Work</em></a></li><li><a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of Information Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy Protection</em></a></li><li><a href="/pol/doc-eng.aspx?id=12541"><em>Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service</em></a></li><li><a href="/pol/doc-eng.aspx?id=12526"><em>Policy on the Use of Official Languages for Communications with and Services to the Public</em></a></li><li><a href="/pol/doc-eng.aspx?id=16553"><em>Standard on Geospatial Data</em></a></li><li><a href="/pol/doc-eng.aspx?id=18910"><em>Standard for Electronic Documents and Records Management Solutions (EDRMS)</em></a></li></ul></section><section anchor="9.3" title="9.3 Related GC Metadata Tools and Guidelines"><p>9.3.1 Recordkeeping Metadata</p><ul><li><em>GC Recordkeeping Metadata Element Set (GC RKMES)</em></li><li><em>GC Recordkeeping Metadata Application Profile (GC RKMAP)</em></li><li><em>GC Recordkeeping Metadata Implementation Guideline (GC RKMIG)</em></li></ul><p>9.3.2 Web Resource Discovery Metadata</p><ul><li><em>GC Dublin Core Application Profile (GC DCAP)</em></li><li><em>GC Metadata Implementation Guideline (GC MIG) for Web Resource Discovery</em>, 6<sup>th</sup> edition</li><li><a href="http://www.thesaurus.gc.ca/"><em>Government of Canada Core Subject Thesaurus</em></a></li></ul><p><strong>9.3.3 Web Content Management System Metadata</strong></p><ul><li><em>GC Web Content Management System Metadata Element Set (GC WCMS-MES)</em></li><li><em>GC Web Content Management System Metadata Application Profile (GC WCMS-MAP)</em></li><li><em>GC Web Content Management System Metadata Implementation Guideline (GC MIG) for (GC WCMS-MIG)</em></li></ul></section><section anchor="9.4" title="9.4 Required External Standards and Specifications"><ul><li><a href="http://www.loc.gov/standards/iso639-2/langhome.html"><em>Codes for the Representation of Names of Languages Part 2: Alpha-3 Code (ISO 639-2)</em></a></li><li><em>Data elements and interchange formats -- Information interchange -- Representation of dates and times (ISO 8601)</em></li><li><em>Documentation – Guidelines for the establishment and development of monolingual thesauri (ISO 2788)</em></li><li><em>Documentation – Guidelines for the establishment and development of multilingual thesauri (ISO 5964)</em></li><li><em>Information and documentation – Records management processes – Metadata for records – Part 1: Principles (ISO 23081-1)</em></li><li><em>Information and documentation – Records management processes – Metadata for records – Part 2: Conceptual and implementation issue (ISO 23081-2)</em></li><li><em>Information and Documentation – The Dublin Core metadata element set (ISO 15836)</em></li><li><a href="http://www.w3.org/TR/NOTE-datetime"><em>World Wide Web Consortium Date and Time Formats</em></a> (W3CDTF)</li></ul></section></chapter><chapter anchor="10" title="10. Enquiries"><p>Please direct enquiries about this standard to your
+department's headquarters. For interpretation of this standard, departmental
+headquarters should contact:</p><p>Office of the Chief Information Officer<br />
+Treasury Board of Canada Secretariat<br />
+E-mail: <a href="mailto:dppn@tbs-sct.gc.ca" title="Contact Information Management Division by email">dppn@tbs-sct.gc.ca</a></p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A: Definitions"><p>The
+definitions in this appendix pertain to terms used in the standard and to other
+terms that, though not in the standard, facilitate understanding of its
+requirements.</p><dl><dt><strong>application profile</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>profil d'application</em></span>)</dt><dd>The set of metadata properties, policies, and guidelines defined for a particular metadata application or implementation. The properties may be from one or more metadata elements sets, thus allowing a given application to meet its functional requirements by using metadata properties from several element sets including locally defined sets. An application profile is not considered complete without documentation that defines the policies and best practices appropriate to the application. (Source: Dublin Core Metadata Initiative Glossary)</dd><dt><strong>controlled vocabulary</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>vocabularie contrôlé</em></span>)</dt><dd>A list of standardized terminology, words, or phrases, used for indexing or content analysis and information retrieval, usually in a defined information domain.</dd><dt><strong>encoding schema</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>schéma d'encodage</em></span>)</dt><dd>Machine-processable specifications which define the structure and syntax of metadata specifications in a formal schema language. (Based on Dublin Core Metadata Initiative Glossary)</dd><dt><strong>functional specialist</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>spécialiste fonctionnel</em></span>)</dt><dd>An employee who carries out roles and responsibilities that require function-specific knowledge, skills and attributes in the following priority areas: finances, human resources, internal audit, procurement, materiel management, real property, and information management. (Source: <em>Policy on Information Management</em>)</dd><dt><strong>information architecture</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>architecture d'information</em></span>)</dt><dd>The structure of the information components of an enterprise, their interrelationships, and principles and guidelines governing their design and evolution over time. Information architecture enables the sharing, reuse, horizontal aggregation, and analysis of information. (Source: <em>Policy on Information Management</em>)</dd><dt><strong>Information Management Functional Specialist</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Spécialiste fonctionnel en Gestion de l'information</em></span>)</dt><dd>is an employee who carries out roles and responsibilities that require function-specific knowledge, skills and attributes related to managing information such as those found in records and document management, library services, archiving, data management, content management, business intelligence and decision support, information access, information protection and information privacy. The roles and responsibilities of information management functional specialists support departmental objectives and programs with planning, tools or services which provide accurate, reliable, current, and complete information to the appropriate people, in the appropriate format, at the appropriate time. (Source: <em>Directive on Information Management Roles and Responsibilities</em>)</dd><dt><strong>information resources</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>ressources documentaires</em></span>)</dt><dd>Any documentary material produced in published and unpublished form regardless of communications source, information format, production mode or recording medium. Information resources include textual records (memos, reports, invoices, contracts, etc.), electronic records (e-mails, databases, internet, intranet, data etc.), new communication media (instant messages, wikis, blogs, podcasts, etc.), publications (reports, books, magazines), films, sound recordings, photographs, documentary art, graphics, maps, and artefacts. (Source: <em>Directive on Recordkeeping</em>)</dd><dt><strong>information resources of business value</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>ressources documentaires à valeur opérationnelle</em></span>)</dt><dd>Are published and unpublished materials, regardless of medium or form, that are created or acquired because they enable and document decision-making in support of programs, services and ongoing operations, and support departmental reporting, performance and accountability requirements. (Source: <em>Directive on Recordkeeping</em>)</dd><dt><strong>interoperability</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>interoperabilité</em></span>)</dt><dd>The ability of different types of computers, networks, operating systems, and applications to work together effectively, without prior communication, in order to exchange information in a useful and meaningful manner. There are three aspects of interoperability: semantic, structural and syntactical. (Source: Dublin Core Metadata Initiative Glossary)</dd><dt><strong>metadata</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>métadonnées</em></span>)</dt><dd>The definition and description of the structure and meaning of information resources, and the context and systems in which they exist.</dd><dt><strong>property</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>propriété</em></span>)</dt><dd>A specific aspect, characteristic, attribute, or relation used to describe a resource. Dublin Core metadata elements are properties. (Source: Dublin Core Metadata Initiative Glossary)</dd><dt><strong>recordkeeping</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>tenue de documents</em></span>)</dt><dd>A framework of accountability and stewardship in which information resources are created or acquired, captured, and managed as a vital business asset and knowledge resource to support effective decision-making and achieve results for Canadians. (Source: <em>Directive on Recordkeeping</em>)</dd><dt><strong>registry</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>registre</em></span>)</dt><dd>A system to provide management of metadata elements. (Source: Dublin Core Metadata Initiative Glossary)</dd><dt><strong>system</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>système</em></span>)</dt><dd>Organised collections of hardware, software, supplies, policies, procedures and people, to capture, transmit, store, retrieve, manipulate, or display information resources in support of an organisation's day to day operations.</dd><dt><strong>value domains</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>domaines de valeurs</em></span>)</dt><dd>A set of permissible values for metadata elements. Value domains include, but are not limited to, controlled vocabularies, taxonomies, ontologies, thesauri, reference data, authority lists, naming conventions, and value string instructions.</dd><dt><strong>Web content management system</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>système de gestion du contenu Web</em></span>)</dt><dd>A suite of software tools for managing and publishing Web content.</dd><dt><strong>Web resource discovery</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>découverte des resources Web</em></span>)</dt><dd>The process of finding Web content through appropriate indexing practices and the use of search tools.</dd></dl></appendix><appendix anchor="B" title="Appendix B: Recordkeeping Metadata Requirements"><p>Employees and information management functional specialists
+are responsible for:</p><ol><li>Applying recordkeeping
+	metadata to information resources of business value using the ISO 23081 generic
+	set of metadata elements and the elements specifically defined for use in GC
+	recordkeeping repositories.  Note: Additional
+	domain-specific mandatory elements can also be used, where applicable.
+	</li><li>Applying recordkeeping metadata elements in conformance to
+	the metadata model outlined in:
+		<ul><li>ISO 23081 – Information
+			and documentation – Records management processes – Metadata for records – Part
+			1: Principles; and</li><li>ISO 23081 – Information
+			and documentation – Records management processes – Metadata for records – Part
+			2: Conceptual and implementation issues.</li></ul></li><li>Using the following minimum set of metadata elements to describe an information resource of business value:
+
+		<ul><li>Registration Identifier;</li><li>Aggregation;</li><li>Title;</li><li>Classification;</li><li>Technical Environment;</li><li>Access;</li><li>Language; and</li><li>Integrity.</li></ul></li><li>Using the following minimum set of metadata elements to describe
+	an agent; at a minimum, these elements are to identify the author and the
+	trustee of an information resource of business value:
+
+		<ul><li>Agent Identifier;</li><li>Agent Name;</li><li>Agent Role;</li><li>Agent Corporate Name; and</li><li>Agent Section Name.</li></ul></li><li>Using the following minimum set of metadata elements to describe
+	an event history; at a minimum, these elements are to identify the creation of
+	an information resource of business value, its declaration as a final document,
+	and the agents responsible for these events:
+
+		<ul><li>Event Type;</li><li>Event Date / Time;</li><li>Agent Name;</li><li>Agent Role;</li><li>Agent Corporate Name; and</li><li>Agent Section Name.</li></ul></li><li>Using the <a href="http://lcweb.loc.gov/standards/iso639-2/langhome.html"><em>ISO 639-2/T Codes
+	for the Representation of Names of Languages</em></a> (ISO639-2/T) vocabulary
+	encoding schema to populate the <strong>Language</strong> element as described in point 3
+	of this Appendix. </li><li>Using the <a href="http://www.w3.org/TR/NOTE-datetime"><em>World Wide Web Consortium Date and
+	Time Formats</em></a> (W3CDTF) syntax encoding schema to populate all <strong>Event</strong>
+	related dates as described in point 5 of this Appendix.</li></ol></appendix><appendix anchor="C" title="Appendix C: Web Resource Discovery Metadata Requirements"><p>Employees and information management
+functional specialists are responsible for applying Web resource discovery
+metadata to Web resources that are available to the public on the World Wide
+Web by:</p><ol><li>Applying Web resource discovery metadata to the following types of Web resources: 
+
+		<ul><li><strong>Welcome pages and Home pages</strong> (defined as the major entry point to an
+			 institution or those distinct organizational units where there is likely
+			 to be a public perception that they stand alone); </li><li><strong>Topics or services in high demand by the
+			 community</strong> that the
+			 institution serves (this can be based on usage statistics but may also
+			 include topical or publicized resources with potential public interest); </li><li><strong>Information required by the public</strong> to understand their entitlements to
+			 government assistance or obligations; </li><li><strong>Pages that provide an actual on-line
+			 service to the public</strong>
+			 (such as payment forms or application forms); </li><li><strong>Pages required to meet a prescribed
+			 legal or service obligation</strong> of the institution; </li><li><strong>Entry points to specific on-line
+			 services and indexes</strong>
+			 (e.g. an entry point to a legal database); </li><li><strong>Major formal publications</strong> (e.g. annual reports, corporate
+			 strategic plans, or public policy and accountability documents); </li><li><strong>Media releases</strong>; </li><li><strong>Major entry points or indexes and menus</strong> to a range of closely related topics,
+			 programs or policies; </li><li><strong>Information about agency powers
+			 affecting the public</strong>,
+			 and <strong>manuals</strong> and other documents used in decision making affecting
+			 the public; and </li><li><strong>Substantial descriptive or marketing
+			 information</strong> about
+			 institutions, their services, activities and collections.</li></ul><p>Note: Metadata can also be applied to other types of Web resources.</p></li><li>Using properties from the <a href="http://dublincore.org/documents/dcmi-terms/">Dublin Core Metadata
+	Initiative (DCMI) Metadata Terms</a>, as specified in the Dublin Core Abstract
+	Model, and also
+	adopting the DCMI namespace declaration. The properties <strong>Title</strong>, <strong>Creator</strong>,
+	<strong>Language</strong>, <strong>Issued</strong>, <strong>Modified</strong> and <strong>Subject</strong> are
+	mandatory. Additional properties are optional. </li><li>Using the <a href="http://lcweb.loc.gov/standards/iso639-2/langhome.html"><em>ISO 639-2/T Codes
+	for the Representation of Names of Languages</em></a> (ISO639-2/T) vocabulary
+	encoding schema to populate the <strong>Language</strong> property, and specifying the schema
+	name.</li><li>Using the <a href="http://www.w3.org/TR/NOTE-datetime"><em>World Wide
+	Web Consortium Date and Time Formats</em></a> (W3CDTF) syntax encoding schema to
+	populate all <strong>Date</strong> properties, including <strong>Issued</strong> and <strong>Modified</strong>,
+	and specifying the schema name.</li><li>Populating the Subject property with terms from a value domain using:
+		<ul><li>The <a href="http://www.thesaurus.gc.ca/"><em>Government of Canada Core Subject Thesaurus</em></a>,
+			as the preferred source; or</li><li>A bilingual
+			and publically available thesaurus that complies with the ISO standards 2788, <em>Guidelines
+			for the establishment and development of monolingual thesauri</em>, and 5964, <em>Guidelines
+			for the establishment and development of multilingual thesauri</em>, and that is
+			registered with Library and Archives Canada or the Dublin Core Metadata
+			Initiative; or</li><li>Another type
+			of bilingual and publically available controlled vocabulary registered with
+			Library and Archives Canada or Dublin Core Metadata Initiative. </li></ul></li><li>In accordance with the <a href="/pol/doc-eng.aspx?id=12528"><em>Directive on the Use of Official Languages on Web Sites</em></a>,
+	expressing the values for the metadata properties in the official language(s)
+	of the Web resource.</li><li>Applying recordkeeping metadata as outlined in Appendix B
+	to Web resources that are determined to be information resources of business
+	value. </li></ol></appendix><appendix anchor="D" title="Appendix D: Web Content Management System (WCMS) Metadata Requirements"><p>Employees and information management
+functional specialists are responsible for applying Web content management
+systems metadata to information
+resources within Web content management systems by:</p><ol><li>Using properties from the <a href="http://dublincore.org/documents/dcmi-terms/">Dublin Core Metadata
+	Initiative (DCMI) Metadata Terms</a>, as specified in the Dublin Core Abstract
+	Model, adopting the DCMI namespace declaration, and using properties
+	specifically defined for use in GC in the Web Content Management Systems
+	Metadata Element Set. The Dublin Core properties <strong>Title</strong>, <strong>Creator</strong>, <strong>Language</strong>,
+	<strong>Issued</strong>, <strong>Modified</strong> and <strong>Subject</strong> are mandatory. Additional
+	terms are optional.</li><li>Using the <a href="http://lcweb.loc.gov/standards/iso639-2/langhome.html"><em>ISO 639-2/T Codes
+	for the Representation of Names of Languages</em></a> (ISO639-2/T) vocabulary
+	encoding schema to populate the <strong>Language</strong> property, and specifying the schema
+	name.</li><li>Using the <a href="http://www.w3.org/TR/NOTE-datetime"><em>World Wide
+	Web Consortium Date and Time Formats</em></a> (W3CDTF) syntax encoding schema to
+	populate all <strong>Date</strong> properties, including <strong>Issued</strong> and <strong>Modified</strong>,
+	and specifying the schema name.</li><li>Populating the Subject property with terms from a value domain using:
+		<ul><li>The <a href="http://www.thesaurus.gc.ca/"><em>Government of Canada Core Subject Thesaurus</em></a>,
+			as the preferred source; or</li><li>A bilingual
+			and publically available thesaurus that complies with the ISO standards 2788
+			"Guidelines for the establishment and development of monolingual
+			thesauri" and 5964 "Guidelines for the establishment and development
+			of multilingual thesauri" and that is registered with Library and Archives
+			Canada or the Dublin Core Metadata Initiative; or</li><li>Another type
+			of bilingual and publically available controlled vocabulary registered with
+			Library and Archives Canada or Dublin Core Metadata Initiative</li></ul></li><li>In accordance with the <a href="/pol/doc-eng.aspx?id=12528"><em>Directive on the Use
+	of Official Languages on Web Sites</em></a>,
+	expressing the values for the mandatory properties in the official language(s)
+	of the information resource.</li><li>Applying recordkeeping
+	metadata as outlined in Appendix B to information
+	resources within Web content management systemsthat are determined to be information
+	resources of business value.</li></ol></appendix></appendices></doc>

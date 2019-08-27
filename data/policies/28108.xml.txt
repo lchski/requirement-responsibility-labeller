@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Directive on Open Government" documentID="28108" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective Date"><p>1.1
+      This directive
+      takes effect on October 9, 2014. </p></chapter><chapter anchor="2" title="2. Application"><p>2.1 
+      This directive
+      applies to departments as defined in Section 2 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/"><em>Financial Administration Act</em></a>, unless excluded by
+      specific acts, regulations, or orders-in-council.</p><p>2.2 
+      All other
+      federal institutions are encouraged to use this directive to define their own
+      open government policies and practices. </p><p>2.3 
+      This
+      directive is to be applied to government information of business value required
+      to support the delivery of programs and services by departments as of the
+      effective date above in order to determine eligibility and facilitate planning
+      for release. </p><p>2.4 
+      Sections
+      7.3 and 8.2 do not apply with respect to the Office of the Auditor General, the
+      Office of the Privacy Commissioner, the Office of the Information Commissioner,
+      the Office of the Chief Electoral Officer, the Office of the Commissioner of
+      Lobbying, the Office of the Commissioner of Official Languages, and the Office
+      of the Public Sector Integrity Commissioner. The deputy heads of these
+      organizations are solely responsible for monitoring and ensuring compliance
+      with the directive within their organizations, as well as for responding to
+      cases of non-compliance in accordance with any Treasury Board instruments that provide
+      principles and guidance on the management of compliance.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 
+      The Government
+      of Canada's commitment to open government is founded on the strong history of
+      transparency and accountability first established with the enactment of the
+      Access to Information Act in 1983 followed by the Federal Accountability Act in
+      2006 which introduced proactive disclosure. In 2012 the Government joined the
+      Open Government Partnership and in June 2013 the Government endorsed the G8
+      Charter on Open Data.</p><p>3.2 
+      The
+      expectations of Canadians for increased access to, and the proactive release of,
+      federal data and information will require government departments and agencies to
+      make their information resources that are eligible for release to be more easily
+      discoverable and reusable. </p><p>3.3 
+      Strong
+      information management practices are the cornerstone of the Government of
+      Canada's open government activities. These practices increase efficiency,
+      reduce costs, improve services, safeguard personal, classified and confidential
+      information, and ensure the availability of high-quality, authoritative
+      information, ultimately enabling departments to be more responsive and accountable
+      to Canadians.</p><p>3.4 
+      This directive
+      supports the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a> by promoting information management
+      practices which enable the proactive and ongoing release of government
+      information.  </p><p>3.5 
+      This
+      directive is to be read in conjunction with the <a href="/pol/doc-eng.aspx?id=16552"><em>Directive on Recordkeeping</em></a> and the <a href="/pol/doc-eng.aspx?id=12316"><em>Communications Policy of the
+      Government of Canada</em></a><em>. </em>In
+      addition, this directive will be reinforced by additional guidance, tools, and
+      resources, including guidance on licences and release criteria.</p><p>3.6 
+      This
+      directive is issued under the authority of Section 7 of the <a href="http://laws.justice.gc.ca/eng/F-11/index.html"><em>Financial Administration Act</em></a>.</p></chapter><chapter anchor="4" title="4. Definitions"><p>For
+      definition of terms used in this directive, refer to <a href="/pol/doc-eng.aspx?id=28108&amp;section=text#appA">Appendix A</a>. </p></chapter><chapter anchor="5" title="5. Directive Statement"><section anchor="5.1" title="5.1 Objective"><p>The
+        objective of the directive is to maximize the release of government information
+        and data of business value to support transparency, accountability, citizen
+        engagement, and socio-economic benefits through reuse, subject to applicable
+        restrictions associated with privacy, confidentiality, and security.</p></section><section anchor="5.2" title="5.2 Expected Results"><p>The
+        expected results of this directive are the following:</p><ul><li>Canadians
+          are able to find and use Government of Canada information and data to support
+          accountability, to facilitate
+          value-added analysis, to drive socio-economic benefits through reuse, and to support
+          meaningful engagement with their government.</li></ul></section></chapter><chapter anchor="6" title="6. Requirements"><p>The departmental Information Management Senior Official is responsible
+      for the following:</p><p>6.1    Maximizing the release
+        of Government of Canada open data (structured data) and open information (unstructured
+        documents and multi-media assets) under an open and unrestrictive licence designated
+        by the Treasury Board of Canada Secretariat as outlined in <a href="/pol/doc-eng.aspx?id=28108&amp;section=text#appB">Appendix B</a>.</p><p>6.2    Ensuring that open data
+        and open information is released in accessible and reusable formats via Government
+        of Canada websites and services designated by the Treasury Board of Canada
+        Secretariat.</p><p>6.3    Establishing and maintaining
+        comprehensive inventories of data and information resources of business value
+        held by the department to determine their eligibility and priority, and to plan
+        for their effective release. </p><p>6.4    Developing, posting
+        to the designated website, implementing, and annually updating a departmental
+        Open Government Implementation Plan (OGIP) as outlined in <a href="/pol/doc-eng.aspx?id=28108&amp;section=text#appC">Appendix C</a>. </p><p>6.5    Maximizing the
+        removal of access restrictions on departmental information resources of
+        enduring value prior to transfer to Library and Archives Canada as part of
+        planned disposition activities.</p><p>6.6    Ensuring that open
+        government requirements in sections 6.1 to 6.5 of this directive are integrated
+        in any new plans for procuring, developing, or modernizing departmental information
+        applications, systems, or solutions in support of the delivery of programs and
+        services. </p></chapter><chapter anchor="7" title="7. Monitoring and Reporting&#xA;  Requirements"><p>7.1 
+      Departmental
+      information management senior officials, as designated by the deputy heads, are
+      responsible for the following:</p><ul><li> Overseeing
+        the implementation and monitoring of this directive in their department;</li><li> Working
+        with key stakeholders, including heads of communications, chief information officers
+        (CIOs), departmental security officers (DSOs), data owners, functional
+        specialists, and access to information and privacy coordinators to ensure the
+        implementation of this directive;</li><li> Bringing
+        to the deputy head's attention any significant difficulties, gaps in
+        performance or compliance issues, and developing proposals to address them;</li><li> Ensuring
+        that corrective actions are taken to address instances of non-compliance. Corrective
+        actions can include additional training, changes to procedures and systems, and
+        other measures as appropriate; and</li><li> Reporting
+        any performance or compliance issues to the Chief Information Officer Branch of
+        the Treasury Board of Canada Secretariat.</li></ul><p>7.2 
+      The
+      Treasury Board of Canada Secretariat will monitor and report on compliance with
+      all aspects of this directive in a variety of ways, including the following:</p><ul><li> Assessments
+        under the <a href="http://publiservice.tbs-sct.gc.ca/maf-crg/index-eng.asp"><em>Management Accountability Framework</em></a>;</li><li> Examinations
+        of Treasury Board submissions, departmental performance reports, and results of
+        audits, evaluations, and studies; and</li><li> Periodic
+        progress reports.</li></ul><p>7.3 
+      The
+      Treasury Board of Canada Secretariat will review this directive and its
+      effectiveness at the five-year mark from the effective date of the directive (or
+      earlier if warranted).</p></chapter><chapter anchor="8" title="8. Consequences"><p>8.1 
+      In
+      instances of non-compliance, deputy heads are responsible for taking corrective
+      measures within their organization with those responsible for implementing the
+      requirements of this directive.</p><p>8.2 
+      Consequences
+      of non-compliance with this directive can include any measure allowed by the <a href="http://laws.justice.gc.ca/eng/F-11/index.html"><em>Financial Administration Act</em></a> that the Treasury Board
+      would determine as appropriate and acceptable in the circumstances.</p><p>8.3 
+      For a
+      range of consequences of non-compliance refer to “Appendix C: Consequences for Institutions” and “Appendix D: Consequences
+      for Individuals”
+      of the <a href="/pol/doc-eng.aspx?id=17151&amp;section=text"><em>Framework for the Management of
+      Compliance</em></a>.</p></chapter><chapter anchor="9" title="9. Responsibilities of Government&#xA;  Organizations"><p>Note: This section identifies other
+      departments that have a role in the effective implementation of the <em>Directive
+      on Open Government</em>. In and of itself, this section does not confer
+      authority.</p><p>9.1 
+      The
+      roles and responsibilities of other government organizations are described in section
+      8 of the <a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a>.</p><p>9.2 
+      In
+      addition, the Treasury Board of Canada Secretariat is responsible for the
+      following:</p><ul><li> Designating
+        open government web sites, services, criteria, and formats for use by
+        departments; and</li><li> Developing
+        and/or designating open licences for use by departments.</li></ul><p>9.3 
+      Library
+      and Archives Canada is responsible for establishing criteria in order to make
+      information resources transferred to its care and control available as soon as
+      possible.</p></chapter><chapter anchor="10" title="10. References "><section anchor="10.1" title="10.1 Relevant Legislation"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/"><em>Access to Information Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/L-7.7/"><em>Library and Archives of Canada
+        Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/O-5/"><em>Security of Information Act</em></a></li></ul></section><section anchor="10.2" title="10.2 Related policy instruments"><ul><li><a href="/pol/doc-eng.aspx?id=12316"><em>Communications Policy of the
+          Government of Canada</em></a></li><li><a href="/pol/doc-eng.aspx?id=12453"><em>Policy on Access to Information</em></a></li><li><a href="/pol/doc-eng.aspx?id=15024"><em>Policy on Evaluation</em></a></li><li><a href="/pol/doc-eng.aspx?id=16578"><em>Policy on Government Security</em></a></li><li><a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a></li><li><a href="/pol/doc-eng.aspx?id=16484"><em>Policy on Internal Audit</em></a></li><li><a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of
+          Information Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=26160"><em>Policy on Official Languages</em></a></li><li><a href="/pol/doc-eng.aspx?id=16552"><em>Directive on Recordkeeping</em></a></li><li><a href="/pol/doc-eng.aspx?id=18909"><em>Standard on Metadata</em></a></li><li><a href="/pol/doc-eng.aspx?id=23601"><em>Standard on Web Accessibility</em></a></li></ul></section></chapter><chapter anchor="11" title="11. Enquiries"><p>For information on this policy instrument, please contact the <a href="http://authoring.publiservice.tbs-sct.gc.ca/contact/contact-eng.aspx">Treasury Board of Canada
+      Secretariat Public Enquiries</a>. </p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A: Definitions"><dl><dt><strong>Access
+        restrictions</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">restrictions d'accès</span></em>)</dt><dd>Security
+        identification and categorization that ensures that appropriate safeguards are applied
+        to mitigate security risks to the confidentiality, integrity, or availability
+        of information. </dd><dt><strong>Data</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">données</span></em>)</dt><dd>Reinterpretable
+        representations of information in a formalized manner suitable for
+        communication, interpretation, or processing. </dd><dt><strong>Inventory</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">inventaire</span></em>)</dt><dd>A detailed, itemized list that
+        describes the volume, scope, and complexity of structured or unstructured
+        information resources of the department.</dd><dt><strong>Machine-readable</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">lisible par machine</span></em>)</dt><dd>In
+        a form that can be used and understood by a computer. </dd><dt><strong>Open
+        data</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">données ourvertes</span></em>)</dt><dd>Structured data that is
+        machine-readable, freely shared, used and built on without restrictions. </dd><dt><strong>Open
+        government</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">gouvernement
+        ouvert</span></em>)</dt><dd>A governing culture that holds that
+        the public has the right to access the documents and proceedings of government
+        to allow for greater openness, accountability, and engagement. </dd><dt><strong>Open
+        information</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">information
+        ouvert</span></em>)</dt><dd>Unstructured information that is freely shared without restrictions.</dd><dt><strong>Release</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">communication</span></em>)</dt><dd>Make publicly available online in a
+        downloadable format</dd><dt><strong>Structured
+        information</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">information
+        structurée</span></em>) </dt><dd>Digital information residing in fixed
+        fields within a repository.</dd><dt><strong>Unstructured information</strong> (<em><span xml:lang="fr-CA" lang="fr-CA">information non structurée</span></em>)</dt><dd>Digital information that is often
+        created in free-form text using common desktop applications such as e-mail,
+        word-processing, or presentation applications.</dd></dl></appendix><appendix anchor="B" title="Appendix B: Mandatory Release of Government Information "><p>Departments
+      must maximize the release of open data and open information by ensuring that all
+      data and information resources specified below are considered for release.</p><section anchor="B.1" title="Open Data:"><p>All data resources of business value held
+        by Government of Canada departments are to be open by default and released as open
+        data unless subject to valid exceptions, such as ownership, security, privacy,
+        and confidentiality, as determined by the department. The Treasury Board of Canada Secretariat will support
+        departments in the development of their decision-making and approval processes
+        with regard to legal and policy issues by providing a release criteria checklist
+        and other guidance tools.</p></section><section anchor="B.2" title="Open Information:"><p>At a minimum, the following information resources
+        of business value are to be open by default and released, subject to valid exceptions, such as
+        ownership, security, privacy, and confidentiality, as determined by the
+        department. The
+        Treasury Board of Canada Secretariat will support
+        departments in the development of their decision-making process to evaluate the
+        legal and policy issues by providing a release criteria checklist and other
+        guidance tools.</p><ul><li>All mandatory
+          reporting documents (e.g. reports to Parliament, proactive disclosure reports);
+          and</li><li> All documents
+          posted online or planned for publication via departmental web sites or print (e.g.,
+          statistical reports, educational videos, event photos, organizational charts).</li></ul></section></appendix><appendix anchor="C" title="Appendix C: Open Government Implementation Plan"><p>All
+      departments will develop and update on an annual basis, an Open Government Implementation
+      Plan (OGIP) to outline departmental direction, strategies, and initiatives undertaken
+      to meet the requirements of this directive. In addition, departments
+      will be required to post their implementation plan to a
+      Government of
+      Canada website designated by the Treasury Board of Canada Secretariat. </p><p><strong>Specifically,
+      the <abbr title="Open Government Implementation Plan">OGIP</abbr> should include a </strong>description of the activities undertaken to meet the
+      requirements stated in section 6 of this directive, including the following:</p><ul><li> A description
+        of departmental governance structures and decision processes that support open
+        government, including the approval process for the release of open data and
+        open information resources.</li><li> A
+        summary of activities undertaken to maximize the release of open information
+        and open data;</li><li> A summary
+        of activities undertaken to complete and maintain inventories of data and all
+        other information resources, including a summary of high-value and/or
+        high-priority open data and open information subject to release; and</li><li> A summary
+        of activities undertaken to ensure the removal of access restrictions on
+        departmental information resources prior to transfer to Library and Archives
+        Canada.</li></ul></appendix></appendices></doc>
