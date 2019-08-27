@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Directive on Privacy Impact Assessment" documentID="18308" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1.  Effective date"><p>1.1 This directive takes effect on
+April 1, 2010.</p><p>1.2 This directive replaces the following:</p><ul><li><a href="/pol/doc-eng.aspx?id=12450"><em>Privacy Impact Assessment Policy</em></a>, dated May 2,
+2002; and</li><li>Data matching components of the <a href="/pol/doc-eng.aspx?id=13749"><em>Privacy
+and Data Protection Policy</em></a> (1993).</li></ul><p>1.3 Government institutions will have
+until September 1, 2010, to implement the requirements of this directive except
+for those described in Subsections <a href="#6.3.9" class="noWrap">6.3.9</a>, <a href="#6.3.10" class="noWrap">6.3.10</a>, <a href="#6.3.11" class="noWrap">6.3.11</a>, <a href="#6.3.16" class="noWrap">6.3.16</a>, <a href="#6.3.17" class="noWrap">6.3.17</a> and <a href="#appC" class="noWrap">Appendix C</a>, which institutions will have
+until April 1, 2011, to implement.</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 This directive applies to
+government institutions as defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-1.html#h-3">section
+3 of the <em>Privacy Act</em></a>, including parent Crown corporations and
+any wholly owned subsidiary of these corporations. </p><p>2.2 This directive does not apply to
+the Bank of Canada. </p><p>2.3 Appendix B contains additional
+requirements for "departments," as defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section 2 of the <em>Financial
+Administration Act</em></a> (FAA) and referenced in <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(5) of the <em>Privacy Act</em></a>. </p><p>2.4 The directive does not apply to
+the development of new legislation.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 The Government of Canada is
+committed to ensuring that privacy protection is a core consideration in the
+initial framing and subsequent administration of programs and activities
+involving personal information. In recent years, Canadians and
+parliamentarians have been concerned with the complex and sensitive privacy
+issues that stem from proactive anti-terrorism measures, use of surveillance
+and privacy-intrusive technology, sharing of personal information across
+borders and threats to privacy posed by security breaches. Canadians want to be
+informed of how their personal information is handled and assured of its
+protection.</p><p>3.2 Under the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a>, a
+collection or grouping of personal information is referred to as a personal
+information bank (PIB). Under the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a>, heads
+of government institutions are required to identify, describe and publicly
+report their PIBs. The President of the Treasury Board, as designated Minister,
+holds general responsibility for registering all PIBs and reviewing the manner
+in which they are maintained and managed in all government institutions defined
+in <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-1.html#h-3">section
+3 of the <em>Privacy Act</em></a>. In addition to this general oversight role,
+the President of the Treasury Board is responsible for reviewing and approving
+new or substantially modified PIBs or establishing the terms and conditions for
+such approval for the departments defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section
+2 of the <em>Financial Administration Act</em> (FAA)</a>. Under <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(6) of the <em>Privacy Act</em></a>, the President of the Treasury Board may
+choose to delegate this authority to the departments defined <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">in section 2 of
+the FAA</a>.
+In making this determination, the President of the Treasury Board will consider
+a department's compliance with the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a>, with this and other directives as well as with any
+prescribed forms. The delegation for review and approval of PIBs can only be
+given to the departments defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section
+2 of the FAA</a>. Regardless of any such delegation, the President of the
+Treasury Board remains responsible for the ongoing review of PIBs for all
+government institutions that are subject to the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a>.</p><p>3.3 The <em>Directive on Privacy
+Impact Assessment</em> (PIA) supports the President of the Treasury Board's
+responsibilities by ensuring that privacy implications will be appropriately
+identified, assessed and resolved before a new or substantially modified
+program or activity involving personal information is implemented. Government
+institutions routinely perform broad risk management activities and develop
+risk profiles related to their programs and activities. The PIA is the
+component of risk management that focuses on ensuring compliance with the <em>Privacy
+Act</em> requirements and assessing the privacy implications of new or
+substantially modified programs and activities involving personal information.
+However, if not properly framed within an institution's broader risk management
+framework, conducting a PIA can be a resource-intensive exercise. As such, the
+government is committed to ensuring that a PIA is conducted in a manner that is
+commensurate with the privacy risk identified and respects the operating
+environment of the government institution.</p><p>3.4 This directive is issued pursuant
+to <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">paragraph
+71(1)(<em>d</em>) and subsections 71(3), 71(4), 71(5) and 71(6) of the <em>Privacy
+Act</em></a>. </p><p><em>3.5 </em>This directive is to be read
+in conjunction with the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a>, the <a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-83-508/index.html"><em>Privacy
+Regulations</em></a>, the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a>, <a href="/pol/doc-eng.aspx?id=18309"><em>Directive on Privacy Practices</em></a>
+and <a href="/pol/doc-eng.aspx?id=18311"><em>Directive
+on Privacy Requests and Correction of Personal Information</em></a> and the
+<a href="/pol/doc-eng.aspx?id=13342"><em>Directive on
+Social Insurance Number</em></a>. </p></chapter><chapter anchor="4" title="4. Definitions"><p>4.1 Definitions to be used in the
+interpretation of this directive are attached in <a href="#appA">Appendix
+A</a>. Additional definitions are provided in <a href="/pol/doc-eng.aspx?id=12510&amp;section=text#appA">Appendix
+A of the <em>Policy on Privacy Protection</em></a>. </p></chapter><chapter anchor="5" title="5. Directive statement"><section anchor="5.1" title="5.1 Objectives"><p>5.1.1 To provide direction to government institutions with
+respect to the administration of PIAs for new or substantially modified
+programs and activities involving the creation, collection and handling of
+personal information; and</p><p>5.1.2 To ensure, through the conduct of PIAs, sound
+management and decision making as well as careful consideration of privacy
+risks with respect to the creation, collection and handling of personal
+information as part of government programs or activities.</p></section><section anchor="5.2" title="5.2 Expected results"><p>5.2.1 PIAs are conducted in a manner that is commensurate
+with the level of privacy risk identified prior to establishing any new or substantially modified program or activity involving
+personal information. </p><p>5.2.2 Privacy practices that comply with legal and policy
+requirements related to the administration of the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a> are
+implemented. </p><p>5.2.3 The public reporting of personal
+information under the control of government institutions is complete, accurate
+and up to date.</p></section></chapter><chapter anchor="6" title="6. Requirements"><h3>6.1 Heads of government institutions are responsible for:</h3><p>6.1.1 Establishing a PIA development
+and approval process that:</p><ul><li>takes into consideration the
+responsibility within the institution for establishing PIBs;</li><li>is commensurate with the level of
+risk related to the privacy invasiveness of the institution's programs or
+activities; and</li><li>ensures the PIA is completed by
+the senior official or executive holding responsibility within the institution
+for new or substantially modified programs or activities.</li></ul><h3>6.2 Heads of government
+institutions or the official responsible for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section
+10 of the <em>Privacy Act</em></a><em>,</em> are to fulfill the following
+responsibilities:</h3><p>6.2.1 Establishing or modifying PIBs in collaboration with
+the senior official or executive holding functional responsibility for the new
+or substantially modified program or activity; </p><p>6.2.2 Obtaining approval of the designated Minister for any
+new or substantially modified PIB before implementing the new or modified
+program or activity, unless otherwise specified in the terms and conditions of
+a delegation under <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(6) of the <em>Privacy Act</em></a>—this requirement only applies to the
+departments defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section
+2 of the<em> FAA</em></a>; </p><p>6.2.3 Adhering to the specific obligations related to PIAs
+and the Treasury Board submission process outlined in <a href="#appB">Appendix B</a>; and </p><p>6.2.4 Collaborating with the appropriate senior official or
+executive to ensure that PIAs are completed and respect the process outlined in
+section 6.3.</p><h3>6.3 The appropriate senior
+officials or executives are responsible for adhering to the following process
+for the completion of a privacy impact assessment:</h3><h4><em>A) Initiation of a privacy impact assessment </em></h4><p>6.3.1 Initiating a PIA for a program or activity in the
+following circumstances:</p><ul><li>when personal information is used
+for or is intended to be used as part of a decision-making process that
+directly affects the individual;</li><li>upon substantial modifications to
+existing programs or activities where personal information is used or intended
+to be used for an administrative purpose; and</li><li>when contracting out or
+transferring a program or activities to another level of government or the
+private sector results in substantial modifications to the program or
+activities.</li></ul><p>6.3.2 Determining, in consultation with the official responsible
+for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section
+10 of the <em>Privacy Act</em></a>, whether:</p><ul><li>a new or substantially modified
+program or activity in which no decisions are made about individuals will have
+an impact on privacy and warrant the conduct of a PIA; or</li><li>the government institution's
+privacy protocol is adequate to address the potential impact on privacy of such
+a program or activity.</li></ul><p>6.3.3 Documenting decisions adequately with respect to
+requirement 6.3.2.  </p><h4><em>B) In cases where more than one institution is involved</em></h4><p>6.3.4 Identifying the lead government institution in cases
+of multi-institutional PIAs. Unless otherwise established by an arrangement or
+agreement, the lead government institution will be the institution that has
+primary control over the personal information or holds the authority for
+initiating the program or activity.</p><p>6.3.5 Ensuring, in cases where the above factors are not
+relevant because the program or activity is common to all government
+institutions, that the lead will be, unless otherwise established by an
+arrangement or agreement, the government institution that either: </p><ul><li>is responsible for delivering the
+program or activity across government;</li><li>is the contracting authority for
+the program or activity; or</li><li>is the policy authority for the
+program or activity across government.</li></ul><p>6.3.6 Coordinating, as appropriate, an interdepartmental
+committee made up of key stakeholders, including legal and policy authorities
+when a new program or activity involves government-wide consideration.</p><p>6.3.7 Determining and documenting the most appropriate
+approach for the completion and approval of the PIA in support of the program
+or activity. In cases of joint programs or activities, an overarching or a multi-institutional
+PIA is favoured. At a minimum, the approach will take into consideration the
+approval process of the institutions involved and will cover the full scope of
+the program or activity.</p><p>6.3.8 Overseeing the initial collection as well as any disclosures
+to government institutions involved in the program or activity.</p><h4><em>C) Completion of the privacy impact assessment</em></h4><p><a name="6.3.9"></a>6.3.9 Completing the core PIA elements as outlined in <a href="#appC">Appendix C</a>.</p><p><a name="6.3.10"></a>6.3.10  Determining an appropriate format for the
+PIA based on the government institution's business needs, internal reporting
+and broader risk management activities.</p><p><a name="6.3.11"></a>6.3.11  Determining, in consultation with the official responsible
+for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section
+10 of the <em>Privacy Act</em></a> and based on the completed core PIA, if
+additional documentation or analysis is required and whether further
+elaboration on specific risk mitigation is warranted. When high level risks are
+identified, additional documentation, including mitigation plans or strategies,
+will be required.</p><h4><em>D) Internal approval of the privacy impact assessment</em></h4><p>6.3.12  Obtaining, prior to seeking formal approval,
+endorsement or sign-off from:</p><ul><li>the official responsible for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section
+10 under the <em>Privacy Act</em></a>;</li><li>the appropriate senior officials
+or executives; and </li><li>the government institution's
+legal services unit—in cases where the legal authority for the program or
+activity is unclear or where potential issues with respect to the <a href="http://laws-lois.justice.gc.ca/en/charter"><em>Charter of Rights and Freedoms</em></a> have
+been raised.</li></ul><p>6.3.13  Obtaining internal approval of the completed core PIA
+in accordance with the process established within the government institution. </p><h4><em>E) Notification and registration </em></h4><p>6.3.14  Ensuring that the approved core PIA is provided to Treasury
+Board Secretariat (TBS) along with the proposed new or substantially modified
+PIB description, unless otherwise specified in the terms and conditions of a
+delegation under <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(6) of the <em>Privacy Act</em></a>. TBS will only confirm that mandatory
+requirements of the core PIA have been completed for the purpose of
+establishing or revising a PIB. Because no additional documentation will be
+reviewed, none is to be provided to TBS for the purpose of reviewing and
+approving PIBs.</p><p>6.3.15  Ensuring that the approved core PIA provided to TBS
+is simultaneously provided to the Office of the Privacy Commissioner, along
+with any additional documentation that may be requested by that office. </p><h4><em>F) Public reporting of
+the core privacy impact assessment</em></h4><p><a name="6.3.16"></a>6.3.16 
+Making the following sections of
+the approved core PIA available to the public:</p><ul><li>Overview and PIA Initiation; and</li><li>Risk Area Identification and Categorization—Areas (a) to (h).</li></ul><p><a name="6.3.17"></a>6.3.17 
+Respecting security requirements
+as well as any other confidentiality or legal consideration when reporting
+publicly on the sections of the core PIA cited in 6.3.16.</p><h4><em>G) Sharing the privacy impact assessment</em></h4><p>6.3.18  Sharing copies of the approved PIA and other relevant
+documentation with partners or other government institutions as required and in
+a manner that respects security requirements as well as any other
+confidentiality or legal consideration.</p><section anchor="6.4" title="6.4 Monitoring and reporting requirement"><p>6.4.1 The monitoring and reporting requirements of the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a> apply to this directive.</p></section></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 The consequences outlined in the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a> apply to this directive.</p></chapter><chapter anchor="8" title="8. Roles and responsibilities of government organizations"><p>8.1 In addition to the roles and
+responsibilities of government organizations identified in the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a>, the Treasury Board Secretariat will:</p><p>8.1.1 Review the content of the approved core PIA in a
+timely manner to ensure that the assessment is complete. TBS does not approve
+PIAs and will only review the core PIA to fulfill its obligation with respect
+to the review and approval of PIBs. </p><p>8.1.2 Review, approve and register PIBs for the departments
+defined in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section 2 of the FAA</a>.</p><p>8.1.3 Review and register the PIBs of all government
+institutions including the Bank of Canada in compliance with the Act;</p><p>8.1.4 Review <a href="#appC">Appendix
+C—Core privacy impact assessment</a> on an annual basis to ensure that the core
+PIA remains relevant and propose amendments if required.</p><p>8.2 In addition to the roles and
+responsibilities of government organizations identified in the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a>, the Office of the Privacy Commissioner can:</p><p>8.2.1 Decide whether analysis or additional information is
+necessary for the purpose of its review or investigation under the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html"><em>Privacy Act</em></a>.</p><p>As
+an Officer of Parliament charged with the oversight of the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html"><em>Privacy Act</em></a>, the
+Privacy Commissioner has broad powers of investigation and review and can
+request additional project documentation related to the planning, assessment or
+implementation of new or substantially modified programs or activities that
+involve personal information or have an impact on the privacy of Canadians and
+of those individuals present in Canada.</p></chapter><chapter anchor="9" title="9. References"><h3>9.1 Relevant legislation and
+regulations:</h3><ul class="noBullet"><li><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/"><em>Access to Information Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/SOR-83-507/"><em>Access to Information Regulations</em></a></li><li><a href="http://laws-lois.justice.gc.ca/en/charter"><em>Canadian Charter of Rights and Freedoms</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/F-11/"><em>Financial Administration Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/L-7.7/"><em>Library and Archives of Canada Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/O-3.01/"><em>Official Languages Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-8.6/"><em>Personal Information Protection and Electronic Documents Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-83-508/index.html"><em>Privacy Regulations</em></a></li></ul><h3>9.2 Related policy instruments and publications:</h3><ul class="noBullet"><li><a href="/pol/doc-eng.aspx?id=12316"><em>Communications Policy of the Government of Canada</em></a></li><li><a href="/pol/doc-eng.aspx?id=14494"><em>Contracting Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12754"><em>Directive on Information Management Roles and Responsibilities</em></a></li><li><a href="/pol/doc-eng.aspx?id=18309"><em>Directive on Privacy Practices</em></a></li><li><a href="/pol/doc-eng.aspx?id=18311"><em>Directive on Privacy Requests and Correction of Personal Information</em></a></li><li><a href="/pol/doc-eng.aspx?id=13342"><em>Directive on the Social Insurance Number</em></a></li><li><a href="/pol/doc-eng.aspx?id=16578"><em>Policy on Government Security</em></a></li><li><a href="/pol/doc-eng.aspx?id=12254"><em>Integrated Risk Management Framework</em></a></li><li><a href="/pol/doc-eng.aspx?id=12452"><em>Policy Framework for Information and Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=12453"><em>Policy on Access to Information</em></a></li><li><a href="/pol/doc-eng.aspx?id=12742"><em>Policy on Information Management</em></a></li><li><a href="/pol/doc-eng.aspx?id=12405"><em>Policy on Learning, Training and Development</em></a></li><li><a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of Information Technology</em></a></li><li><a href="/pol/doc-eng.aspx?id=12629"><em>Policy on Management of Projects</em></a></li><li><a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy Protection</em></a></li></ul></chapter><chapter anchor="10" title="10.  Enquiries"><p>10.1 Please direct enquiries about
+this directive to your institution's access to information and privacy (ATIP)
+coordinator. For interpretation of this directive, the ATIP coordinator is to contact:</p><p>Information and Privacy Policy Division<br />
+Chief Information Officer Branch<br />
+Treasury Board Secretariat<br />
+219 Laurier Avenue West<br />Ottawa ON  K1A 0R5</p><p>E-mail: <a href="mailto:ippd-dpiprp@tbs-sct.gc.ca">ippd-dpiprp@tbs-sct.gc.ca</a><br />
+Telephone: 613- 946-4945<br />
+Fax: 613-952-7287</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Definitions"><dl><dt><strong>appropriate senior official or executive of the government institution</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>agent principal ou cadre approprié de l'institution fédérale</em></span>)</dt><dd>Is the official holding administrative responsibility for the completion of the PIA. Where an official is not specifically assigned, this responsibility will rest with the senior official or executive holding functional responsibility for the program or activity in question.</dd><dt><strong>authentication</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>authentification</em></span>)</dt><dd>Is the act of verifying (i) the validity of the identity of an individual or an Entity, or (ii) the integrity of data in electronic form.</dd><dt><strong>automated personal information analysis, personal information matching and knowledge discovery techniques</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>recours à des techniques d'analyse automatisée des renseignements personnels, de comparaison des renseignements personnels et de découverte de connaissances</em></span>)</dt><dd>Refer to those activities involving the use of technology to analyze, match, create, compare, cull, identify, define or extract personal information elements.</dd><dt><strong>core privacy impact assessment</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>évaluation des facteurs relatifs à la vie privée de base</em></span>)</dt><dd>Consists of those standardized elements of a PIA that are directly linked to policy and legal compliance.</dd><dt><strong>enhanced identification methods</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>méthodes d'identification améliorées</em></span>)</dt><dd>Refer to the technological means used to identify or authenticate an identifiable individual.</dd><dt><strong>flow of personal information</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>flux des renseignements personnels</em></span>)</dt><dd>Describes the creation, collection, retention, use, disclosure and disposition of personal information. It also includes the identification of partners that handle the personal information during the administration of a program or an activity.</dd><dt><strong>lead government institution</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>institution fédérale responsable</em></span>)</dt><dd>Is the government institution that leads the multi-institutional PIA and is responsible for determining the most appropriate approach for the completion and approval of the PIA in support of a multi-institutional program or activity.</dd><dt><strong>official responsible for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section 10 of the <em>Privacy Act</em></a></strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>agent pour l'article 10 de la Loi sur la protection des renseignements personnels</em></span>)</dt><dd>Is the officer or employee that has been designated through a delegation order with the responsibilities of the head or the officer or employee who is performing those responsibilities in the name of the head with respect to <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section 10 of the <em>Privacy Act</em></a><em>,</em> which concerns the establishment of PIBs for the personal information under the control of the government institution.</dd><dt><strong>substantial modification</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>modification importante</em></span>)</dt><dd>Refers to a change or an amendment to the privacy practices related to a particular program or activity, which is reflected in a PIB description. This includes any change or amendment to the privacy practices related to activities that use automated or technological means to identify, create, analyze, compare, extract, cull, match or define personal information.</dd><dt><strong>surveillance</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>surveillance</em></span>)</dt><dd>Refers to a systematic approach for watching over, tracking or monitoring physical and logical spaces, individuals or individuals' activities, whereabouts, behaviour or interests.</dd></dl></appendix><appendix anchor="B" title="Appendix B—Privacy Impact Assessment requirements related&#xA;to the preparation of Treasury Board submissions"><p>Government institutions
+seeking Treasury Board approval for programs or activities that involve
+personal information are responsible for:</p><ul><li>Making every reasonable effort to
+initiate the PIA at the earliest possible phase of project planning;</li><li>Identifying whether a PIA has been
+completed in the body of the submission and, if a PIA was not completed because
+of the urgency or priority of the initiative, identifying the timelines for the
+completion of the PIA; </li><li>Identifying in their project
+brief the measures taken or to be taken to address privacy issues and risks,
+where relevant, when seeking project approval from Treasury Board; and</li><li>Completing a PIA for the new or
+substantially modified program or activity that was approved by Treasury Board
+either before its implementation or within such time and subject to such
+conditions established by TBS.</li></ul><p>Unless otherwise specified in the terms and
+conditions of a delegation under <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(6) of the <em>Privacy Act</em></a>, government institutions defined as
+departments in <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/page-1.html#h-2">section 2 of the FAA</a>
+and referenced in <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsection
+71(5) of the <em>Privacy Act</em></a> are responsible for:</p><ul><li>Obtaining approval of any new or
+substantially modified PIB before implementing the new or substantially
+modified program or activity that is related to the PIB; and</li><li>Abiding by any terms and
+conditions related to the approval of PIBs by the designated Minister in
+accordance with <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-22.html">subsections
+71(3) and 71(4) of the <em>Privacy Act</em>.</a></li></ul><p>Note: Under the <a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy
+Protection</em></a>, heads of government institutions are required to notify the
+Privacy Commissioner of any planned initiatives (legislation, regulations,
+policies, programs) that could relate to the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a> or to
+any of its provisions or that could have an impact on the privacy of Canadians.
+This notification is to take place at a sufficiently early stage to permit the
+Commissioner to review and discuss the issues involved.</p></appendix><appendix anchor="C" title="Appendix C—Core privacy impact assessment"><p>The following sections and their
+information requirements make up the minimum content of the core PIA. In the case of a
+multi-institutional PIA, each government
+institution involved will be responsible for contributing to or completing the
+core PIA in a manner that is consistent with the approach outlined by the lead
+government institution. </p><h3>Section I—Overview and PIA Initiation</h3><ol class="lower-alpha"><li>The government
+institution or, in the case of a multi-institutional PIA, the lead government
+institution.</li><li>The head of the
+government institution or delegate for <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-4.html#h-7">section
+10 of the <em>Privacy Act</em></a> or, in the case of a multi-institutional PIA,
+the head or delegate of each government institution involved in the program or
+activity.</li><li>The appropriate
+senior official or executive for the new or substantially modified program or activity.</li><li>Name and description
+of the program or activity of the government institution or, in the case of a
+multi-institutional PIA, of the lead government institution.</li><li>Legal authority for
+the program or activity or, in the case of a multi-institutional PIA, the legal
+authority for each government institution involved in the program or activity.</li><li>Identification of
+whether the proposal is related to a new PIB or will substantially modify an
+existing PIB. Existing PIBs are to be identified by their title, registration
+number and bank number.</li><li>Short description of
+the project, initiative or change.</li><li>In the case of a
+multi-institutional PIA, the lead government institution will describe the approach for the completion and approval of the PIA in
+support of the program or activity. At a minimum, a
+multi-institutional PIA will identify the government institutions involved and
+ensure that the role of each institution with respect to the program or
+activity is adequately documented, unless otherwise determined by the approach.</li></ol><h3>Section II—Risk Area Identification and
+Categorization</h3><p>The core PIA must include a completed risk identification and
+categorization section as outlined below. To have consistent risk categories
+and risk measurement across government institutions, standardized risk areas
+(itemized below) and a common risk scale are to be maintained as the basis for
+risk analysis.</p><p>The numbered risk scale is presented in an ascending order: the
+first level (1) represents the lowest level of potential risk for the risk
+area; the fourth level (4) represents the highest level of potential risk for
+the given risk area.</p><p>The initial step of the analysis consists of evaluating each risk
+area independently. The second step consists of grouping the individual results
+to determine if a more in depth analysis is required. The greater the number of
+risk areas identified as level 3 or 4, the more likely it is that specific risk
+areas will need to be addressed in a more comprehensive manner.</p><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">a) Type of program or activity</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- Program or activity that does NOT involve a decision about an identifiable individual</td><td class="alignTopCenter">1</td></tr><tr><td>- Administration of program or activity and services</td><td class="alignTopCenter">2</td></tr><tr><td>- Compliance or regulatory investigations and enforcement</td><td class="alignTopCenter">3</td></tr><tr><td>- Criminal investigation and enforcement or national security</td><td class="alignTopCenter">4</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">b) Type of personal information involved and context</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- Only personal
+  information, with no contextual sensitivities, collected directly from the
+  individual or provided with the consent of the individual for disclosure
+  under an authorized program.</td><td class="alignTopCenter">1</td></tr><tr><td>- Personal
+  information, with no contextual sensitivities after the time of collection,
+  provided by the individual with consent to also use personal information held
+  by another source.
+  		</td><td class="alignTopCenter">2</td></tr><tr><td>- Social Insurance
+  Number, medical, financial or other sensitive personal information or the
+  context surrounding the personal information is sensitive; personal
+  information of minors or of legally incompetent individuals or involving a
+  representative acting on behalf of the individual.</td><td class="alignTopCenter">3</td></tr><tr><td>- Sensitive personal
+  information, including detailed profiles, allegations or suspicions and
+  bodily samples, or the context surrounding the personal information is
+  particularly sensitive.</td><td class="alignTopCenter">4</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">c) Program or activity partners and private sector involvement</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- Within the
+  institution (among one or more programs within the same institution)</td><td class="alignTopCenter">1</td></tr><tr><td>- With other
+  government institutions </td><td class="alignTopCenter">2</td></tr><tr><td>- With other
+  institutions or a combination of federal, provincial or territorial, and
+  municipal governments</td><td class="alignTopCenter">3</td></tr><tr><td>- Private sector
+  organizations, international organizations or foreign governments</td><td class="alignTopCenter">4</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">d) Duration of the
+  program or activity</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- One-time program or activity</td><td class="alignTopCenter">1</td></tr><tr><td>- Short–term program or activity</td><td class="alignTopCenter">2</td></tr><tr><td>- Long-term program or activity</td><td class="alignTopCenter">3</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">e) Program population</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- The program's use
+  of personal information for internal administrative purposes affects certain
+  employees.</td><td class="alignTopCenter">1</td></tr><tr><td>- The program's use
+  of personal information for internal administrative purposes affects all
+  employees.</td><td class="alignTopCenter">2</td></tr><tr><td>- The program's use
+  of personal information for external administrative purposes affects certain
+  individuals.</td><td class="alignTopCenter">3</td></tr><tr><td>- The program's use
+  of personal information for external administrative purposes affects all
+  individuals.</td><td class="alignTopCenter">4</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">f) Technology and privacy </th></tr><tr><td>- Does the new or substantially modified program or activity involve
+  implementation of a new electronic system or the use of a new application or
+  software, including collaborative software (or groupware), to support the
+  program or activity in terms of the creation, collection or handling of
+  personal information?</td></tr><tr><td>- Does the new or substantially modified program or activity require
+  any modifications to information technology (IT) legacy systems?</td></tr><tr><td>Specific technological issues and privacy<br /><br />
+  - Does the new or substantially modified
+  program or activity involve implementation of new technologies or one or more
+  of the following activities:
+  	<ul><li>enhanced identification methods;</li><li>surveillance; or</li><li>automated personal information analysis, personal information matching and knowledge discovery techniques?</li></ul></td></tr><tr><td>A<strong>
+  YES </strong>response indicates the potential for privacy concerns and risks,
+  which will require consideration and, if necessary, mitigation.</td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr class="lightgreyBG"><th scope="col" class="alignLeft">g) Personal information transmission</th><th scope="col" class="alignTopCenter width15">Risk scale</th></tr><tr><td>- The personal
+  information is used within a closed system (i.e., no connections to the
+  Internet, Intranet or any other system and the circulation of hardcopy
+  documents is controlled).</td><td class="alignTopCenter">1</td></tr><tr><td>- The personal
+  information is used in a system that has connections to at least one other
+  system.</td><td class="alignTopCenter">2</td></tr><tr><td>- The personal
+  information is transferred to a portable device (i.e., USB key, diskette,
+  laptop computer), transferred to a different medium or is printed.</td><td class="alignTopCenter">3</td></tr><tr><td>- The personal
+  information is transmitted using wireless technologies.</td><td class="alignTopCenter">4</td></tr></table><p>h) Potential risk that in the event of a privacy breach, there will be an impact on the individual or employee.</p><p>i) Potential risk that
+  in the event of a privacy breach, there will be an impact on the institution.<br /><br />
+  Note: For additional guidance on items
+  h) and i), government institutions can refer to the <a href="/pol/doc-eng.aspx?id=26154">Guidelines
+  for Privacy Breaches</a>.</p><p>In the case of a multi-institutional PIA,
+each government institution involved is, at a minimum, responsible for
+completing items b), c), f), g), h) and
+i), whereas the lead government institution is responsible for completing items
+a), d) and e).</p><h3>Section III—Analysis of Personal
+Information Elements for the Program or Activity</h3><ol class="lower-alpha"><li>Identify each element
+of personal information collected (for example: 1) name, 2) address).</li><li>Identify sub-elements
+associated with each element of personal information collected (for example: 1)
+first name / middle initial / last name, 2) street name / street number / city
+/ province /postal code).</li><li>Identify how the personal
+information will be recorded: on paper, electronically, audio recordings,
+visual image recordings, human biological samples or other (specify).</li></ol><p>In the case of a multi-institutional PIA,
+each government institution involved is, at a minimum, responsible for
+identifying the elements of personal information collected or disclosed in
+relation to their involvement in the multi-institutional program or activity.</p><h3>Section IV—Flow of Personal Information for the Program or Activity</h3><ol class="lower-alpha"><li>Identify the
+source(s) of the personal information collected and / or how the personal
+information will be created.</li><li>Identify both
+internal and external sources for the personal information's use and
+disclosure, that is, identify the areas,
+groups and individuals who have access to or handle
+the personal information and to whom it is provided or disclosed. Where
+relevant, include the following information:
+	<ul><li>Government
+institution responsible for the program or activity (provide PIB title and
+number);</li><li>Other government institution
+responsible for the program or activity (provide PIB title and number); or</li><li>Non-federal
+government institution (e.g., provincial or territorial, municipal, or
+Aboriginal governments or councils, organization of a foreign state,
+international organization) or private sector.</li></ul></li><li>Identify where the
+personal information will transit and will be stored or retained.</li><li>Identify where areas,
+groups and individuals can access the personal information.</li></ol><p>The
+government institution is to determine the format for representing the flow of
+personal information.</p><p>In the case of a multi-institutional PIA, each
+government institution involved is, at a minimum, responsible for outlining the
+flow of personal information under its control. The lead government institution
+will be responsible for outlining the flow of personal information between or
+among government institutions.</p><h3>Section V—Privacy Compliance Analysis</h3><ol class="lower-alpha"><li>At a minimum, the privacy compliance analysis must
+cover the following areas and identify specific
+compliance actions taken or to be taken to meet with each area's requirements:
+
+	<ul><li>Collection authority (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-2.html#h-5">section
+	4 of the <em>Privacy Act</em></a>)</li><li>Direct collection, notification
+	and consent, as appropriate (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-2.html#h-5">section
+	5 of the <em>Privacy Act</em></a>)</li><li>Retention (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-2.html#h-5">section
+	6 of the <em>Privacy Act</em></a>)</li><li>Accuracy (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-2.html#h-5">section
+	6(2) of the <em>Privacy Act</em></a>) </li><li>Use (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-3.html#h-6">section
+	7 of the <em>Privacy Act</em></a>)</li><li>Disclosure (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-3.html#h-6">section
+	8 of the <em>Privacy Act</em></a>)</li><li>Administrative, physical and
+	technical safeguards</li><li>Technology and privacy issues
+			<ul><li>Indicate any changes to the
+	business requirements that have an impact on the system, software or program
+	application and, consequently, may affect the current access controls and
+	privacy practices related to the creation, collection, retention, use,
+	disclosure and disposition of personal information.</li><li>Determine whether the current IT
+	legacy systems and services that will be retained or those that will be
+	substantially modified are compliant with privacy requirements.</li><li>Identify any awareness activities
+	related to protection of privacy requirements in the new electronic
+	environment.</li></ul></li></ul></li></ol><p>In the
+case of a multi-institutional PIA, each government institution involved is, at
+a minimum, responsible for outlining the privacy practices for the personal
+information under its control.</p><h3>Section VI—Summary of Analysis and Recommendations (as applicable)</h3><ol class="lower-alpha"><li>Document the conclusion drawn or
+recommendations resulting from the risk identification and categorization in a
+manner that is commensurate with the risk identified.</li></ol><h3>Section VII—Supplementary Documents List</h3><ol class="lower-alpha"><li>List any additional documents
+that were used or are related to the core PIA; these documents do not need to
+be appended to the core PIA.</li></ol><h3>Section VIII—Formal Approval</h3><ol class="lower-alpha"><li>Indicate that the PIA was formally approved in
+accordance with the government institution's approval process. </li><li>In the case of a
+multi-institutional PIA, indicate that the lead government institution
+determined the PIA was formally approved.</li></ol><p>Completion of the above sections with the information
+requested fulfills the minimum content requirements of the core PIA. </p></appendix></appendices></doc>
