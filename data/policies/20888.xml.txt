@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Remediation Liabilities Related to Contaminated Sites: A Supplement to the Financial Information Strategy (FIS) Manual" documentID="20888" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><notetoreader><div><p>This supplement provides the accounting treatment for the following:</p><ul><li>Site assessment expenditures<ul><li>By other government department</li><li>By custodian department </li></ul></li><li>Care and maintenance expenditures</li><li>Recording a remediation liability</li><li>Recording actual remediation work undertaken</li><li>Adjusting the remediation liability account for work performed during the 
+	year and adjusting the balance at year-end to reflect the appropriate 
+	amount<ul><li>Remediation costs less than opening liability balance</li><li>Remediation costs greater than opening liability balance</li></ul></li><li>After remediation<ul><li>Writing off remaining balance of the remediation liability account</li><li>Recording monitoring costs</li></ul></li><li>Liability valuation adjustments</li></ul></div></notetoreader><chapters><chapter anchor="1" title="Introduction"><p>The accounting for remediation liabilities related to contaminated sites is driven 
+by the accounting policies of the Government of Canada, which are based on the accounting 
+standards set by the Public Sector Accounting Board (PSAB) and by the <em><a href="/pol/doc-eng.aspx?id=12042">Policy on Management of Real Property</a></em> 
+and its associated directives, standards and guides and its relevant legislation. 
+Future Asset Restoration Liabilities are not remediation liabilities. Accounting 
+and disclosure requirements for these costs can be found in the <a href="/pol/doc-eng.aspx?id=20885">Future Asset 
+Restoration Liability guideline</a>. </p><p>This section provides guidance on the recognition, measurement, disclosure and 
+reporting of a contaminated site in the <em><a href="http://www.tpsgc-pwgsc.gc.ca/recgen/txt/72-eng.html">Public Accounts of 
+Canada</a></em>. </p></chapter><chapter anchor="2" title="Recognition"><p>A liability for remediation of contaminated sites should be recognized when, 
+as at the financial reporting date, the following applies:</p><ul><li>An environmental standard exists; </li><li>Contamination exceeds the environmental standard;</li><li>The government:
+	<ul><li>owns the land; or</li><li>is directly responsible; or </li><li>accepts responsibility (e.g. when there is little, if any, discretion 
+		to avoid the obligation).</li></ul></li><li>It is expected that future economic benefits will be given up; and </li><li>A reasonable estimate of the amount can be made. </li></ul><p>An obligation for remediation of contaminated sites cannot be recognized as a 
+liability unless all criteria are satisfied. See <a href="/pol/doc-eng.aspx?id=20888&amp;section=text#appB">Appendix B</a> 
+for a Decision Matrix on Recognizing a Remediation Liability. </p><p>A general policy intention to remediate is not sufficient to establish a liability 
+where no public health and safety concerns or contractual arrangements, legislation, 
+regulation or by-law exist<em>. </em></p><p>The <em><a href="/pol/doc-eng.aspx?id=12047">Reporting Standard on Real Property</a></em> 
+specifies that the Federal Contaminated Sites Inventory (FCSI) is the Government 
+of Canada's central database containing all known or suspected contaminated sites 
+for which departments, agencies and consolidated Crown corporations assume partial 
+or full responsibility. Information in the FCSI supports the amounts reported in 
+the <em>Public Accounts of Canada</em> related to the government's liabilities for 
+remediation of contaminated sites. Please see <a href="/pol/doc-eng.aspx?id=20888&amp;section=text#appC">Appendix C</a> 
+for further information on the FCSI.</p><section anchor="2.1" title="Environmental standard: "><p>An environmental standard is generally set out in the form of a statute, regulation, 
+by-law, order, permit, contract or agreement. It is legally enforceable. </p><p>An environmental standard may be both quantitative and qualitative. Quantitative 
+standards are normally easily verifiable, whereas qualitative standards will require 
+professional judgment to determine whether a liability exists. </p><p>In some cases environmental standards may be created by internal government policy 
+or by guidelines developed by organizations external to the government. Voluntary 
+compliance to such standards may create a liability. The determination would 
+require the exercise of professional judgment considering the individual circumstances 
+and the criteria for recognition of a remediation liability.</p></section><section anchor="2.2" title="Contamination exceeds the environmental standard:"><p>The existence of an environmental standard does not create a remediation liability. 
+A remediation liability may only exist once it has been determined that contamination 
+exceeds the standard. </p></section><section anchor="2.3" title="Government owns the land:"><p>If the government owns the land, and all other recognition criteria have been 
+satisfied, a remediation liability should be recorded. If the government is 
+not responsible for the contamination, and a recovery is likely, the recovery receivable 
+should be recorded against the liability.</p></section><section anchor="2.4" title="Government is directly responsible: "><p>In some cases, the Government of Canada is directly responsible for remediation 
+because of its own past activities or the activities on government-owned land or 
+on land that the government has since acquired and a responsible party cannot be 
+identified.</p><p>A legal obligation establishes a clear duty or responsibility to another party 
+that justifies recognition of a liability. For purposes of this section, a legal 
+obligation can result from the following:</p><ul><li>Agreements or contracts;</li><li>Another government's legislation; or</li><li>Federal government's own legislation. </li></ul></section><section anchor="2.5" title="Government accepts responsibility:"><p>The Government of Canada may voluntarily assume responsibility for remediation 
+of contaminated sites through its own actions or promises. However, only those assumed 
+obligations for remediation that meet the definition of a liability at the financial 
+statement date can be recognized. Obligations that are based on the intention or 
+policy of the government may not satisfy the three essential characteristics of 
+a liability for recognition according to Public Sector Accounting Standard (PSAS) 
+PS 3200.</p><p>Most liabilities for remediation arise from legal obligations, which can be enforced 
+by a court of law. It is possible, in the absence of a legally enforceable 
+agreement that the government, through its own actions or promises, may have created 
+a valid expectation among others that it will remediate a contaminated site or continue 
+to remediate contaminated sites. In these cases it may have little or no discretion 
+but to take action and a liability may need to be recorded. A legal opinion may 
+be required in these cases.</p></section><section anchor="2.6" title="Uncertain responsibility and contingencies:"><p>There may be a situation where the following conditions are present. An environmental 
+standard exists and contamination exceeds the standard. The government is not directly 
+responsible and does not accept responsibility, but there is uncertainty as to whether 
+the government may be responsible. In this case, the government may have a contingent 
+liability. </p><p>Determining whether a liability for a contaminated site exists atthe financial 
+statement date is a matter of judgment. It requires an assessment of the probability 
+that the outcome of the future event will confirm responsibility. </p><p>If it is likely that the future event will confirm the government's responsibility, 
+a contingent liability would be recognized if the amount can be reasonably estimated. 
+If the amount cannot be reasonably estimated but the costs are expected to be significant, 
+it should be disclosed in the notes to the departmental financial statements.</p><p>If it is unlikely that the government will be responsible, no liability would 
+be disclosed. </p><p>If the outcome of the future event cannot be determined, the existence, nature 
+and extent of the contingent liability would be disclosed in the notes to the departmental 
+financial statements. </p><p>If litigation for damages related to a contaminated site has been launched against 
+the department, the claim must be reported as a contingent liability. The litigation 
+liability and contingent liability should be net of any amounts reported for environmental 
+liabilities and environmental contingent liabilities in this section. For additional 
+information on contingencies see the
+<a href="/fm-gf/tools-outils/guides/acl-cpe-eng.asp">Guidance on accounting for 
+contingent liabilities stemming from claims and litigation and contingent gains</a>.</p></section><section anchor="2.7" title="Future economic benefits:"><p>The existence of contamination that exceeds an environmental standard may create 
+a liability regardless of whether the government chooses to perform remediation 
+activities. However, it is possible that the present obligation would not be recognized 
+as a liability if it is not expected that future economic benefits will be given 
+up. Professional judgment will be required.</p><p>The costs to "risk manage" a site should not be recorded as a liability unless 
+the costs are directly related to reducing or removing the contaminant. Costs 
+incurred to ensure the contaminant remains at an acceptable level or remains contained 
+at the site are considered regular, ongoing operating costs required to manage the 
+site, similar to care, maintenance and monitoring costs. Only those remediation 
+expenditures required to bring the site to a "risk manageable" condition would be 
+included in a remediation liability.</p><p>Where more than one department is involved with the site (i.e., more than one 
+custodian is responsible for the contamination or one custodian owns the site, but 
+another uses it), the custodian departmentassuming responsibility for remediation 
+should report the liability.</p><p>If determining the level of responsibility for the contamination is unclear, 
+departments should seek the advice of Treasury Board of Canada Secretariat, Real 
+Property and Materiel Policy Division.</p></section></chapter><chapter anchor="3" title="Measurement"><p>The estimate of the remediation liability should include costs that are directly 
+attributable to remediation activities and are required to bring the site up to 
+the current minimum standard for federal use prior to contamination, or for the 
+intended federal use, whichever is less. Costs included to bring the site up to 
+a higher level would be considered a "betterment" and should be capitalized. </p><p>Directly attributable costs would include, but are not limited to, payroll and 
+benefits, equipment and facilities, materials, and legal and other professional 
+services. Costs related to the damage of natural resources are normally not included.</p><p>Remediation costs should include the costs to develop and implement a remediation 
+strategy once the site has been reclassified as a contaminated site. Remediation 
+costs would also include final confirmatory sampling and the final report. Costs 
+incurred once the site has been brought to a level that is considered acceptable 
+are considered regular operating costs.</p><p>The estimate may include costs of assets acquired as part of remediation activities 
+to the extent that the assets have no alternative use. These assets would be expensed.</p><p>Care, maintenance and monitoring can be included only if they are a part of the 
+remediation strategy and are completed during the remediation phase. Costs incurred 
+for care, maintenance and monitoring before the remediation liability is recognized, 
+or after the remediation phase is complete, are considered operating costs.</p><p>The measurement technique adopted by the government should result in the best 
+estimate of the amount required to settle the liability. The best estimate can be 
+described as the amount that a government would rationally pay to settle or otherwise 
+extinguish the liability at the financial statement date. The amount would be based 
+on the best estimate of the expenditures required to complete the remediation. The 
+estimate of expenditures would require professional judgment supplemented by experience, 
+third party quotes and, in some cases, reports of independent experts.</p><p>Governments may estimate their liability for remediation based on an assessmentof 
+a group of contaminated sites that have typical or common characteristics, such 
+as similarities in historical land use, site-specific conditions, and the nature 
+and extent of the contamination. Note that each site must be recorded separately 
+in the FCSI. Extrapolation examples are provided in <a href="/pol/doc-eng.aspx?id=20888&amp;section=text#appD">Appendix 
+D</a>. </p><p>Estimated costs that are not incurred specifically for remediation activities, 
+such as research and development of technologies (i.e., bench scale testing or demonstration 
+on a small scale at field sites) or skill development programs, should not be included 
+in the liability.</p><p>Any costs relating to surveying areas in order to find archaeological sites, 
+excavating sites in order to recover cultural remains, and the subsequent classification, 
+analysis, and preservation of the sites should not be included in the liability.</p><p>If the liability estimate is based on a future cash requirement, the estimated 
+future cash flow should be discounted using the
+<a href="http://www.fin.gc.ca/activty/lending_-eng.asp">government of Canada lending 
+rate</a> to approximate its present value.. An example of discounting can be found 
+in <a href="/pol/doc-eng.aspx?id=20888&amp;section=text#appA">Appendix A</a>.</p><p>The liability estimate should be reviewed each year-end to reflect any changes 
+in estimates. At a minimum, prior year estimates should be increased by inflation 
+over the previous year. The
+<a href="http://www40.statcan.gc.ca/l01/cst01/cpis01a-eng.htm">Consumer Price Index 
+(CPI)</a> would be used in these cases. </p><p>Valuation adjustment = (Opening Balance less Expenditures Reducing Liability) 
+[multiplied by] CPI. </p><section anchor="3.1" title="Site reassessments:"><p>Events that may indicate a need to do a detailed reassessment of the contaminated 
+sites on which the estimate of the liability is based can include, but are not limited 
+to, the following:</p><ul><li>Significant technological developments;</li><li>Lapsed time since the last site assessments were completed;</li><li>New information from detailed site assessments, site characterizations, 
+	or technical reviews done on similar contaminated sites; and</li><li>A change in the legislation. </li></ul></section><section anchor="3.2" title="Expected recoveries:"><p>A liability for remediation of contaminated sites should be reduced by expected 
+net recoveries if the item has an appropriate basis of measurement, and a reasonable 
+estimate can be made of the amount involved; and it is expected that future economic 
+benefits will be obtained or given up.</p></section></chapter><chapter anchor="4" title="Disclosure and reporting"><p>A financial statement should disclose information <strong>on an aggregate basis</strong> 
+about the following:</p><ul><li>Nature of the liability;</li><li>Basis for the estimate of the liability;</li><li>Reasons for non-disclosure of a liability; and</li><li>Estimated recoveries.</li></ul></chapter><chapter anchor="5" title="References"><ul><li><em><a href="/pubs_pol/dcgpubs/accstd/capasset-eng.asp">Treasury Board Accounting 
+	Standard 3.1 - Capital Assets</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12181">Treasury Board Accounting Standard 
+	3.6 - Contingencies</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=15786">Directive on Contingencies</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12056">Guide to the Management of Real 
+	Property, Appendix B: Real Property Glossary</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12042">Policy on Management of Real Property</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12047">Reporting Standard on Real Property</a></em></li><li><em><a href="http://publiservice.tpsgc-pwgsc.gc.ca/rg/manuels-manuals/chap15/index-fra.html">Receiver General Manual, Chapter 15 </a>(PDF document – 200 KB)</em></li><li>Public Sector Accounting Standards
+	<ul><li>PS 3260 Liability for Contaminated Sites</li><li>PS 3150 Tangible Capital Assets</li><li>PS 3270 Solid Waste Landfill Closure And Post-Closure Liability</li><li>PS 2130 Measurement Uncertainty</li><li>PS 3200 Liabilities, Section</li><li>PS 3300 Contingent Liabilities</li><li>PS 2400 Subsequent Events</li></ul></li></ul></chapter><chapter anchor="6" title="Accounting entries"><p><strong>Note</strong>: For simplicity, the accounting entries presented below 
+do not reflect the goods and services tax / harmonized sales tax (GST / HST).</p><section anchor="6.1" title="1. Site assessment"><h4>Scenario A–The department hires external contactors to assess a potentially contaminated site.</h4><p>The actual costs of the assessment work performed by contractors are as follows:</p><ul><li>Professional fees–$12,000; </li><li>Travel–$2,000; and </li><li>Equipment rental–$6,000. </li></ul><table class="rpp widthFull"><caption><strong>(a)  The custodian department entry 
+to record the assessment work performed by contractors</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses</td><td class="alignRight">20,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0495</td></tr><tr><td>Credit: Accounts Payable Ongoing</td><td class="alignRight">20,000</td><td class="alignCenter">21111</td><td class="alignCenter">R300</td><td class="alignCenter">6299</td></tr></tbody></table><p><strong>FRA coding rationale:</strong> All assessment costs are considered to 
+be operating expenses. Therefore, a debit is recorded in 51321, and an accounts 
+payable account 21111 is established. </p><p><strong>Authority coding rationale:</strong> Depending on the department's vote 
+structure, the authority code B11A or B12A could be used. Since there is no impact 
+on authorities for the accounts payable, R300 is used.</p><p>B11A/B12A: Program expenditures or operating expenditures vote<br />
+R300: Total (or Net, as applicable) amounts of all other assets and of all other 
+liabilities</p><p><strong>Object coding rationale:</strong> Object code 0495 is used to track all 
+expenses incurred by the contractor to assess potential contamination regardless 
+of the type of expenditure invoiced. 6299 should be used to indicate the establishment 
+of the accounts payable.</p><p>0495: Services related to the assessment of potentially contaminated sites<br />
+6299: Net increase or decrease in other liability</p><h4>Scenario B–The department's employees perform the assessment of a potentially 
+contaminated site.</h4><p>Assessment performed by custodian departmental employees. Actual costs are as 
+follows: </p><ul><li>Salary–$12,000; </li><li>Travel–$2,000; and </li><li>Equipment rental–$6,000.</li></ul><table class="rpp widthFull"><caption><strong>(b)  The custodian department entry 
+to record assessment work performed by employees</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Salaries and Wages (Including Allowances)</td><td class="alignRight">12,000</td><td class="alignCenter">51311</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0101</td></tr><tr><td>Debit: Operating Expenses</td><td class="alignRight">2,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0201</td></tr><tr><td>Debit: Operating Expenses</td><td class="alignRight">6,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0533</td></tr><tr><td>Credit: Accounts Payable Ongoing</td><td class="alignRight">20,000</td><td class="alignCenter">21111</td><td class="alignCenter">R300</td><td class="alignCenter">6299</td></tr></tbody></table><p><strong>FRA coding rationale:</strong> Salaries and wages are debited under 51311, 
+and travel and equipment rental are recorded as a debit to operating expenses under 
+51321. Accounts payable is credited using 21111 for the total amount payable.</p><p><strong>Authority coding rationale:</strong> Depending on the department's vote 
+structure, the authority code B11A or B12A could be used. Since there is no impact 
+on authorities for the accounts payable, R300 is used.</p><p>B11A/B12A: Program expenditures or operating expenditures vote</p><p>R300: Total or net amounts (as applicable) of all other assets and of all other 
+liabilities</p><p><strong>Object coding rationale:</strong> Object code 0101 is used to track salaries 
+and wages. Object codes 0201 and 0533 are used to track travel and equipment rental 
+respectively. 6299 should be used to indicate the establishment of an accounts payable.</p><p>0101: Civilian regular time–Continuing employment<br />
+0201: Travel–Public servants<br />
+0533: Rental of machinery, office furniture and fixtures, and other equipment<br />
+6299: Net increase or decrease in other liability accounts</p><h4>Scenario C–The department requests that the assessment work be done by another 
+government department (OGD) </h4><p>Assessment work is performed by OGD as service provider. Actual costs are as 
+follows: </p><ul><li>OGD employee salary–$5,000;</li><li>Travel–$2,000; </li><li>External contractor professional fee–$9,000; and </li><li>Contractor travel–$4,000.</li></ul><table class="rpp widthFull"><caption><strong>(a)  The OGD entry to record the cost of the service performed </strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses </td><td class="alignRight">13,000</td><td class="alignRight">51321</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0499</td></tr><tr><td>Debit: Salaries and Wages (Including Allowances)</td><td class="alignRight">5,000</td><td class="alignRight">51311</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0101</td></tr><tr><td>Debit: Operating Expenses</td><td class="alignRight">2,000</td><td class="alignRight">51321</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0201</td></tr><tr><td>Credit: Accounts Payable Ongoing</td><td class="alignRight">20,000</td><td class="alignRight">21111</td><td class="alignRight">R300</td><td class="alignRight">6299</td></tr></tbody></table><table class="rpp widthFull"><caption><strong>(b)  The OGD entry to record the revenue earned and set up a receivable </strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Other Government Departments (OGD) - Accounts Receivable</td><td class="alignRight">20,000</td><td class="alignRight">11242</td><td class="alignRight">R300</td><td class="alignRight">5399</td></tr><tr><td>Credit: Services of a Non-Regulatory Nature</td><td class="alignRight">20,000</td><td class="alignRight">42314</td><td class="alignRight">D211</td><td class="alignRight">4569</td></tr></tbody></table><table class="rpp widthFull"><caption><strong>(c)  The custodian department entry to record the expense and set up a payable </strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses </td><td class="alignRight">20,000</td><td class="alignRight">51321</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0495</td></tr><tr><td>Credit: Other Government Departments (OGD) - Accounts Payable</td><td class="alignRight">20,000</td><td class="alignRight">21132</td><td class="alignRight">R300</td><td class="alignRight">6299</td></tr></tbody></table><p><strong>FRA coding rationale:</strong> The OGD performing the work credits 21111 
+for the external accounts payable and debits 51311 for departmental employee salaries 
+and wages and 51321 for all other operating expenses incurred by the department. 
+The OGD then debits 11242 to establish an internal accounts receivable with the 
+custodian department and credits 42314 for the revenue earned. The custodian department 
+debits 51321 for the cost of the work performed by the OGD, and 21132 is credited 
+for the amount owing to the OGD. </p><p><strong>Authority coding rationale: </strong>Depending on the department's vote 
+structure, the authority code B11A or B12A could be used. Since there is no impact 
+on authorities for the accounts payable, R300 is used. D211 is used to capture the 
+relevant revenue charging authority. </p><p>B11A/B12A: Program expenditures or operating expenditures vote<br />
+R300: Total or net amounts (as applicable) of all other assets and of all other 
+liabilities<br />
+D211: User charges emanating from a department's enabling statute</p><p><strong>Object coding rationale: </strong>The OGD should use 0499 to record the 
+total costs of the external contractor for the work performed, 0101 for salaries 
+and wages for the employees, and 0201 for the travel costs of the employees. 6299 
+should be used to indicate the establishment of an external accounts payable. The 
+OGD then uses 5399 to establish an accounts receivable for the amount owing from 
+the custodian department, and 4569 is used for the revenue earned. The custodian 
+department should use 0495 to record the assessment expense and 6299 to establish 
+an accounts payable owing to the OGD.</p><p>0499: Other professional services not elsewhere specified <br />
+0101: Civilian regular time–Continuing employment<br />
+0201: Travel–Public servants<br />
+6299: Net increase or decrease in other liability<br />
+5399: Net increase or decrease in accounts receivable<br />
+4569: Other revenue from services of a non-regulatory nature<br />
+0495: Services related to the assessment of potentially contaminated sites</p></section><section anchor="6.2" title="2. Care and maintenance (pre-remediation activity)"><p>Care and maintenance costs incurred prior to the recognition of a remediation 
+liability would be recorded in a manner similar to site assessment (above), replacing 
+0495 with 0497. These costs would be included under the Total Care and Maintenance 
+Expenditure column in the FCSI.</p></section><section anchor="6.3" title="3. Remediation liability recognized"><h4>Scenario A–The department records the estimate of the amount of the remediation 
+liability.</h4><p>Following the completion of a site assessment where all recognition criteria 
+have been met, the department must recognize a remediation liability.
+The <strong>best estimate</strong> of the future remediation work required, 
+at present value is $3 million. Please see <a href="#/pol/doc-eng.aspx?id=20888&amp;section=text#appA">Appendix A</a> 
+for detailed present value calculations. These estimates require professional judgment 
+supplemented by experience, third party quotes and, in some cases, the reports of 
+independent experts. The $3 million should also be entered in the FCSI as a new 
+liability for sites with no liability previously recorded.</p><table class="rpp widthFull"><caption><strong>(a) The custodian department records the estimate of the remediation 
+liability</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses</td><td class="alignRight">3,000,000</td><td class="alignRight">51321</td><td class="alignRight">F127</td><td class="alignRight">3469</td></tr><tr><td>Credit: Remediation Liabilities</td><td class="alignRight">3,000,000</td><td class="alignRight">24141</td><td class="alignRight">F419</td><td class="alignRight">7029</td></tr></tbody></table><p><strong>FRA coding rationale: </strong>51321 is debited for the estimated remediation 
+expense, and a remediation liability is established under 24141.</p><p><strong>Authority coding rationale:</strong> The recording of the estimated liability 
+does not affect appropriations. F127 is used for the expense, while F419 is used 
+for the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> Object code 3469 should be used to 
+record the estimated expense, while 7029 should be used to record the provision 
+for remediation liability.</p><p>3469: Charges to other liability accounts<br />
+7029: Other allowances</p></section><section anchor="6.4" title="4. Remediation undertaken"><h4>Scenario A–The department incurs remediation expenditures</h4><p>Actual expenditures related to remediation performed during the year amount to 
+$2,050,000. The costs include the following: </p><p>Custodian department employee salary (including incremental project management 
+costs)– $400,000; <br />
+Employee travel–$50,000; <br />
+Contractor professional fee–$1,000,000; and <br />
+Contractor trael–$100,000. </p><p>The invoice total from the OGD service provider is $500,000 (OGD employee salary 
+at $150,000 and professional service from contractor at $350,000). </p><table class="rpp widthFull"><caption><strong>(a)  The OGD entry to record the cost of the service performed</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Salaries and Wages (Including Allowances)</td><td class="alignRight">150,000</td><td class="alignRight">51311</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0101</td></tr><tr><td>Debit: Operating Expenses </td><td class="alignRight">350,000</td><td class="alignRight">51321</td><td class="alignRight">B11A/B12A</td><td class="alignRight">0499</td></tr><tr><td>Credit: Accounts Payable Ongoing</td><td class="alignRight">500,000</td><td class="alignRight">21111</td><td class="alignRight">R300</td><td class="alignRight">6299</td></tr></tbody></table><table class="rpp widthFull"><caption><strong>(b)  The OGD entry to record the revenue 
+earned and accounts receivable </strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Other Government Departments (OGD) Accounts Receivable</td><td class="alignRight">500,000</td><td class="alignRight">11242</td><td class="alignRight">R300</td><td class="alignRight">5399</td></tr><tr><td>Credit: Services of a Non-Regulatory Nature </td><td class="alignRight">500,000</td><td class="alignRight">42314</td><td class="alignRight">D211</td><td class="alignRight">4569</td></tr></tbody></table><table class="rpp widthFull"><caption><strong>(c)  Custodian department entry 
+to record entire transaction </strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td class="alignTop">Debit: Salaries and Wages (Including Allowances)</td><td class="alignRight">400,000</td><td class="alignCenter">51311</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0101</td></tr><tr><td class="alignTop">Debit: Operating Expenses</td><td class="alignRight">50,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0201</td></tr><tr><td class="alignTop">Debit: Operating Expenses </td><td class="alignRight">1,100,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0496 </td></tr><tr><td class="alignTop">Debit: Operating Expenses </td><td class="alignRight">500,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0496 </td></tr><tr><td class="alignTop">Credit: Accounts Payable Ongoing</td><td class="alignRight">1,550,000</td><td class="alignCenter">21111</td><td class="alignCenter">R300</td><td class="alignCenter">6299</td></tr><tr><td class="alignTop">Credit: Other Government Departments (OGD) Accounts Payable</td><td class="alignRight">500,000</td><td class="alignCenter">21132</td><td class="alignCenter">R300</td><td class="alignCenter">6299</td></tr></tbody></table><p><strong>FRA coding rationale:</strong> The OGD performing the work credits 21111 
+for the external accounts payable and debits 51311 for departmental employee salaries 
+and wages and 51321 for all other operating expenses incurred by the department. 
+The OGD then debits 11242 to establish an internal accounts receivable with the 
+custodian department and credits 42314 for the revenue earned. The custodian department 
+debits 51321 for the cost of the work performed by the OGD, and 21132 is credited 
+for the amount owing to the OGD. The custodian department also debits 51311 for 
+the salaries and wages of its own employees engaged in remediation work and 51321 
+for other expenses related to the remediation work performed. Accounts payable 
+is credited using 21111 for the external amounts payable.</p><p><strong>Authority coding rationale: </strong>Depending on the department's vote 
+structure, the authority code B11A or B12A could be used. Since there is no impact 
+on authorities for the accounts payable and receivable, R300 is used. D211 is used 
+to capture the relevant revenue charging authority. </p><p>B11A/B12A: Program expenditures or operating expenditures vote<br />
+R300: Total or net amounts (as applicable) of all other assets and of all other 
+liabilities<br />
+D211: User charges emanating from a department's enabling statute</p><p><strong>Object coding rationale:</strong> The OGD should use 0499 to record the 
+total costs of the external contractor for the work performed. 0101 is used for 
+salaries and wages for the employees, while 6299 is used to indicate the establishment 
+of an external accounts payable. The OGD then uses 5399 to establish an accounts 
+receivable for the amount owing from the custodian department and uses 4569 to indicate 
+that the revenue has been earned. The custodian department uses 0101 for the cost 
+of its own employees directly engaged in remediation activities, 0201 for the travel 
+incurred by the employees, and 0496 for the cost of the external contractor hired 
+and for the remediation worked charged by the OGD.</p><p>0499: Other professional services not elsewhere specified <br />
+0101: Civilian regular time–Continuing employment<br />
+0201: Travel–Public servants<br />
+6299: Net increase or decrease in other liability<br />
+5399: Net increase or decrease in accounts receivable<br />
+4569: Other revenue from services of a non-regulatory nature<br />
+0496: Services related to the remediation of contaminated sites</p></section><section anchor="6.5" title="5. Remediation liability account adjusted"><h4>Scenario A–The remediation liability is adjusted for remediation work performed 
+during the year and to reflect the appropriate estimated year-end balance</h4><p>The opening remediation liability balance of the site is $3,000,000. Remediation 
+work was performed during the year in the amount of $2,050,000, as noted above. 
+Remediation will continue with a remaining estimated cost of $1,700,000 at year-end.</p><table class="rpp widthFull"><caption><strong>(a)  Custodian department accounting 
+entry to reduce the liability for the remediation work performed during the year</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Remediation Liabilities</td><td class="alignRight">2,050,000</td><td class="alignRight">24141</td><td class="alignRight">F419</td><td class="alignRight">7029</td></tr><tr><td>Credit: Operating Expenses</td><td class="alignRight">2,050,000</td><td class="alignRight">51321</td><td class="alignRight">F127</td><td class="alignRight">3469</td></tr></tbody></table><p><strong>Note 1</strong>: The opening liability is reduced by the amount of the remediation work 
+performed, and $2,050,000 should be entered as "Expenditures reducing liability" 
+in the FCSI. Note that the liability cannot be reduced by an amount greater than 
+its opening balance. </p><p><strong>FRA coding rationale: </strong>In order to reduce the provision, 51321 
+is credited, and 24141 is debited.</p><p><strong>Authority coding rationale:</strong> Adjustments to the estimated liability 
+do not affect appropriations. Therefore, F127 is credited for the expense, while 
+F419 is debited to reduce the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> This is strictly an accrual transaction 
+and there is no effect on economic objects therefore economic object codes 3469 
+and 7029 should be used.</p><p>3469: Charges to other liability accounts<br />
+7029: Other allowances</p><table class="rpp widthFull"><caption><strong>(b)  Custodian department accounting 
+entry to increase the liability to the estimated amount at year-end</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses</td><td class="alignRight">750,000</td><td class="alignRight">51321</td><td class="alignRight">F127</td><td class="alignRight">3469</td></tr><tr><td>Credit: Remediation Liabilities </td><td class="alignRight">750,000</td><td class="alignRight">24141</td><td class="alignRight">F419</td><td class="alignRight">7029</td></tr></tbody></table><p><strong>Note 1</strong>: The additional remediation liability required to reflect 
+the new estimated amount of $1,700,000 is $750,000 ($3,000,000 – 2,050,000 + 750,000 = 1,700,000).</p><p><strong>Note 2</strong>: $750,000 should be entered as "Changes to liability 
+previously reported" in the FCSI.</p><p><strong>FRA coding rationale: </strong>In order to increase the provision, 51321 
+is debited, and 24141 is credited.</p><p><strong>Authority coding rationale:</strong> Adjustments to the estimated liability 
+do not affect appropriations and therefore F127 is debited for the expense, while 
+F419 is credited to increase the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> This is strictly an accrual transaction 
+and there is no effect on economic objects therefore economic object codes 3469 
+and 7029 should be used.</p><p>3469: Charges to other liability account<br />
+7029: Other allowances</p><h4>Scenario B - The remediation liability is adjusted for remediation work performed 
+during the year and to reflect the appropriate estimated year-end balance. In this 
+case, the remediation costs are greater than the liability.</h4><p>The opening remediation liability balance of the site is $1,600,000. Remediation 
+work is performed during the year in the amount of $2,050,000. Remediation will 
+continue with a remaining estimated cost of $1,700,000 at year-end. </p><table class="rpp widthFull"><caption><strong>(a)  Custodian department accounting 
+entry to reduce remediation liability for the remediation work performed</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td class="alignTop">Debit: Remediation Liabilities</td><td class="alignRight">1,600,000</td><td class="alignCenter">24141</td><td class="alignCenter">F419</td><td class="alignCenter">7029</td></tr><tr><td class="alignTop">Credit: Operating Expenses</td><td class="alignRight">1,600,000</td><td class="alignCenter">51321</td><td class="alignCenter">F127</td><td class="alignCenter">3469</td></tr></tbody></table><p><strong>Note 1</strong>: The reported liability cannot be reduced to an amount 
+less than zero and therefore, in this case, it can only be reduced by $1,600,000. 
+The same amount is reported as the "Expenditure reducing liability" in the FCSI.</p><p><strong>Note 2</strong>: "Total remediation expenditure" recorded in the FCSI 
+is $2,050,000.</p><p><strong>FRA coding rationale: </strong>In order to reduce the provision, 51321 
+is credited and 24141 is debited.</p><p><strong>Authority coding rationale: </strong>Adjustments to the estimated liability 
+do not affect appropriations and therefore F127 is credited for the expense, while 
+F419 is debited to reduce the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> This is strictly an accrual transaction 
+and there is no effect on economic objects therefore the economic object codes 3469 
+and 7029 should be used.</p><p>3469: Charges to other liability account<br />
+7029: Other allowances</p><table class="rpp widthFull"><caption><strong>(b)  Custodian department accounting 
+entry to increase liability to appropriate year-end estimated balance of $1,700,000
+</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td class="alignTop">Debit: Operating Expenses</td><td class="alignRight">1,700,000</td><td class="alignCenter">51321</td><td class="alignCenter">F127</td><td class="alignCenter">3469</td></tr><tr><td class="alignTop">Credit: Remediation Liabilities </td><td class="alignRight">1,700,000</td><td class="alignCenter">24141</td><td class="alignCenter">F419</td><td class="alignCenter">7029</td></tr></tbody></table><p><strong>Note 1</strong>: $1,700,000 should be entered as "Changes to liability 
+previously recorded?" in the FCSI. </p><p><strong>FRA coding rationale: </strong>In order to increase the provision, 51321 
+is debited, and 24141 is credited.</p><p><strong>Authority coding rationale:</strong> Adjustments to the estimated liability 
+do not affect appropriations and therefore F127 is debited for the expense, while 
+F419 is credited to increase the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> This is strictly an accrual transaction 
+and there is no effect on economic objects therefore the economic object codes 3469 
+and 7029 should be used.</p><p>3469: Charges to other liability account<br />
+7029: Other allowances</p></section><section anchor="6.6" title="6. After remediation "><p>The remediation objective is met as indicated in the closure report.</p><h4>Scenario A–$200,000 remains in the remediation liability account and remediation 
+work is complete.</h4><table class="rpp widthFull"><caption><strong>(a)  The department writes off the remaining liability balance</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td class="alignTop">Debit: Remediation Liabilities</td><td class="alignRight">200,000</td><td class="alignCenter">24141</td><td class="alignCenter">F419</td><td class="alignCenter">7029</td></tr><tr><td class="alignTop">Credit: Operating Expenses</td><td class="alignRight">200,000</td><td class="alignCenter">51321</td><td class="alignCenter">F127</td><td class="alignCenter">3469</td></tr></tbody></table><p><strong>Note 1</strong>: The $200,000 should be reported as "Changes to liability 
+previously reported" in the FCSI as a negative amount.</p><p><strong>FRA coding rationale: </strong>In order to write off the balance of the 
+provision, 51321 is credited by $200,000, and 24141 is debited by the same amount.</p><p><strong>Authority coding rationale:</strong> Adjustments to the estimated liability 
+do not affect appropriations and therefore F127 is credited for the expense, while 
+F419 is debited to write off the balance of the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> Since there is no impact on economic 
+objects, object codes 3469 and 7029 should be used to write off the balance of the 
+provision.</p><p>3469: Charges to other liability account<br />
+7029: Other allowances</p><h4>Scenario B–Monitoring costs of $50,000 are incurred to ensure continuing compliance 
+to legislated standards </h4><table class="rpp widthFull"><caption><strong>(a)  The custodian department records 
+site monitoring costs</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td class="alignTop">Debit: Operating Expenses </td><td class="alignRight">50,000</td><td class="alignCenter">51321</td><td class="alignCenter">B11A/B12A</td><td class="alignCenter">0498</td></tr><tr><td class="alignTop">Credit: Accounts Payable Ongoing</td><td class="alignRight">50,000</td><td class="alignCenter">21111</td><td class="alignCenter">R300</td><td class="alignCenter">6299</td></tr></tbody></table><p><strong>Note 1</strong>: The sum of the amounts reported under object code 0498 
+represents the annual operating costs and should be reported in the "Total monitoring 
+expenditure" column in the FCSI.</p><p><strong>FRA coding rationale:</strong> Monitoring costs are recorded as a debit 
+to the operating expense 51321, and accounts payable 21111 is credited. </p><p><strong>Authority coding rationale:</strong> Depending on the department's vote 
+structure, the authority code B11A or B12A could be used. Since there is no impact 
+on authorities for the accounts payable, R300 is used.</p><p>B11A/B12A: Program expenditures or operating expenditures vote<br />
+R300: Total or net amounts (as applicable) of all other assets and of all other 
+liabilities</p><p><strong>Object coding rationale:</strong> Object code 0498 should be used to 
+track all the expenses incurred by the contractors to monitor previously contaminated 
+sites. 6299 should be credited to indicate the establishment of the accounts payable.</p><p>0498: Services related to the monitoring of previously contaminated sites<br />
+6299: Net increase or decrease in other liability accounts</p></section><section anchor="6.7" title="7. Liability valuation adjustments"><h4>Scenario A–Increase the present value of the liability to reflect inflation.</h4><table class="rpp widthFull"><caption><strong>(a)  The custodian department records 
+the annual valuation adjustment</strong></caption><thead><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr></thead><tbody><tr><td>Debit: Operating Expenses</td><td class="alignRight">50,000</td><td class="alignRight">51321</td><td class="alignRight">F127</td><td class="alignRight">3469</td></tr><tr><td>Credit: Remediation Liabilities</td><td class="alignRight">50,000</td><td class="alignRight">24141</td><td class="alignRight">F419</td><td class="alignRight">7029</td></tr></tbody></table><p><strong>Note 1</strong>: The liability estimate would be increased by $50,000 to reflect an increase 
+due to inflation.</p><p>Valuation adjustment = (Opening Balance less Expenditures Reducing Liability) 
+[multiplied by] CPI = ($3,000,000 [minus] $1,000,000) [multiplied by] 2.5% = $50,000 </p><p><strong>FRA coding rationale: </strong>51321 is debited, and 24141 is credited 
+by $50,000 to reflect the increase in the expense and the provision due to inflation.</p><p><strong>Authority coding rationale:</strong> The recording of the estimated liability 
+does not affect appropriations. F127 is debited for the expense, while F419 is credited 
+for the provision.</p><p>F127: Expenses related to environmental liabilities<br />
+F419: Charges to other accruals and allowances </p><p><strong>Object coding rationale:</strong> Object code 3469 should be used to 
+record the estimated expense, while 7029 should be used to reflect the increase 
+in the estimated provision.</p><p>3469: Charges to other liability account<br />
+7029: Other allowances</p></section></chapter></chapters><appendices><appendix anchor="A" title="Appendix A-Discounting"><p>Discounting is required when a long-term remediation strategy has been developed 
+and the estimated amount has been inflated to reflect the future costs.</p><p><strong>Discount method assuming interest rate of 4.11% for 
+a 7-year Canada Bond on March 31, Year 0</strong></p><table class="rpp widthFull"><caption><strong>Statement of estimated cash flow</strong></caption><thead><tr><td class="alignTop"> </td><th scope="col" class="lightgreyBG"><strong>Year 1</strong></th><th scope="col" class="lightgreyBG"><strong>Year 2</strong></th><th scope="col" class="lightgreyBG"><strong>Year 3</strong></th><th scope="col" class="lightgreyBG"><strong>Year 4</strong></th><th scope="col" class="lightgreyBG"><strong>Year 5</strong></th><th scope="col" class="lightgreyBG"><strong>Year 6</strong></th><th scope="col" class="lightgreyBG"><strong>Year 7</strong></th><th scope="col" class="lightgreyBG"><strong>Total</strong></th></tr></thead><tbody><tr><th class="alignTop" scope="row">A = Amount provided in Year 0</th><td class="alignCenter">$10,000</td><td class="alignCenter">$12,000</td><td class="alignCenter">$15,000</td><td class="alignCenter">$18,000</td><td class="alignCenter">$14,000</td><td class="alignCenter">$9,000</td><td class="alignCenter">$5,000</td><td class="alignCenter">$83,000</td></tr><tr><th class="alignTop" scope="row">B = 4.11% Discount rate </th><td class="noWrap">(1.0411)<sup>1</sup></td><td class="noWrap">(1.0411)<sup>2</sup></td><td class="noWrap">(1.0411)<sup>3</sup></td><td class="noWrap">(1.0411)<sup>4</sup></td><td class="noWrap">(1.0411)<sup>5</sup></td><td class="noWrap">(1.0411)<sup>6</sup></td><td class="noWrap">(1.0411)<sup>7</sup></td><td class="alignTop"> </td></tr><tr><th class="alignTop" scope="row">Present value = A [divided by] B</th><td class="alignCenter">$9,605</td><td class="alignCenter">$11,071</td><td class="alignCenter">$13,293</td><td class="alignCenter">$15,322</td><td class="alignCenter">$11,446</td><td class="alignCenter">$7,068</td><td class="alignCenter">$3,771</td><td class="alignCenter">$71,576</td></tr></tbody></table><p>The present value at March 31, Year 1, is $71,576.</p></appendix><appendix anchor="B" title="Appendix B-Decision Matrix for Recognizing a Remediation Liability for a Contaminated Site"><p>The following table indentifies whether a remediation liability should be recorded, 
+based on ownership and responsibility, and then identifies other conditions and 
+criteria that are specific to each situation. </p><table class="rpp widthFull"><thead><tr><th scope="col" class="lightgreyBG"><strong>Ownership of Contaminated Site</strong></th><th scope="col" class="lightgreyBG"><strong>Contamination is likely responsible by: </strong></th><th scope="col" class="lightgreyBG"><strong>Estimated remediation liability </strong></th></tr></thead><tbody><tr><td class="alignTop">Owned by the federal government</td><td class="alignTop">Federal government</td><td class="alignTop">Recorded<sup>1</sup></td></tr><tr><td class="alignTop">Owned by the federal government</td><td class="alignTop">Third party</td><td class="alignTop">Recorded<sup>1</sup> and to recover<sup>2</sup></td></tr><tr><td class="alignTop">Leased by the federal government</td><td class="alignTop">Federal government </td><td class="alignTop">Recorded<sup>1</sup></td></tr><tr><td class="alignTop">Owned by a third party</td><td class="alignTop">Federal government</td><td class="alignTop">Recorded<sup>1</sup> (example<sup>3</sup>)</td></tr><tr><td class="alignTop">Owned by a third party<sup>4</sup></td><td class="alignTop">Third party<sup>4</sup></td><td class="alignTop">Not recorded and transfer payment is possible<sup>4</sup></td></tr></tbody></table><p>Notes: </p><ol><li>Record a remediation liability when all recognition criteria are satisfied.</li><li>Record a recovery receivable, netted against the liability, only when the 
+	recovery is likely, such as a coverage receivable from an insurance company.</li><li>Contamination from federal land has migrated to third party land or the 
+	Government of Canada agrees to share some responsibility due to past use of 
+	the site.</li><li>In certain cases, the government may agree to fund remediation costs as 
+	part of a transfer payment agreement (e.g. a contribution agreement). In these 
+	circumstances, the accounting for the costs would fall under the guidance of 
+	accounting for contributions (see section 7.2 of the FIS Accounting Manual). 
+	No liability should be accounted for under this scenario. These sites are not 
+	included in the FCSI.</li></ol><p>Please note that if the determination of the level of responsibility for the 
+contamination is not clear, departments should seek the advice of Treasury Board 
+Secretariat - Real Property and Materiel Policy Division.</p></appendix><appendix anchor="C" title="Appendix C-Federal Contaminated Sites Inventory"><p>The <em><a href="/pol/doc-eng.aspx?id=12047">Reporting Standard on Real Property</a></em> 
+specifies that the FCSI is the Government of Canada's central database containing 
+all known or suspected contaminated sites for which departments, agencies and consolidated 
+Crown corporations assume partial or full responsibility. Information in the FCSI 
+supports the amounts reported in the <em>Public Accounts of Canada</em> on the government's 
+liabilities related to contaminated sites. </p><p><strong>Updating the FCSI system</strong></p><p>According to Part 2 of the <em><a href="/pol/doc-eng.aspx?id=12047">Reporting 
+Standard on Real Property</a></em>, departments, agencies and consolidated Crown 
+corporations are required to update key information in the FCSI as it becomes available. 
+As the financial information in the FCSI forms the basis to support the government's 
+liabilities related to the contaminated sites in the <em>Public Accounts of Canada</em>, 
+departments should at a minimum update the financial information in the FCSI each 
+year after March 31 and before the submission deadline for the first departmental 
+trial balance to the Receiver General of Canada. Departments must ensure that the 
+liability data reported to the FCSI reconciles with that reported in the <em>Public 
+Accounts of Canada.</em></p></appendix><appendix anchor="D" title="Appendix D-Extrapolation"><p>Extrapolation can be calculated as follows.</p><p><strong>Homogenous sites</strong>–Are primarily used when there is a one-to-one 
+reference for sites that have typical or common characteristics and where estimates 
+may be based on an individual site investigation taking into consideration unique 
+site characteristics such as the historical land use, site-specific conditions, 
+and the nature and extent of contamination. In these cases, the (1) known estimated 
+liability for one site divided by (2) the area of known contamination at the same 
+site x (3) the area of suspected contamination for a similar site results in (4) 
+the estimated liability amount of the similar site. </p><p><strong>Example:</strong> The known remediation liability for one site is $1 
+million, and the area of contamination is 50 square meters. What is the estimated 
+liability of another similar site* with an estimated 25 square meters of contamination?</p><p>$1,000,000 (1) [divided by] 50m<sup>2</sup> (2) [multiplied by] 25m<sup>2</sup> (3) = $500,000 estimated 
+liability for similar site (4)</p><p>*Similar site–Is a site with similar historical land use and site-specific conditions, 
+including the nature and extent of contamination, climate, and geographical location.</p><p><strong>Large sites</strong>–If 10% of the acreage of a site has been assessed 
+with an estimated liability of $100,000 and analysis and indicators suggest a potential 
+degree of contamination on 60% of the entire site, the total liability for the site 
+can be estimated at $600,000 ($100,000 [divided by] 10% [multiplied by] 60%). The extrapolation amount is 
+$500,000 ($600,000 [minus] $100,000).</p></appendix><appendix anchor="E" title="Appendix E-Glossary"><dl><dt><strong>Contaminants</strong></dt><dd>are any physical, chemical, biological or radiological substance in air, soil, water or sediment that has an adverse effect. Any chemical substance whose concentration exceeds background concentrations or that is not naturally occurring in the environment.</dd><dt>An <strong>environmental standard</strong></dt><dd>refers to any guidelines, objectives, criteria or other kinds of limits placed on the presence or discharge of a contaminant into the natural environment</dd><dt><strong>Remediation</strong></dt><dd>means the improvement of a contaminated site to prevent, minimize or mitigate damage to human health or the environment. Remediation involves the development and application of a planned approach that removes, destroys, contains, or otherwise reduces availability of contaminants to receptors of concern.</dd></dl></appendix></appendices></doc>

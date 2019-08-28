@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Notice on Policy on Management of Real Property - November 17, 2011" documentID="24834" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy Notice"><p>Date: November 17, 2011</p><p>Please note the following changes, effective November 17, 2011. </p><p>The <em><a href="/pol/doc-eng.aspx?id=12042">Policy on Management of Real Property</a></em> is amended as follows: </p><ul><li>Section 2.1 changed "within the meaning of" to "as defined in." </li><li>Section 2.2 changed "<em>Reporting Standard for Real Property</em>" to "<em>Reporting Standard on Real Property.</em>"</li><li>Section 3.5 changed "It is essential that this policy be implemented" to "This policy is to be read," added "the 
+	<em>Policy on Investment Planning</em>" and "the <em>Policy on the Management of Projects</em>," and changed "<em>Policy on Project 
+	Management</em>" to "<em>Project Management Policy</em>." </li><li>Section 3.6 removed "Treasury Board has authorized the Secretary of the Treasury Board to amend operational 
+	directives and standards issued in support of this policy," changed "<em>Reporting Standard for Real Property</em>" to "<em>Reporting 
+	Standard on Real Property</em>" and added "<em>Fire Protection Standard</em>."</li><li>Section 5.1 deleted "and its associated directive and standards." </li><li>Section 6.1.6 deleted "imposed in Appendix B" and added "established by Treasury Board."</li><li>Section 6.1.16 deleted "outlined in Appendix B" and added "established by the Treasury Board."</li><li>Added section 6.2.5, "organizational capacity to manage real property transactions is regularly reviewed and, 
+	when capacity-based limits have been approved, attestations of capacity are provided to the Treasury Board 
+	Secretariat."</li><li>Removed "Appendix B - Transaction Approval Limits and Conditions."</li></ul><p>Enquiries about these changes should be directed to: </p><p>Real Property and Materiel Policy Division<br />
+Treasury Board of Canada Secretariat<br />
+L'Esplanade Laurier<br />
+140 O'Connor Street<br />
+Ottawa, ON K1A 0G5<br />
+Telephone: 613 941-4798<br />
+Facsimile: 613 957-2405<br />
+Email: <a href="mailto:rpmpd@tbs-sct.gc.ca" title="Reach Real Property and Material Policy Division by email">rpmpd@tbs-sct.gc.ca</a></p><p>Shirley Jen<br />
+Senior Director<br />
+Real Property and Materiel Policy Division</p></chapter></chapters></doc>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="iso-8859-1"?><doc title="Governance and Expenditure Management Policy Area" documentID="28203" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Governance and Expenditure Management Policy Area"><p>
+				There is no framework document representing this policy area at this time.
+			</p></chapter></chapters></doc>

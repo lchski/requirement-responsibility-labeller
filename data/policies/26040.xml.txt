@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Directive on the Harassment Complaint Process" documentID="26040" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1 Effective date"><p><strong>1.1</strong> This directive takes effect on October 1<sup>st</sup>, 2012.</p><p><strong>1.2</strong> It is issued in conjunction with the Treasury Board <a href="/pol/doc-eng.aspx?id=26041">Policy on Harassment Prevention and Resolution</a> 
+dated October 1<sup>st</sup>, 2012 and both instruments replace the 2001 Policy on the Prevention and Resolution of 
+Harassment in the Workplace.</p></chapter><chapter anchor="2" title="2 Application"><p><strong>2.1</strong> This directive applies to the core public administration which includes organizations named in Schedule 
+I and the other portions of the federal public administration named in Schedule IV of the 
+<a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/index.html">Financial Administration Act</a> unless excluded 
+by specific acts, regulations or orders in council.</p><p><strong>2.2</strong> The provisions in sections 6.2.2, 6.2.3 and 7 relating to the role of the Treasury Board of Canada 
+Secretariat in monitoring compliance and directing measures to be taken in response to non-compliance do not apply with 
+respect to the Office of the Information Commissioner of Canada and the Office of the Privacy Commissioner of Canada, the 
+Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official 
+Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely 
+responsible for monitoring and ensuring compliance with this directive within their organizations, as well as for responding 
+to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management 
+of compliance.</p><p><strong>2.3</strong> The harassment complaint process established under this directive is available to employees of organizations 
+described in 2.1. For individuals who are not employees as defined in <a href="#appA">Appendix A</a>, managers must address any allegation of 
+harassment from these individuals in accordance with the spirit of this directive.</p><p><strong>2.4</strong> In circumstances where an employee files a harassment complaint against an individual who is not 
+an employee as defined in <a href="#appA">Appendix A</a>, managers must apply the complaint process as established in this directive to the 
+extent possible. </p></chapter><chapter anchor="3" title="3 Context"><p><strong>3.1</strong> The prevention and resolution of harassment in the workplace is an essential component in the effective 
+people management of an organization. The goal of Treasury Board as the employer is to maintain a productive, healthy and 
+respectful workplace where positive working relationships and practices are promoted and where everyone is guided by the 
+values of the public sector which includes treating each other with respect and fairness.</p><p>In keeping with the <a href="/pol/doc-eng.aspx?id=26041">Policy on Harassment Prevention and Resolution</a>, the Treasury Board is committed to having 
+a harassment-free workplace. In part, this can be achieved by ensuring that every organization remains sensitive to the 
+potential for harassment, or perceptions of harassment in the workplace, and actively managing any such situations whenever 
+and wherever they arise. Requiring organizations across the core public administration to implement measures for preventing 
+and managing workplace harassment will help the employer reduce the effects of stressful work situations on employees, and 
+improve their overall wellbeing and productivity, which in turn will lead to better results for Canadians.</p><p><strong>3.2</strong> Harassment is serious and needs to be addressed promptly, with sensitivity, competence and discretion. 
+The primary goal is to resolve allegations of harassment in the most informal way feasible, with the least disruption possible 
+for the parties involved and the work environment. While the seriousness of harassment allegations calls for access to a 
+careful and rigorous process from the outset, it is consistent with such a process that many cases may, upon closer exploration 
+and with the consent of all parties, be effectively dealt with through informal resolution processes.</p><p><strong>3.3</strong> This directive flows from the <a href="/pol/doc-eng.aspx?id=26041">Policy on Harassment Prevention and Resolution</a> and requires 
+the establishment and the maintenance of an effective harassment complaint process. It sets out specific roles and responsibilities 
+of the designated official(s) pertaining to the application of this directive.</p><p><strong>3.4</strong> Deputy heads have the responsibility and are accountable for the establishment and maintenance of 
+a respectful and harassment-free workplace, and for the prompt resolution of related complaints. Treasury Board provides 
+broad direction to deputy heads while the latter are responsible for implementation.</p><p><strong>3.5</strong> This directive is issued pursuant to section 7 and subsection 11.1 of the 
+<a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/index.html">Financial Administration Act</a>.</p><p><strong>3.6</strong> This directive is to be read in conjunction with the following:</p><ul><li><a href="/pol/doc-eng.aspx?id=26041">Policy on Harassment Prevention and Resolution</a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/L-2/index.html">Canada Labour Code</a>, including the
+	<a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-86-304/index.html">Canada Occupational Health and Safety 
+	Regulations</a> – Part XX dealing with Violence Prevention in the Workplace</li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/H-6/index.html">Canadian Human Rights Act</a></li><li>The principles listed in the <a href="/pol/doc-eng.aspx?id=19134">Policy Framework for People Management</a></li></ul><p>In addition, the guidelines contained in the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/healthy-workplace/prevention-resolution-harassment/guide-applying-harassment-resolution-process.html">Guide on Applying the Harassment Resolution Process</a> should be read 
+in conjunction with this directive as they are fundamental in interpreting and applying efficiently the harassment complaint 
+process.</p></chapter><chapter anchor="4" title="4 Definitions"><p>For definitions to be used in the interpretation of this directive, refer to <a href="#appA">Appendix A</a>.</p></chapter><chapter anchor="5" title="5 Directive Statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this directive is to describe the minimum requirements of the harassment complaint process and set out 
+expected results in order to ensure the timely and efficient resolution of complaints.</p></section><section anchor="5.2" title="5.2 Expected results"><p>The expected results of this directive are:</p><p><strong>5.2.1</strong> Complaints of harassment are handled fairly, confidentially<a href="#fn1" id="fnr1" title="See Footnote 1"><sup>1</sup></a>, effectively and in a timely manner.</p><p><strong>5.2.2</strong> Steps are taken to restore the well-being of the workplace.</p></section></chapter><chapter anchor="6" title="6 Requirements"><section anchor="6.1" title="6.1 The designated officials are responsible for the following: "><p><strong>6.1.1</strong> Ensuring that the harassment complaint process is carried out promptly; respects the principles 
+of procedural fairness towards the complainant, the respondent and all other parties involved; and that it contains the 
+following five steps:</p><p><strong>Step 1 – Acknowledging receipt</strong> of the complaint while ensuring that:</p><ul><li>employees understand that if a complaint on the same issue is or has been dealt with through another avenue of recourse, 
+	the complaint process under this directive will not proceed further and the file will be closed.</li><li>the written complaint is submitted within 12 months of the last incident or event of alleged harassment (unless 
+	there are extenuating circumstances); and</li><li>the parties are made aware of the options for informal resolution from the outset and throughout the process.</li></ul><p><strong>Note:</strong> The <a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-86-304/index.html">Canada 
+Occupational Health and Safety Regulations</a> – Part XX dealing with Violence Prevention in the Workplace found in 
+the <a href="http://laws-lois.justice.gc.ca/eng/acts/L-2/index.html">Canada Labour Code</a> should be considered 
+in cases of incidents of violence including alleged threats. Assaults, including sexual assault and criminal harassment 
+are subject to the <a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/index.html">Criminal Code</a> and such 
+cases should be promptly referred to the appropriate authorities.</p><p><strong>Step 2 – Reviewing the complaint</strong> to determine whether the allegation(s) meets the definition of harassment 
+as described in this directive (see <a href="#appA">Appendix A</a>). The respondent is notified of the complaint whether or not the complaint 
+is admissible.</p><p><strong>Step 3 – Exploring options</strong> for resolving the complaint while ensuring that consideration is given to 
+informal resolution processes. Should there be an investigation<a href="#fn2" id="fnr2" title="See Footnote 2"><sup>2</sup></a>, 
+the person conducting the investigation is appropriately qualified<a href="#fn3" id="fnr3" title="See Footnote 3"><sup>3</sup></a> 
+and applies the principles of procedural fairness.</p><p><strong>Step 4 – Rendering a decision and notifying in writing</strong> the parties involved as to whether or not the 
+allegations were founded.</p><p><strong>Step 5 – Restoring</strong> the well-being of the workplace while ensuring that:</p><ul><li>the work unit manager in consultation with the Informal Conflict Resolution practitioners and other relevant organizational 
+	resources addresses the needs of the parties concerned and the work unit throughout the complaint process as well as 
+	any detrimental impacts resulting from the incidences of harassment; and</li><li>the work unit manager takes timely corrective and/or disciplinary measures, if warranted, including addressing reprisal 
+	or risk of reprisal.</li></ul><p><strong>6.1.2</strong> Ensuring that steps 1, 2, 3 and 4 are completed in a timely fashion, normally within 12 months 
+unless there are extenuating circumstances, and step 5 is initiated within the same time frame.</p><p>For additional information on the application of the steps in the harassment complaint process, consult the <a href="https://www.canada.ca/en/treasury-board-secretariat/services/healthy-workplace/prevention-resolution-harassment/guide-applying-harassment-resolution-process.html">Guide 
+on Applying the Harassment Resolution Process</a>.</p></section><section anchor="6.2" title="6.2 Monitoring and reporting requirements "><h4>6.2.1 Within Organizations</h4><p>Consistent with the requirements in section 6.1, the deputy head is responsible for monitoring the performance of the 
+organization with respect to the application and administration of this directive.</p><h4>6.2.2 By Organizations</h4><p>The Treasury Board of Canada Secretariat, Office of the Chief Human Resources Officer (<abbr title="Treasury Board of Canada Secretariat">TBS</abbr>/<abbr title="Office of the Chief Human Resources Officer">OCHRO</abbr>) 
+is responsible for assessing organizational performance with respect to the administration of and compliance with the requirements 
+herein. The results organizations are expected to achieve may be assessed by data collection mechanisms such as the Public 
+Service Employee Survey and the Management Accountability Framework.</p><p>As deemed appropriate by <abbr title="Treasury Board of Canada Secretariat">TBS</abbr>/<abbr title="Office of the Chief Human Resources Officer">OCHRO</abbr>, the deputy head may be required to provide information 
+considered necessary for assessing compliance with this directive. For example,
+<abbr title="Treasury Board of Canada Secretariat">TBS</abbr>/<abbr title="Office of the Chief Human Resources Officer">OCHRO</abbr> 
+may conduct focus groups with representatives of identified organizations, in partnership with the bargaining agents, to 
+better understand challenges in organizations with relatively poor results.</p><h4>6.2.3 Government Wide</h4><p><abbr title="Treasury Board of Canada Secretariat">TBS</abbr>/<abbr title="Office of the Chief Human Resources Officer">OCHRO</abbr> will review the directive and its effectiveness at the 
+five-year mark of implementation.</p></section></chapter><chapter anchor="7" title="7 Consequences"><p><strong>7.1</strong> The deputy head is responsible for taking corrective measures when significant issues arise regarding 
+compliance with this directive. When corrective action is not implemented satisfactorily or in a timely manner, the Chief 
+Human Resources Officer may request that deputy heads temporarily withdraw or suspend delegated authorities to his/her staff, 
+undertake corrective actions or impose measures to restore compliance with this directive.</p><p><strong>7.2</strong> For a range of consequences of non-compliance, refer to the 
+<a href="/pol/doc-eng.aspx?id=17151">Framework for the Management of Compliance</a>.</p></chapter><chapter anchor="8" title="8 Roles and Responsibilities of Government Organizations "><p><strong>8.1</strong> In addition to its monitoring role, <abbr title="Treasury Board of Canada Secretariat">TBS</abbr>/<abbr title="Office of the Chief Human Resources Officer">OCHRO</abbr> assists the designated officials with the implementation 
+and application of this directive through the provision of advice and the issuance of related administrative guidelines 
+and tools.</p></chapter><chapter anchor="9" title="9 References"><section anchor="9.1" title="9.1 Other Relevant Legislation/Regulations:"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/index.html">Criminal Code</a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html">Access to Information Act</a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html">Privacy Act</a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/O-3.01/index.html">Official Languages Act</a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/index.html">Public Service Labour Relations Act</a></li></ul></section><section anchor="9.2" title="9.2 Related policy instruments/publications"><ul><li><a href="/pol/doc-eng.aspx?id=25049">Values and Ethics Code for the Public Sector</a></li><li><a href="/pol/doc-eng.aspx?id=17151">Framework for the Management of Compliance</a></li><li><a href="/pol/doc-eng.aspx?id=12521">Policy on Official Languages for Human Resources Management</a></li><li><a href="/pol/doc-eng.aspx?id=12520">Policy on Language of Work</a></li></ul></section><section anchor="9.3" title="Guides/Tools:"><ul><li><a href="/gui/conflplus-eng.asp">Getting to know Informal Conflict Management Systems (ICMS) better</a></li><li><a href="/gui/conflgui-eng.asp">A guide to the key elements of an
+	<abbr title="Informal Conflict Management System">ICMS</abbr></a></li><li><a href="/gui/mibh-sjh-eng.asp">Is it Harassment? A Tool to Guide Employees</a></li><li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/healthy-workplace/prevention-resolution-harassment/guide-applying-harassment-resolution-process.html">Guide on Applying the Harassment Resolution Process</a></li><li><a href="https://www.tbs-sct.gc.ca/psm-fpfm/healthy-sain/prh/hig-eng.asp">Investigation Guide for the Policy on Harassment Prevention and Resolution and Directive on the Harassment Complaint Process</a></li><li><a href="/gui/hars-eng.asp">Preventing and Resolving Harassment in the Workplace: a Guide for managers</a></li><li><a href="https://www.tbs-sct.gc.ca/psm-fpfm/healthy-sain/prh/rwfhc-eng.asp">Restoring the Workplace Following a Harassment Complaint: A Manager's Guide</a></li><li><a href="http://intranet.canada.ca/hr-rh/hw-ms/rhp-rph/hcf-fph-eng.asp">Sample of a Harassment Complaint Form</a></li></ul></section></chapter><chapter anchor="10" title="10 Enquiries"><p>For interpretation of this directive, departmental officials should contact
+<a href="/tbs-sct/cmn/contact-eng.asp#enquiries"><abbr title="Treasury Board of Canada Secretariat">TBS</abbr> Public Enquiries</a>. 
+Employees should direct enquiries about this directive to their responsible departmental officials.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A – Definitions"><dl><dt><strong>Complaint</strong> (<span xml:lang="fr-CA" lang="fr-CA">plainte</span>)</dt><dd><p>is an allegation of harassment communicated verbally or submitted in writing. For the harassment complaint process, 
+	a written complaint must be submitted.</p></dd><dt><strong>Designated Official</strong> (<span xml:lang="fr-CA" lang="fr-CA">responsable désigné</span>)</dt><dd><p>person designated by the deputy head to be responsible for the overall application of the Policy on Harassment 
+	Prevention and Resolution and the Directive on the Harassment Complaint Process. The deputy head may designate 
+	more than one official in his organization.</p></dd><dt><strong>Employee</strong> (<span xml:lang="fr-CA" lang="fr-CA">employé</span>)</dt><dd><p>for the purpose of this directive, employee refers to those employed as indeterminate employees, part-time employees, 
+	term employees, seasonal employees, casual workers, students and part-time workers in organizations defined in section 
+	2.1. </p></dd><dt><strong>Harassment</strong> (<span xml:lang="fr-CA" lang="fr-CA">harcèlement</span>)</dt><dd><p>improper conduct by an individual, that is directed at and offensive to another individual in the workplace, 
+	including at any event or any location related to work, and that the individual knew or ought reasonably to have known 
+	would cause offence or harm. It comprises objectionable act(s), comment(s) or display(s) that demean, belittle, or cause 
+	personal humiliation or embarrassment, and any act of intimidation or threat. It also includes harassment within the 
+	meaning of the <a href="http://laws-lois.justice.gc.ca/eng/acts/H-6/index.html">Canadian Human Rights Act</a> 
+	(i.e. based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family 
+
+	status, disability and pardoned conviction).</p><p>Harassment is normally a series of incidents but can be one severe incident which has a lasting impact on the individual.</p></dd><dt><strong>Informal Resolution Process</strong> (<span xml:lang="fr-CA" lang="fr-CA">processus de résolution informel</span>)</dt><dd><p>a confidential, voluntary and collaborative problem-solving approach such as face to face conversation, conflict 
+	coaching, facilitated discussion or mediation that has the advantage of addressing the parties' needs, concerns and 
+	mutual interests. Informal resolution processes are also commonly called interest based conflict resolution, Informal 
+	Conflict Management System (ICMS) and alternative dispute resolution.</p></dd><dt><strong>Restoration of the workplace</strong> (<span xml:lang="fr-CA" lang="fr-CA">rétablissement du milieu 
+	de travail</span>)</dt><dd><p>the establishment or re-establishment of harmonious working relationships amongst individuals and within the 
+	team, group or unit, following a harassment complaint.</p></dd></dl></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="1">
+All parties directly involved in the 
+process are expected to limit the discussion of all aspects of the complaint to those who need to know.
+</footnote><footnote anchor="fn2" reference="fnr2" title="2">
+An investigation may not be necessary 
+if the designated official is satisfied that he has all the facts based on his inquiries and that the parties have been 
+heard in accordance with procedural fairness.
+</footnote><footnote anchor="fn3" reference="fnr3" title="3">
+Investigators must meet the
+<a href="http://intranet.canada.ca/hr-rh/hw-ms/ph/cphi-pcemh-eng.asp">Competency Profile for the harassment investigators</a>.
+
+</footnote></footnotes></doc>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Policy on the Management of Projects" documentID="18229" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><notetoreader><ol class="lst-spcd"><li>The <em>Policy on the Management of Projects</em> will be rescinded on October 11, 2019. It will be replaced by the <em>Directive on the Management of Projects and  Programmes</em>.</li><li>In June 2007, Treasury Board Ministers approved the <em>Policy on the Management of Projects</em>. This policy replaces the
+	<a href="/pol/doc-eng.aspx?id=12077"><em>Project Management Policy</em></a>, the <a href="/pol/doc-eng.aspx?id=12040"><em>Policy
+	on the Management of Major Crown Projects</em></a>, and the <a href="/pol/doc-eng.aspx?id=12075"><em>Project
+	Approval Policy</em></a>for departments and agencies as defined in Section 2 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial
+	Administration Act</em></a>. This policy is a
+	significant change in how government manages projects. As a result, Treasury
+	Board Secretariat has adopted a phased implementation approach, starting in
+	2007, that began with a group of departments that agreed to participate in a
+	pilot.  Groups of remaining departments will be brought
+	on board so that, by April 1, 2012, departments and agencies will have the
+	systems and processes in place to meet the policy requirements.  In
+	addition, based on lessons learned through the pilot, amendments to the<em>
+	Policy on the Management of Projects</em> were approved and the 2009
+	version of the policy effective December 10, 2009 was adopted.
+</li></ol></notetoreader><chapters><chapter anchor="1" title="1. Effective date"><p>1.1 This policy takes effect on December 10, 2009.</p><p>1.2 Together with the standards listed in Section 3, it replaces the following:</p><ul><li><a href="/pol/doc-eng.aspx?id=12077"><em>Project Management Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12040"><em>Policy	on the Management of Major Crown Projects</em></a></li><li><a href="/pol/doc-eng.aspx?id=12075"><em>Project Approval Policy</em></a></li><li>2007 version of the Treasury Board <a href="/pol/doc-eng.aspx?id=12629&amp;section=text"><em>Policy
+	on the Management of Projects</em></a></li></ul><p>1.3 Transition</p><ul><li>The transition period for the policy
+	requirements began on April 1, 2007 and terminates on April 1, 2012.</li><li>After the effective date of this policy,
+	departments are expected to undertake an assessment of their organizational
+	capacity according to the <em>Standard for Organizational Project Management
+	Capacity</em>, in conjunction with their investment plan. </li><li>Once approved, the organizational capacity class
+	will determine project approval limits as outlined in <a href="/pol/doc-eng.aspx?id=18229&amp;section=text#appA">Appendix
+	A</a>.</li><li>Projects approved prior to Treasury Board approval of the
+	department's Organizational Project Management Capacity class have the option
+	to continue to be subject to the policies that were in effect at the time the
+	project was approved or be subject to this policy.</li></ul></chapter><chapter anchor="2" title="2. Application"><p>2.1 This policy applies to all departments as
+defined in section 2 of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration
+Act</a></em>, unless
+specific acts or regulations override it.</p><p>2.2 This policy applies to all Government of
+Canada projects as defined in section 4 of this policy.</p><p>2.3 This policy does not apply to projects
+funded by the federal government through transfer payments. The Treasury Board <a href="/pol/doc-eng.aspx?id=13525"><em>Policy on
+Transfer Payments</em></a> and its supporting directives provide direction on the management
+and approval of projects funded through transfer payments.</p><p>2.4  The provisions in sections 6.2.2 and 7.1 relating to the
+role of the Treasury Board Secretariat in monitoring compliance and directing
+measures to be taken in response to non-compliance do not apply with respect to
+the Office of the Auditor General, the Office of the Privacy Commissioner, the
+Office of the Information Commissioner, the Office of the Chief Electoral
+Officer, the Office of the Commissioner of Lobbying, the Office of the
+Commissioner of Official Languages and the Office of the Public Sector
+Integrity Commissioner.  The deputy heads of these organizations are solely
+responsible for monitoring and ensuring compliance with this policy within
+their organizations, as well as for responding to cases of non-compliance in
+accordance with any Treasury Board instruments providing principles and
+guidance on the management of compliance.  When seeking Treasury Board approval
+of projects as required under section 6.1.7, the deputy heads of these
+organizations shall provide the Treasury Board Secretariat with any information
+required for this purpose.  For greater certainty, the definition of "project"
+contained in section 4.3 does not include the performance of audits,
+investigations, or other statutory mandate activities of these organizations.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 The management of projects is key to
+providing value for money and demonstrating sound stewardship in program
+delivery. A comprehensive approach to managing projects, which is integrated
+across the department and is appropriate for the level of project risk and
+complexity, will enhance the likelihood of realizing project outcomes. This
+approach should ensure that accountability for outcomes is clear, appropriate
+controls are in place to minimize risk and limit project duplication and
+overlap, key project stakeholders are consulted, and outputs and outcomes are
+monitored and reported.</p><p>3.2 The management processes and controls for
+individual projects will vary across organizations and horizontal initiatives,
+reflecting differences in mandate, operational requirements, risks, complexity
+and capacity.</p><p>3.3 An appropriate capacity for managing
+projects, which reflects the level of project complexity and risk, and
+integrates decision-making across projects, will support the achievement and
+demonstration of value for money and sound stewardship. This appropriate
+capacity will also ensure an optimal contribution to program, organizational,
+horizontal and government outcomes.</p><p>3.4 This policy is issued pursuant to section
+7 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration Act</em></a>.</p><p>3.5 Ministers have responsibility for the
+administrationof projects in support of the mandated programs of their
+departments. Deputy heads are responsible for the effective management of
+projects according to legislation, regulations and Treasury Board policy
+instruments that promote due diligence, ethical behaviour and sound management practices, thereby ensuring long-term
+sustainability and value for Canadian taxpayers. They are also responsible for
+ensuring projects are managed in a manner that fulfills any legal obligations
+with respect to Aboriginal groups and that the honour
+of the Crown is upheld.</p><p>3.6 This policy is framed by the principles
+set out in the <a href="/pol/doc-eng.aspx?id=12022"><em>Policy
+Framework for the Management of Assets and Acquired Services</em></a>. It is essential that this policy be implemented in conjunction
+with related Treasury Board policies governing assets and acquired services.
+These include the <a href="/pol/doc-eng.aspx?id=18225"><em>Policy on Investment Planning</em></a>, the <em>Policy on Managing
+Procurement</em>, the <a href="/pol/doc-eng.aspx?id=12062"><em>Policy
+on Management of Materiel</em></a> and the <a href="/pol/doc-eng.aspx?id=12042"><em>Policy
+on the Management of Real Property</em></a>.</p><p>3.7 Treasury Board has delegated to the
+Secretary of the Treasury Board the authority to issue such operational
+directives, standards and guidelines as necessary to support this policy except
+with respect to the powers or functions of the President of the Treasury Board
+or the Secretary of the Treasury Board.</p><p>3.8 Additional mandatory requirements for
+the management of projects are set out in the following policy instruments:</p><ul><li><a href="/pol/doc-eng.aspx?id=21261"><em>Standard for Project Complexity and Risk</em></a></li><li><a href="/pol/doc-eng.aspx?id=21252"><em>Standard for Organizational Project Management Capacity</em></a></li></ul></chapter><chapter anchor="4" title="4. Definitions"><dl><dt><strong>4.1 Management of projects</strong> ( <span xml:lang="fr-CA" lang="fr-CA"><em>la gestion des projets</em></span> )</dt><dd>Encompasses the structure (framework) within which projects are initiated, planned, executed, controlled and closed.</dd><dt><strong>4.2 Project management</strong> ( <span xml:lang="fr-CA" lang="fr-CA"><em>la gestion de projet</em></span> )</dt><dd>Is the systematic planning, organizing and control of allocated resources to accomplish identified project objectives and outcomes. Project management is normally reserved for focused, non-repetitive, time-limited activities with some degree of risk, and for activities beyond the usual scope of program (operational) activities.</dd><dt><strong>4.3 Project</strong> ( <span xml:lang="fr-CA" lang="fr-CA"><em>projet</em></span> )</dt><dd>Is an activity or series of activities that has a beginning and an end. A project is required to produce defined outputs and realize specific outcomes in support of a public policy objective, within a clear schedule and resource plan. A project is undertaken within specific time, cost and performance parameters.</dd><dt><strong>4.4 Program</strong> ( <span xml:lang="fr-CA" lang="fr-CA"><em>programme</em></span> )</dt><dd>Is any group of resources and activities, and their related direct outputs, undertaken pursuant to a given objective or set of related objectives and administered by a department or agency of the government. Distinguished from a project, which has a specific objective, activity, beginning and end, a program may include various projects at various times.</dd></dl></chapter><chapter anchor="5" title="5. Policy statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this policy is to ensure
+that the appropriate systems, processes and controls for managing projects are
+in place, at a departmental, horizontal or government-wide level, and support
+the achievement of project and program outcomes while limiting the risk to
+stakeholders and taxpayers.</p></section><section anchor="5.2" title="5.2 Expected results"><p>The expected results of this policy,
+associated standards and directive are that:</p><ul><li>Projects achieve value for money; </li><li>Sound stewardship of project funds is
+	demonstrated; </li><li>Accountability for project outcomes is
+	transparent; and </li><li>Outcomes are achieved within time and cost
+	constraints. </li></ul></section></chapter><chapter anchor="6" title="6. Policy requirements"><section anchor="6.1" title="6.1 Deputy head"><p>Deputy heads are responsible for ensuring
+that:</p><p>6.1.1 A department-wide governance and
+oversight mechanism is in place, documented and maintained. The mechanism is
+used to manage the initiation, planning, execution, control and closing of
+projects. In addition, the mechanism ensures that opportunities are considered
+for integrating projects across the department and the Government of Canada.</p><p>6.1.2 A department's capacity to manage
+projects is accurately assessed to comply with the <a href="/pol/doc-eng.aspx?id=21252"><em>Standard
+for Organizational Project Management Capacity</em></a> and the assessment meets the
+requirements of the standard.</p><p>6.1.3 The department conducts an accurate
+assessment of each project according to the <a href="/pol/doc-eng.aspx?id=21261"><em>Standard
+for Project Complexity and Risk</em></a>. Each
+assessment must meet the requirements of the standard.</p><p>6.1.4 Accountability for project outcomes is
+documented and the contribution to program outcomes and broader government
+objectives is demonstrated.</p><p>6.1.5 Projects are managed in a manner that
+is consistent with the assessed level of complexity and risk. This includes
+demonstrating that both knowledgeable, integrated, multi-disciplinary project
+teams and effective project management systems and processes support the
+project management function.</p><p>6.1.6 Project-based procurements and real
+property transactions, including those in public-private partnership agreements, are fully integrated into the governance, management and
+oversight of projects. In addition, controls must be implemented to ensure that
+procurement contracts and real property transactions support key project
+objectives and program outcomes.</p><p>6.1.7 The deputy head is responsible for
+ensuring that Treasury Board approval be sought for projects when the assessed
+risk and complexity of the project exceeds the assessed class of capacity that
+the sponsoring minister can approve (<a href="/pol/doc-eng.aspx?id=18229&amp;section=text#appA">see
+Appendix A</a>). Only those specific phases of the
+project that have been appropriately defined and assessed can be approved.
+Treasury Board may require any project to be brought forward for their
+consideration and approval.</p><p>6.1.8 When Treasury Board approval is
+required a Project Brief (<a href="/pol/doc-eng.aspx?id=18229&amp;section=text#appB">Appendix
+B</a>) must accompany the Treasury Board submission.</p></section><section anchor="6.2" title="6.2 Monitoring and reporting requirements"><p>6.2.1 Deputy heads are responsible for
+monitoring adherence to this policy within their organization and taking action
+when any significant compliance issue arises. More specifically, they are
+responsible for: </p><ul><li>Monitoring and reporting on the management of
+	projects in their department. </li><li>Ensuring that a control and oversight regime is
+	in place to monitor adherence to this policy and its associated standards. </li><li>Reporting to Treasury Board Secretariat, within 90 days, the results of relevant internal and external reviews, assessments and
+	audits, and subsequent actions. </li><li>Providing departmental reporting to Treasury
+	Board Secretariat as required by conditions of project approval and
+	departmental investment plans. </li><li>Providing departmental records, plans, policy
+	instruments or any other information to Treasury Board Secretariat upon request
+	in support of the Secretariat's monitoring responsibilities. This information
+	and its analysis may be included in the appropriate management accountability
+	mechanisms. </li></ul><p>6.2.2 The Treasury Board Secretariat is responsible for:</p><ul><li>Monitoring departmental implementation of this
+	policy and its related instruments. Using various sources of information,
+	Treasury Board Secretariat will verify that departments have implemented the
+	policy in order to advise ministers on departmental investment plans and
+	project submissions. </li><li>Making available the policy, directives,
+	standards, tools and guidance necessary to support this policy, which is
+	consistent with best practices in the public and private sector. </li><li>Reviewing departmental project management
+	performance, the capacity to manage projects, and assessments of project risk
+	and complexity. They will be reviewed through regular dialogue and work on
+	committees and by examining departmental investment plans, project management
+	capacity assessments, project risk and complexity assessments and relevant
+	submissions. Reviews and external and internal audits will also be noted.
+	Treasury Board Secretariat will continue to conduct formal assessments through
+	appropriate management accountability mechanisms. </li><li>Advising Treasury Board Ministers on
+	departmental management capacity, the conditions of project approvals and the
+	project approval authorities sought by sponsoring ministers. </li><li>Supporting the development of communities of
+	interest and governance for specialized program or business streams, complexity
+	and risk. </li><li>Reviewing the effectiveness of the policy and
+	the related instruments at the five-year mark of the implementation date.
+	Treasury Board will be apprised of the results of this assessment and, if
+	warranted, recommendations for corrective action will be provided. </li></ul></section></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 Based on the review of departmental
+project management performance, the Secretary of the Treasury Board may make
+appropriate recommendations to the deputy head of a department or to Treasury
+Board. Recommendations may include such measures as an increase in the
+department's project approval authority resulting from improved performance and
+increased capacity. In the event of performance falling short of the
+requirements of this policy and associated policy instruments, recommendations
+may include a decrease in the department's project approval authority.</p></chapter><chapter anchor="8" title="8. Roles and responsibilities of other government departments"><p><strong>Note:</strong> This section is meant to
+inform departments of other significant players in the management of projects.
+In and of itself, it does not confer an authority.</p><p>8.1 Common service organizations in support of projects are:</p><ul><li>Public Works and Government Services Canada for
+	the procurement system by virtue of its powers as established under the <em>Department
+	of Public Works and Government Services Act.</em></li><li>The Department of Justice Canada for legal services. </li><li>PPP Canada for the provision of advice and expertise on the use of public-private partnerships, in accordance with its mandate established in its enabling Order-in-Council.</li></ul></chapter><chapter anchor="9" title="9. References"><p><strong>9.1 Policies and related instruments:</strong></p><ul class="noBullet"><li><a href="/pol/doc-eng.aspx?id=12022"><em>Policy Framework for the Management of Assets and Acquired Services</em></a></li><li><a href="/pol/doc-eng.aspx?id=12254"><em>Integrated Risk Management Framework</em></a></li><li><a href="/pol/doc-eng.aspx?id=18225"><em>Policy on Investment Planning – Assets and Acquired Services</em></a></li><li><em>Policy on Managing Procurement</em><a href="#fn1" id="fnr1" title="View Footnote *">*</a></li><li><em>Contracting Policy</em></li><li><a href="/pol/doc-eng.aspx?id=12042"><em>Policy on the Management of Real Property</em></a></li><li><a href="/pol/doc-eng.aspx?id=12062"><em>Policy on Management of Materiel</em></a></li><li><a href="/pol/doc-eng.aspx?id=12257"><em>Policy on Transfer Payments</em></a></li><li><a href="/pol/doc-eng.aspx?id=12253"><em>Risk Management Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12412"><em>Management, Resources, and Results Structure Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a></li><li><a href="/pubs_pol/gospubs/TBM_128/siglist-eng.asp"><em>Privacy and Data Protection Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12450"><em>Privacy Impact Assessment Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=21261"><em>Standard for Project Complexity and Risk</em></a></li><li><a href="/pol/doc-eng.aspx?id=21252"><em>Standard for Organizational Project Management Capacity</em></a></li><li><em>Procurement Administrative Directive</em></li><li><em>Directive on Delegation of Authorities</em>*</li><li><em>Directive on Acquisition Cards</em></li><li><em>Directive on Risk Management</em></li><li><a href="/pubs_pol/opepubs/tbm_162/gptbs-gppct-eng.asp"><em>A Guide to Preparing Treasury Board Submissions</em></a></li><li><em>Guidance Document: Taking Privacy into Account Before Making Contract Decisions</em></li><li><em><a href="/emf-cag/business-rentabilisation/bcg-gar/bcg-gar00-eng.asp">Business Case Guide</a></em></li><li><a href="/pol/doc-eng.aspx?id=25576"><em>Guideline to Implementing Budget 2011 Direction on Public-Private Partnerships</em></a></li><li><em><a href="/emf-cag/project-projet/documentation-documentation/guide-guide/guide-guide00-eng.asp">Project Charter Guide</a></em></li><li><em><a href="/emf-cag/project-projet/ppto-pssp/templates-gabarits/project-projet/project-projet00-eng.asp">Project Management Plan Guidance</a></em></li><li><em>Project Management Repository</em></li></ul><h3>Further information</h3><p>Treasury Board Secretariat will maintain
+up-to-date information on best practices on its website. Additional background
+information supporting the implementation of the policy will also be available
+on the Treasury Board Secretariat's website.</p></chapter><chapter anchor="10" title="10. Enquiries"><p>Please direct enquiries about this policy instrument to the organizational unit in your department responsible for this subject matter. For interpretation of this policy instrument, the responsible organizational unit should contact: <a href="/contact/contact-eng.aspx#enquiries">TBS Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A – Project Approval Authorities"><p>In exercising oversight, Treasury Board
+Ministers limit the expenditure authority exercised by ministers in the
+approval of projects.</p><p>The project approval limits set out in this
+Appendix provide the threshold above which ministers must seek approval
+(expenditure authority) from Treasury Board Ministers. Projects exceeding these
+thresholds require the express approval (expenditure authority) of Treasury
+Board. Project expenditures, which are not contracts, may be made by
+departments when projects are within the limits established based on the class
+of assessed project management capacity and the assessed project complexity and
+risk. The basis for determining the capacity to manage projects is provided in
+the <em>Standard for Organizational Project Management Capacity</em> and the
+basis for determining the level of risk and complexity of a project is provided
+in the <em>Standard for Project Complexity and Risk</em>.</p><p>Note that the authority
+to proceed with projects differs from the authority to enter into contracts. Treasury Board approval is required for
+contracts above the limits set out in Treasury Board policy. PWGSC is normally the
+contracting authority for large, complex goods and services contracts for
+departments, which is often the major cost of a project. This role is set out
+in the <em>Department of Public Works and Government Services Act </em>and the <em>Defence Production</em><em> Act</em>.</p><p>The project approval limits are to be
+regularly reviewed and revised, at least once every three years, normally as
+part of the consideration of the department's investment plan as set out in the<em>
+Policy on Investment Planning – Assets and Acquired Services. </em>Treasury
+Board Secretariat may also make recommendations affecting the limits.</p><table border="1" cellspacing="0" cellpadding="5"><tr class="lightgreyBG"><th scope="col" class="alignTop"><strong>Assessed Project Management Capacity</strong></th><th scope="col" class="alignTop"><strong>Assessed Project Complexity and Risk</strong></th></tr><tr><td class="alignTop">Class 4</td><td class="alignTop"><strong>Level 4 – Transformational</strong><br /><strong>Level 3 – Evolutionary</strong><br /><strong>Level 2 – Tactical</strong><br /><strong>Level 1 – Sustaining</strong></td></tr><tr><td class="alignTop">Class 3</td><td class="alignTop"><strong>Level 3 – Evolutionary</strong><br /><strong>Level 2 – Tactical</strong><br /><strong>Level 1 – Sustaining</strong></td></tr><tr><td class="alignTop">Class 2</td><td class="alignTop"><strong>Level 2 – Tactical</strong><br /><strong>Level 1 – Sustaining</strong></td></tr><tr><td class="alignTop">Class 1</td><td class="alignTop"><strong>Level 1 – Sustaining</strong></td></tr><tr><td class="alignTop">Limited or no assessed capacity</td><td class="alignTop"><strong>$1 M</strong></td></tr></table></appendix><appendix anchor="B" title="Appendix B – Project Brief"><ol><li>A project brief provides Treasury Board Ministers or the department's approval authority with a clear understanding of the proposed initiative and is supported by a business case, project charter and project management plan. The brief provides a synopsis of these core project documents and describes the expected business outcomes, the significance of the project to achieving program and government objectives, potential options, the performance indicators to be measured and an evaluation strategy that identifies critical milestones ensuring objectives are met and amended only when necessary, and value for money is achieved. It also identifies key decision points or opportunities for review during the life-cycle of the project.</li><li>A project brief is required when a proposed project exceeds a department's project approval limit (Appendix A). A project brief must be presented to Treasury Board Secretariat to seek Treasury Board approval of a project.</li><li>A project brief must also be provided to Treasury Board when a department seeks amendments to project approval. Departments must seek amendments to project approval when:
+<ul><li>The total estimated cost of a project changes such that it exceeds previously approved estimates identified in the investment plan or exceeds expenditure limits approved by Treasury Board; or</li><li>The scope or deliverables of the project change such that the expected outcomes of the project are impacted; or</li><li>The risk and complexity assessment of the project is altered so that it affects project objectives and program outcomes.</li></ul></li><li>A project brief includes complete descriptions of the following:
+<ul class="noBullet"><li>4.1 The relationship of the project outcomes to the sponsoring department's mandate, programs and to government-wide objectives.</li><li>4.2 The level of service or capability to be developed, accessed or improved and a general description of the good or service and the program outcomes to be achieved.</li><li>4.3 The significance of the project in the context of the department's investment plan.</li><li>4.4 The scope, schedule, cost and other critical objectives that form the project baseline.</li><li>4.5 The performance and outcome management measures, including an evaluation strategy and provision for an independent third-party evaluation when required.</li><li>4.6 The business case reflecting the results of benefit-cost and options analyses and a description of each option considered. Comparison of options should be based at a minimum on a preliminary asset life-cycle cost estimate for each. To ensure the effective consideration of all suitable options, including a public-private partnership (P3), all infrastructure investments creating an asset with a lifespan of at least 20 years, and having capital costs of $100 million or more, will be subjected to a P3 screen, in consultation with PPP Canada. Should the assessment conclude that there is P3 potential, departments will be required to develop a P3 option among possible options. Any strategic direction that has been given approval-in-principle or that limits available options should be provided.
+<ul class="noBullet"><li>4.6.1 Business cases are to be prepared according to standards or guidance issued by the Treasury Board Secretariat.</li><li>4.6.2 The results of the P3 screen are to be described, when applicable.</li></ul></li><li>4.7 The segmenting of the project into gates, the proposed phased approach to managing changes and the opportunities for terminating federal involvement.
+<ul class="noBullet"><li>4.7.1 The estimated schedule from project inception to completion of the project. At a minimum, Treasury Board approval is sought to endorse the strategic assessment and to further refine the business justification and implementation strategy in advance of implementation.</li></ul></li><li>4.8 The proposed timing of reports to Treasury Board and future submissions, when required.</li><li>4.9 The governance and management approach to the overall project including:
+<ul><li>Accountability for project outcomes;</li><li>Documented roles and responsibilities of participating departments and of the different units within the lead department;</li><li>The structure and committees focused on achieving the project and program objectives; and</li><li>The nature and extent of consultation with Treasury Board Secretariat and other central agencies.</li></ul></li><li>4.10 The other features of the project that could affect its progress, such as privacy and environmental issues, land claims, regulatory or legislative changes and agreements with other governments, including international or domestic participants.</li><li>4.11 The results of the project complexity and risk assessment.</li><li>4.12 The communications strategy.</li><li>4.13 The procurement strategy, including the procurement review process and the proposed strategy for soliciting and awarding relevant contracts, when required.</li><li>4.14 The results of the Privacy or Preliminary Privacy Impact Assessment (PIA/PPIA) and the measures taken or to be taken to address privacy issues and risks.</li></ul></li></ol></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="*"> - Policy instruments or other documents referenced by title only and
+      	without links, are under development and not yet in effect. They will be
+      	published as they are approved.
+	</footnote></footnotes></doc>

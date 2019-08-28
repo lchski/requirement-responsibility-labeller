@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guideline on Collection of Receivables" documentID="17066" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective date"><p>1.1 This guideline takes effect on October 1, 2009.</p><p>1.2 It replaces appendices A and B of the <em>Policy on Receivables Management</em> (revised July 1, 2002). </p></chapter><chapter anchor="2" title="2. Context"><p>2.1 This guideline informs departmental officials responsible for managing receivables in the Government of Canada of 
+the methods available for collecting and recovering debts due to the Crown. The guideline describes a range of collection 
+methods that can be used from the routine to the more advanced processes. The responsibility of determining the most appropriate 
+and cost-effective measure(s) for collecting receivables rests with departmental officials. </p><p>2.2 The guideline supports the <a href="/pol/doc-eng.aspx?id=17063"><em>Directive on Receivables Management</em></a> 
+(hereafter referred to as the Directive) and should be read in conjunction with
+<a href="http://laws-lois.justice.gc.ca/en/showdoc/cr/SOR-87-505/20090514/"><em>Debt Write off Regulations, 1994</em></a>,
+<em>Security for Debts Due to Her Majesty Regulations</em>,
+<a href="http://laws-lois.justice.gc.ca/en/showdoc/cr/SOR-96-188/20090514/"><em>Interest and Administrative Charges Regulations</em></a>, 
+and <a href="http://laws-lois.justice.gc.ca/en/showdoc/cr/SOR-98-128/20090514/"><em>Receipt and Deposit of Public Money 
+Regulations</em></a>.</p><p>2.3 Though the guideline elaborates on the Directive, it does not present new mandatory requirements, but rather reflects 
+an existing obligation under an act, regulation, policy, directive, standard or other authority.</p><p>2.4 The Government of Canada has a broad range of tools to collect debts due to the Crown. Some are common methods used 
+in everyday commerce in the public and private sectors, while other methods are more complex and may apply only to government. This 
+guideline provides an overview of these methods.</p><p>2.5 This guideline also provides a brief listing of the types of debts managed by departments.</p></chapter><chapter anchor="3" title="3. Definitions"><p>Definitions of terms used in the guideline can be found in the <a href="/pol/doc-eng.aspx?id=17063&amp;section=text#appA">appendix of the Directive</a><em>.</em></p></chapter><chapter anchor="4" title="4. Types of debts and other claims"><p>This section identifies the type of debts managed by departments that may need to be recognized and administered in the 
+department's receivables management system. Not all of these debts will appear in the government's consolidated financial 
+statements, although they may be reported in departmental reports. Examples of accounts that may not appear in the government's 
+financial statements include debts between federal government departments and some disbursements made under repayable contribution 
+agreements. </p><p>These debts include, but are not limited to, the following:</p><ul><li>Amounts due from taxation (including tax assessments), sales of goods, provision of services, use of facilities 
+	and statutory or other obligations, including dividends and transfers of profits and surpluses arising from the government's 
+	financial interest in outside organizations; </li><li>Overpayments or erroneous payments of salaries, allowances, supplier accounts, grants, contributions and benefits;</li><li>Disputed claims, at their estimated value; </li><li>Gross amounts assigned to third parties for collection; </li><li>Amounts due from repayable contributions when the conditions that make the contribution repayable have been met 
+	or when the amounts are unconditionally repayable; </li><li>Amounts due from defaulted loans as a consequence of the department honouring a loan guarantee; </li><li>Amounts due from penalties, fines and court awards; </li><li>Interest, penalties or administrative charges on the amounts and items specified; and </li><li>Amounts due from other federal government departments.</li></ul></chapter><chapter anchor="5" title="5. Collection methods and recovery activities"><p>The collection method that is the most appropriate and cost-effective for each circumstance is recommended for departmental 
+officials charged with the management of receivables. Collection actions will usually be based on the methods and information 
+outlined below starting with routine processes and progressing to more complex procedures as the situation warrants.</p><section anchor="5.1" title="5.1 Common routine collection actions"><ul><li>Confirming the validity of the debt due to the Crown;</li><li>Establishing the location of the debtor and if necessary, obtaining location information from other departments 
+	or agent Crown corporations;</li><li>Providing timely statements or notices; and</li><li>Communicating with the debtor to collect payment as required to establish a repayment schedule or to renegotiate 
+	an existing repayment schedule.</li></ul></section><section anchor="5.2" title="5.2 More advanced collection actions"><div class="indent1"><p><strong>5.2.1 Voluntary deduction or assignment</strong></p><p>Acceptance of a debtor's voluntary authorization to deduct the amount of a debt from payments the Crown owes the debtor. 
+For such voluntary transactions, it is not necessary to seek ministerial approvals that are required before processing a 
+set-off. Voluntary assignments to the Crown of payments due to the debtor by a third party are to be sent to departmental 
+legal advisors for review and guidance.</p><p><strong>5.2.2 Present value payment</strong></p><p>An account can be collected as payment-in-full by accepting payment that represents the present value of an established 
+repayment schedule or an amount due at a future date. In calculating the amount of a present-value payment, departments 
+are to determine and apply an appropriate discount rate. This discount rate should approximate the cost of borrowing to 
+the federal government adjusted by the risk factors associated with the account. The 
+<a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/sor-94-602/"><em>Debt Write- off Regulations</em></a><em>, 1994</em> provide the authority 
+to write off the balance that remains after a present-value payment has been accepted as full settlement of the debt. (Refer 
+to section 5.2.6 of this guideline - "Compromise settlements".)</p><p><strong>5.2.3 Security</strong></p><p>The <em>Security for Debts Due to Her Majesty 
+Regulations</em> and the <a href="/pol/doc-eng.aspx?id=16796"><em>Guideline on Security for Debts</em></a> are intended 
+to encourage departments to require security to protect the payment of amounts owing to the Crown. Neither the regulations 
+nor the guideline obliges a debtor to provide security. It will be decided on a program basis, when requiring an amount 
+to be paid to the Crown, whether security should be required in order to facilitate the collection of debt.</p><p>It is recommended that departmental officials assess when it is appropriate in their collection process to realize the 
+securities provided to the Crown.</p><p><strong>5.2.4 Set-off</strong></p><p>Subsection 155(1) of the <a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration Act</em></a> provides 
+the general authority for the set-off of payments for debt collection when specific program legislation does not override 
+this general authority. </p><p>Before initiating a set-off, every possible attempt is to be made and documented to advise the debtor that set-off action 
+is being contemplated. If departments decide to pursue set-off against debtors that have already made satisfactory repayment 
+arrangements, then it is recommended that debtors be advised of this process when repayment arrangements are being established.
+</p><p>The consent of the paying department's minister (or his or her delegate) is to be obtained for set-off except in cases 
+of set-offs to recover overpayments of salaries, wages, outstanding travel advances and employment-related allowances of 
+federal public service employees. Both the department responsible for collecting the debt and the department responsible 
+for making the payment are to agree to the collection rate. </p><p>Set-offs against contractual payments are normally for the full amount.</p><p>It is recommended that every effort be made to avoid creating undue hardship when initiating set-offs against government 
+payments.</p><p><strong>5.2.5 Private-sector collection agencies (PCAs)</strong></p><p>When using private-sector collection agenciesand paying their fees, consider the following:</p><ul><li>The services of private-sector collection agencies (PCAs) are to be used to recover debts owed to the Crown when 
+	it is effective and efficient to do so.</li><li>PCAs from the National Master Standing Offer established by the Department of Public Works and Government Services 
+	will be used.</li><li>The following debts are not be turned over to PCAs for collection:<ul><li>Debts owed by other government departments, government agencies, foreign governments and international organizations 
+		such as the United Nations; </li><li>Debts under appeal or in litigation; and</li><li>Debts owed by current employees.</li></ul></li><li>Active collection on accounts by departments will cease when the accounts are sent to PCAs. Preparing an account 
+	for set-off is not considered to be an active collection measure.</li><li>Only commissions' payable for the successful collection of debts due to the Crown covered by section 17.1 of the
+	<em>Financial Administration Act</em> can be charged to the statutory 
+	authority.</li><li>Expenses for services not provided through the National Master Standing Offer, such as those for tracing, credit 
+	assessment and cheque verification are to be charged to departmental operating votes and not to the statutory authority.
+	</li></ul><p><strong>5.2.6 Compromise settlement</strong></p><p>A compromise settlement involves accepting partial payment as fully satisfying a debt and releasing the debtor from any 
+obligation to pay the balance. The authority to accept a compromise settlement is held by the minister of Justice, who normally 
+acts on the advice and recommendation of the appropriate minister.</p><p>Compromise settlements are normally considered in a process that is incidental to litigation. The necessary condition 
+for accepting a compromise settlement is the determination that the cost of litigation would be more than the expected recoveries 
+or, when the debtor is on the verge of bankruptcy, that the settlement exceeds what the departments would receive if the 
+debtor went bankrupt. It may be determined that a compromise settlement should be accepted either before or after the commencement 
+of legal proceedings.</p><p>For settlements based on compassionate grounds or public interest considerations, a forgiveness or remission authority 
+is required. </p><p>Departmental officials are to write off the difference between the original debt and the amount of the compromise settlement 
+according to the <a href="hhttp://laws-lois.justice.gc.ca/eng/acts/F-11/SOR-94-602/index.html"><em>Debt Write-off Regulations, 1994</em></a>.
+</p><p><strong>5.2.7 Garnishment</strong></p><p>There is a need to differentiate between administrative garnishment initiated by departments under authority of their 
+program legislation and garnishment proceedings issued under provincial law. In the former, the Department of Justice plays 
+no role, except when departments consider it appropriate. In the latter, the departmental legal counsel is to be consulted.</p><p><strong>5.2.8 Use of departmental legal counsel</strong></p><p>Unless departmental legislation gives the department specific authority, all cases involving legal proceedings are to 
+be referred to the Department of Justice Canada.</p><p><strong>5.2.9 Limitation period</strong></p><p>Unless the limitation period for collections of debts is specified in program legislation, the applicable provincial 
+statute may apply to federal debts. Since the collection (including set-off) of Crown debts is not always bound by provincial 
+legislation, advice is to be sought from departmental legal counsel to confirm the applicable limitation period.</p><p><strong>5.2.10 Sharing of information</strong></p><p>The authorities for the sharing of information to locate debtors for the purposes of collecting amounts due to the Crown 
+are as follows:</p><ul><li>Paragraph 6.1.11 of the <em>Directive on Receivables Management</em>.</li><li>Paragraph 7(1)(<em>c</em>) of the <em>Financial Administration Act</em> 
+	provides Treasury Board with the authority to set policy on receivables applicable to departments.</li><li>Subsection 9(3) of the <em>Financial Administration Act</em> addresses 
+	the sharing of information for locating and set-off purposes.</li><li>Paragraph 8(2)(<em>b</em>) of the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a> 
+	addresses the disclosing of personal information for any purpose according to any Act of Parliament or any regulation 
+	made thereunder that authorizes its disclosure.</li><li>Paragraph 8(2)(<em>l</em>) of the <em>Privacy Act</em> 
+	addresses the disclosing of personal information for the purpose of locating an individual to collect a debt due to 
+	the Crown.</li></ul><p>Obligations under these acts and Directive include the following:</p><ul><li>The information is to be only provided when required to locate a person in order to collect the person's debt or 
+	to set off the debt against any sum of money that may be due or payable to the person by Her Majesty in Right of Canada.</li><li>Any information provided in response to a request is to be obtained from any account, return, record, statement, 
+	document or report pertaining to the person. The information is not to be obtained from any account, return, record, 
+	statement, document or report pertaining to any other person such as a relative or a spouse. </li><li>Information that is obtained for the purpose of collecting or setting off a debt is not to be used for any other 
+	purpose. </li><li>Advice is to be sought from the organization's legal counsel to confirm the application of the Directive's requirement 
+	on sharing information in light of special program legislation providing for confidentiality of certain information. 
+	This requirement was established by the Treasury Board according to paragraph 7(1)(c) and subsection 9(3) of the 
+	<em>Financial Administration Act</em>. </li><li>Before providing any requested information, authorized officials of departments and agent Crown corporations are 
+	to obtain assurance from authorized officials of the department requesting the information specified in paragraph 6.1.11 
+	(a) of the Directive that it will be protected from disclosure in the manner consistent with the requirements of the 
+	program under which it was collected.</li><li>Treasury Board policies regarding the administration of the 
+	<em>Privacy Act</em>, such as the 
+	<a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy Protection</em></a>, are to be observed.</li><li>To ensure compliance with the provisions of the <em>Privacy 
+	Act</em>, parties are to establish bilateral agreements governing the exchange of personal information identified 
+	in paragraph 6.1.11 of the Directiveregarding the requirements on sharing debtor information. The purpose of the agreements 
+	is to set out the parameters of the planned information exchange according to sections 4 through 8 of the 
+	<em>Privacy Act</em>, which refer to the collection, use, disclosure, 
+	retention, disposal and protection of personal information.</li></ul></div></section></chapter><chapter anchor="6" title="6. References"><section anchor="6.1" title="6.1 Relevant legislation and regulations"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration Act</em></a>, subsections 7(1), 9(3) and 
+	155(1)</li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/"><em>Privacy Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/p-8.6/"><em>Personal Information Protection and Electronic Documents Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-98-130/index.html"><em>Receipt and Deposit of Public Money Regulations, 
+	1997</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/SOR-96-188/index.html"><em>Interest and Administrative Charges Regulations</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/SOR-94-602/index.html"><em>Debt Write-off Regulations, 1994</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/SOR-87-505/index.html"><em>Security for Debts Due to Her Majesty Regulations, 
+	1987</em></a></li></ul></section><section anchor="6.2" title="6.2 Related policy instruments and publications"><ul><li><a href="/pol/doc-eng.aspx?id=12158"><em>Policy on Allowances for the Valuation of Assets and Liabilities</em></a></li><li><a href="/pol/doc-eng.aspx?id=15258"><em>Policy on Internal Control</em></a></li><li><em>Policy on Financial Resources Management</em></li><li><a href="/pol/doc-eng.aspx?id=15784"><em>Directive on Payment Requisitioning and Cheque Control</em></a></li><li><a href="/pol/doc-eng.aspx?id=15785"><em>Directive on Receipt, Deposit and Recording of Money</em></a></li><li><a href="/pol/doc-eng.aspx?id=17062"><em>Directive on Loans &amp; Loan Guarantees</em></a></li><li><a href="/pol/doc-eng.aspx?id=14208"><em>Use and Disclosure of Personal Information</em></a></li><li><a href="/pol/doc-eng.aspx?id=12510"><em>Policy on Privacy Protection</em></a></li><li><a href="/pol/doc-eng.aspx?id=22054"><em>Policy on Data Matching</em></a></li><li><a href="/pol/doc-eng.aspx?id=13342"><em>Directive on the Social Insurance Number</em></a></li><li><a href="/pol/doc-eng.aspx?id=16578"><em>Policy on Government Security</em></a></li><li><a href="/pubs_pol/hrpubs/tbm_11a/7-eng.asp"><em>Recovery of Amounts due to the Crown</em></a></li><li><a href="/pol/doc-eng.aspx?id=15796"><em>Guideline on Security for Debts</em></a></li><li>Receiver General - <a href="http://www.tpsgc-pwgsc.gc.ca/recgen/txt/71-eng.html"><em>Payment on Due Date (PODD) 
+	Interest Rate</em></a></li></ul></section></chapter><chapter anchor="7" title="7. Enquiries"><p>Please direct enquiries about this guideline to your departmental headquarters. For interpretation of this guideline, 
+departmental headquarters should contact:</p><p>Financial Management Policy Application<br />
+Financial Management and Analysis Sector<br />
+Office of the Comptroller General<br />
+Treasury Board Secretariat<br />
+Ottawa, ON K1A 0R5</p><p>E-mail: <a href="mailto:fin-www@tbs-sct.gc.ca">fin-www@tbs-sct.gc.ca</a><br />
+Telephone: 613-957-7233<br />
+Fax: 613-952-9613</p></chapter></chapters></doc>

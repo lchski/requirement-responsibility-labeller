@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><doc title="Guidelines for Termination or Demotion for Unsatisfactory Performance; Termination or Demotion for Reasons Other than Breaches of Discipline or Misconduct; and Termination of Employment During Probation" space="preserve" language="en" versionID="1" documentID="22379" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Context"><p>These
+    guidelines replace the following Guidelines issued on April 1, 2005:</p><ul><li><em>Guidelines
+      for Demotion/Termination of Employment for Unsatisfactory Performance</em></li><li><em>Guidelines
+      for Termination of Employment and Demotion for Reasons other than discipline
+      (Medical Incapacity) </em></li><li><em>Guidelines for
+      Rejection on Probation</em></li></ul><p>These
+    guidelines support the principles set out in the <em><a href="/pol/doc-eng.aspx?id=19134">Policy Framework for
+    People Management</a></em> by providing advice that will foster sound people
+    management practices across the core public administration. </p><p><strong>Unsatisfactory
+    Performance</strong>: Paragraph 12(1)<em>(d)</em> of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/index.html">Financial
+    Administration Act (FAA)</a></em> authorizes every deputy head in the core public administration to terminate
+    employment of or demote an employee whose performance is, in the opinion of the
+    deputy head, unsatisfactory. Subsection 12.2(1) permits delegation of this
+    authority.</p><p><strong>Other
+    Reasons</strong>: Paragraph 12(1)<em>(e)</em> of the <a href="http://laws-lois.justice.gc.ca/eng/F-11/index.html">FAA</a> authorizes every
+    deputy head in the core public administration to terminate employment of or
+    demote an employee for reasons other than breaches of discipline or misconduct.
+    Such actions must be for cause in compliance with subsection 12(3) of the FAA. Subsection 12.2(1) permits delegation of these authorities.</p><p><strong>During Probation</strong>: Subsection 61(1) of
+    the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.01/index.html">Public Service Employment Act (PSEA)</a></em> authorizes the
+    Treasury Board to establish, by regulation, the probationary period for classes
+    of employees who are appointed from outside the public service. Subsection
+    62(1) of the <em>PSEA</em> provides deputy heads with the
+    authority to terminate employment during the probationary period established by
+    regulation of the Treasury Board. Subsection 24(1) of the <em><a href="http://laws-lois.justice.gc.ca/eng/P-33.01/index.html">PSEA</a></em> permits delegation of
+    this authority. </p></chapter><chapter anchor="2" title="2. Target Audience and Purpose"><p>These
+    guidelines assist human resources advisors in the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/section-2.html">core public administration</a> in their role of
+    providing advice and guidance to management in situations such as the
+    following:</p><ul><li>
+      The
+      employee's performance is unsatisfactory and action to demote the employee or
+      terminate his or her employment is being considered;</li><li>
+      Action
+      to demote an employee or terminate employment for reasons other than breaches
+      of discipline or misconduct is being considered. Demotion or termination for medical incapacity is the most common action.
+      Demotion or termination for other reasons can also include failure to meet the
+      basic requirements of the position (e.g., a valid driver's licence),
+      abandonment of position, and failure to meet the security requirements of the
+      position; and</li><li> Termination of
+      employment during probation is being considered.</li></ul></chapter><chapter anchor="3" title="3. General"><p>Upon request, the Treasury Board
+    Secretariat's (TBS's) Employer Representation in Recourse Team is available to
+    provide advice and guidance on demotion or termination of employment.</p><p>It is
+    recommended that measures taken to act in a manner consistent with the
+    following principles are a matter of record. </p><ol class="lower-alpha"><li>In making
+    a decision to terminate employment of or to demote an employee whose
+    performance is unsatisfactory, the following guiding principles are key:
+  <ul><li>
+      The
+      required level of job performance is determined;</li><li>
+      The
+      level of performance required is communicated to the employee;</li><li>
+      Reasonable
+      levels of supervision and instruction are provided to the employee;</li><li>
+      The
+      employee is allowed a reasonable period of time to meet the required level of
+      job performance;</li><li>
+      The
+      employee is provided with reasonable warnings about the consequences of his or
+      her continued failure to meet the required level of job performance; and </li><li>
+      Once the
+      inability to meet the required level of job performance has been established,
+      reasonable alternative employment within the competence of the employee is
+      considered.</li></ul><p>Please be
+    mindful that jurisprudence has established that the delegated manager is to
+    notify the employee in writing when a decision is made to demote him or her or
+    to terminate his or her employment. The notification is to state the reasons
+    for the decision and the effective date, and is to inform the employee that he
+    or she has the right to grieve the decision. </p></li><li>In making
+    a decision to demote an employee or terminate employment for other reasons,
+    such as medical incapacity, the following guiding principles are key: 
+  <ul><li>
+      The
+      employee has been unable to work due to illness or disability for an extended
+      period, has exhausted his or her sick leave credits, and may have been granted
+      leave without pay;  </li><li>
+      The employee
+      will not be able to return to duty within the foreseeable future. This
+      determination should be based on an assessment of the employee's health, either
+      by physicians of Health Canada, other medical practitioners deemed qualified by
+      the employer, or both; </li><li>
+      Efforts
+      have been made to accommodate the employee's condition to the point of undue
+      hardship, taking into consideration issues of health, safety and cost, where
+      the employee is determined to be "fit for work with limitations"
+      after having been examined by physicians of Health Canada, other medical
+      practitioners deemed qualified by the employer, or both; </li><li>
+      The
+      employee has been made aware of services offered through the Employee
+      Assistance Program; and </li><li>
+      Other
+      options, such as resignation or retirement on medical grounds, have been
+      presented to the employee for consideration. </li></ul><p>Please be
+    mindful that jurisprudence has established that the delegated manager is to
+    notify the employee in writing when a decision is made to demote him or her or
+    to terminate his or her employment. The notification is to state the reasons
+    for the decision and the effective date, and is to inform the employee that he
+    or she has the right to grieve the decision. </p></li><li>In making
+    a decision to terminate employment during the probationary period, the
+    following guiding principles are key:
+  <ul><li>
+      The
+      employee on probation knows the specific job duties and requirements of the
+      position; </li><li>
+      The
+      employee on probation is aware of the required standard(s) of performance and
+      appropriate conduct:;</li><li>
+      The
+      employee on probation receives feedback when performance or conduct requires
+      improvement; and </li><li>
+      The
+      employee on probation receives the appropriate training for the position. </li></ul></li></ol><p>The
+    probationary period is to assess the suitability of the employee for the
+    position for which he or she has been hired. This assessment can include an
+    evaluation of the following, as appropriate:</p><ul><li>
+      The
+      employee's reliability, including attendance at work; </li><li>
+      The
+      employee's compatibility with colleagues or clients; </li><li>
+      The
+      employee's ability to meet work requirements, including those associated with
+      the workload; and </li><li>
+      The
+      employee's ability to adhere to established policies, procedures, practices and
+      codes of conduct. </li></ul><p>Please be
+    mindful of jurisprudence which has established that a decision to proceed with
+    a termination of employment during probation should be based on objective and
+    demonstrable grounds and must not be made arbitrarily, in a discriminatory
+    manner, or in bad faith. That is, a manager or supervisor should be satisfied
+    that the employee is not suitable for the position, and should be able to
+    demonstrate that he or she has acted in good faith based on the employee's
+    unsuitability for the position. The grounds for such a decision could include
+    unsatisfactory performance or misconduct. </p><p>The employee
+    is to be notified by the delegated manager in writing of the decision to
+    proceed with a termination of employment during probation, stating the reason
+    for the decision and the effective date.</p></chapter><chapter anchor="4" title="4.&#xD;&#xA;Definitions"><dl><dt><strong>demotion</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>rétrogradation</em></span>)</dt><dd><p>An action taken
+    by the employer to appoint an employee to a position at a lower maximum rate of
+    pay.</p></dd><dt><strong>individual
+    grievance</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>grief individuel</em></span>)</dt><dd><p>A complaint in
+    writing, presented by an employee on his or her own behalf, in compliance with
+    section 208 of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/index.html"><em>Public
+    Service Labour Relations Act</em></a></em>, the <em><a href="http://laws-lois.justice.gc.ca/eng/SOR-2005-79/index.html"><em>Public
+    Service Labour Relations Board Regulations</em></a></em> or the applicable
+    provisions of the relevant <a href="/ca-cc/index-eng.asp">collective
+    agreement</a>.</p></dd><dt><strong>medical
+    incapacity </strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>incapacité médicale</em></span>)</dt><dd><p>A continuing,
+    non-culpable absence from duty due to illness or disability that prevents the
+    employee from fulfilling his or her employment obligations.</p></dd><dt><strong>medical retirement </strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>retraite pour raisons
+    de santé</em></span>)</dt><dd><p>Retirement on grounds of disability where
+    physicians of Health Canada certify that there is an impairment that prevents
+    the employee from engaging in any employment for which he or she would be
+    reasonably suited.</p></dd><dt><strong>termination</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>licenciement</em></span>)</dt><dd><p>The separation
+    from the core public administration of an employee for cause.</p></dd><dt><strong>unsatisfactory performance</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>rendement insatisfaisant</em></span>)</dt><dd><p>A non-culpable
+    deficiency in job performance. It is the inability to perform the duties of
+    one's position to a reasonable standard.</p></dd></dl></chapter><chapter anchor="5" title="5. Redress"><p>An employee who
+    is demoted or whose employment is terminated for unsatisfactory performance or
+    for reasons other than breaches of discipline or misconduct may grieve the
+    decision by filing an individual grievance at the final level of the grievance
+    procedure, under the <a href="http://laws-lois.justice.gc.ca/eng/SOR-2005-79/index.html"><em>Public
+    Service Labour Relations Board Regulations</em></a> and any applicable collective
+    agreement. Individual grievances in these cases are also subject to third-party
+    adjudication, under subparagraph 209(1)<em>(c)</em>(i) of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/index.html">Public
+    Service Labour Relations Act (PSLRA).</a></em></p><p>An employee
+    whose employment is terminated during probation may grieve the decision by
+    filing an individual grievance at the appropriate level of the grievance
+    procedure under the <em><a href="http://laws-lois.justice.gc.ca/eng/SOR-2005-79/index.html">Public Service
+    Labour Relations Board Regulations</a></em> and the applicable <a href="/ca-cc/index-eng.asp">collective
+    agreement</a>. However, section 211<em>(a)</em> of the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/index.html">PSLRA</a> prohibits the referral of these grievances to adjudication.</p></chapter><chapter anchor="6" title="6.&#xD;&#xA;References"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/F-11/index.html"><em>Financial
+    Administration Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/P-33.01/index.html"><em>Public Service
+    Employment Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/P-33.3/index.html"><em>Public Service
+    Labour Relations Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/SOR-2005-79/index.html"><em>Public Service
+    Labour Relations Board Regulations </em></a></li><li><a href="/pol/doc-eng.aspx?id=19134"><em>Policy Framework for
+    People Management</em></a></li><li><a href="/pubs_pol/hrpubs/coll_agre/siglist_eng.asp"><em>Collective agreements</em></a></li></ul></chapter><chapter anchor="7" title="7. Enquiries"><p>Please direct
+    enquiries about these guidelines to your departmental labour relations
+    headquarters. Departmental labour relations headquarters can contact their
+    Employer Representation in Recourse Analyst at TBS for interpretation of the
+    guidelines:</p><p>Employer Representation in Recourse Team<br />
+    Compensation and Labour Relations <br />
+    Treasury Board Secretariat<br />
+    Ottawa ON  K1A 0R5 </p></chapter></chapters></doc>

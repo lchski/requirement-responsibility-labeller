@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Interdepartmental Transfers – Capital Assets: A Supplement to the Financial Information Strategy (FIS) Manual" documentID="20886" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><notetoreader><div><p>This supplement describes the accounting treatment for the following:</p><ul><li>Interdepartmental transfers of capital assets. </li></ul></div></notetoreader><chapters><chapter anchor="1" title="Introduction"><p>As per the <em><a href="/pol/doc-eng.aspx?id=12066">Directive 
+on Disposal of Surplus Materiel</a></em>,whenever practical, departments must make 
+surplus materiel assets available, whether gratuitously, at book value, or at market 
+value, to other federal departments and agencies before disposing of them outside 
+the federal domain. </p><p><em><a href="/pol/doc-eng.aspx?id=12176">Treasury Board 
+Accounting Standard 3.1 - Capital Assets</a></em>requires that transfers of capital 
+assets between departments be recorded at the net book value of the asset regardless 
+of whether the capital asset was transferred to another departmentgratuitously, 
+at book value, or at the market value. As such, the receiving department must record 
+the capital asset at its original historical cost and also record the accumulated 
+amortization at the date of transfer. In addition, the transferred capital asset's 
+historical cost and accumulated amortization amounts must be removed from the books 
+of the transferring department. As a result, the accounting treatment should not 
+produce a gain or loss, and there should be no impact at the government-wide level. 
+ Given the fact that interdepartmental transfers are related party transactions, 
+the equity accounts of the departments should be credited or debited with the net 
+book value of the capital asset. </p><p>Furthermore, the transferring departments are not allowed to re-spend the agreed 
+upon amounts from interdepartmental transfers of surplus assets because the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/S-27">Surplus Crown Assets Act</a></em> 
+only enables departments to re-spend the sale proceeds when the sales are entered 
+into with third parties. Please consult your departmental program analyst at the 
+Treasury Board Secretariat to pursue access to the agreed upon amounts. The accounting 
+treatment of the capital assets transferred is separate from the transfer of funds 
+between departments.</p><p>To avoid any effect on government reporting, departments should coordinate their 
+accounting entries to ensure that they occur in the same period.</p></chapter><chapter anchor="2" title="References"><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/S-27">Surplus Crown Assets Act</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12176">TBAS 3.1 - Capital Assets</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12066">Directive on Disposal of Surplus Materiel</a></em></li><li>CICA 3840 – Related party transactions</li></ul></chapter><chapter anchor="3" title="Accounting entries"><h3>1. Transfer of a capital asset from one department to another </h3><h4>Scenario A - One department transfers a motor vehicle 
+to another department.</h4><p>The net book value of the motor vehicle transferred to the other department is 
+$35,000 (an original cost of $50,000 less accumulated depreciation $15,000).</p><table class="rpp widthFull"><caption><strong>(a) The transferring department starts the process by 
+removing the asset from its books</strong>.</caption><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr><tr><td>Debit: Accumulated Amortization on Motor Vehicles (Non-Military)</td><td class="alignCenter">15,000</td><td class="alignCenter">16233</td><td class="alignCenter">F311</td><td class="alignCenter">7061</td></tr><tr><td>Debit: Capital Assets Transfer Out/In Offset Account</td><td class="alignCenter">35,000</td><td class="alignCenter">37DDD</td><td class="alignCenter">F999</td><td class="alignCenter">7099</td></tr><tr><td>Credit: Motor Vehicles (Non-Military)</td><td class="alignCenter">50,000</td><td class="alignCenter">16133</td><td class="alignCenter">F319</td><td class="alignCenter">7099</td></tr></table><table class="rpp widthFull"><caption><strong>(b) The receiving department sets up the net book value 
+of the asset on its books</strong>.</caption><tr><th scope="col" class="lightgreyBG"><strong>Financial Reporting Account (FRA)</strong></th><th scope="col" class="lightgreyBG"><strong>Amount $</strong></th><th scope="col" class="lightgreyBG"><strong>FRA code</strong></th><th scope="col" class="lightgreyBG"><strong>Authority code</strong></th><th scope="col" class="lightgreyBG"><strong>Object code</strong></th></tr><tr><td>Debit: Motor Vehicles (Non-Military)</td><td class="alignCenter">50,000</td><td class="alignCenter">16133</td><td class="alignCenter">F319</td><td class="alignCenter">7099</td></tr><tr><td>Credit: Accumulated Amortization</td><td class="alignCenter">15,000</td><td class="alignCenter">16233</td><td class="alignCenter">F311</td><td class="alignCenter">7061</td></tr><tr><td>Credit: Capital Assets Transfer Out/In Offset Account</td><td class="alignCenter">35,000</td><td class="alignCenter">37DDD</td><td class="alignCenter">F999</td><td class="alignCenter">7099</td></tr></table><dl><dt><strong>FRA coding rationale:</strong></dt><dd><p>The motor vehicle capital asset under 
+FRA 16133 and its accumulated amortization under FRA 16233 will be removed from 
+the transferring department's books and recorded in the receiving department's books. 
+ Since the transfer is done at the net book value between departments, there should 
+not be any gain or loss on the transaction. Therefore, the equity account FRA 37DDD 
+will be used for net book value.</p></dd><dt><strong>Authority coding rationale:  </strong></dt><dd><p>Since the spending authorities 
+were affected when the asset was purchased by the department, the appropriations 
+are not affected as a result of interdepartmental transfers. To assist with departmental 
+reconciliations, F codes are used for these non-appropriated amounts. F319 is used 
+for the adjustment of the capital asset, and F311 is used for accumulated amortization. 
+ F999 is used to record the change in equity.  </p><ul><li>F311:  Increases (decreases) to accumulated amortization of capital assets</li><li>F319:  Reductions from (increases to) balances of other assets</li><li>F999:  Non-appropriated amounts </li></ul></dd><dt><strong>Object coding rationale:  </strong></dt><dd><p>As these are non-cash (non-expenditure) 
+items, they have no effect on economic objects. 7061 is used for accumulated amortization. 
+ 7099 will be used to reflect the increase or decrease in the assets.</p><ul><li>7061:  Accumulated amortization on capital assets</li><li>7099:  Net increase or decrease in other transactions</li></ul></dd></dl></chapter></chapters></doc>

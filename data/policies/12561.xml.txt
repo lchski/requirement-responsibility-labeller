@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Occupational Health Evaluation Standard" documentID="12561" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Objective"><p>To prevent illness, injury and disability arising out of, or aggravated by, conditions of work.</p></chapter><chapter anchor="2" title="2. Purpose and Scope"><p>2.1 The health of employees and candidates is evaluated to:</p><ol class="lower-alpha"><li>establish that employees are able to continue working without detriment to their health or safety or that of others;</li><li>establish that candidates are able to meet the health requirements of the job prior to appointment;</li><li>in the case of postings, assess if individuals or their dependants have a health condition that may require resolution 
+prior to posting, ongoing medical attention during posting or possible evacuation at posting;</li><li>establish the conditions under which employees with illnesses, injuries or disabilities are able to continue working.</li></ol><p>2.2 Generally, health evaluations or assessments are carried out for individuals assigned to occupations that have 
+an inherent element of risk to their health or safety; where actions by employees could result in a threat to their 
+health and safety or to that of another; before postings to isolated, remote or foreign locations; and where a Public 
+Service policy, directive, standard, or guideline provides that such evaluations may be requested.</p><p>2.3 Because occupational health evaluations/assessments are related to the work only, they are not intended to replace 
+the medical examinations carried out by personal or family physicians. Medical information can be forwarded to the 
+treating physician with the individual's written request as candidates and employees remain under the care of their 
+treating physician at all times.</p><p>2.4 When a health condition exists, the diagnosis, adequacy of treatment, medical control, and the state of any 
+resulting or residual impairment or limitation are all factors that will be considered in making an assessment determination 
+usually in consultation with the treating physician.</p></chapter><chapter anchor="3" title="3. Application and Exclusion"><p>3.1.1 This standard applies to:</p><ol class="lower-alpha"><li>departments and agencies that are listed under Schedule  I and Schedule IV of the <em>Financial  Administration Act</em>;</li><li>visiting scientists and students as well as persons hired on a term or casual basis who are exposed to the same 
+	  hazards when working for departments and includes those on assignment with another employer;</li><li>dependants of rotational employees covered under the Foreign Service Directives.</li></ol><p>3.1.2 This standard does not apply to:</p><ol class="lower-alpha"><li>portions of the Public Service that are subject to other authorities including the Canadian Armed Forces and 
+the Royal Canadian Mounted Police.</li><li>occupations referred to in Orders-in-Council governing physical standards for civil aviation personnel.</li><li>Contract workers.</li></ol></chapter><chapter anchor="4" title="4. Definitions"><p>4.1 The term "occupational health evaluation" in this standard, means any specific screening, assessment or examination 
+of an individual which is carried out by an occupational health professional to determine or monitor the individual's 
+occupational health status and includes, when appropriate, preventative measures such as recommended immunizations 
+as well as consultations with other health professionals.</p><p>4.2 The term "occupational health professional" in this standard applies to qualified physicians, nurses or mental 
+health specialists hired or delegated by the occupational health service provider, Health Canada (HC).</p></chapter><chapter anchor="5" title="5. Authorities"><p>5.1. Establishment of Health Standards</p><p>The physical examination standards are established in consultation with the designated occupational health service 
+provider and appropriate specialists by the employing department (with input from its occupational Health and Safety 
+Policy Committee) and the Treasury Board of Canada Secretariat</p><p>5.2. Designated Occupational Health Service Provider</p><p>By delegation of  the Treasury Board, Health Canada is responsible for determining and carrying  out the occupational health evaluations of Public Service employees as the  occupational health service provider. Departments shall contact the appropriate  regional office of the Public Service Occupational Health Program (PSOHP) of <abbr title="Health Canada">HC</abbr>.</p><div><div><p>5.3. Departmental Responsibility</p><p>Departments and agencies are responsible for the application of this Standard by ensuring that evaluations are conducted 
+where applicable, as indicated in section 2 of this Standard.</p><p>5.3.1 Health Evaluations for Occupational Groups</p><p>Departments shall ensure that the occupational groups listed in the first column in Appendix A undergo health evaluations 
+according to the accompanying schedule in the second, third and fourth columns. When an individual is exposed to the 
+hazards of more than one occupational group, the requirements of those occupational groups also apply.</p><p>5.3.2. Practical Test</p><p>When an individual is unable to meet the occupational health requirements of the position and continues not to meet 
+the requirements upon further medical testing and/or by accommodation, the employing department will undertake to conduct 
+a practical test, if it does not impose an undue hardship on the department, to determine whether the individual can 
+safely and efficiently perform the critical tasks associated with the relevant position under actual or simulated conditions. 
+The employing department, in consultation with Health Canada, appropriate specialists and the departmental Employment 
+Equity unit, establishes the practical test. See Procedures, sections 9.7 and 9.8 regarding testing and accommodation.</p><p>5.3.3. Physical Abilities Test (PAT) of certain departments</p><p>Where the employing department establishes a physical abilities test (PAT) to determine the individual's physical 
+fitness to carry out certain physical functions of the job (e.g. climb ladder, carry hose, wear respiratory equipment, 
+etc.), it is done in consultation with appropriate specialists and includes the departmental Employment Equity unit. 
+This test is usually preceded by an occupational health evaluation by Health Canada to rule out predisposing factors 
+that may preclude a <abbr title="Physical Abilities Test ">PAT</abbr>. See Procedures, sections 9.7 and 9.8 regarding testing and accommodation.</p><p>5.3.4 Fitness to Work Evaluations</p><p>Fitness to work evaluations are non-scheduled evaluations to determine if an employee has been affected by a workplace 
+hazard and/or is medically fit to safely and efficiently perform the tasks of a specific job. See Types of Evaluations 
+in section 7.1.3.</p></div></div></chapter><chapter anchor="6" title="6. Health Evaluation Categories"><p>6.1. There are three categories of health evaluations:</p><p>6.1.1. Category 1: A confidential personal health declaration completed by the employee and reviewed by an appropriate 
+occupational health professional, who will determine whether follow-up action is necessary (i.e., Category 2 or Category 
+3 evaluation).</p><p>6.1.2. Category 2: A confidential health questionnaire completed by the employee together with an occupational health 
+nurse and followed by a full clinical history by the nurse. The occupational health nurse or other appropriate licensed 
+health care professional provides prophylactic immunizations and tests depending on the type of work and particular 
+hazards. If warranted, the employee is referred for a Category 3 exam.</p><p>6.1.3. Category 3: A confidential health questionnaire completed by the employee together
+with a physician and followed by a full clinical history and physical examination by the physician. The occupational 
+health nurse or other appropriate licensed health care professional usually provides prophylactic immunizations and 
+tests.</p></chapter><chapter anchor="7" title="7. Types of Evaluations"><p>7.1 An occupational health evaluation is focused on the job, its hazards and related illnesses and tests, and it 
+is carried out by occupational health professionals. This kind of evaluation is not the same as, and is not intended 
+to, replace a general physical examination provided by the personal physician. Health Canada's occupational health 
+professionals are also knowledgeable about the employer's workplace health hazards, related occupational health and 
+safety legislation, human rights legislation and the policies of government. The occupational health professionals 
+carry out the following types of evaluations:</p><p>7.1.1 Pre-placement (Pre-appointment)</p><p>A pre-placement health evaluation is carried out when a candidate is to be hired for a specific job that has certain 
+health requirements or an inherent element of risk to health and safety. Candidates are required to meet certain occupational 
+requirements of the position before being appointed to the position. See Procedures, section 9 below regarding employer 
+responsibility. Most pre-placement evaluations are Category 3 evaluations. For some groups, such as returning seasonal 
+workers, summer and co-op students, pre-placement evaluations are Category 1 or 2.</p><p>7.1.2 Periodic Health Evaluations</p><p>Periodic health evaluations are carried out on a periodic schedule from annually to every five years, depending 
+on hazard exposure and the age of the employee, to determine if employees continue to meet the criteria, are being 
+negatively affected by their work, and if they can continue working under the same work conditions without detriment 
+to their health and safety or to those of others. Periodic health evaluations come under one of the three preceding 
+categories.</p><p>7.1.3. Fitness to Work Evaluations (non-routine)</p><p>Fitness to work evaluations are provided to determine if an employee has been affected by a workplace hazard and/or 
+is medically fit to safely and efficiently perform the tasks of a specific job. The evaluations are carried out with 
+the employee's consent and with input from the treating physician, if any. The evaluations are directed towards confirming 
+the employee's health capability to carry out, or continue to carry out the duties of the position and, where warranted, 
+what limitations should be considered.</p><p>7.1.3.1. Departments should arrange for fitness to work evaluations where an employee:</p><ol class="lower-roman"><li>has been exposed to an unexpected occupational health hazard, such as a chemical spill; or</li><li>as a result of job changes, will be exposed to a different hazard or more strenuous work as indicated in the 
+annex;</li><li>appears to be having difficulty in performing the duties of the position or the employee's actions appear 
+to be affected by health related factors.</li><li>is absent for a lengthy period and a return date has not been established or an employee is returning to work 
+after a period of medical leave and there is concern about his/her fitness for duty.</li></ol><p>NOTE: In rehabilitation/return to work cases where an action plan has already been developed and approved by the attending/assessing 
+physician and the insurance company's rehabilitation staff, it is not mandatory for departments to request fitness-to-work 
+evaluations from Health Canada. Only in those instances where there is concern about an employees' fitness to carry 
+out their modified duties through the return to work plan or through a job change should referrals be made to Health 
+Canada.</p><p>7.1.3.2. With respect to accommodation, departments will work with the individual employees to find the means of 
+accommodating the employee at work. Additional input may be required from the employee's treating physician. In addition, 
+there may be occasions where it would be reasonable for the manager to seek additional advice or guidance from Health 
+Canada, which may include a Fitness to Work evaluation.</p><p>7.1.3.3. In accordance with departmental procedures, managers must advise the employee of the reason for the evaluation. 
+It is preferable to obtain the employee's cooperation prior to the fitness to work evaluation. A letter of explanation 
+containing factual, objective and pertinent information related to the purpose of the referral to Health Canada as 
+well as a completed " Job Analysis" form is forwarded to the occupational health physician. Health Canada will determine 
+if other records or information are required throughout the process. In all correspondence, managers should avoid using 
+information that is not recorded and they should avoid collecting, using or disclosing personal information about third 
+parties. To ensure transparency of the process, the information provided to Health Canada shall be shared with the 
+employee, including the reasons for the disclosure to Health Canada. If the employee does not consent to undergo a 
+Fitness to Work evaluation, the Labour Relations Advisor is consulted.</p><p>7.1.3.4. The fitness to work evaluation is carried out by occupational health physicians, with input from the departmental 
+manager and, where appropriate, the employee's personal physician or specialist with the employee's written consent.</p><p>7.1.3.5. Following completion of the evaluation, both the employer and the employee are provided with a written 
+report concerning the employee's health capacity to carry out the duties of the position and outlining specific limitations 
+or physical restrictions to the employing department.</p></chapter><chapter anchor="8" title="8. Medical confidentiality"><p>8.1. The assessing health professional discloses to the employer only information that enables the employer to take 
+appropriate measures, e.g. information on limitations related to the health requirements of the position. Confidential 
+medical information is not provided unless it is required to determine appropriate accommodation strategies or options 
+and is provided with the written consent of the individual. (See sections 9.5 and 9.6)</p><p>8.2. To ensure confidentiality of medical information, the disclosure of information during a workers compensation 
+claim must be consistent with the Treasury Board Policies on Injury on Duty and Workers Compensation or according to 
+the legislation and procedures of the workers compensation boards.</p><p>8.3. All medical  information, forms and records transmitted or used in connection with these  health evaluations will be maintained in a medical confidential status, and  retained by Health Canada's Public Service Occupational Health Program (PSOHP)  or within the medical community as determined by the <abbr title="Public Service  Occupational Health Program">PSOHP</abbr>, for a total period  of 30 years, 10 years active after last file activity and 20 years dormant at Library  and Archives Canada. Copies of medical records may be forwarded to the  employee's physician with the written request of the employee.</p></chapter><chapter anchor="9" title="9. Procedures"><p>9.1 All health  evaluations are to be arranged by employing departments and agencies through  the regional office of the designated occupational health provider, Health  Canada's Public Service Occupational Health Program (PSOHP), using the  prescribed form and procedures.</p><p>9.2 Departments shall inform employees and candidates about the purpose and process of the evaluation and provide 
+  an interpretation of medical confidentiality (section 8) at the same time.</p><p>9.3 An individual may see a private physician; the department shall provide the approved <abbr title="Health Canada">HC</abbr> medical form and a description 
+of the work, including the hazards, the extent of exposure and the use of protective equipment. The private physician 
+enters the results on the form provided and, with the written consent of the employee, forwards the form along with 
+the laboratory test results in confidence to the Health Canada health professional, who will determine if the form 
+is complete and necessary tests carried out. The individual's written consent should also include an agreement for 
+the assessing health professional to communicate with the employee's examining physician. Subsequently, an assessment 
+is forwarded by Health Canada's occupational health professional to the employing department and the individual. With 
+the possible exception of workers compensation claims (see sections 8.2 and 7.1.3.1 iv), all requests for evaluations 
+from outside consultants must follow this procedure.</p><p>9.4. Routine occupational health evaluations will be initiated in accordance with the frequencies specified in Appendix 
+A. However, in individual cases, <abbr title="Health Canada">HC</abbr> may recommend investigations or evaluations at intervals that are more or less 
+frequent than those prescribed in Appendix A. Health evaluations shall be carried out wherever practicable during normal 
+working hours.</p><p>9.5. Following all health evaluations, Health Canada occupational health professional will forward to the department 
+an assessment report indicating whether the individual meets the health requirements of the job as well as to the individual 
+if the requirements are not met or limitations are indicated. This report shall not contain any medical, psychological 
+or psychiatric diagnosis. (See section 8.1)</p><p>9.6. Where work limitations are identified, the report will incorporate information to management concerning the 
+individual's ability to perform the task (functional capacity). The <abbr title="Public Service Occupational Health Program">PSOHP</abbr> health professional can arrange discussions 
+with management.</p><p>9.7. Where an individual is unable to meet the health requirements of the position outlined in this standard along 
+with the specifications in <abbr title="Health Canada">HC</abbr>'s Occupational Health Assessment Guide and continues not to meet these requirements upon 
+further medical testing, if done, the employing department will make every effort, up to the point of undue hardship, 
+to accommodate the individual. Any additional medical testing and/or accommodation measures are planned in consultation 
+with the <abbr title="Health Canada">HC</abbr> occupational health professional. The department may proceed with accommodation at any stage of the occupational 
+health evaluation process and in accordance with the Treasury Board Policy on the Duty to Accommodate Persons with 
+Disabilities in the Federal Public Service.</p><p>9.8. If an individual does not meet the health requirements of the position after further testing, and/or accommodation, 
+the employing department will undertake to conduct a practical test, if it does not impose undue hardship on the department 
+(see Practical Test under Departmental Responsibility in section 5.3.2). Practical testing may also assist the employing 
+department to evaluate the need and scope of accommodation.</p><p>9.9. When a health problem is discovered, the individual is referred to his or her personal physician and copies 
+of medical records may be forwarded to the individual's physician with the written consent of the individual.</p></chapter><chapter anchor="10" title="10. Official Languages"><p>Services offered to departments and employees by Health Canada should conform to the Official Languages Act and 
+Treasury Board policy on the issue.</p></chapter><chapter anchor="11" title="11. Costs"><p>11.1. Health Canada receives appropriations to provide health evaluation services to departments and employees.</p><p>11.2. Employing departments are responsible for the following costs:</p><ol class="lower-alpha"><li>some additional specialist services and specialized tests, if they are not covered by Health Canada. Wherever 
+possible, departments should be made aware of additional costs beforehand.</li><li>travel for a health evaluation. The employee shall be considered in travel status and
+reimbursement of expenses incurred shall be governed by the National Joint Council Travel
+Directive or other applicable authority.</li></ol></chapter><chapter anchor="12" title="12. Monitoring"><p>The Treasury Board of Canada Secretariat will monitor the effectiveness of this standard by:</p><ol class="lower-alpha"><li>reviewing the overall departmental application of the Occupational Health Evaluation Standard, the Occupational 
+Safety and Health Policy and the Employee Assistance Program (EAP) Policy;</li><li>examining complaints from employees, departments, <abbr title="Public Service Occupational Health Program">PSOHP</abbr>, the Canadian Human Rights Commission and the Office of the Privacy Commissioner of Canada<a href="#fn1" name="fnr1" title="See footnote 1"><sup>1</sup></a></li><li>reviewing audit and evaluation reports, both internal and external, on the application of this standard.</li></ol></chapter><chapter anchor="13" title="13. References"><ol class="lower-alpha"><li><em>Treasury Board Policies and Directives</em><ol class="lower-roman"><li>Occupational Safety and Health<br />
+	Occupational Safety and Health Policy<br />
+	Employee Assistance Program Policy<br />
+	Maternity-related Reassignment or Leave</li><li>Human Resources<br />
+	Employment Equity Policy<br />
+	Policy on the Duty to Accommodate Persons with Disabilities in the Federal<br />
+	Public Service</li><li>Isolated Post and Government Housing Directive</li><li>Foreign Service Directives</li><li>Insurance and Work-related Benefits<br />
+	Compensation for Work-related Injury or Death<br />
+	Injury-on-duty Leave<br />
+	Workers Compensation</li><li>Management of Risk<br />
+Policy on Legal Assistance and Indemnification
+  <div><div></div></div></li><li>Contracting<br />
+Contracting Policy<br />
+Regulations Respecting Government Contracts<br />
+	  </li></ol></li><li><em>Public Service Commission Standards<br />
+	  <br /></em>Staffing Manual<br />
+	Staffing Policies and Standards for Selection and Assessment<br />
+	Guide for Assessing Persons with Disabilities<br />
+	  </li><li>Health Canada's Public  Service Occupational Health Program (PSOHP)
+      <div><div></div></div><br />
+	  <br />
+	Occupational Health Assessment Guide<br />
+	  </li><li><em>Legislation</em><ol class="lower-roman"><li>Access to Information Act</li><li>Canada Labour Code, Part II and<br />
+	pursuant Hazardous Substances Regulation and Diving Operations Regulation</li><li>Canadian Human Rights Act</li><li>Official Languages Act</li><li>Privacy Act</li><li>Public Service Employment Act</li></ol></li></ol></chapter><chapter anchor="14" title="14. Enquiries"><p>For information on  interpretation of this policy, departmental officials should contact <a href="/contact/contact-eng.aspx">Treasury Board of  Canada Secretariat Public Enquiries</a>.   Employees should direct enquiries about this policy to their responsible  departmental officials.</p></chapter><chapter anchor="" title="Appendix A - Occupational Health Evaluation Standard Schedule"><table border="1" cellspacing="0" cellpadding="2"><caption><strong>Employees may be subject to more than one section of this Schedule.<br /><br />
+        In addition to the health evaluation, tests and immunizations as indicated by the occupational health professional
+        will be provided.</strong></caption><thead><tr><th scope="col" class="LightgreyBG alignBottom" id="t-sftq-g1-r1-c1"><strong>Occupation or Environment</strong></th><th scope="col" class="LightgreyBG alignBottom" id="t-sftq-g1-r1-c2"><strong>Pre-placement</strong><br /><strong>Evaluation</strong></th><th scope="col" class="LightgreyBG alignBottom" id="t-sftq-g1-r1-c3"><strong>Periodic Evaluation</strong></th><th scope="col" class="LightgreyBG alignBottom" id="t-sftq-g1-r1-c4"><strong>Frequency of Periodic Exam</strong></th></tr></thead><tbody><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r2-c1" headers="t-sftq-g1-r1-c1"><strong>I. Health services</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r3-c1" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c1">
+            Hospital and Health Services Employees
+        </td><td class="alignTopCenter" id="t-sftq-g1-r3-c2" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td colspan="2" class="alignTopCenter" id="t-sftq-g1-r3-c3" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c3 t-sftq-g1-r1-c4">
+            If indicated by exposure
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r5-c1" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c1">
+            First Nations and Inuit Health Branch Nurses Assigned to Isolated Posts in Northern First Nations Communities
+        </td><td class="alignTopCenter" id="t-sftq-g1-r5-c2" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r5-c3" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r5-c4" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; &amp; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r6-c1" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c1">
+            Federal Nurses in a Clinical Role
+        </td><td class="alignTopCenter" id="t-sftq-g1-r6-c2" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r6-c3" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c3">
+            Category 1
+        </td><td class="alignTop" id="t-sftq-g1-r6-c4" headers="t-sftq-g1-r2-c1 t-sftq-g1-r1-c4">
+            Every 5 years
+        </td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r7-c1" headers="t-sftq-g1-r1-c1"><strong>II. Seagoing occupations</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r8-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Sea going Personnel
+        </td><td class="alignTopCenter" id="t-sftq-g1-r8-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r8-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r8-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 2 years
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r9-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Marine Inspectors
+        </td><td class="alignTopCenter" id="t-sftq-g1-r9-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r9-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r9-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r10-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Ice Service Specialists
+        </td><td class="alignTopCenter" id="t-sftq-g1-r10-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r10-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r10-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r11-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Marine Communications &amp; Traffic Services Officers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r11-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r11-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r11-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r12-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Hydrographers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r12-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r12-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r12-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r13-c1" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c1">
+            Maritime Search &amp; Rescue (SAR) Coordinators
+        </td><td class="alignTopCenter" id="t-sftq-g1-r13-c2" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r13-c3" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r13-c4" headers="t-sftq-g1-r7-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r14-c1" headers="t-sftq-g1-r1-c1"><strong>III. Heavy Equipment and Emergency Vehicle Operators</strong></th><td class="alignTopCenter" id="t-sftq-g1-r14-c2" headers="t-sftq-g1-r14-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r14-c3" headers="t-sftq-g1-r14-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r14-c4" headers="t-sftq-g1-r14-c1 t-sftq-g1-r1-c4">
+            Every 5 years age 45 to 69; every 2 years age 70 to 80; annually thereafter.<br />
+            Drivers that hold a valid provincial license renewed every 5 years are not required to undergo this evaluation
+            if the province requires a medical exam as a condition of licensing.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r15-c1" headers="t-sftq-g1-r1-c1"><strong>IV. Employees Exposed to Animals and Animal Tissues</strong></th><td class="alignTopCenter" id="t-sftq-g1-r15-c2" headers="t-sftq-g1-r15-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r15-c3" headers="t-sftq-g1-r15-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r15-c4" headers="t-sftq-g1-r15-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r16-c1" headers="t-sftq-g1-r1-c1"><strong>V. Firefighters</strong></th><td class="alignTopCenter" id="t-sftq-g1-r16-c2" headers="t-sftq-g1-r16-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r16-c3" headers="t-sftq-g1-r16-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r16-c4" headers="t-sftq-g1-r16-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 30; every 2 years age 30 to 39; annually thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r17-c1" headers="t-sftq-g1-r1-c1"><strong>VI. Lighthouse-Keepers and Dependants in Medically Isolated Conditions</strong></th><td class="alignTopCenter" id="t-sftq-g1-r17-c2" headers="t-sftq-g1-r17-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r17-c3" headers="t-sftq-g1-r17-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r17-c4" headers="t-sftq-g1-r17-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r18-c1" headers="t-sftq-g1-r1-c1"><strong>VII. Divers</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r19-c1" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c1">
+            Shallow Water Divers (Science, Rescue and Light Commercial Divers)
+        </td><td class="alignTopCenter" id="t-sftq-g1-r19-c2" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r19-c3" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r19-c4" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c4">
+            Every 2 years to age 39; then every 2 years alternating with a confidential diving medical questionnaire on
+            alternate years; plus an exam if indicated.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r20-c1" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c1">
+            Deep Sea Divers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r20-c2" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r20-c3" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r20-c4" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c4">
+            Every 2 years to age 39; then every 2 years alternating with a confidential diving medical questionnaire on
+            alternate years; plus an exam if indicated.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r21-c1" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c1">
+        Snorkelers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r21-c2" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c2">
+            Category 2
+        </td><td class="alignTopCenter" id="t-sftq-g1-r21-c3" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c3">
+            Category 1
+        </td><td class="alignTop" id="t-sftq-g1-r21-c4" headers="t-sftq-g1-r18-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r22-c1" headers="t-sftq-g1-r1-c1">
+            VIII. (a) Law Enforcement Employees
+        </th></tr><tr><th colspan="4" class="alignTopLeft" id="t-sftq-g1-r23-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c1">
+            (a-1) Correctional Officers
+    </th></tr><tr><td class="alignTop" id="t-sftq-g1-r23a-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c1">
+            (i) Members of Regional or Institutional Emergency Response Team
+        </td><td class="alignTopCenter" id="t-sftq-g1-r23a-c2" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c2">
+            (i) Category 3
+            </td><td class="alignTopCenter" id="t-sftq-g1-r23a-c3" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c3">
+            (i) Category 3
+            </td><td class="alignTop" id="t-sftq-g1-r23-c4" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c4">
+             (i) Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r23b-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c1">
+            
+            (ii) All other employees that use <abbr title="Self-contained breathing apparatus">SCBA</abbr></td><td class="alignTopCenter" id="t-sftq-g1-r23b-c2" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c2">
+            (ii) Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r23b-c3" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c3">
+            (ii) Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r2b3-c4" headers="t-sftq-g1-r22-c1 t-sftq-g1-r23-c1 t-sftq-g1-r1-c4">
+             (ii) Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r24-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c1">
+            (a-2) Fishery Officers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r24-c2" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r24-c3" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r24-c4" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years age 40 to 54; annually thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r25-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c1">
+            (a-3) Environmental Enforcement/ Compliance Officers including Wild Life Officers
+        </td><td class="alignTopCenter" id="t-sftq-g1-r25-c2" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r25-c3" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r25-c4" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r26-c1" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c1">
+            (a-4) Canada Border Services Officers - Employees Performing Enforcement Duties
+        </td><td class="alignTopCenter" id="t-sftq-g1-r26-c2" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r26-c3" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r26-c4" headers="t-sftq-g1-r22-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r27-c1" headers="t-sftq-g1-r1-c1"><strong>VIII. (b) Law Enforcement Duties</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r28-c1" headers="t-sftq-g1-r27-c1 t-sftq-g1-r1-c1">
+            Employees other than Law Enforcement Officers who use, handle, store, control, clean or maintain firearms
+        </td><td class="alignTopCenter" id="t-sftq-g1-r28-c2" headers="t-sftq-g1-r27-c1 t-sftq-g1-r1-c2">
+            Category 2
+        </td><td class="alignTopCenter" id="t-sftq-g1-r28-c3" headers="t-sftq-g1-r27-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r28-c4" headers="t-sftq-g1-r27-c1 t-sftq-g1-r1-c4">
+            Every 3 years.
+        </td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r29-c1" headers="t-sftq-g1-r1-c1"><strong>IX. Accidents Investigation &amp; Rescue Operations</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r30-c1" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c1">
+            Part A - Rescue Operations and Occupations involving arduous work including Avalanche Observers, Mountain Rescue
+            workers, those engaged in Swift Water Operations and other occupations whose work requires, from time to time
+            arduous physical effort
+        </td><td class="alignTopCenter" id="t-sftq-g1-r30-c2" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r30-c3" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r30-c4" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r31-c1" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c1">
+            Part B - Transportation Safety Board Investigators and Communications Support Personnel
+        </td><td class="alignTopCenter" id="t-sftq-g1-r31-c2" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r31-c3" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r31-c4" headers="t-sftq-g1-r29-c1 t-sftq-g1-r1-c4">
+            Every 3 years to age 39; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r32-c1" headers="t-sftq-g1-r1-c1"><strong>X. Dangerous Goods Remedial Measures specialists and Technical inspectors</strong></th><td colspan="2" class="alignTopCenter" id="t-sftq-g1-r32-c2" headers="t-sftq-g1-r32-c1 t-sftq-g1-r1-c2 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r32-c4" headers="t-sftq-g1-r32-c1 t-sftq-g1-r1-c4">
+            Immediate medical assessment may be necessary following exposure to suspected dangerous goods.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r33-c1" headers="t-sftq-g1-r1-c1"><strong>XI. Electrofishers</strong></th><td class="alignTopCenter" id="t-sftq-g1-r33-c2" headers="t-sftq-g1-r33-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r33-c3" headers="t-sftq-g1-r33-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r33-c4" headers="t-sftq-g1-r33-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r34-c1" headers="t-sftq-g1-r1-c1"><strong>XII. Scientific Personnel - Field</strong></th><td class="alignTopCenter" id="t-sftq-g1-r34-c2" headers="t-sftq-g1-r34-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r34-c3" headers="t-sftq-g1-r34-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r34-c4" headers="t-sftq-g1-r34-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r35-c1" headers="t-sftq-g1-r1-c1"><strong>XIII. Health Emergency Response Team Members HERT)</strong></th><td class="alignTopCenter" id="t-sftq-g1-r35-c2" headers="t-sftq-g1-r35-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r35-c3" headers="t-sftq-g1-r35-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r35-c4" headers="t-sftq-g1-r35-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r36-c1" headers="t-sftq-g1-r1-c1"><strong>XIV. Quarantine Officers and Environmental Health Officers in a Port of Entry Role</strong></th><td class="alignTopCenter" id="t-sftq-g1-r36-c2" headers="t-sftq-g1-r36-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r36-c3" headers="t-sftq-g1-r36-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r36-c4" headers="t-sftq-g1-r36-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r37-c1" headers="t-sftq-g1-r1-c1"><strong>XV. Transport Canada Transportation Security Inspector</strong></th><td class="alignTopCenter" id="t-sftq-g1-r37-c2" headers="t-sftq-g1-r37-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r37-c3" headers="t-sftq-g1-r37-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r37-c4" headers="t-sftq-g1-r37-c1 t-sftq-g1-r1-c4">
+            Every 5 years.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r38-c1" headers="t-sftq-g1-r1-c1"><strong>XVI. Environmental Emergencies Officer (EC)</strong></th><td class="alignTopCenter" id="t-sftq-g1-r38-c2" headers="t-sftq-g1-r38-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r38-c3" headers="t-sftq-g1-r38-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r38-c4" headers="t-sftq-g1-r38-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r39-c1" headers="t-sftq-g1-r1-c1"><strong>XVII. Physical Emergency Preparedness and Response (PEPR) Workers as an Industrial Hygienist
+            role</strong></th><td class="alignTopCenter" id="t-sftq-g1-r39-c2" headers="t-sftq-g1-r39-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r39-c3" headers="t-sftq-g1-r39-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r39-c4" headers="t-sftq-g1-r39-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r40-c1" headers="t-sftq-g1-r1-c1"><strong>XVIII. Rapid Responders Government of Canada</strong></th><td class="alignTopCenter" id="t-sftq-g1-r40-c2" headers="t-sftq-g1-r40-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r40-c3" headers="t-sftq-g1-r40-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r40-c4" headers="t-sftq-g1-r40-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.<br />
+            Annual review of health status. 
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r41-c1" headers="t-sftq-g1-r1-c1"><strong>XIX. Employees posted to remote locations or isolated posts as defined in the Isolated Posts and
+            Government Housing Directive (including dependents)</strong></th><td class="alignTopCenter" id="t-sftq-g1-r41-c2" headers="t-sftq-g1-r41-c1 t-sftq-g1-r1-c2">
+            Category 1
+        </td><td class="alignTopCenter" id="t-sftq-g1-r41-c3" headers="t-sftq-g1-r41-c1 t-sftq-g1-r1-c3">
+            Category 1
+        </td><td class="alignTop" id="t-sftq-g1-r41-c4" headers="t-sftq-g1-r41-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r42-c1" headers="t-sftq-g1-r1-c1"><strong>XX. Employees exposed to a noise hazard</strong></th><td class="alignTop" id="t-sftq-g1-r42-c2" headers="t-sftq-g1-r42-c1 t-sftq-g1-r1-c2">
+            a) Questionnaire<br />
+            b) Audiogram, in the context of a hearing conservation program
+        </td><td class="alignTop" id="t-sftq-g1-r42-c3" headers="t-sftq-g1-r42-c1 t-sftq-g1-r1-c3">
+            a) Questionnaire<br />
+            b) Audiogram, in the context of a hearing conservation program
+        </td><td class="alignTop" id="t-sftq-g1-r42-c4" headers="t-sftq-g1-r42-c1 t-sftq-g1-r1-c4">
+            a) Annually<br />
+            b) After 6 months, then annually
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r43-c1" headers="t-sftq-g1-r1-c1"><strong>XXI. Employees exposed to hazardous substances (includes a controlled product and biological, chemical
+            or physical agent)</strong></th><td colspan="3" class="alignTopCenter" id="t-sftq-g1-r43-c2" headers="t-sftq-g1-r43-c1 t-sftq-g1-r1-c2 t-sftq-g1-r1-c3 t-sftq-g1-r1-c4">
+            As indicated, depending on the toxic properties of the substance and exposure.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r44-c1" headers="t-sftq-g1-r1-c1"><strong>XXII. Harsh Environmental Conditions</strong></th><td class="alignTopCenter" id="t-sftq-g1-r44-c2" headers="t-sftq-g1-r44-c1 t-sftq-g1-r1-c2">
+            Category 1
+        </td><td class="alignTopCenter" id="t-sftq-g1-r44-c3" headers="t-sftq-g1-r44-c1 t-sftq-g1-r1-c3">
+            Category 1
+        </td><td class="alignTop" id="t-sftq-g1-r44-c4" headers="t-sftq-g1-r44-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r45-c1" headers="t-sftq-g1-r1-c1"><strong>XXIII. Employees assigned abroad, including dependents</strong></th><td class="alignTopCenter" id="t-sftq-g1-r45-c2" headers="t-sftq-g1-r45-c1 t-sftq-g1-r1-c2">
+            Category 3 for employees only
+        </td><td colspan="2" class="alignTop" id="t-sftq-g1-r45-c3" headers="t-sftq-g1-r45-c1 t-sftq-g1-r1-c3 t-sftq-g1-r1-c4"><p class="alignCenter">
+                Pre &amp; Cross Posting: Category 3 for employees and dependants. Frequency
+                is dependent on assignment.<br />
+                 <br />
+                Return from Hardship Post:Category 3 for employees and dependants<br /></p></td></tr><tr><th colspan="4" class="LightgreyBG alignTopLeft" id="t-sftq-g1-r46-c1" headers="t-sftq-g1-r1-c1"><strong>XXIV. Employees who must wear respirators</strong></th></tr><tr><td class="alignTop" id="t-sftq-g1-r47-c1" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c1">
+            a) Those who must wear self-contained breathing apparatus (SCBA) and supplied air respirators
+        </td><td class="alignTopCenter" id="t-sftq-g1-r47-c2" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r47-c3" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c3">
+            Category 2
+        </td><td class="alignTop" id="t-sftq-g1-r47-c4" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><td class="alignTop" id="t-sftq-g1-r48-c1" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c1">
+            b) Employees wearing other types of respirators (e.g. N95, cartridge filters)
+        </td><td class="alignTopCenter" id="t-sftq-g1-r48-c2" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c2">
+            Category 1: Self-Declaration Questionnaire for Respirator Users, administered by departments; referral to
+            <abbr title="Public Service Health Program">PSHP</abbr> as indicated.
+        </td><td class="alignTopCenter" id="t-sftq-g1-r48-c3" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c3">
+            Category 1: Self-Declaration Questionnaire for Respirator Users, administered by departments; referral to
+            <abbr title="Public Service Health Program">PSHP</abbr> as indicated.
+        </td><td class="alignTop" id="t-sftq-g1-r48-c4" headers="t-sftq-g1-r46-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r49-c1" headers="t-sftq-g1-r1-c1"><strong>XXV. Employees who work in Level 4 Infectious Disease Laboratories</strong></th><td class="alignTopCenter" id="t-sftq-g1-r49-c2" headers="t-sftq-g1-r49-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r49-c3" headers="t-sftq-g1-r49-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r49-c4" headers="t-sftq-g1-r49-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r50-c1" headers="t-sftq-g1-r1-c1"><strong>XXVI. Diplomatic Couriers</strong></th><td class="alignTopCenter" id="t-sftq-g1-r50-c2" headers="t-sftq-g1-r50-c1 t-sftq-g1-r1-c2">
+            Category 3
+        </td><td class="alignTopCenter" id="t-sftq-g1-r50-c3" headers="t-sftq-g1-r50-c1 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r50-c4" headers="t-sftq-g1-r50-c1 t-sftq-g1-r1-c4">
+            Every 5 years to age 39; every 3 years age 40 to 46; every 2 years thereafter.
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r51-c1" headers="t-sftq-g1-r1-c1"><p><strong>XXVII. Posting, Temporary Duty or travel to Afghanistan (Hardship Post level 5)</strong></p><p><strong> </strong></p><p><strong> </strong></p><p><strong> </strong></p></th><td colspan="3" class="alignCenter" headers="t-sftq-g1-r51-c1 t-sftq-g1-r1-c3 t-sftq-g1-r1-c4"><strong>Special considerations</strong><br /><br />
+            4 months to 1 year or longer: Category 3<br />
+            Return from assignment: Category 3 and Post Traumatic Questionnaire<br /><br />
+            2 weeks to less than 4 months: Category 3<br />
+            Upon return: Post Traumatic Questionnaire only<br /><br />
+            Less than 2 weeks: Letter of information is provided to employee<br />
+            Upon return: Post Traumatic Questionnaire only
+        </td></tr><tr><th class="alignTopLeft" id="t-sftq-g1-r52-c1" headers="t-sftq-g1-r1-c1"><strong>XXVIII. Employees who are visiting biological laboratories or sites containing chemical warfare agents
+            or radio-nuclear agents in former Soviet Union States as part of the Global Partnership Program</strong></th><td colspan="2" class="alignTopCenter" id="t-sftq-g1-r52-c2" headers="t-sftq-g1-r52-c1 t-sftq-g1-r1-c2 t-sftq-g1-r1-c3">
+            Category 3
+        </td><td class="alignTop" id="t-sftq-g1-r52-c4" headers="t-sftq-g1-r52-c1 t-sftq-g1-r1-c4">
+            Valid for 1 year
+        </td></tr></tbody></table></chapter></chapters><footnotes><footnote anchor="fn1" reference="fnr1" title="[1]" tooltip="Return to footnote reference">The Privacy Commissioner has a responsibility to ensure that the privacy rights 
+of individuals are respected. The Privacy Commissioner's Office provides an independent verification to ensure that the promises of 
+confidentiality are being kept in regard to the collection, use, disclosure, retention and disposal of personal information.
+</footnote></footnotes></doc>

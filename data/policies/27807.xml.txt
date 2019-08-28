@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd" title="Guide to a Project Brief" versionID="1" documentID="27807" space="preserve" language="en"><chapters><chapter anchor="1" title="Introduction and Purpose"><p>Under the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>,
+      when Treasury Board approval is required for either project approval (<abbr title="project approval">PA</abbr>) or
+      expenditure authority (<abbr title="expenditure authority">EA</abbr>), including amendments to a <abbr title="project approval">PA</abbr> or an <abbr title="expenditure authority">EA</abbr> decision, a project
+      brief must be appended to the Treasury Board submission.<a href="#fn1" id="fnr1" title="View Footnote [1]">[1]</a> For guidance on <abbr title="project approval">PA</abbr> or <abbr title="expenditure authority">EA</abbr> and the Treasury Board submission process, please refer to the <em><a href="/tbs-pct/index-eng.asp">2014 Guidance for the Preparation of <abbr title="Treasury Board">TB</abbr> Submissions</a></em>.</p><p>A project brief ensures that Treasury Board ministers or
+      the department's approval authority have a thorough understanding of the
+      proposed initiative by providing additional detail and/or context not in the Treasury
+      Board submission. The project brief is an iterative document that progressively
+      reflects the state of the project with each update and shows the relationship
+      between the project, government priorities, departmental priorities, and
+      long-term strategic planning objectives and outcomes.</p><p>In accordance with the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>,
+      a project brief is to be supported by a business case, project charter and project
+      management plan. The project brief contains a synopsis of the key components of
+      these core project documents and provides a concise but complete description of
+      the scope of the project, permitting the Treasury Board submission to be as
+      succinct as possible.</p><p>Departments are encouraged to update their core project
+      documents, and subsequently their project brief, at regular and meaningful
+      intervals throughout the life-cycle of the project<a href="#fn2" id="fnr2" title="View Footnote [2]">[2]</a>.
+      Although these intervals could coincide with Treasury Board decisions, the
+      timing of Treasury Board submissions should not be the determining factor for
+      ensuring that current information is available to decision makers. Each time
+      the project brief is submitted to the Treasury Board, reconciliation with the previous
+      Treasury Board decision should be apparent in the project brief. </p><p>Appendix B of the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em> lists the required content of a project brief. The Guide to a Project Brief has
+      been designed to provide guidance on the level and type of information required
+      in a project brief by the policy. The Guide aligns with those requirements and
+      includes additional guidance in the form of headings, examples and descriptions.
+      The structure of the Guide to a Project Brief follows that of Appendix B and is
+      intended to ensure the completeness of the required content. Excerpts from
+      Appendix B are included throughout the Guide.</p><p>It is important to note that the Guide is provided as
+      guidance and that the content of the project brief may be tailored to better
+      reflect a particular project. Departments are encouraged to consult with the
+      Treasury Board of Canada Secretariat about the content of their project briefs.</p></chapter><chapter anchor="2" title="1. Project Description"><p>This section provides a brief high-level
+        summary of the important details of the project.  </p><blockquote><p><em>4.2 The level of service or capability to be developed,
+          accessed or improved and a general description of the good or service and the
+          program outcomes to be achieved.</em></p></blockquote><section anchor="2.1" title="1.1 Project Background"><p>This section presents a high-level description of the project’s
+          history, a summary of any relevant Cabinet or Treasury Board decisions, any project
+          approval (<abbr title="project approval">PA</abbr>) and expenditure authority (<abbr title="expenditure authority">EA</abbr>) decisions or conditions, including
+          the Treasury Board Number and the appropriate date, and the general context of the
+          initiative’s progress in terms of any Cabinet decisions or other key decision
+          points.  </p></section><section anchor="2.2" title="1.2 Description of Service or Capability"><p>It is critical to position the proposed project or
+          project phase in the context of the identified program requirement and the full
+          investment proposal.</p><p>This section provides a description of the service or
+          capability that the project intends to develop, create or improve, as well as
+          the benefits that are to be derived and how that service or capability will be
+          managed once the solution is in place at project closeout. In the context of
+          the definition of a project, in accordance with the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>, the service or capability is the defined output that
+          the project is required to produce.</p></section><section anchor="2.3" title="1.3 Project Scope"><p>Project scope can be defined as the work that needs to be
+          accomplished to deliver a product, service or result with the specified
+          features and functions.<a href="#fn3" id="fnr3" title="View Footnote [3]">[3]</a> This section describes the project scope in terms of a scope statement. Depending
+          on the maturity of the project, this can be either the preliminary scope
+          statement at the early stages of a project’s life-cycle or a more detailed
+          scope statement that is the basis for future project decisions. The scope
+          statement should be fully articulated and detailed in a project document. This
+          document should be the source document for the content of this section and
+          appropriately referenced.</p><p>The scope statement should address a number of key factors
+          (refer to the <abbr title="roject Management Body of Knowledge">PMBOK</abbr><sup>®</sup> Guide), the
+          key activities and outputs, and any significant performance criteria. The
+          presentation of scope is to align with the key deliverables and planned phases
+          of the project. </p><p>In addition, this section should include a description of
+          how the scope was developed, including the requirements determination, a scope
+          definition in response to the defined requirements, and a summary of the key
+          deliverables from the work breakdown structure.</p><p>A table may be used to present what is in and out of
+          scope for the project. The table below provides an example output and a
+          succinct description of the scope.</p><table border="1" cellspacing="0" cellpadding="1" class="widthFull"><thead><tr class="lightgreyBG"><th scope="col" class="alignCenter"><strong>Project Output</strong></th><th scope="col" class="alignCenter"><strong>Description</strong></th></tr></thead><tbody><tr><td><p>Financial Reporting Form</p></td><td><p>A common form and guide to annually
+                  report financial data with an income tax return.</p></td></tr></tbody></table></section><section anchor="2.4" title="1.4 &#xA;    Project Cost Estimates and Sources of Funds"><p>This section presents the approved sources of funds and
+          either a total indicative cost estimate or substantive estimate for the entire
+          project. Project cost estimates for <abbr title="project approval">PA</abbr> are likely to be at an indicative level,
+          and include all activities and project deliverables from the project definition
+          phase through to project closeout. In accordance with the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>, and <em><a href="/tbs-pct/index-eng.asp">2014 Guidance for the Preparation of <abbr title="Treasury Board">TB</abbr> Submissions</a></em>,
+          the cost estimate for <abbr title="expenditure authority">EA</abbr> is to be substantive in nature and can only be sought
+          for phases of the project that have been appropriately defined and assessed
+          using the Project Complexity and Risk Assessment (<abbr title="Project Complexity and Risk Assessment">PCRA</abbr>) Tool.</p><h4>Sources of Funds</h4><p>In this section, the sources of funds are identified and all
+          assumptions and constraints related to funding are clearly described.</p><h4>Project Cost Estimates</h4><p>The Secretariat’s <em><a href="/pol/doc-eng.aspx?id=12251&amp;section=text">Guide to Costing</a></em> has been
+          developed to advance stewardship, accountability, and value for money across
+          the Government of Canada. Departments are encouraged to prepare the cost
+          estimates for all Treasury Board submissions using the <em>Guide to Costing</em>,
+          and to present the cost estimates for all Treasury Board submissions using the <em><a href="/tbs-pct/index-eng.asp">Guide to Preparing <abbr title="Treasury Board">TB</abbr> Submissions</a></em>.</p><p>The following are considerations for inclusion in
+          articulating the project cost estimates in a project brief.</p><ul><li>Estimated project costs are provided at a level of detail that
+            provides assurance that detailed costing due diligence was performed. This will
+            include a description of the costing methodology, references to source
+            documents, and a statement on whether the cost estimates presented are
+            substantive or indicative in nature.</li><li>Costing is detailed, at a minimum, by project phase (e.g.,
+            definition, implementation, closeout), as well as by fiscal year if the project
+            spans fiscal years. To fully substantiate the cost estimate provided, costing
+            is to be further detailed by each defined work package or project stage and
+            tied to a discrete project deliverable (output). For those phases of the
+            project for which the organization is seeking <abbr title="expenditure authority">EA</abbr>, the sponsoring department must
+            clearly demonstrate that the estimates supporting this request are substantive
+            in nature. </li><li>For projects spanning more than a single fiscal year, project
+            costs are to be presented in both current and constant dollars. The annual
+            escalator and its source and appropriateness to the project must be clearly
+            articulated. </li><li>Salary costs are included to reflect the organization’s practice for
+            attributing salary costs to projects. A brief description of the practice and
+            these estimated costs are clearly highlighted. The <em><a href="/pol/doc-eng.aspx?section=text&amp;id=12251">Guide to Costing</a></em> provides more
+            information.</li><li>Costing, which covers the full life-cycle of the recommended investment
+            option, is also presented. The TBS <em><a href="/pol/doc-eng.aspx?id=14671&amp;section=text">Guide to Management of Materiel</a></em> defines the phases of life-cycle management
+            as: assessing requirements; analyzing options; planning acquisition; acquiring;
+            operating, using, and maintaining; and disposing and replacing. This
+            cost estimate is to be prepared in accordance with departmental standards and
+            processes for developing a total investment life-cycle cost estimate. The
+            investment life-cycle will include the project life-cycle (i.e., activities
+            required to produce the project output) and the operations, use and maintenance
+            costs covering the useful life of the proposed project output. This information
+            is to reflect the detailed options analysis considered in the business case,
+            which is to be referenced.</li><li>Costing information is to include a list of assumptions and
+            exclusions, and risk and contingency broken down as appropriate by deliverable,
+            phase and work package.</li><li>For projects involving more than one department, costing tables
+            are to be developed to provide a full project costing estimate, including costs
+            incurred by all contributing partners, including non-federal partners.</li><li>The reference documents and methodology used to derive the
+            project cost estimates are described.
+            <ul><li>For
+                example: “The <em><a href="/pol/doc-eng.aspx?id=12251&amp;section=text">Guide to Costing</a></em> was used
+                to develop all cost estimates presented, in close collaboration with the <abbr title="Chief Financial Officer">CFO</abbr>. Further
+                details on the cost estimate are available in the <em>Project A</em> cost
+                estimation document, approved on January DD, YYYY. These estimates were based
+                on <em>Project B</em>, which was closed out on December DD, YYYY. A workshop with
+                all key stakeholders was held, and the findings were documented in the cost
+                estimation document. A quantity surveyor and professional costing firm were then
+                engaged, and the relevant costing documents are referenced.”</li></ul></li><li>A table may also be useful in presenting the cost estimates.</li></ul></section><section anchor="2.5" title="1.5 &#xA;    Project Schedule"><p>A high-level project schedule summarized for Treasury
+          Board ministers is presented in this section. The schedule reflects a
+          documented and authoritative project schedule and baseline and includes: </p><ul><li>Milestones and key project outputs (i.e.,
+            deliverables);</li><li>Checkpoints within the project governance hierarchy, including
+            the department and  the Treasury Board of Canada Secretariat (the Secretariat); </li><li>Details on implementation planning; and,</li><li>Project gates at which consideration by Treasury Board ministers will
+            be relevant.</li></ul><p>A project
+          gate is a key decision and control point that occurs before the next major
+          milestone or project deliverable or a new project phase (e.g., implementation)
+          begins. The gate represents a logical point at which executive
+          "gatekeepers" can determine whether and how to proceed. Project gates
+          effectively "open" or "close" the path leading to a
+          subsequent project phase. The project gate schedule is developed to fit the needs
+          of the project and to identify to the Treasury Board at which gates the project
+          will seek <abbr title="expenditure authority">EA</abbr>.   </p><blockquote><p><em>4.7.1 The estimated schedule from project
+            inception to completion of the project. At a minimum, Treasury Board approval
+            is sought to endorse the strategic assessment and to further refine the
+            business justification and implementation strategy in advance of
+            implementation.</em></p></blockquote></section><section anchor="2.6" title="1.6 &#xA;    Assumptions"><p>This section describes all assumptions relevant to the
+          project, explains the possible impacts and considerations of these assumptions,
+          and outlines any strategies for addressing assumptions that do not materialize.</p></section><section anchor="2.7" title="1.7 &#xA;    Constraints"><p>All specific constraints or restrictions that limit or
+          place conditions on the project are described in this section. The description includes
+          dependencies on common service providers and other stakeholders, or a limited
+          time frame for developing and implementing the proposed project or project
+          phase when applicable. Potential impacts are explained and quantified whenever
+          possible, and strategies are described for managing these constraints.</p></section></chapter><chapter anchor="3" title="2. Policy and Program Linkage"><p>This section provides a description of the links between
+        the project outcomes and the mandate and programs of the sponsoring department,
+        as well as to other government-wide objectives. The department’s Program
+        Alignment Architecture (<abbr title="Program Alignment Architecture">PAA</abbr>) usually supports this explanation. (Visit the Secretariat’s
+        website for more information on the <abbr title="Program Alignment Architecture">PAA</abbr>.) </p><blockquote><p><em>4.1. The relationship of the project outcomes to
+          the sponsoring department's mandate, programs and to government-wide
+          objectives.</em></p></blockquote><section anchor="3.1" title="2.1 &#xA;    Project Goals and Business Outcomes"><p>The goals and expected business
+          outcomes or benefits of the project are described in this section. </p><p>Project goals are high-level
+          statements about what the project is expected to accomplish.<a href="#fn4" id="fnr4" title="View Footnote [4]">[4]</a> Project goals are broad, general intentions and are typically intangible and
+          abstract. An example of a project goal is “greater flexibility in responding to
+          stakeholder requests.”</p><p>Business
+          outcomes can be used to articulate the value of the initiative. In an
+          organizational context, an outcome involves an intentional change (people,
+          processes, technology) being imposed on the system, with a resulting end state
+          that can be measured.<a href="#fn5" id="fnr5" title="View Footnote [5]">[5]</a> Examples of business outcomes are “decreased inspection time” and “increased
+          public confidence.”</p><p>It is recommended that departments articulate business
+          outcomes over the life-cycle of the project and tie the measurement of
+          intermediate outcomes to the proposed gating model for the project so that
+          outcome realization is being reviewed at key “go” and “no-go” decision points.</p><p>As the brief is to enable decision makers to fully
+          understand the proposed initiative, it is important that the project’s expected
+          business outcomes be clearly articulated in commonly understood terms. Decision
+          makers must also be informed of the criticality of the proposed project.</p><p>Specifically:      </p><ul><li>What is the business outcome?</li><li>Why is the specific business outcome needed?</li><li>Why is the project to deliver the business outcome needed now?
+            (i.e. What are the consequences of not going forward with this proposed
+            solution now?)</li><li>Two examples of a description of a project and its
+            business outcomes are included as an annex to this guide.</li></ul></section><section anchor="3.2" title="2.2 &#xA;    Mandate"><p>This section briefly describes the mandate of the sponsoring
+          department and any partnering departments in a joint project, along with any branches,
+          if applicable, and relates the business outcomes to each relevant mandate.</p></section><section anchor="3.3" title="2.3 &#xA;    Alignment with Program"><p>This section describes the program outcomes to be supported
+          by the end result of the project and explains how the achievement of project goals
+          will enable the intended program outcomes.</p><p>Where possible, the degree of alignment with the
+          department’s <abbr title="Program Alignment Architecture">PAA</abbr> and Management Resources and Results Structure (<abbr title="Management Resources and Results Structure">MRRS</abbr>) should
+          be articulated.</p></section><section anchor="3.4" title="2.4 &#xA;    Alignment with Government-Wide Priorities"><p>This section, when applicable, describes linkages with
+          other public sector programs and projects (e.g., federal, non-federal,
+          provincial, municipal, First Nations) and how this project solution supports broader
+          government-wide priorities.  </p></section></chapter><chapter anchor="4" title="3. Link to the Investment Plan"><p>This section clearly positions the
+        project, as part of an investment, within the departmental investment plan.</p><blockquote><p><em> 4.3 The
+          significance of the project in the context of the department's investment
+          plan. </em></p></blockquote><p>The importance and magnitude of
+        the project as part of an investment and how it supports and aligns with other
+        investments included in the investment plan are described. The project proposal
+        should be consistent with the project information in the investment plan and should
+        describe the total estimated life-cycle costs of the entire investment.  This includes
+        both the project required to produce the defined outcome or product, and the
+        subsequent operations, maintenance and disposal, if applicable, of that outcome
+        or product. The plan should clearly confirm the affordability not only of the
+        proposed project but also of all ongoing (i.e., life-cycle) costs of the entire
+        investment.</p><p>If the project was not in the most recent investment plan
+        provided to the Secretariat and/or the Treasury Board, this section includes an
+        explanation of what caused the change (e.g., additional funding provided
+        through a Cabinet decision or a change in priority) and a brief description of
+        the incremental capacity needed to deliver this new, unplanned project.
+        Departments should also confirm that departmental operations remain affordable
+        and sustainable over the long term. </p></chapter><chapter anchor="5" title="4. Performance Management"><p>This section describes the
+        project’s performance management and outcome management measures.</p><blockquote><p><em>4.5 The performance and outcome management
+          measures, including an evaluation strategy and provision for an independent
+          third-party evaluation when required.</em></p></blockquote><section anchor="4.1" title="4.1 Business Outcome Management Strategy"><p>In any performance management framework, it is critical
+          to adequately define the expected outcomes at the outset. This section provides
+          a description of the strategy for measuring, monitoring, reporting and managing
+          the business outcomes described in Section 2 of the project brief. The
+          measurement of any intermediate outcomes, in accordance with the proposed
+          gating model for the project, is articulated so that outcome realization is
+          reviewed at key “go” and “no-go” decision points over the project life-cycle.</p><p>An outcomes register may be used to present the outcomes
+          and the associated measures.</p></section><section anchor="5.2" title="4.2 Project Performance Management Strategy"><p>This section provides a description of the integrated and
+          disciplined approach to managing project performance and results. It also
+          includes a succinct explanation of how project progress will be monitored and
+          tracked in terms of the project performance metrics associated with cost,
+          schedule, scope and any other critical objectives.</p><p>In addition, this section includes the strategy outlined
+          in the Project Management Plan and aligns the strategy with the project
+          schedule (refer to the <em>Guide to Project Evaluation and Close-out Reports<a href="#fn6" id="fnr6" title="View Footnote [6]">[6]</a></em> for more information).</p></section><section anchor="5.3" title="4.3 Audit and Evaluation Strategy"><p>This section presents a detailed audit and evaluation
+          strategy for the project, including any provisions for independent third-party
+          evaluations, reviews or audits as and when required. This section also addresses
+          when and at what phases of the project life-cycle monitoring and reporting
+          activities are planned. All planned reporting to the project authority (i.e., Treasury
+          Board or the sponsoring minister) is included, at a minimum. Relevant reporting
+          to the Secretariat and other stakeholders is also described.</p></section></chapter><chapter anchor="6" title="5. Project Options Analysis"><p>In considering any project delivery option, it is
+        important for the sponsoring department to recognize that the project life-cycle
+        is only a subset of the investment life-cycle. The decision to proceed with a
+        particular project solution is expected to consider the full implications of
+        that decision over the entirety of the investment. The direct comparison of
+        different investment options and the resulting cost-benefit analyses support
+        the planned investment and the project proposal. For example, the decision to
+        acquire an asset must consider, at a minimum, all applicable costs directly
+        attributable to that asset over its entire useful life. </p><p>For instance, an
+        acquisition decision that is based on the lowest purchase price but that
+        ignores potential operations and maintenance costs may result in higher overall
+        costs. Decision making in life-cycle management is an iterative process that
+        considers all phases of an asset's life cycle, at key points throughout its
+        life cycle. Effective management requires that an appropriate level of
+        management interest and control be maintained throughout the investment's life
+        cycle.</p><p>Although the project may be affordable on its own, the
+        continued affordability of the entire asset portfolio as well as departmental
+        operations must be confirmed in accordance with the <em><a href="/pol/doc-eng.aspx?id=18225&amp;section=text">Policy on Investment Planning – Assets and Acquired
+        Services</a></em> before the project can be approved.</p><p>This section summarizes each of the considered viable options,
+        including at a minimum the status quo and the recommended option. </p><p>When describing the project options, Treasury Board ministers
+        must be assured that the proposed investment is affordable over the entire life-cycle.
+        For example, once the project to acquire the use of an asset is approved, the
+        government begins to spend resources; once the asset is operational, there can
+        be legal obligations and the government is committed financially. The project’s
+        business case provides an analysis of investment options to achieve the
+        intended business outcomes based on life-cycle cost estimates, likely future
+        conditions, relevant risks, impacts, and life-cycle management issues. The
+        recommended project option supports the recommended investment option in
+        consideration of the cost-benefit of the investment over its entire life-cycle.
+        Therefore, when articulating project options, it is important to ensure alignment
+        with, and support of, the investment plan and the affordability of the
+        investment, not just the project.</p><blockquote><p><em>4.6 The business case reflecting the results of
+          benefit-cost and options analyses and a description of each option
+          considered. Comparison of options should be based at a minimum on a
+          preliminary asset life-cycle cost estimate for each. Any strategic direction
+          that has been given approval-in-principle or that limits available options
+          should be provided.</em></p></blockquote><p>In accordance with Appendix B
+        (Section 4.6) of the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>,
+        the options analysis summary captures the specific required details of the business
+        case. However, the summary is not repeated verbatim in this section.  </p><blockquote><p><em>4.6.1 Business cases are to be prepared according
+          to standards or guidance issued by the Treasury Board Secretariat.</em></p></blockquote><section anchor="6.1" title="5.1 Methodology"><p>The methodology used to screen, assess and compare
+          options and select the recommended option is described in this section, including
+          a summary of each option that was considered. In accordance with the Appendix B
+          (Section 4.6) of the <em><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></em>,
+          the options analysis is to be based, at a minimum, on preliminary life-cycle
+          cost estimates for each investment option.</p><p>In considering viable project options that will deliver
+          the solution or output needed to achieve the defined outcomes, it is important
+          that each project option be considered as part of the total life-cycle of the
+          investment. This ensures that the cost-benefit analysis considers the entire
+          investment resulting from the project being approved. </p><p>Should the activities and resources required to operate,
+          maintain and dispose of the project outcome or solution be precisely the same, irrespective
+          of each option considered, this should be clearly noted and those cost
+          estimates articulated in this section.</p></section><section anchor="6.2" title="5.2 Option 1 - Maintain Status Quo"><p>A succinct description of the status quo option is
+          provided in this section.  </p><p>The Secretariat’s <em><a href="/emf-cag/business-rentabilisation/bcg-gar/bcg-gar00-eng.asp">Business Case Guide</a></em> describes
+          the status quo option as the <em>base case</em>. Status quo shows how an
+          organization would perform if it did not pursue one of the investment proposal options
+          or otherwise change its method of operation.</p></section><section anchor="6.3" title="5.3 Option 2 "><p>This section provides a
+          description of the considered investment option, including the full life-cycle
+          cost estimate. It should also include a brief description of the rationale for
+          choosing this option; what was considered in the decision-making process (e.g.,
+          a public-private partnership (<abbr title="public-private partnership">PPP</abbr>) option was considered and screened in
+          consultation with <abbr title="public-private partnership">PPP</abbr> Canada) and how this option is linked to the achievement
+          of the intended outcome.  </p></section><section anchor="6.4" title="5.4 Option 3 "><p>This section provides a description of the considered investment
+          option, including the full life-cycle cost estimate; a short description of the
+          rationale for choosing this option; what was considered in the decision-making process
+          (e.g., Crown construction and outsourced operations and maintenance were
+          considered), and how this option is linked to the achievement of the intended
+          outcome.  </p></section><section anchor="6.5" title="5.5 Public-Private Partnerships"><p>As stipulated in Budget 2011, federal departments are required
+          to assess planned investments for <abbr title="public-private partnership">PPP</abbr> potential. Planned investments that consider the creation of an
+          infrastructure asset with a capital cost of $100 million or more and with a
+          useful life of at least 20 years must include a screening of the entire
+          investment life-cycle, in consultation with <abbr title="public-private partnership">PPP</abbr> Canada, to determine the
+          viability of a <abbr title="public-private partnership">PPP</abbr>. The results of the screening are to be presented in the
+          project brief.</p><p>Departments are also encouraged to explore the potential
+          of <abbr title="public-private partnership">PPP</abbr>s for other types of investments in assets and acquired services when
+          there is demonstrated value.</p><p>To assist departments, the Secretariat has developed the <em><a href="/pol/doc-eng.aspx?id=25576&amp;section=text">Guideline to Implementing Budget 2011 Direction on Public-Private
+          Partnerships</a></em>.</p></section><section anchor="6.6" title="5.6 Justification and Recommendation"><p>This section identifies the preferred option and
+          demonstrates why the option is deemed preferable over all others. This includes
+          a summary of a thorough cost-benefit analysis fully documented in the business
+          case.</p></section></chapter><chapter anchor="7" title="6. Project Management Plan"><p>A summary of the project management plan is provided in
+        this section. A project management plan defines the planned objectives and outcomes
+        of the project, and establishes the scope, work breakdown structure, budget,
+        schedule, risks, roles, resources, functional strategies, project monitoring
+        and control strategies, governance, process deviations and management approach.
+        This section supports the proposal to the project approval authority and
+        establishes the baseline for the project reflected in the project charter,
+        against which changes and performance are measured and reported.</p><section anchor="7.1" title="6.1 Project Review and Gating Strategy"><p>This section describes the project gating strategy,
+          incorporating any planned independent third-party evaluations, reviews or
+          audits. A project gating strategy ensures that resource implications and results
+          are made fully visible to the project approval authority at logical,
+          predetermined checkpoints or "project gates."</p><p>As stipulated in Appendix B of the <em><a href="/pol/doc-eng.aspx?id=18229&amp;section=text">Policy on the Management of Projects</a></em>,
+          the project gating strategy articulates off-ramps linked to specific,
+          identified project gates, allowing the project approval authority the option to
+          end the government’s involvement if required and at appropriate decision
+          points.</p><blockquote><p><em>4.7 The segmenting of the project into gates, the
+            proposed phased approach to managing changes and the opportunities for
+            terminating federal involvement.</em></p></blockquote><h4>Treasury Board Secretariat Consultation and Treasury
+          Board Reporting</h4><p>This section provides a summary of proposed Treasury
+          Board and Secretariat engagement and reporting aligned to the project gating
+          strategy and over fiscal years when the project spans multiple years. For
+          example, for large and complex projects, it may be determined that the most
+          effective way to ensure that the Treasury Board is appropriately informed is
+          through annual status reports and regular updating of the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> shared with the
+          Secretariat.</p><blockquote><p><em> 4.8 The proposed timing of reports to Treasury
+            Board and future submissions, when required. </em></p></blockquote><h4>Future Treasury Board Submissions</h4><p>This section provides a summary any future Treasury Board
+          submissions (e.g., <abbr title="expenditure authority">EA</abbr>, contracting, real property) and their proposed timing,
+          including submission of the project close-out report. </p></section><section anchor="7.2" title="6.2 Project Change Management Strategy"><p>This section describes the project change management
+          strategy and the methodology on which the strategy is based. Departments should
+          consider including a description of:</p><ul><li>The process for logging, analyzing and approving project change
+            requests;</li><li>Change control board procedures;</li><li>The tracking of project changes in progress; and</li><li>Procedures for notification of concerned parties, including the
+            Secretariat, when changes to the project baseline are being proposed to the
+            project approval authority.</li></ul><blockquote><p><em>4.7 The segmenting of the project into gates, the
+            proposed phased approach to managing changes</em></p></blockquote></section><section anchor="7.3" title="6.3 Communications Strategy"><p>The methods, tools and techniques to be used for
+          communications are described in this section. The communication strategy includes
+          communication plans for all stakeholders, both internal and external to the
+          project, and relevant ministerial announcements.</p><blockquote><p><em>4.12 The communications strategy.</em></p></blockquote></section><section anchor="7.4" title="6.4 Risk Management Strategy"><p>This section provides information on the risk factors
+          that could affect the project and a description of the risk management plan for
+          identifying, analyzing, and prioritizing project risks. Plans for assessing
+          initial risk factors and for the ongoing identification, assessment, and
+          mitigation of risk factors throughout the project life-cycle are specified.</p><p>The <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> provides the basis for determining the level of
+          project risk and complexity and the project approval authority. Its use will
+          assist in identifying areas of project risk and complexity warranting further
+          assessment and active risk management. In this way, the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> can be used as a
+          tool to mitigate project risk. This section can elaborate on which areas of
+          risk or complexity the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> exposed and what actions the department took or
+          plans to take to mitigate project risks. For example, a project affected by
+          procurement risks, as identified through a high score in the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> Procurement
+          Knowledge area, may warrant the creation of a Senior Project Advisory Committee
+        to mitigate the risks.</p><h4>Project Risks </h4><p>This section provides an assessment (probability and impact)
+          of the most significant project risks and how they are addressed. Risks may be presented
+          in a table format, as shown below. The probability and impact of the risks, as
+          well as the planned mitigation strategy should be included. The risk owner is
+          the individual who has accountability for the risks. </p><table border="1" cellspacing="0" cellpadding="1" class="widthFull"><thead><tr class="alignCenter lightgreyBG"><th scope="col"><strong>No.</strong></th><th scope="col"><strong>Risk Description</strong></th><th scope="col"><strong>Probability</strong><strong>(<abbr title="high">H</abbr>,<abbr title="medium">M</abbr>,<abbr title="low">L</abbr>)</strong></th><th scope="col"><strong>Impact</strong><strong>(<abbr title="high">H</abbr>,<abbr title="medium">M</abbr>,<abbr title="low">L</abbr>)</strong></th><th scope="col"><strong>Planned Mitigation</strong></th><th scope="col"><strong>Risk Owner</strong></th></tr></thead><tbody><tr><td><p>1</p></td><td><p>Training manuals may not be ready by the
+                  planned training date; this may affect the schedule.</p></td><td><p><abbr title="high">H</abbr></p></td><td><p><abbr title="high">H</abbr></p></td><td><p>Wikis will be used as an alternative
+                  solution to publish essential training material. </p></td><td><p>Training Lead</p></td></tr></tbody></table><blockquote><p><em>4.10 The other features of the project that could
+            affect its progress, such as privacy and environmental issues, land claims,
+            regulatory or legislative changes and agreements with other governments,
+          including international or domestic participants.</em></p></blockquote><h4>Project Complexity and Risk
+          Assessment</h4><p>This section summarizes the results of the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> and
+        highlights key risk factors identified in the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr>.</p><p>The details of the <abbr title="Project Complexity and Risk Assessment">PCRA</abbr> and the assessment requirements
+        can be found in the <a href="/pol/doc-eng.aspx?id=21261"><em>Standard for Project Complexity and Risk</em></a>. </p><blockquote><p><em>4.11 The results of the project complexity and
+            risk assessment.</em></p></blockquote><h4>Other Issues and/or Risks</h4><p>This section addresses any issues that have not been
+          addressed earlier in the project brief.</p><blockquote><p><em>4.10 The other features of the project that could
+            affect its progress, such as privacy and environmental issues, land claims,
+            regulatory or legislative changes and agreements with other governments, including
+          international or domestic participants.</em></p></blockquote></section><section anchor="7.5" title="6.5 Procurement Strategy"><p>When requirements are to be met through procurement
+          activities, the procurement strategy is described in this section.  </p><p>The procurement strategy for a project outlines the Crown
+          procurement contracts or contractual arrangements necessary to achieve the
+          defined project outcomes. It includes a description of the deliverables, by
+          contract, as well as the relationship to other phases of the project and
+          suppliers. It explains which department(s) will be responsible to issue the
+          contracts, the anticipated value and duration of each contract, and whether the
+          anticipated contracts will require Treasury Board approval.</p><p>The procurement strategy also sets out the approach for solicitation
+          and evaluation of bids as well as the manner in which contracts will be
+          awarded. Economic considerations are factored into the process during the
+          development of the procurement strategy. It explains how the proposed approach
+          meets the objectives of fair, open, and transparent procurement.</p><p>This section also explains the process and outcome of
+          interdepartmental consultations with key federal stakeholders as well as any recommendations
+          in developing the procurement strategy. It discusses the relevance and
+          application of any applicable legislative, contractual or regulatory impacts on
+          the various contracts (e.g., <em>Government Contracts Regulations</em>, trade
+          agreements, and comprehensive land claims agreements). A discussion on the
+          impact of socio-economic and national procurement policies should also be
+          presented, including the identification of any incremental costs, if
+          applicable, and risks associated with the strategy.</p><blockquote><p><em>4.13 The procurement strategy, including the
+            procurement review process and the proposed strategy for soliciting and
+            awarding relevant contracts, when required.</em></p></blockquote></section></chapter><chapter anchor="8" title="7. Project Governance and Oversight"><p>This section provides a description of the governance for
+        the project. The Secretariat’s <em>Project Governance and Oversight Guide<a href="#fn7" id="fnr7" title="View Footnote [7]">[7]</a></em> provides detailed guidance on governing projects in the Government of Canada.</p><blockquote><p>4.9
+          The governance and management approach to the overall project including:</p><ul><li><em>Accountability for project outcomes;</em></li><li><em>Documented roles and
+            responsibilities of participating departments and of the different units
+            within the lead department;</em></li><li><em>The structure and committees focused
+            on achieving the project and program objectives; and</em></li><li><em>The nature and extent of consultation with Treasury Board
+            Secretariat and other central agencies.</em></li></ul></blockquote><section anchor="8.1" title="7.1 Project Oversight"><p>This section provides the approval authority with a clear
+          understanding of the oversight of the project. Oversight encompasses
+          accountability, requires authority, and is a critical part of project
+          governance. Refer to the <em>Guide to Project Governance and Oversight</em> for
+          more information.</p><h4>Roles and Responsibilities</h4><p>This section describes the roles and responsibilities
+          established to manage the project, including other participating departments if
+          applicable. It also identifies and describes Memoranda of Understanding (MOUs)
+          or Service Level Agreements (<abbr title="Service Level Agreements">SLAs</abbr>) that have been signed by the sponsoring
+          department and participating departments. Refer to the Secretariat’s <em>Guide to
+          Joint Projects<a href="#fn8" id="fnr8" title="View Footnote [8]">[8]</a></em>for more information.</p><p>When an organization establishes an interdepartmental
+          agreement in the form of a project charter or <abbr title="Memoranda of Understanding">MOU</abbr> with the other participating
+          organizations, the project brief should identify the governance structure in
+          the agreement, as well as the titles of the individuals accountable to the
+        deputy heads for the successful management of the project.</p><p>The roles and responsibilities may be presented in a
+          table format, as in the example below. </p><table border="1" cellspacing="0" cellpadding="1" class="widthFull"><thead><tr class="lightgreyBG"><th scope="col" class="alignCenter"><strong>Project Role</strong></th><th scope="col" class="alignCenter"><strong>Responsibilities</strong></th></tr></thead><tbody><tr><td><p>Project Manager</p></td><td><ul><li>Achieving the approved project scope within the planned
+                    (baseline) cost and schedule;</li><li>Reporting to the Business Sponsor or the Project Steering
+                    Committee (<abbr title="Project Steering Committee">PSC</abbr>) and managing the Project Team;</li><li>Tracking project status by comparing cost-schedule performance
+                    to approved and documented cost-schedule baseline; and</li><li>Ensuring proactive and continuous risk and
+                    issue management and escalating risks and/or issues for resolution.</li></ul></td></tr><tr><td><p>Business Sponsor</p></td><td><ul><li>Delivering the business outcomes and benefits;</li><li>Ensuring the engagement of required project stakeholder groups
+                    (e.g., project interdependencies); and</li><li>Ensuring resolution of risks and issues escalated by the project
+                    manager.</li></ul></td></tr><tr><td><p>Senior Project Advisory Committee (<abbr title="Senior Project Advisory Committee">SPAC</abbr>)</p></td><td><ul><li>Establishing business buy-in and support;</li><li>Considering appropriate steps to orient a risk project to
+                    achieve national objectives;</li><li>Enabling success of the project through appropriate resourcing;
+                    and</li><li>Resolving issues that arise and facilitating communication with
+                    all stakeholders;</li></ul></td></tr></tbody></table></section><section anchor="8.2" title="7.2 Project Governance Structure and Committees"><p>This section includes a summary of the structure within
+          which the decision makers are situated and, when applicable, the mandate (e.g.,
+          terms of reference) of each committee involved. </p></section><section anchor="8.3" title="7.3 Consultations with the Secretariat and other Agencies"><p>If the project requires oversight by the Treasury Board,
+          or if the project has departmental impacts, the related governance committees
+          established to support appropriate engagement of the Secretariat and other
+          potential stakeholders, including Public Works and Government Services Canada, Shared
+          Services Canada, the Department of Justice Canada, <abbr title="public-private partnership">PPP</abbr> Canada and other departments,
+          are described in this section.</p></section></chapter><chapter anchor="9" title="8. Privacy Impact Assessment"><p>Privacy Impact Assessments (PIAs) are used to identify
+        the potential privacy risks of new or redesigned federal government programs or
+        services. PIAs also help eliminate or reduce those risks to an acceptable
+        level. Information on PIAs can be found on the website of the <em><a href="http://www.priv.gc.ca/">Office of the Privacy Commissioner of Canada</a></em>.</p><p>In accordance with the <em><a href="/pol/doc-eng.aspx?id=18229&amp;section=text#appB">Policy on the Management of Projects (Appendix B)</a></em>,
+        this section provides a high-level description of the results of the <abbr title="Privacy Impact Assessments">PIA</abbr> or the
+        Preliminary Privacy Impact Assessment (<abbr title="Preliminary Privacy Impact Assessment">PPIA</abbr>) and the measures taken or planned
+        to address privacy issues and risks if applicable.</p><blockquote><p><em>4.14 The results of the Privacy or Preliminary
+          Privacy Impact Assessment (<abbr title="Privacy Impact Assessments">PIA</abbr>/<abbr title="Preliminary Privacy Impact Assessment">PPIA</abbr>) and the measures taken or to be taken to
+          address privacy issues and risks.</em></p></blockquote></chapter><chapter anchor="10" title="9. References"><section anchor="10.1" title="9.1 Contributors"><p>The following departments contributed to the preparation
+          of this guide:</p><ul><li>Fisheries and Oceans Canada</li><li>Human Resources and Skills Development Canada</li><li>National Defence</li><li>Natural Resources Canada</li><li>Royal Canadian Mounted Police</li><li>Treasury Board of Canada Secretariat, Chief Information Officer
+            Branch (CIOB)</li></ul></section><section anchor="10.2" title="9.2 Questions and Feedback"><p>Please
+          direct enquiries about this policy instrument to the organizational unit in
+          your department responsible for this subject matter. For interpretation of this
+          policy instrument, the responsible organizational unit should contact: <a href="/contact/contact-eng.aspx#enquiries">TBS Public Enquiries</a>.</p></section></chapter></chapters><appendices><appendix anchor="a" title="Appendix:&#xA;    Examples of a Description of a Project and its Business Outcomes"><section anchor="a.1" title="Example 1 –&#xA;  Downtown Ottawa Transit Tunnel"><h4>Current State</h4><p>Public transit through downtown Ottawa accommodates over 10,000
+          riders in each direction along the Transitway during peak hours. Currently,
+          the transit service is limited to approximately180 buses an hour through
+          downtown to meet travel demand. Effectively, the transit system has reached its
+          capacity in providing Bus Rapid Transit service through the downtown to serve
+          surrounding communities. The system will no longer be able to expand service
+          beyond 2018, and is expected to reach capacity shortly afterwards.  Ottawa
+          has an expanding population and is Canada’s fourth-largest city and Ontario’s
+          second-largest city, with a population of over 900,000 (metropolitan area is
+          over 1.2 million) and an area of 2,596 square kilometres. </p><h4>Project Purpose </h4><p>In 2003, the City approved the Transportation Master Plan (TMP)
+          for public transit in Ottawa. The Downtown Ottawa Transit Tunnel (<abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr>)
+          project is the centrepiece of the TMP. The purpose of the <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> project is to
+          establish a faster, more efficient, high quality rail-based rapid transit
+          service which will accommodate existing and future travel demand into and
+          through the downtown.  The <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> project will help address existing congestion
+          and aid in preventing even higher levels of congestion in the future</p><h4>Project Scope and Timing </h4><p>The TMP includes a phased set of projects to be implemented by
+          2031. The <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> project includes a new 12.5 km <abbr title="light rail transit">LRT</abbr> line operating east-west
+          through a 3.2 km tunnel beneath downtown Ottawa. The <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> route will connect
+          major development nodes and bus routes, providing the core of a larger light
+          rail transit network.</p><p>The <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> project consists of the following three segments:</p><ul><li>An alignment from the western terminus at Tunney’s Pasture to
+            east of Booth Street,</li><li>A 3.2 km tunnel through the downtown core from Booth Street to
+            south of</li></ul><p>the University of Ottawa, and</p><ul><li>A route from south of the University of Ottawa to Blair Station.</li></ul><p>Overall, thirteen stations are proposed along the 12.5-km route.
+          Four of the stations will be underground and the remaining nine will be
+          conversions of the existing Transitway stations to <abbr title="light rail transit">LRT</abbr> stations. The route
+          will connect into the existing Transitway east and west of the study area,
+          into the Southeast Transitway at Hurdman Station, and to the O-Train at
+          Bayview Station.</p><h4>Business Outcomes </h4><p>Building and widening roads alone, especially in downtown
+          Ottawa, is not a practical or affordable solution to meet the anticipated
+          demands and to support the projected growth on the City’s transportation
+          system. By providing greater transportation choice, attracting more riders
+          and adding more capacity to the overall transportation network, the <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr>
+          project is aiming to help address existing congestion and aid in preventing
+          even higher levels of congestion in the future.  The growth of downtown
+          employment is expected to continue through the ability to increase capacity
+          on transit service in the downtown, primarily on the <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr><abbr title="light rail transit">LRT</abbr> line.</p><p>The final outcomes of <abbr title="Downtown Ottawa Transit Tunnel">DOTT</abbr> are as follows:</p><ul><li> Improve
+            mobility, reduce travel times and increase safety and efficiency;</li><li> Expand
+            public access and ridership;</li><li> Reduce
+            the growth of <abbr title="greenhouse gas">GHG</abbr> and other emissions; and,</li><li> Contribute
+            to sustainable municipal development and land-use planning.</li></ul></section><section anchor="a.2" title="Example 2 – Email Transformation Initiative"><h4>Current State</h4><p>Shared Services Canada (<abbr title="Shared Services Canada">SSC</abbr>) was established in 2011 to
+          modernize how the federal government manages its information technology (<abbr title="information technology">IT</abbr>)
+          infrastructure in order to better support the delivery of programs and
+          services to Canadians.  A key element of <abbr title="information technology">IT</abbr> infrastructure is email, which
+          has become one of the Government’s preferred communications mediums.  The 44
+          partner organizations, for which <abbr title="Shared Services Canada">SSC</abbr> provides infrastructure services,
+          currently use 63 separate and distinct email systems, different email
+          technologies, and are managed by separate support organizations.  With no
+          common standards across the Public Service, compatibility is limited and
+          interoperability is a major issue.  The existing system is complex,
+          inefficient, and expensive.  The current cost of email services to the 44
+          partner organizations is approximately $128.3 <abbr title="medium">M</abbr>.</p><h4>Project Purpose </h4><p>Before <abbr title="Shared Services Canada">SSC</abbr> became responsible for infrastructure services, the
+          operation of multiple email systems across the Government meant that
+          departments and agencies negotiated and maintained separate licenses, and had
+          their own technical support teams in place.  This duplication was costly and
+          unnecessary.  In Budgets 2012 and 2013, the Government announced that <abbr title="Shared Services Canada">SSC</abbr>
+          will realize significant costs savings by creating economies of scale with a
+          whole of government approach to <abbr title="information technology">IT</abbr>.  In May 2012, <abbr title="Shared Services Canada">SSC</abbr> launched the Email
+          Transformation Initiative (<abbr title="Email Transformation Initiative">ETI</abbr>) project to consolidate the Government’s
+          separate email systems to a standardized email service, managed by <abbr title="Shared Services Canada">SSC</abbr>, and
+          delivered to the Partner organizations.  </p><h4>Project Scope and Timing </h4><p>The primary requirements of the <abbr title="Email Transformation Initiative">ETI</abbr> are listed below.</p><ul><li><abbr title="Shared Services Canada">SSC</abbr> will establish a new email service for its <abbr title="Shared Services Canada">SSC</abbr> Partners and
+            itself, in both official languages. The new email service will also be
+            available to other departments and agencies, on an optional and cost recovery
+            basis.</li><li>The new email service will use a single email domain name.  A
+            standard email naming convention will be adopted for all Government of Canada
+            (<abbr title="Government of Canada">GC</abbr>) employees prescribed in a TBS policy instrument.</li><li>The new email service will be user-friendly and intuitive,
+            requiring limited formal training. The new email solution will provide online
+            help services and self-training functions to facilitate both the transition
+            and ongoing use of the new email solution.</li><li>The new email service will be developed and operated to a single
+            government service standard, which will meet at a minimum 99.9% availability
+            on a 24 / 7 / 365 basis.</li><li>The new email service will be comprised of two individual email
+            systems. The first will be certified to handle emails designated up to and
+            including Protected B level, with attachments, when sent or received from
+            within the Government network. The second email service will be certified to
+            handle email designated as Secret. Secret email will not be deployed until
+            the <abbr title="Government of Canada">GC</abbr> has a secure infrastructure available.</li></ul><p>The duration of the project should not exceed three years, and
+          preliminary savings are to be realized in fiscal year 2013-2014. To delay the
+          project would delay the realization of any savings.</p><h4>Business Outcomes </h4><p>The output of this
+          transformation is a new, enterprise-wide, centralized model and delivery of a
+          standardized <abbr title="Government of Canada">GC</abbr> email services.  The <abbr title="Email Transformation Initiative">ETI</abbr> project will deliver: a standard and
+          consolidated email service for <abbr title="Government of Canada">GC</abbr> operations; reduced costs for delivery of
+          email services; a secure and reliable email services; and a common domain
+          name and email address.</p><p> The final outcomes of
+          <abbr title="Email Transformation Initiative">ETI</abbr> are as follows:</p><ul><li>Reduced and avoided costs;</li><li>Greening of <abbr title="information technology">IT</abbr> services;</li><li>Business needs that can be responded to in a more timely manner;</li><li>Email services that are highly available;</li><li>Email content that is secure from a confidentiality and
+            integrity perspective;</li><li>Ability to develop and deploy skilled workforce; and</li><li>Partnerships with industry that are open transparent and fair.</li></ul></section></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="[1]" tooltip="Return to footnote reference 1"> A submission is an official document submitted by a sponsoring minister
+      on behalf of a federal organization seeking approval or authority from the
+      Treasury Board for an initiative that the organization would not otherwise be
+      able to undertake or that is outside its authorities. </footnote><footnote anchor="fn2" reference="fnr2" title="[2]" tooltip="Return to footnote reference 2"> The life-cycle of the project is part of the
+      investment life-cycle and includes the activities needed to support the definition,
+      implementation and close-out of the project. </footnote><footnote anchor="fn3" reference="fnr3" title="[3]" tooltip="Return to footnote reference 3"> Project Management Institute,<em> A Guide to the Project
+      Management Body of Knowledge</em> (<abbr title="roject Management Body of Knowledge">PMBOK</abbr><sup>®</sup> Guide), 3rd ed., v1.3 </footnote><footnote anchor="fn4" reference="fnr4" title="[4]" tooltip="Return to footnote reference 4"><a href="/emf-cag/project-projet/documentation-documentation/guide-guide/guide-guide00-eng.asp">Project
+      Charter Guide, 2008.</a></footnote><footnote anchor="fn5" reference="fnr5" title="[5]" tooltip="Return to footnote reference 5"><a href="/emf-cag/project-projet/documentation-documentation/guide-guide/guide-guide00-eng.asp">Project
+      Charter Guide, 2008.</a></footnote><footnote anchor="fn6" reference="fnr6" title="[6]" tooltip="Return to footnote reference 6"> Currently in development</footnote><footnote anchor="fn7" reference="fnr7" title="[7]" tooltip="Return to footnote reference 7"> Currently in development</footnote><footnote anchor="fn8" reference="fnr8" title="[8]" tooltip="Return to footnote reference 8"> Currently in development</footnote></footnotes></doc>

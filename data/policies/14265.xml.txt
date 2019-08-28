@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guidelines on Streamlining - Statutory Reports to Parliament" documentID="14265" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><notetoreader><div>These guidelines would replace the 1994 Policy on Streamlining Statutory Reporting as well as the companion document 
+Streamlining of Reporting and Statutory Annual Reports.</div></notetoreader><chapters><chapter anchor="1" title="Purpose"><p>This documentis intended to assist departmental officials as well as Treasury Board Secretariat (TBS) officials in the 
+interpretation and application of section 157 of the <em>Financial Administration Act </em>(FAA). </p></chapter><chapter anchor="2" title="Background"><p>Under <em>section 157 of </em>the FAA, statutory reports required by Parliament, or to be submitted to Parliament, can 
+be discontinued by Order in Council (OIC) when they contain the same or less information than is contained in Public Accounts 
+or Estimates documents, namely the <em>Report on Plans and Priorities</em> and the <em>Departmental Performance Report</em>.</p><p>This integration or streamlining of reporting must be in accord with the purpose, policies and basic disclosure principles 
+and standards for the various reporting instruments (i.e., Part III of the Estimates and the Public Accounts), and must 
+respect legislated requirements.</p><p>There must be no loss of information to Parliament.</p></chapter><chapter anchor="3" title="Application"><p>These guidelines apply to all departments required to produce Part III of the Estimates and the Public Accounts.</p></chapter><chapter anchor="4" title="Implementation procedures"><p>For the purpose of integration, the information contained in the Estimates documents or Public Accounts is compared to 
+that contained in the statutory annual report to determine whether the latter report may be discontinued. The various reporting 
+instruments are described in Appendix A.</p><p>This process can take a complete reporting cycle leading to the required Governor-in-Council approval. The main steps 
+to follow in order to reach final approval are:</p><ul><li>Departments and agencies contact their TBS program sector analyst to discuss 
+their requests for TBS to examine the potential streamlining of statutory annual reports.</li><li>TBS formally reviews the information in the Estimates documents or Public 
+Accounts and in the statutory report in order to ensure that there is no loss of information to Parliament.</li><li>If the TBS review is favourable, a letter of attestation must be sent from 
+the responsible minister to the President of the Treasury Board. The letter will request a potential discontinuance of the 
+report and indicate that there is no loss of information to Parliament. The letter must also refer to the TBS's formal review.</li><li>The President of the Treasury Board will then recommend to the Governor in 
+Council that an OIC be made directing the discontinuance of the statutory report. Note that a Treasury Board submission 
+is not needed in this case; a recommendation letter is sufficient. </li></ul><p>If the statutory information is not already in the Estimates documents or the Public Accounts, organizations could consider 
+the following process during a first cycle for potential discontinuance of the report in a subsequent cycle:</p><ul><li>The statutory report to be eliminated or integrated should be adjusted or 
+edited to take out information inconsistent with its defined purpose and scope. </li><li>When such information is of public relations or communications value, it 
+could be published in alternative non-statutory publications such as an annual review, a departmental newsletter, a news 
+release, etc. </li><li>Suitable information would be transferred to the Estimates documents or the 
+Public Accounts and also be retained in the report to be eliminated. </li></ul><p>The streamlining of a statutory annual report can be initiated at any time during the year. </p><p>Departments and agencies planning to integrate statutory reports with the Estimates documents or the Public Accounts 
+are advised to consult with TBS early in the process.</p><p>The department or agency must continue to produce the annual report until the Governor in Council has approved discontinuance 
+of the statutory report by OIC. </p></chapter><chapter anchor="5" title="Consolidated reports"><p>Some departments and agencies have consolidated statutory reports in their Estimates documents or Public Accounts (see 
+Appendix B). They must ensure that their Estimates documents or the Public Accounts continue to contain the statutory information 
+previously contained in the annual statutory report, when the legislation requiring this annual report is still in effect.</p></chapter><chapter anchor="6" title="References"><p>The following are general references:</p><p>Section 157 of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/59494.html">Financial Administration Act</a></em></p><p>Individual departmental legislation will provide the requirements for statutory reports to Parliament.</p><p>These guidelines replace:</p><p>The <em>Policy on Streamlining Statutory Reporting </em>in the Chapter 5-10 of the "Comptrollership" volume of the
+<em>Treasury Board Manual</em> dated October 1, 1994.</p></chapter><chapter anchor="7" title="Enquiries"><p>To discuss potential streamlining of reports, please contact:</p><div class="indent1"><address>Program Sector <br />
+Treasury Board Secretariat<br />
+Ottawa ON Canada K1A 0R5</address></div><p>With regards to the guidelines, please contact:</p><div class="indent1"><address>Parliamentary Reporting and Accountability Division<br />
+Expenditure Management Sector <br />
+Treasury Board Secretariat<br />
+Ottawa ON Canada K1A 0R5<br /><br />
+Telephone: 613-941-9376<br />
+Facsimile: 613- 946-6262</address></div></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Reporting Instruments"><p>The relevant reporting instruments include the following:</p><section anchor="A.1" title="Estimates"><p>Estimates documents reflect the government's annual budget planning and resource allocation priorities. Part I provides 
+an overview of federal spending and summarizes the relationship of the key elements of the Main Estimates to the current 
+Expense Plan.  Part II directly supports the <em>Appropriation Act</em>. The Main Estimates identify the spending authorities 
+(Votes) and amounts to be included in subsequent appropriation bills. Part III is divided into two components: the Reports 
+on Plans and Priorities and the Departmental Performance Reports.</p></section><section anchor="A.2" title="Public accounts"><p>This is the report of the Government of Canada prepared each fiscal year by the Receiver General as required by section 
+64 of the <em>Financial Administration Act</em>. Public Accounts provide a detailed accounting of government expenditures 
+in relation to Estimates previously voted by Parliament.</p></section><section anchor="A.3" title="Departmental annual report"><p>A departmental annual report (DAR) is a report on operations for the most recently completed fiscal year that a minister 
+is required, by the department's enabling statute, to table before Parliament at a designated time.</p><p>As a rule, legislation does not specify content requirements for DARs; however, the focus of the DAR should be a concise, 
+factual account of the institution's work during the subject year and the results achieved. Promotional material and matters 
+of local interest should be excluded.<strong><sup><a href="#fn1" name="fnr1">[1]</a></sup></strong></p><p>This interpretation reflects the same results orientation as Part III of the Estimates.</p></section><section anchor="A.4" title="Other statutory reports"><p>Other statutory reports for specific elements of a department's operations, or for boards, commissions, etc., that have 
+not been created as separate departments may also be required to be tabled by the same minister. The focus is on specific 
+legislative requirements.</p></section><section anchor="A.5" title="Other annual reports"><p>Non-statutory annual reports are published at a department's discretion and cannot be substituted for statutory reports, 
+nor can they be combined with an annual report. The focus of other annual reports is usually the information needs of special 
+or general client groups. They may also contain information of a local or public relations nature.</p><p>Departments or agencies wishing to streamline their DARs to better reflect the intended purpose of these publications 
+can transfer promotional information to a non-statutory annual report.</p></section></appendix><appendix anchor="B" title="Appendix B – List of Discontinued Reports"><p>The following statutory reports have been discontinued. The titles of the reports and the organizations' name are shown 
+as they existed when the integration was approved. The legislation relevant to the reporting requirement is provided.</p><p><strong>Agriculture Canada</strong></p><div class="indent1"><p>Annual Report of the Department of Agriculture<br />
+(<em>Department of Agriculture Act, s. 6</em>)</p><p>Annual Report of the Farm Debt Review Boards<br />
+(<em>Farm Debt Review Act, s. 38</em>)</p><p>Annual Report on the operation of agreements under the <em>Farm Income Protection Act</em><br />
+(<em>Farm Income Protection Act, s. 21</em>)</p><p>Annual Report on the administration of the <em>Agricultural Marketing Programs Act</em><br /><em>(Agricultural Marketing Programs Act, s. 41</em>)</p><p>Annual Report on the Administration of the <em>Farm Improvement and Marketing Cooperatives Loans 
+Act</em> and the <em>Farm Improvement Loans Act</em><br />
+(<em>Farm Improvement and Marketing Cooperatives Loans Act, s. 22</em>)</p><p>Annual Report on the National Farm Products Council<br />
+(<em>Farm Products Agencies Act, s. 15</em>)</p><p>Annual Report of the Canadian Grain Commission<br />
+(<em>Canadian Grain Act, s. 15</em>)</p></div><p><strong>Atlantic Canada Opportunities Agency</strong></p><div class="indent1"><p>Annual Report on the Atlantic Canada Opportunities Agency<br />
+(<em>Atlantic Canada Opportunities Agency Act, ss. 9 and 21</em>)</p></div><p><strong>Canada</strong><strong> Industrial Relations Board</strong></p><div class="indent1"><p>Annual Report on the activities of the Canada Industrial Relations Board<br />
+(<em>Canada Labour Code, R.S. 1985, c. L-2, s. 121(1)</em>)</p></div><p><strong>Canada Parks Agency</strong></p><div class="indent1"><p>Annual Report of the Canada Parks Agency <br />
+(<em>Parks Canada Agency Act, S.C. 1998, c. 31, s. 34</em>)</p></div><p><strong>Canadian Centre for Management Development</strong></p><div class="indent1"><p>Annual Report on the Canadian Centre for Management Development<br />
+(<em>Canadian Centre for Management Development Act, S.C. 1991, c.16, s. 19(2)</em>)</p></div><p><strong>Canadian Food Inspection Agency</strong></p><div class="indent1"><p>Annual Report on the Administration of the <em>Plant Breeders' Rights Act</em><br />
+(<em>Plant Breeders' Rights Act, s. 78</em>)</p><p>Annual report on the activities of the Canadian Food Inspection Agency<br />
+(<em>Canadian Food Inspection Agency Act, S.C. 1997, c. 6, s. 23</em>)</p></div><p><strong>Canadian Heritage</strong></p><div class="indent1"><p>Annual Report of the Department of Communications<br />
+(<em>Department of Communications Act, s. 7</em>)</p><p>Annual Report of the Department of Multiculturalism and Citizenship<br />
+(<em>Department of Multiculturalism and Citizenship Act, s. 6</em>)</p></div><p><strong>Canadian Radio-television and Telecommunications Commission</strong></p><div class="indent1"><p>Annual Report of the Canadian Radio-television and Telecommunications Commission<br />
+(<em>Canadian Radio-television and Telecommunications Commission Act, s. 13</em>)</p></div><p><strong>Canadian Space Agency</strong></p><div class="indent1"><p>Annual Report of the Canadian Space Agency<br />
+(<em>Canadian Space Agency Act, s. 23</em>)</p></div><p><strong>Energy, Mines and Resources</strong></p><div class="indent1"><p>Annual Report of the Department of Energy, Mines and Resources<br />
+(<em>Department of Energy, Mines and Resources Act, s. 5</em>)</p><p>Annual Report of the Department of Forestry<br />
+(<em>Department of Forestry Act, s. 10</em>)</p></div><p><strong>Fisheries and Oceans Canada</strong></p><div class="indent1"><p>Annual Report on the Department of Fisheries and Oceans<br />
+(<em>Department of Fisheries and Oceans Act, R.S. 1985, c. F-15, s. 6</em>)</p></div><p><strong>Human Resources Development Canada </strong></p><div class="indent1"><p>Annual Report on business done under the <em>Civil Service Insurance Act</em><br />
+(<em>Civil Service Insurance Act, s. 21</em>)</p><p>Annual Report on business done under the <em>Government Annuities Improvement Act</em><br />
+(<em>Government Annuities Improvement Act, s. 18</em>)</p><p>Annual Report of the Department of National Health and Welfare<br />
+(<em>Department of National Health and Welfare Act, s. 13</em>)</p><p>Annual Report on the Administration of Part I of the <em>Canada Labour Code</em><br />
+(<em>Canada Labour Code, s. 121</em>)</p><p>Annual Report on the Administration of Part III of the <em>Canada Labour Cod</em>e<br />
+(<em>Canada Labour Code, s. 263</em>)</p><p>Annual Report on the Administration of the <em>Canada Student Loans Act</em><br />
+(<em>Canada Student Loans Act, s. 22</em>)</p><p>Annual Report on the Administration of the <em>Old Age Security Act</em><br />
+(<em>Old Age Security Act, s. 47</em>)</p></div><p><strong>Immigration and Refugee Board</strong></p><div class="indent1"><p>Annual Report on the activities of the Immigration and Refugee Board<br />
+(<em>Immigration Act, s. 66</em>)</p></div><p><strong>Indian and Northern Affairs Canada and Canadian Polar Commission</strong></p><div class="indent1"><p>Annual Report of the Department of Indian Affairs and Northern Development<br />
+(<em>Department of Indian Affairs and Northern Development Act, s. 7</em>)</p></div><p><strong>National Archives Canada and National Library of Canada</strong></p><div class="indent1"><p>Annual Report of the National Archives of Canada<br />
+(<em>National Archives of Canada Act, s. 11</em>)</p><p>Annual Report on the proceedings under the <em>National Library Act</em><br />
+(<em>National Library Act, s. 15</em>)</p></div><p><strong>Natural Sciences and Engineering Research Council</strong></p><div class="indent1"><p>Annual Report on the activities of the Natural Sciences and Engineering Research Council<br />
+(<em>Natural Sciences and Engineering Research Council Act, R.S. 1985, c. N-21, s. 18(1)</em>)</p></div><p><strong>Public Works Canada</strong></p><div class="indent1"><p>Annual Report of the Department of Public Works<br />
+(<em>Public Works Act, s. 35</em>)</p><p>Annual Report of the Department of Supply and Services<br />
+(<em>Department of Supply and Services Act, s. 19</em>)</p></div><p><strong>Secretariat of State</strong></p><div class="indent1"><p>Annual Report of the Department of State<br />
+(<em>Department of State Act, s. 5</em>)</p></div><p><strong>Solicitor General Canada</strong></p><div class="indent1"><p>Annual Report of the Correctional Service of Canada<br />
+(<em>Corrections and Conditional Release Act, s. 95</em>)</p><p>Annual Report of the Department of the Solicitor General<br />
+(<em>Department of Solicitor General Act, s. 5</em>)</p></div><p><strong>Statistics Canada</strong></p><div class="indent1"><p>Annual Report of Statistics Canada<br />
+(<em>Statistics Act, s. 4</em>)</p></div><p><strong>Transport Canada</strong></p><div class="indent1"><p>Annual Report of the Department of Transport<br />
+(<em>Department of Transport Act, s. 20</em>)</p></div><p><strong>Veterans Affairs</strong></p><div class="indent1"><p>Annual Report of the Department of Veterans Affairs<br />
+(<em>Department of Veterans Affairs Act, s. 7</em>)</p></div></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="[1]">
+This definition of "annual report" from the TB Manual, "Communications" 
+volume, section 7.2 is still relevant even though the manual is no longer in existence.
+</footnote></footnotes></doc>

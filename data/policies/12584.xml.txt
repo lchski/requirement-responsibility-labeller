@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Term Employment Policy" documentID="24717" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><notetoreader><p>Modification Notice on Term Employment Policy - November 15, 2011</p></notetoreader><chapters><chapter anchor="1" title="1. Effective Date"><p>Subject to sub-section 8.1, this policy will come into force in each
+department or agency at such date as determined by the deputy head based on
+operational requirements, commencing April 1, 2003, but not later than April 1,
+2004.</p><p>At the time that this policy comes into force in each department or agency,
+it will replace the Long Term Specified Period Employment Policy (1999).</p><p>The Treasury Board Secretariat in consultation with departments/agencies and
+bargaining agents will review this policy no later than 2006.</p></chapter><chapter anchor="2" title="2. Principles of Term Employment"><ul><li>Term employment is one option to meet temporary business needs.</li><li>There are valid requirements for using term employment, such as
+    backfilling temporary vacancies resulting from indeterminate employees on
+    leave and acting/developmental assignments, short-term projects and
+    fluctuating workloads.</li><li>Merit is the fundamental principle of hiring all employees, including term
+    employees, into the Public Service.</li><li>Decisions requiring the use of term employment should form part of the
+    longer-term internal staffing, recruitment and retention strategies that are
+    integrated with departmental business planning at corporate, regional and
+    local levels.</li><li>Management of sunset funding should be linked to human resources plans to
+    minimize the use of term employees.</li><li>Term employment should not be used as a substitute probationary period for
+    indeterminate staffing.</li><li>Term employees should be treated fairly and responsibly (i.e. reasonable
+    renewal/ non-renewal notice, performance feedback,
+    appointments/re-appointments that truly reflect the expected duration of the
+    work, and orientation upon initial appointment).</li></ul></chapter><chapter anchor="3" title="3. Policy Objective"><p>To balance the fair treatment of term employees with the need for operational
+flexibility.</p></chapter><chapter anchor="4" title="4. Policy Statement"><p>There are valid operational requirements that call for the use of the term
+employment option. This option should be used, however, only in situations where
+a need clearly exists for a limited time and is not anticipated to become a
+permanent ongoing need.</p></chapter><chapter anchor="5" title="5. Application"><p>This policy applies to term employees for whom the Treasury Board is the
+employer, and who have been appointed under the <em>Public Service Employment Act</em>
+(PSEA) or any exclusion approval order made there under.</p></chapter><chapter anchor="6" title="6. Delegation, Accountability and Expected Results"><p>Departments/agencies have the delegated authority to give effect to this
+policy and are accountable for the results. Departments/agencies are expected,
+through improved human resources planning and integration with business
+planning, to move from a short- to a longer-term focus in their hiring
+strategies.</p><p>Departments/agencies are accountable for results based on the following
+indicators:</p><ol class="lower-alpha"><li>The frequency with which departments/agencies are required to make
+    appointments in accordance with the regulation created pursuant to PSEA
+    10(2);</li><li>The nature and frequency of complaints brought to the attention of the
+    Treasury Board Secretariat or the Public Service Commission through existing
+    mechanisms where the practices of a department/agency are found at fault
+    concerning:
+    <ol class="lower-roman"><li>the non-renewal of term employees near the three-year mark where there
+        is a continuing function and where the qualifications for the job remain
+        the same; or</li><li>the withholding of indeterminate status; or</li><li>insufficient notice of renewal and of non-renewal.</li></ol></li></ol><p>The Treasury Board Secretariat will monitor this policy to ensure its success
+in meeting its intended objective.</p></chapter><chapter anchor="7" title="7. Policy Requirements"><ol><li>Subject to section 7.2, where a person who has been employed in the same
+department/agency as a term employee for a cumulative working period (see
+definition in <a href="#appA">Appendix A</a>) of <strong>three (3) years</strong>
+without a break in service longer than sixty (60) consecutive calendar days, the
+department/agency must appoint the employee indeterminately at the level of
+his/her substantive position. This appointment must be made in accordance with
+merit as provided for in the <em>Public Service Employment Regulations</em>
+established by the Public Service Commission. The "same department"
+includes functions that have been transferred from another department/agency by
+an act of Parliament or order-in-council.</li><li>Departments/agencies, in determining whether a period of term employment
+in the same department/agency will count as part of the cumulative working
+period, must take the following into consideration:
+    <ol class="lower-alpha"><li>a period of leave of absence without pay longer than 60 consecutive calendar days does not constitute a break in service and will not be included in the calculation of the cumulative working period for appointment to indeterminate status under this policy unless:
+      <ol class="upper-roman"><li>The employee was on such leave on or after June 20, 2008 <strong>and</strong></li><li>The failure to include it would result in discrimination on a prohibited ground set out in the <em>Canadian Human Rights Act</em>.</li></ol></li><li>a period of part-time employment for term employees hired under the <em>Public
+    Service Employment Act</em> is equal to an equivalent period of full-time
+    employment (not pro-rated);</li><li>periods of employment as a part-time worker (persons not ordinarily
+    required to work more than one-third of the normal work week) shall not
+    count as part of the cumulative working period;</li><li>periods of casual employment, as defined in the <em>Public Service
+    Employment Act</em>, shall not count as part of the cumulative working
+    period. Casual employment following term employment is considered as a break
+    in service in the calculation of the 60 consecutive calendar days; and</li><li>periods worked through student employment programs established by Treasury
+    Board (e.g., FSWEP, COOP) shall not count as part of the cumulative working
+    period. Work in a student employment program following term employment is
+    considered as a break in service in the calculation of the 60 consecutive
+    calendar days.</li></ol><p>Periods of term employment where the source of funding for salary dollars is
+from external sources and for a limited duration (sunset funding) shall not
+count as part of the cumulative working period. Departments/agencies must
+identify a program, project, or initiative as being sunset funded for the
+purposes of this policy. Term employees must be advised in writing, at the time
+that they are offered employment or re-appointed in such
+programs/projects/initiatives, that their period of employment will not count in
+the calculation of the cumulative working period for indeterminate appointment.
+However, periods of term employment immediately before and after such employment
+shall count as part of the cumulative working period where no break in service
+longer than 60 consecutive calendar days has occurred.</p><p>In circumstances where a department/agency has given notice to the employer
+that, in reviewing its financial situation over the planning horizon (2-3
+years), it can establish that the indeterminate appointment of term employees
+would result in workforce adjustment situations in the department overall, the
+department will advise affected employees employed on a term basis, in writing,
+that any further time spent in their current position will not count in the
+calculation of the cumulative working period for indeterminate appointment.</p><p>In the latter two situations departments/agencies must inform their
+bargaining agents.</p></li><li>In making indeterminate appointments pursuant to the Public Service
+Employment Regulations, departments/agencies must ensure term employees meet the
+standard of competence for their position, including the Official Language
+requirements.</li><li>Where a person employed as a term employee will be renewed, will not be
+renewed, or will be laid off before the originally specified end of term,
+departments/agencies are required to provide one month written notification to
+the employee.</li><li>In circumstances where it would not be advantageous for a term employee to
+be appointed indeterminately as a result of the requirements of this policy, the
+term employee may make a written request to his/her manager not to proceed with
+an indeterminate appointment. With the written agreement of both parties no
+action will be taken to appoint indeterminately.</li></ol></chapter><chapter anchor="8" title="8. Transitional Provisions"><ol><li>The department/agency will provide for a temporary review mechanism for a
+term employee who believes he/she is not being renewed for the purpose of not
+being made indeterminate. This temporary review mechanism is to be determined by
+the deputy head in consultation with the applicable departmental bargaining
+agents, and will cover the period up to the date of the coming into force of
+this policy in each department or agency, from April 1, 2003 but not later than
+April 1, 2004.</li><li>Time accumulated under the Long Term Specified Period Employment Policy
+(1999) will continue to count towards the calculation of the cumulative working
+period on the coming into force of this policy.</li></ol></chapter><chapter anchor="9" title="9. References"><ul><li><em>Financial Administration Act</em>, section 11(2)(a)</li><li><em>Public Service Employment Act</em>, subsection 10(2)</li><li>Public Service Employment Regulations 5 (2)(c )</li><li><em>Public Service Staff Relations Act</em></li></ul></chapter><chapter anchor="10" title="10. Enquiries"><p>Enquiries relating to this policy should be referred to the responsible
+officer designated in departmental/organizational headquarters who, in turn, may
+direct questions regarding interpretation to the Human Resources Management
+Office of the Treasury Board of Canada Secretariat.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Definitions"><dl><dt><strong>Break in service</strong>(
+                <em><span xml:lang="fr-CA" lang="fr-CA">Interruption de service</span></em>)</dt><dd>A break between periods of employment, pursuant to the PSEA, of more than sixty (60) consecutive calendar days. (This definition is only applicable to this policy.)</dd><dt><strong>Cumulative working period</strong>(
+                <em><span xml:lang="fr-CA" lang="fr-CA">Période de travail cumulative</span></em>)</dt><dd>The period of time counted in the same department to determine whether or not a term employee meets the requirement for indeterminate appointment</dd><dt><strong>Sunset-funding exception-external sources</strong>(
+                <em><span xml:lang="fr-CA" lang="fr-CA">Exception du financement temporarisé-sources externes</span></em>)</dt><dd>Funding of a limited duration that the department receives from external sources, either from the private sector or another public service organization. (This includes shared agreements for whole or partial funding with a provincial government, or funds received from TB or another department to carry out a program/project/activity of a limited duration.) Reallocation of monies
+                within a department to carry out a specific project/activity would not meet the definition of external sources.</dd><dt><strong>Part-time employee</strong>(
+                <em><span xml:lang="fr-CA" lang="fr-CA">Employé à temps partiel</span></em>)</dt><dd>A person employed to work less than the normal daily or weekly hours of work established for a full-time employee of the same occupational group and level, and is an employee as defined in the 
+                <em>Public Service Staff Relations Act</em>or the 
+                <em>Public Service Employment Act.</em></dd><dt><strong>Part-time worker</strong>(
+                <em><span xml:lang="fr-CA" lang="fr-CA">Travailleur à temps partiel</span></em>)</dt><dd>A person who is not ordinarily required to work more than one-third of the normal work week and who 
+                <span class="underLine">is not</span>an employee as defined in the 
+                <em>Public Service Staff Relations Act</em>or the 
+                <em>Public Service Employment Act.</em></dd></dl></appendix></appendices></doc>

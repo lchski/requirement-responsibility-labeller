@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Procedures for Liaison with Private Contractors" documentID="12563" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><chapters><chapter anchor="1" title="Introduction"><ul class="noBullet"><li>1. The purpose of these procedures are to clarify the relationships which should exist between departments and 
+	private contractors, where the occupational health or safety of individuals may be adversely affected by activities 
+	of private contractors during construction, renovation, maintenance or any other operations, on or in Federally 
+	owned or leased premises.</li></ul></chapter><chapter anchor="2" title="Application"><ul class="noBullet"><li>2. These procedures apply to all Public Service departments and agencies, as defined in Part I of Schedule I of 
+	the <em>Public Service Staff Relations Act</em>.</li></ul></chapter><chapter anchor="3" title="Jurisdiction"><ul class="noBullet"><li>3. As the work of private contractors and their employees is subject to the laws of the province or territory 
+	in which the work is being conducted, the appropriate provincial or territorial authorities have legal jurisdiction 
+	over health and safety conditions relative to such work.</li></ul></chapter><chapter anchor="4" title="Departmental responsibility"><ul class="noBullet"><li>4. If a departmental official becomes aware of a condition or situation arising out of the activity of a private 
+	contractor working on or in Federally owned or leased premises, which could pose a hazard to the health or safety 
+	of public servants or the general public, that official shall ensure that the appropriate details concerning the 
+	hazard are relayed immediately to the manager responsible for the letting and/or control of the contract.</li><li>5. The manager responsible for the letting and/or control of the contract, after receiving the details of the 
+	dangerous condition, shall:<ol class="noBullet"><li>make direct arrangements with the contractor to effect the necessary changes to assure the health and safety 
+		of those exposed; or</li><li>where resolution of the situation is not achieved to the satisfaction of the manager or responsible departmental 
+		official, advise the appropriate Provincial or Territorial authority of the matter; or</li><li>in extreme cases, request the assistance of federal safety officers by contacting the nearest district 
+		or regional office of Labour Canada.</li></ol></li></ul></chapter><chapter anchor="5" title="Reference"><p>This chapter replace chapter 4-5 of PMM volume 12.</p></chapter><chapter anchor="6" title="Enquiries"><p>Enquiries should be directed to the responsible officers in departments headquarters, who in turn, 
+may seek interpretation from the following:</p><div class="indent1"><p>Safety, Health and Employee Services Group<br />
+	General Personnel Policy Development and Compensation Division<br />
+	Personnel Policy Branch<br />
+	Treasury Board Secretariat</p></div></chapter></chapters></doc>

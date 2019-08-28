@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Telework Policy" documentID="12559" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><chapters><chapter anchor="1" title="Effective Date"><p>The effective date of this policy is December 9, 1999.</p></chapter><chapter anchor="2" title="Preamble"><p>
+        The Treasury Board, as Employer of the Public Service, is committed to providing policies and provisions designed
+        to help employees balance their work, personal, and family responsibilities. In keeping with our goal of being a
+        workplace of choice, this policy will assist in meeting both business and sustainable development objectives while
+        satisfying the growing needs of employees to improve their overall quality of life.
+      </p><p>
+        Changes are occurring in the Public Service workforce with a shift towards more knowledge workers, as well as
+        changes to traditional family structures, employees' expectations of work, and the definition of career aspirations
+        and job satisfaction.
+      </p><p>
+        Flexibility in the workplace to accommodate work, personal and family needs can result in benefits to organizations
+        such as:
+      </p><ul><li>
+          a competitive edge for attracting and retaining highly skilled
+          individuals;
+        </li><li>reduced levels of employee stress and conflict;</li><li>higher levels of productivity and reduced absenteeism;</li><li>higher levels of employee satisfaction and motivation;</li><li>a more satisfying work environment;</li><li>
+          ability to accommodate employment related needs for employment equity
+          designated group members.
+        </li></ul><p>
+        The impact of flexible work arrangements can also reach beyond the benefits derived by the organization and
+        contribute to the development of a sustainable society. For example, opportunities for reducing traffic congestion and
+        air pollution and for supporting regional economic development can be realized at the same time the employer's
+        objectives are met.
+      </p><p>
+        Both managers and employees are responsible to ensure that operational needs of the organization are met and that
+        neither productivity nor costs are negatively impacted by the application of this policy.
+      </p></chapter><chapter anchor="3" title="Policy objective"><p>
+        To allow employees to work at alternative locations, thereby achieving a better balance between their work and
+        personal lives, while continuing to contribute to the attainment of organizational goals.
+      </p></chapter><chapter anchor="4" title="Policy statement"><p>
+        The employer recognizes the opportunities that a flexible working arrangement such as the telework option can
+        present, and encourages departments to implement telework arrangements where it is economically and operationally
+        feasible to do so, and in a fair, equitable and transparent manner.
+      </p></chapter><chapter anchor="5" title="Application"><p>
+        This policy applies to the departments and agencies listed under Schedule 1, Part 1 of the Public Service
+        Staff Relations Act.
+      </p></chapter><chapter anchor="6" title="Definitions"><p><em>telework: </em>a flexible work arrangement whereby employees have approval to carry out some or all of
+        their work duties from a telework place
+      </p><p><em>designated workplace</em>: the employee's designated workplace or business address where the employee would work
+        if there were no telework situation
+      </p><p><em>telework place</em> the alternative location where the employee is permitted to carry out the work otherwise
+        performed at or from their designated workplace
+      </p></chapter><chapter anchor="7" title="Policy requirements"><p>
+        The approval of each telework situation shall be made on a case-by-case basis at the discretion of management.
+        Departments are encouraged to clarify and publicize their approval criteria for telework requests.
+      </p><p>Participation in telework is voluntary, that is no employee shall be required to telework</p><p>
+        Prior to approving requests from employees to telework, whether for some or all of the regular workweek, managers
+        shall ensure that the following conditions apply:
+      </p><ul><li>
+          the nature of the work to be performed at the teleworkplace is
+          operationally feasible;
+        </li><li>
+          the overall quality and quantity of work carried out in the designated
+          workplace shall be sustained by the teleworker in the telework place;
+        </li><li>
+          the work done at the teleworkplace should be cost effective. Certain
+          up-front costs are permissible, provided they can be recouped over a reasonable period;
+        </li><li>
+          the terms and conditions of employment, provisions of relevant
+          collective agreements and the application of existing policies and legislation will continue to apply in telework
+          situations;
+        </li><li>
+          official language requirements and service to the public are not
+          compromised by the telework arrangement;
+        </li><li>
+          the details of the telework arrangement must be discussed and agreed
+          upon between the employee participating in the telework situation and the supervisor and at the request of either
+          party these details will be put in writing. These details must as a minimum include: the voluntary nature of the
+          arrangement; the duration of the arrangement; the specific days the employee will telework; hours of work; whether the
+          arrangement will be regular or episodic; the telework location; work objectives and expected results; issues of
+          liability (personal and equipment); responsibility for costs associated with telework (utilities and insurance);
+          safety and health responsibilities; impact on colleagues; and the requirement to adhere to all aspects of government
+          policies, rules and regulations;
+        </li></ul><p>A telework arrangement can be terminated at any time, with reasonable notice by either party.</p><p>
+        Once requests are approved, the manager should ensure employees who will be teleworking and their colleagues
+        understand the impacts and practical considerations of the telework situation.
+      </p><p>
+        Equipment and electronic network requirements for any telework arrangement shall be decided upon on a case by case
+        basis and an agreement reached between the employer and the employee prior to undertaking a telework situation.
+      </p><ul><li>
+          where the employer provides the equipment, the employer will assume
+          the responsibility for normal maintenance and repair;
+        </li><li>
+          if, the employee requests to telework using his/her own equipment,
+          then he/she is responsible for the maintenance and repair unless otherwise agreed to by the employer.
+        </li></ul><p>Employees who participate in telework are responsible for:</p><ul><li>
+          the costs of maintaining the teleworkplace (such as insurance, heat,
+          and hydro);
+        </li><li>
+          ensuring that a telework arrangement is in accordance with the
+          municipal zoning regulations and in accordance with the employee's residential lease, if applicable;
+        </li><li>
+          adequately equipping the teleworkplace from a safety and health point
+          of view;
+        </li><li>
+          respecting the terms and conditions of employment, relevant collective
+          agreements, legislation, and Treasury Board and departmental policies, at the telework place; and
+        </li><li>
+          using supplies, equipment and electronic networks belonging to the
+          employer only for the purposes of carrying out the employer's work unless otherwise authorized by the deputy head.
+        </li></ul><p>
+        Departments shall encourage employees to consult their bargaining agent before undertaking a telework arrangement.
+        Employees shall be encouraged to share the details of the arrangement with their bargaining agent.
+      </p></chapter><chapter anchor="8" title="Accountability and Monitoring"><p>
+        In order to create and sustain a work environment that promotes and encourages work-life balance there is a
+        requirement for deputy heads to implement effective and efficient human resource practices such as accommodating
+        telework requests, where it is economical and operationally feasible to do so. Departments must periodically evaluate
+        the implementation of this policy to ensure it contributes to the well-being of their organizations and be able to
+        demonstrate that teleworking arrangements comply with the conditions outlined in this policy. Treasury Board may
+        undertake to monitor the effectiveness of this policy by measuring its use, benefits to organizations and adherence to
+        the policy requirements.
+      </p></chapter><chapter anchor="9" title="References"><p><em>Canada Labour Code</em></p><p><em>Canadian Human Rights Act</em></p><p><em>Conflict of Interest and Post-Employment (Treasury Board Policy)</em></p><p><em>Employment Equity Act</em></p><p><em>Employment Equity Policy (Treasury Board)</em></p><p><em>Government Employee Compensation Act</em></p><p><em>Isolated Posts and Government Housing Directive (Treasury Board)</em></p><p><em>Official Language Policies</em></p><p><em>Performance Review and Employee Appraisal (Treasury Board Policy)</em></p><p><em>Provision of Accommodation for Employees with Disabilities (Treasury Board Policy)</em></p><p><em>Public Service Staff Relations Act</em></p><p><em>Relevant collective agreements</em></p><p><em>Relocation Directive (Treasury Board)</em></p><p><em>Security Policy (Treasury Board)</em></p><p><em>Staff Relations – Strikes (Treasury Board Policy)</em></p><p><em>Terms and Conditions of Employment (Treasury Board Policy)</em></p><p><em>Travel Directive (Treasury Board)</em></p><p><em>Use of Electronic Networks (Treasury Board Policy)</em></p></chapter><chapter anchor="10" title="Enquiries"><p>
+        Enquiries relating to this policy should be referred to the responsible officer designated in
+        departmental/organizational headquarters, who in turn may direct questions regarding interpretation to the Human
+        Resources Branch of the Treasury Board of Canada Secretariat.
+      </p></chapter></chapters></doc>

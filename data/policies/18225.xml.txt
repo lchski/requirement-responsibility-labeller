@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Policy on Investment Planning - Assets and Acquired Services" documentID="18225" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><notetoreader><ol class="lst-spcd"><li>The <em>Policy on Investment Planning: Assets and  Acquired Services</em> will be rescinded on October 11, 2019. It will  be replaced by the <em>Policy on the Planning  and Management of Investments</em>.</li><li>In June 2007, Treasury Board Ministers approved the <em>Policy
+		on Investment Planning</em>.  This policy replaces the <a href="/pol/doc-eng.aspx?id=12039"><em>Policy
+		on Long-term Capital Plans</em></a> for departments and agencies as
+		defined in Section 2 of the <a href="http://laws-lois.justice.gc.ca/fra/lois/F-11/"><em>Financial Administration Act</em></a>.
+		This policy is a significant change in how government carries out investment
+		planning. As a result, Treasury Board Secretariat (TBS) has adopted a phased
+		implementation approach that began with a group of departments that agreed to
+		participate in an 18-month pilot. Following this pilot, groups of departments
+		will be brought on board so that, by April 1, 2012, all departments and agencies will have the systems and processes in place to meet the policy requirements. 
+		In addition, based on lessons learned through the pilot, amendments to the<em>
+		Policy on Investment Planning </em>were approved and the 2009 version of
+		the policy effective December 10, 2009 was adopted.</li></ol></notetoreader><chapters><chapter anchor="1" title="1. Effective date"><p>1.1 This policy is effective as of December 10, 2009.</p><p>1.2 It replaces the 2007 version of the Treasury Board <a href="/pol/doc-eng.aspx?id=12037"><em>Policy on Investment Planning - Assets and Acquired Services</em></a>
+ and the Treasury Board <a href="/pol/doc-eng.aspx?id=12039"><em>Policy
+on Long-term Capital Plans</em></a>.</p><p>1.3 The transition period for the policy requirements began on April 1, 2007 and terminates on April 1, 2012. </p></chapter><chapter anchor="2" title="2. Application"><p>2.1 This policy applies to all departments as defined in section 2 of the 
+<a href="http://laws-lois.justice.gc.ca/fra/lois/F-11/"><em>Financial Administration Act</em></a>, unless specific acts or regulations override it.</p><p>2.2 The provisions in sections
+6.2.2 and 7.1 relating to the role of the Treasury Board Secretariat in
+monitoring compliance and directing measures to be taken in response to
+non-compliance do not apply with respect to the Office of the Auditor General,
+the Office of the Privacy Commissioner, the Office of the Information
+Commissioner, the Office of the Chief Electoral Officer, the Office of the
+Commissioner of Lobbying, the Office of the Commissioner of Official Languages
+and the Office of the Public Sector Integrity Commissioner.  The deputy heads
+of these organizations are solely responsible for monitoring and ensuring
+compliance with this policy within their organizations, as well as for
+responding to cases of non-compliance in accordance with any Treasury Board
+instruments providing principles and guidance on the management of compliance. 
+When seeking Treasury Board approval of investment plans as required under
+section 6.1.4, the deputy heads of these organizations shall provide the
+Treasury Board Secretariat with any information required for this purpose.  </p></chapter><chapter anchor="3" title="3. Context"><p>3.1 Departmental investment planning is the function of
+allocating and reallocating resources to new and existing assets and acquired services
+that are essential to program delivery. Departmental investment planning is a
+key element in achieving value for money and sound stewardship.</p><p>3.2 Effective investment planning ensures resources are
+allocated in a manner that clearly supports program outcomes and government
+priorities, and is characterized as being:</p><ul><li>Essential and responsive to government priorities and effective program delivery;</li><li>Affordable, productive and financially sustainable;</li><li>Reflective of an appropriate balance of risk, benefits and return between the Crown and third parties;</li><li>Safe, secure and compliant with relevant laws, regulations and policies, and codes of conduct;</li><li>Protective of Canadian heritage and the environment;</li><li>Reflective of departmental, portfolio, horizontal and government-wide perspective while taking into account strategic government-wide initiatives, as appropriate.</li></ul><p>3.3 Investments in assets and acquired services have
+significant strategic, public policy, operational, risk and financial
+implications. Investment planning is founded in an effective regime for
+planning, decision-making and governance. It underpins a department's ability to manage investments of highest priority and greatest risk to the government.</p><p>3.4 Deputy heads are responsible for the effective management
+of the investment planning function within their departments.  Effective
+management includes developing a departmental investment plan, exercising
+oversight in the implementation of the investment decisions and ensuring
+appropriate, ongoing measurement of investment performance. This responsibility
+will include the provision of ongoing advice to ministers on their investment
+plans, prior to Treasury Board consideration and at least annually thereafter.  This advice
+would flag substantive changes if any, affecting content, capacity,
+performance, resource allocation and/or the requirement for Treasury Board approvals.  </p><p>3.5 This policy is issued pursuant to section 7 of the <a href="http://laws-lois.justice.gc.ca/fra/lois/F-11/"><em>Financial
+Administration Act</em></a>.</p><p>3.6 This policy reflects the principles set out in the <a href="/pol/doc-eng.aspx?id=12022"><em>Policy
+Framework for the Management of Assets and Acquired Services</em></a> and is implemented in conjunction with related
+Treasury Board policies governing assets and acquired services. These include
+the <a href="/pol/doc-eng.aspx?id=18229"><em>Policy on the Management of Projects</em></a>, the
+<em>Policy on Managing Procurement</em>, the <a href="/pol/doc-eng.aspx?id=12042"><em>Policy
+on Management of Real Property</em></a>, and the <a href="/pol/doc-eng.aspx?id=12062"><em>Policy
+on Management of Materiel</em></a>.</p><p>3.7 Treasury Board has delegated to the Secretary of the
+Treasury Board of Canada the authority to issue such operational directives,
+standards and guidelines as necessary to support this policy except with
+respect to the powers or functions of the President of the Treasury Board or
+the Secretary of the Treasury Board.</p></chapter><chapter anchor="4" title="4. Definitions"><dl><dt>4.1 <strong>Acquired services</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>services acquis</em></span>)</dt><dd>Services obtained through formal arrangements, such as contracts, memorandum of understanding and letters of agreement, to support internal or external clients or stakeholders in achieving specific outcomes.</dd><dt>4.2 <strong>Assets</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>actifs</em></span>)</dt><dd>Are tangible and intangible items of value that have a future life beyond one year, whether they are Crown-owned, -leased or accessed through other arrangements.</dd><dt>4.3 <strong>Investment</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>investissement</em></span>)</dt><dd>Is the use of resources with the expectation of a future return, such as an increase in output, income or assets, or the acquisition of knowledge, or capacity.</dd></dl><p>Please refer to the Treasury Board Secretariat's <a href="/pol/doc-eng.aspx?id=17660"><em>Guide to Investment
+Planning – Assets and Acquires Services</em></a> and the <em>Investment Planning and Management of Projects Glossary</em> for more information and examples.</p></chapter><chapter anchor="5" title="5. Policy statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this policy is to contribute to the
+achievement of value for money and sound stewardship in government program
+delivery through effective investment planning. Effective investment planning
+should ensure a diligent and rational manner of resource allocation for both
+existing and new assets, and for acquired services, within departmental
+reference levels.</p></section><section anchor="5.2" title="5.2 Expected results"><p>Investment planning supports departmental, portfolio,
+horizontal and government-wide priorities, considers areas of highest risk,
+serves program outcomes, and supports sustainable development and broader
+social and economic objectives.</p></section></chapter><chapter anchor="6" title="6. Policy requirements"><section anchor="6.1" title="6.1 Deputy head"><p>Deputy heads are responsible for ensuring that:</p><p>6.1.1 Investment planning, in terms of governance, systems and
+people, is in place and maintained.</p><p>6.1.2 Departmental investment planning:</p><ul><li>Is influenced by and supports departmental strategic planning;</li><li>Incorporates a departmental, portfolio, horizontal and
+	government-wide perspective and takes into account strategic government-wide
+	initiatives;</li><li>Is aligned with outcomes as set out in the department's <em>Management Resources and Results Structure</em> and considers areas of greatest risk in
+	achieving departmental objectives;</li><li>Is influenced by an assessment of investment performance;</li><li>Considers alternative and innovative options for meeting assets
+	and service requirements, including internal and external delivery models and a
+	range of instruments;</li><li>Is within reference levels; and</li><li>Takes into account the whole-of-life cost of stewardship based on
+	the life cycle of assets and acquired services.</li></ul><p class="indent1">6.1.2.1 To ensure the effective consideration of all suitable options, including a public-private partnership (P3), all infrastructure investments creating an asset with a lifespan of at least 20 years, and having capital costs of $100 million or more, will be subjected to a P3 screen, in consultation with PPP Canada. Should the assessment conclude that there is P3 potential, departments will be required to develop a P3 option among possible options.</p><p>6.1.3 Information systems are in place that support planning,
+budgeting and accounting for resource allocation and which enable performance
+measurement and reporting related to the management of departmental
+investments.</p><p>6.1.4 The department's investment plan is submitted at least
+every three years to TBS.  If requested by TBS, the plan is to be submitted to
+Treasury Board Ministers for approval.  TBS' decision will be based on the
+consideration of a number of factors including the significance
+and risk of an organization's planned investments, the organization's
+management performance established through appropriate
+management accountability mechanisms and other
+monitoring activities, and the magnitude of changes in planned investments or
+capacity to deliver.</p><p>6.1.5 TBS is consulted in determining the investments to highlight
+in the departmental investment plan. </p><p>6.1.6 A departmental investment plan is developed to address
+those elements described in TBS guidance and complies with the Treasury Board <a href="/pol/doc-eng.aspx?id=21252"><em>Standard for
+Organizational Project Management Capacity</em></a>; and the <a href="/pol/doc-eng.aspx?id=21261"><em>Standard for Project
+Complexity and Risk</em></a>.</p><p>6.1.7 TBS is advised, in a timely manner, of any significant
+deviations from the departmental investment plan. If requested by TBS, the
+departmental investment plan must be revised and submitted to TBS.</p><p>6.1.8 Key federal stakeholders are informed of the
+department's planned investments including, but not limited to, central
+agencies, relevant socio-economic departments, common service providers, and PPP Canada for public-private partnerships.</p></section><section anchor="6.2" title="6.2 Monitoring and reporting requirements"><p>6.2.1 Deputy heads are responsible for monitoring and
+reporting on investment planning within their department. More specifically,
+deputy heads are responsible for ensuring that:</p><ul><li>Performance relative to the obligations under this policy is
+	measured and documented.</li><li>The effectiveness of the investment-planning regime is reviewed
+	on an ongoing basis, consistent with the department's risk-based audit
+	planning.</li><li>The implementation of departmental investment plans, approvals
+	and resourcing decisions is monitored.</li><li>Investment planning is appropriately reflected in the Report on
+	Plans and Priorities and Departmental Performance Report.</li></ul><p> 6.2.2 The Treasury Board Secretariat is responsible for:</p><ul><li>Assessing each department's performance in the management of its
+	investment planning. TBS does this through ongoing dialogue and committee work
+	with departments, as well as by reviewing departmental investment plans and
+	submissions. The Secretariat also takes note of audits and reviews conducted by
+	departments or the Auditor General of Canada.</li><li>Reviewing the effectiveness of the policy at the five-year mark
+	of its implementation and ensuring that an evaluation is conducted when supported by a risk-based analysis.</li></ul></section></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 Based on the assessment of departmental planning
+performance, Treasury Board Secretariat will make appropriate recommendations
+to the deputy head of a department or to Treasury Board Ministers.  Consequences
+of non-compliance can range from informal requests from TBS, and audits to
+formal direction on corrective measures including any measure allowed by the <a href="http://laws-lois.justice.gc.ca/fra/lois/F-11/"><em>Financial
+Administration Act</em></a> that the Treasury Board would determine as
+appropriate and acceptable in the circumstances.</p></chapter><chapter anchor="8" title="8. References"><h3>Legislation</h3><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/"><em>Financial Administration Act</em></a></li></ul><h3>Related Treasury Board policies and documents</h3><ul><li><em>Policy Framework for the Management of Assets and Acquired Services</em></li><li><a href="/pubs_pol/opepubs/tb_b4/asd-dmps-eng.asp"><em>Policy on Alternative Service Delivery</em></a></li><li><a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12254"><em>Integrated Risk Management Framework</em></a></li><li><a href="/pol/doc-eng.aspx?id=12755"><em>Policy on Management of Information Technology</em></a></li><li><em>Management, Resources, and Results Structure Policy</em></li><li><a href="/pol/doc-eng.aspx?id=12165"><em>Policy on Delegation of Authorities</em></a></li><li><a href="/pol/doc-eng.aspx?id=12340"><em>Policy on Internal Audit</em></a></li><li><a href="/pol/doc-eng.aspx?id=14494"><em>Contracting Policy</em></a></li><li><a href="/pol/doc-eng.aspx?id=12042"><em>Policy on Management of Real Property</em></a></li><li><a href="/pol/doc-eng.aspx?id=12062"><em>Policy on Management of Materiel</em></a></li><li><em>Policy on Managing Procurement <a href="#fn1" id="fnr1" title="See Footnote">*</a></em></li><li><a href="/pol/doc-eng.aspx?id=18229"><em>Policy on the Management of Projects</em></a></li><li><a href="/pol/doc-eng.aspx?id=21252"><em>Standard for Organizational Project Management Capacity</em></a></li><li><a href="/pol/doc-eng.aspx?id=21261"><em>Standard for Project Complexity and Risk</em></a></li><li><em>Procurement Administrative Directive<a href="#fn1" title="See Footnote">*</a></em></li><li><em>Directive on Management of Information Technology<a href="#fn1" title="See Footnote">*</a></em></li><li><a href="/pol/doc-eng.aspx?id=25576"><em>Guideline to Implementing Budget 2011 Direction on Public-Private Partnerships</em></a></li></ul><h3>Further information</h3><p>Treasury Board Secretariat will maintain up-to-date
+information on best practices on its website. Additional background information
+supporting the implementation of the policy will also be available on the
+Treasury Board Secretariat's website.</p></chapter><chapter anchor="9" title="9. Enquiries"><p>Please direct enquiries about this policy instrument to the organizational unit in your department responsible for this subject matter. For interpretation of this policy instrument, the responsible organizational unit should contact: <a href="/contact/contact-eng.aspx#enquiries">TBS Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix - Content of Investment Plans"><p>The departmental investment plan is a
+high-level strategic document that defines the direction, capacity and
+commitments of a department with respect to its investment in assets and
+acquired services. The plan must clearly set out departmental priorities and
+strategies for the upcoming five-year period, and outline a three-year
+investment function that meets the needs of the department within available
+resources<strong>. </strong> Plans must also include sufficient information on planned
+projects to support an informed decision by Treasury Board Ministers as to
+which projects would warrant their consideration over the planning horizon.</p><p>The investment plan must demonstrate that a
+strong regime for planning, decision-making and governance exists, which is the
+basis for Treasury Board approval of a department's expenditure authority.
+Departments need to demonstrate investment planning capacity and the risk and
+complexity of investment-based projects within the investment period.</p><p>A good investment plan must, at a minimum,
+cover the following representative categories of information.</p><h3>Introduction</h3><p>A series of statements addressing the
+purpose, scope and objectives of planned investments.</p><h3>Departmental context</h3><ul><li>An explanation of the department's mandate, including relevant historical data, and the contribution of investments and acquired
+	services to program outcomes.</li><li>High-level profile of the existing portfolios of
+	assets and acquired services in support of program activity, including asset
+	value and an assessment of responsiveness to requirements (i.e., issues, risks
+	and opportunities).</li></ul><h3>Direction, Capacity and Commitment</h3><ul><li>An assessment of previously planned investments
+	against intended results, including an overview of lessons learned, challenges
+	to and opportunities for improving elements of the investment planning
+	framework and organizational planning and resourcing capacity.</li><li>Demonstration of the planning framework,
+	including: governance structures and processes for planning, approving and
+	resourcing investments; priority determination criteria and process;
+	integration of information systems; and a description of controls and
+	monitoring regime.</li><li>Description of the planning cycle, including
+	linkage to the department's strategic planning.</li><li>The presentation of key departmental priorities
+	and strategies over a five-year investment horizon demonstrating consideration
+	of portfolio, horizontal and government-wide objectives and priorities, as well
+	as a clear link to departmental program activities and outcomes.</li><li>An explanation of the department's risk management approach to investment planning, including the identification of areas of
+	greatest risk to program integrity, risk mitigation strategies and residual
+	risk.</li></ul><p>Descriptive information is provided on
+planned investments with elaboration for those investments in assets or
+acquired services deemed to have significant strategic, public policy,
+operational, risk and financial implications for the department. Each planned
+investment, at a minimum, outlines: the total estimated cost of the investment,
+investment or procurement strategies, including the result of the P3 screen, when applied in accordance with this policy, and opportunities for achieving broader
+government objectives. Project investments need to be listed in a summary table
+consistent with the Standard for Organizational Project Management Capacity and
+the Standard for Project Complexity and Risk.</p><p>Information on the impacts of the proposed
+investment function is included and should detail:</p><ul><li>The existing portfolios of assets and services,
+	addressing performance improvement, as well as gaps, trade-offs and residual
+	risks;</li><li>The intended, broader short-, middle- and
+	long-term ability of the department to achieve outputs and outcomes; and</li><li>External clients and stakeholders, other
+	government departments, and the federal government as a whole.</li></ul><p>An overview of relevant financial
+information that covers the department's planned allocation and reallocation of
+existing reference levels to refresh and sustain existing assets and services
+is required. The overview is also required to fund new investments. The
+financial information is to be presented from the most appropriate perspectives
+including, but not limited to, by investment class and by program activity.</p></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="*" tooltip="Back to Footnote 1 Reference">
+		- Policy instruments or other documents referenced by title only and without links, are under development and not yet in effect. They will be published as they are approved.	
+	</footnote></footnotes></doc>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Workplace Fitness Program Policy" documentID="12612" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy objective"><p>To allow departments to establish workplace fitness programs.</p></chapter><chapter anchor="2" title="Policy statement"><p>Where there is significant employee interest and a reasonable cost option has
+been determined to the satisfaction of the deputy head, departments may sponsor
+work place fitness programs.</p></chapter><chapter anchor="3" title="Application"><p>This policy applies to voluntary fitness programs in departments and agencies
+listed under Schedule I, Part I, of the <em>Public Service Staff Relations Act</em>.</p></chapter><chapter anchor="4" title="Policy requirements"><p>Departments electing to sponsor work place fitness programs must:</p><ul><li>accept responsibility for the payment of all costs of the fitness program,
+including fit-up, operating and maintenance costs for the facilities associated
+with the program. In addition, departments that do not pay rent for their
+accommodation must pay to the custodian department providing their
+accommodation, the market value of the space dedicated to the fitness program.
+One time costs, and ongoing costs related to the space shall be paid directly to
+the custodian department in the first year. For the following years, an amount
+equivalent to the annual market value of the space utilized, including any
+associated operating costs, must be transferred to the custodian department
+through the MYOP process;</li><li>ensure that user fees cover, or recover, incremental operating costs (e.g.
+special maintenance and security, exercise equipment, insurance, instructor
+training, staff salaries, etc.) where these are significant;</li><li>ensure that work to set up facilities is authorized by custodian
+departments and any lease arrangement with third parties for space is made with
+custodian departments;</li><li>ensure that these programs meet reasonable safety guidelines (e.g. health history screening,
+consent forms indicating that participants accept the normal risks inherent in
+and incidental to fitness activities, competent instructors, the availability of
+first aid); and</li><li>ensure that commercial contractors, if any, have adequate liability
+insurance.</li></ul></chapter><chapter anchor="5" title="Monitoring"><p>Treasury Board Secretariat will periodically review the extent to which
+departments are respecting the requirements of this policy.</p></chapter><chapter anchor="6" title="References"><p>Risk Management policy<br />
+Policy on Indemnification of servants of the Crown <br />
+Volunteers policy<br />
+Claims policy</p></chapter><chapter anchor="7" title="Enquiries"><p>Enquiries about this policy should be directed to the responsible officers in
+departmental headquarters who, in turn, may seek interpretation from:</p><p>On general policy issues</p><div class="indent1"><address>
+    Safety, Health, Employee Benefits and Services Group<br />
+    Human Resources Management Division<br />
+    Human Resources Branch<br />
+    Treasury Board Secretariat
+  </address></div><p>On real property issues</p><div class="indent1"><address>
+    Real Property Management<br />
+    Comptrollership Branch<br />
+    Treasury Board Secretariat
+  </address></div><p>On financial issues</p><div class="indent1"><address>
+    Expenditure &amp; Management Strategies Sector<br />
+    Treasury Board Secretariat
+  </address></div><p>On risk management issues</p><div class="indent1"><address>
+    Risk Procurement and Asset Management Policy Sector<br />
+    Comptrollership Branch<br />
+    Treasury Board Secretariat
+  </address></div></chapter></chapters></doc>

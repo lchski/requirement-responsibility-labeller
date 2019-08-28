@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Framework for the Management of Risk" documentID="19422" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective Date"><p>The Framework for the Management of Risk (the Framework) is effective as of August 27, 2010.</p><p>The Framework will be supported by learning resources, which will replace the Treasury Board 
+<em>Integrated Risk Management Framework</em> (2001) and the <em>Integrated Risk Management Implementation Guide</em> (2004)<em>. </em></p></chapter><chapter anchor="2" title="2. Context"><p>In a dynamic and complex public sector context, risk management plays a significant
+role in strengthening government capacity to recognize, understand, accommodate
+and capitalize on new challenges and opportunities.  Effective risk management
+equips federal government organizations to respond actively to change and
+uncertainty by using risk-based information to enable more effective decision-making. 
+In turn, increased capacity and demonstrated ability to assess, communicate and
+manage risk builds trust and confidence, both within the government and with
+the public.</p><p>For the Government of Canada to continually improve the way it delivers services to
+Canadians, it is important that its management regime fosters flexibility, seeks
+opportunity and focuses on results.  Integral to such a regime is effective
+risk management. The principles-based approach to risk management articulated
+in this Framework provides the flexibility to departments and agencies to tailor
+management solutions to their mandate and objectives. In addition, it enables
+strategic, risk-informed oversight and less transactional involvement of the Treasury
+Board and Treasury Board Secretariat in supporting department and agency
+management initiatives.  </p><p>In
+order to foster this type of risk-informed culture and capacity to fully
+realize performance improvements within federal organizations, strengthened
+risk management approaches must be reflected across all business practices. 
+Failure to effectively manage risks can result in increased program costs and
+missed opportunities, which can compromise program outcomes, and ultimately
+public trust.  In contrast, sound risk management is fundamental to effective
+public administration as it can lead to a more effective, results-based, and
+high performance government. Key terminology related to risk management is
+defined in 
+<a href="#appA">Appendix A</a>.</p></chapter><chapter anchor="3" title="3. Linkages to Other Treasury Board Instruments"><p>As one of the three
+core frameworks guiding Treasury Board policies and management instruments, the
+<em>Framework for the Management of Risk</em> provides Deputy Heads with
+principles to embed risk management as a critical element in all areas of work,
+at all levels of their organization.  The risk management principles outlined
+in this Framework complement the conceptual model for policy renewal set out in
+the <a href="/pol/doc-eng.aspx?id=13616">Foundation
+Framework for Treasury Board Policies</a> as well as the considerations for
+managing compliance identified in the <a href="/pol/doc-eng.aspx?id=17151">Framework for the
+Management of Compliance</a>.</p><p>The <em>Framework for
+the Management of Risk</em> outlines the risk management principles to guide Deputy
+Heads in the effective management of their organizations in all areas of work,
+including policy and program implementation. These principles apply to all
+Treasury Board policies, including the individual policies of the renewed
+Treasury Board Policy Suite, and guide the Treasury Board Secretariat in its
+policy development, enabling and oversight roles. These three core Frameworks
+are put in place to enable more effective management of federal organizations
+by promoting accountability, transparency and supporting risk-informed decision-making,
+which is recognized as a leading management practice.</p><p>Specifically, the principles contained in the <em>Framework for the Management of Risk</em> have
+shaped the design and choice of implementation approaches for particular Treasury Board policies 
+(e.g. Policy on Internal Audit, Policy on Internal
+Control, Policy on Transfer Payments, Policy on Investment Planning), and will
+continue to be refined and adjusted based on emerging trends and lessons
+learned from their implementation.</p><p>Key linkages with other
+Treasury Board instruments are outlined in 
+<a href="#appB">Appendix B</a>. The current list of
+Treasury Board policies can be found on the Secretariat's web site.</p></chapter><chapter anchor="4" title="4. Purpose"><p>The purpose of this Framework is to
+provide guidance to Deputy Heads on the implementation of effective risk
+management practices at all levels of their organization. This will support
+strategic priority setting and resource allocation, informed decisions with
+respect to risk tolerance, and improved results.</p><p>To achieve this
+purpose, the Framework provides principles and guidance for Deputy Heads to
+consider in their role as leaders of sound risk management practices and risk
+management integration within their organizations. For the purposes of the
+Framework, departments and agencies are those defined in section 2 of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial
+Administration Act</a></em>. </p><p>Effective
+risk management, supported by this Framework, and associated learning resources,
+will enable Deputy Heads to:</p><ul><li>Identify and explain different types of risks at all levels of their organization and how they can 
+	be managed;</li><li>Provide guidance on setting risk tolerance levels and making decisions informed by considerations 
+	of risk and mitigation strategies, including who should be involved; </li><li>Support learning opportunities in their organization, including informal and formal risk management 
+	practices that respond to the needs and culture of their organizations; </li><li>Lead by example by embedding risk management principles and practices in the management of their 
+	organization; and</li><li>Align their risk management practices with other Treasury Board management practices and policies.</li></ul></chapter><chapter anchor="5" title="5. Principles"><p>The following risk management principles inform the development of, and apply to, all Treasury Board 
+policy instruments, some of which have embedded risk management requirements specific to their policy coverage.  These
+principles are grounded in federal public service values and ethics, and guide and underpin effective risk 
+management across the federal government. The principles support Deputy Heads, and their departments and 
+agencies, in taking risk-informed approaches to management decisions and in demonstrating and verifying that
+risks are successfully identified, assessed and managed within their respective organizations.</p><p>To that end, effective risk management in the federal government should:</p><ul><li>support government-wide decision-making and priorities as well as the achievement of organizational 
+	objectives and outcomes, while maintaining public confidence;</li><li>be tailored and responsive to the organization's external and internal context including its 
+	mandate, priorities, organizational risk culture, risk management capacity, and partner and stakeholder 
+	interests;</li><li>add value as a key component of decision-making, business planning, resource allocation and
+	operational management;</li><li>achieve a balance between the level of risk responses and established controls and
+	support for flexibility and innovation to improve performance and outcomes;</li><li>be transparent, inclusive, integrated and systematic; and</li><li>continuously improve the culture, capacity and capability of risk management in federal
+	organizations.</li></ul><p>In addition, Treasury Board policy instruments and associated oversight activities are aligned with the 
+above and also guided by the following principles: </p><ul><li>Treasury Board policy instruments should target risks linked to achieving federal government 
+	management objectives;</li><li>these instruments should be proportional to the degree of impact and likelihood of the risks 
+	identified; and</li><li>oversight should be adjusted to correspond to an organization's demonstrated capacity for managing 
+	risk, where circumstances permit.</li></ul><p>Learning resources to support the practical application of these principles by departments and agencies, 
+including the 2010 <em>Guide to Integrated Risk Management</em>, are available on the Treasury Board
+Secretariat's web site.</p></chapter><chapter anchor="6" title="6. Roles and Responsibilities"><section anchor="6.1" title="Deputy Heads"><p>Deputy Heads are responsible for managing their organization's risks by leading the implementation of 
+effective risk management practices, both formal and informal. In doing so, Deputy Heads are encouraged to 
+apply the principles outlined above in section 5. </p><p>A key role of the Deputy Head is to ensure that risk management principles and practices are understood 
+and integrated into the various activities of their organization.  Deputy Heads are also responsible for 
+monitoring risk management practices in their organizations, as well as considering risks that arise when 
+partnering with organizations within and external to the federal public service.  This includes ensuring 
+that issues affecting the organization's risk management approach, whether identified through assessments or 
+internal and external monitoring, are examined, reviewed and addressed effectively. </p><p>In addition, Deputy Heads play an important role in creating a learning environment that promotes 
+continuous improvement in risk management competencies and capacity within their organization. Through their 
+leadership, Deputy Heads foster a risk-informed organizational culture that supports risk-informed 
+decision-making, enables dialogue on risk tolerance, focuses on results and enables the consideration of both opportunity and innovation.</p></section><section anchor="6.2" title="Treasury Board and Treasury Board of Canada Secretariat (Secretariat)"><p>A key element of the Treasury Board's role, as well as the role of its Secretariat, is to encourage 
+management excellence in government through leadership, guidance, monitoring, review and oversight, 
+pursuant to the authority given in the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial
+Administration Act</a>.</em></p><p>To fulfill this role in the domain of risk management, the Treasury Board and the Secretariat provide 
+guidance, tools and expertise to support departments and agencies in implementing a risk-informed approach 
+to management.  This also includes performing a leadership role by sharing information and fostering good practices on risk
+management and risk-informed approaches.</p><p>The Secretariat also monitors and assesses departmental and agency performance on
+risk management through such means as the Management Accountability Framework,
+and reviews of internal and external audits.  These assessments may be used to
+inform discussions between the Secretary of the Treasury Board and Deputy Heads.</p><p>Evidence
+that a federal department or agency has effective risk management practices in
+place may lead to Treasury Board and Secretariat oversight being adjusted to an
+organization's capacity for managing risk, where circumstances permit. Conversely,
+ineffective risk management may lead to additional controls and oversight.  Where
+necessary, the Secretariat may encourage deputy heads to
+undertake appropriate remedial measures in support of their responsibilities
+for the monitoring of risk management within their organization.</p></section></chapter><chapter anchor="7" title="7. Enquiries"><p>All
+enquiries regarding this Framework, as well as its supporting guides and tools,
+should be directed to:</p><p>Email: <a href="mailto:publicenquiries-demandesderenseignement@tbs-sct.gc.ca">TBS Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="APPENDIX A - DEFINITIONS"><dl><dt><strong>Integrated risk management</strong></dt><dd>is a continuous, proactive and systematic process to understand, manage and communicate risk from an organization-wide perspective. It is about supporting strategic decision-making that contributes to the achievement of an organization's overall objectives.</dd><dt><strong>Opportunity</strong></dt><dd>is a time, condition, event, or set of circumstances permitting, or favourable, to a particular action or purpose.</dd><dt><strong>Residual risk</strong></dt><dd>is the remaining level of risk after taking into consideration risk mitigation measures and controls in place.</dd><dt><strong>Risk</strong></dt><dd>refers to the effect of uncertainty on objectives. It is the expression of the likelihood and impact of an event with the potential to affect the achievement of an organization's objectives.</dd><dt><strong>Risk-informed approach</strong></dt><dd>to management builds risk management into existing governance and organizational structures, including business planning, decision-making and operational processes. It also ensures that the workplace has the capacity and tools to be innovative while protecting the public interest and maintaining public trust.</dd><dt><strong>Risk management</strong></dt><dd>is a systematic approach to setting the best course of action under uncertainty by identifying, assessing, understanding, making decisions on and communicating risk issues.</dd><dt><strong>Risk response</strong></dt><dd>refers to the continuum of measures of risk mitigation or control that are developed and implemented to address an identified risk.</dd><dt><strong>Risk tolerance</strong></dt><dd>is the willingness of an organization to accept or reject a given level of residual risk (exposure). Risk tolerance may differ across the organization, but must be clearly understood by the individuals making risk-related decisions on a given issue. Clarity on risk tolerance at all levels of the organization is necessary to support risk-informed decision-making and foster risk-informed approaches.</dd><dt><strong>Uncertainty</strong></dt><dd>is the state, even partial, of deficiency of information related to understanding or knowledge of an event, its consequence, or likelihood.</dd></dl></appendix><appendix anchor="B" title="APPENDIX B - RELATED LEGISLATION, GUIDES, TOOLS AND POLICY INSTRUMENTS"><h3>Legislation</h3><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration Act</a></em></li></ul><h3>Related Guides, Tools and Policy Instruments</h3><h3>Guides and Tools </h3><p><em>The 2010 TBS Guide to Integrated Risk Management and other
+risk management guides and tools, will be available on the Treasury
+Board Secretariat's web site.</em></p><h3>Policy Instruments</h3><p>The Framework for the Management of Risk is a core element of the Treasury Board Policy
+Suite. As such, it needs to be considered along with the two other core frameworks: </p><ul><li><a href="/pol/doc-eng.aspx?id=13616">Foundation Framework for Treasury Board Policies</a></li><li><a href="/pol/doc-eng.aspx?id=17151">Framework for the Management of Compliance</a></li></ul><p>While the <em>Framework for the Management of Risk</em> does not have directly
+associated policies, the principles contained herein take form through embedded
+risk management requirements across the renewed Policy Suite.  Key examples are
+provided below, as they relate to the areas of management responsibility covered by the Policy Suite.</p><h4>Financial Management</h4><ul><li><a href="/pol/doc-eng.aspx?id=15258">Policy on Internal Control</a></li></ul><h4>Governance and Expenditure Management</h4><ul><li><a href="/pol/doc-eng.aspx?id=16484">Policy on Internal Audit</a></li><li><a href="/pol/doc-eng.aspx?id=13525">Policy on Transfer Payments</a></li></ul><h4>Management of Assets and Acquired Services</h4><ul><li><a href="/pol/doc-eng.aspx?id=18225">Policy on Investment Planning – Assets and Acquired Services</a></li><li><a href="/pol/doc-eng.aspx?id=18229">Policy on the Management of Projects</a></li></ul><h4>Departmental Audit Committees</h4><ul><li><a href="/pol/doc-eng.aspx?id=16486">Directive on Departmental Audit Committees</a></li></ul><h4>Information Management / Information Technology</h4><ul><li><a href="/pol/doc-eng.aspx?id=12452">Policy Framework for Information and Technology</a></li><li><a href="/pol/doc-eng.aspx?id=12754">Directive on Information Management Roles and Responsibilities</a></li></ul></appendix></appendices></doc>

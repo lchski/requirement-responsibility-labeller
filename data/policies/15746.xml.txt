@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="TBITS 06.9: Canadian Open Systems Application Criteria (COSAC), Telecommunications wiring system in Government-Owned and leased buildings - Implementation Criteria" documentID="15746" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Reference"><section anchor="1.1" title="1.1 Name"><ul><li>Telecommunications Wiring System in Government-Owned and Leased Buildings</li></ul></section><section anchor="1.2" title="1.2 Identifier"><ul><li>TBITS-6.9</li></ul></section><section anchor="1.3" title="1.3 Category"><ul><li>Standard – Revised Dec. 1997</li></ul></section><section anchor="1.4" title="1.4 Effective Date"><ul><li>Immediately Upon Publication</li></ul></section><section anchor="1.5" title="1.5 Approving Authority"><ul><li>Treasury Board of Canada (TB 817649)</li></ul></section><section anchor="1.6" title="1.6 Maintenance Authority"><ul><li>Information Technology Management</li><li>Treasury Board Secretariat (TBS)</li></ul></section><section anchor="1.7" title="1.7 Cross-Index"><ul><li>Federal Government OSI Policy (TB804928, March 1987)</li><li>Management of Information Technology Policy &amp; Guidelines, Information Management Volume, Treasury Board Manual, 1990</li><li>TBITS-6.1, Canadian Open Systems Application Criteria (COSAC) – Overview</li><li>TBITS-6.2, COSAC LAN Profile</li><li>"Generic Base-Building Telecommunications Cabling Infrastructure Normative References &amp; Generic Technical Criteria" (Public Works and Government Services Canada, March 1992).</li><li>CAN/CSA T529-95: "Telecommunications Cabling Systems in Commercial Buildings"</li><li>CAN/CSA T528-93: "Design Guidelines for Administration of Telecommunications Infrastructure in Commercial Buildings"</li><li>CAN/CSA T530-M90: "Building Facilities, Design Guidelines for Telecommunications"</li><li>CAN/CSA T527-94: "Grounding and Bonding for Telecommunications in Commercial Buildings"</li><li>TSB67: "Transmission Performance Specification for Field Testing of Unshielded Twisted Pair Cabling Systems"</li><li>TSB75: "Additional Horizontal Cabling Practices for Open Offices"</li><li>IEEE P1143/D7, "Guide on Shielding Practice for Low Voltage Cables" (Draft)</li><li>ISO/IEC 8802-3: 1996 [ANSI/IEEE Std 802.3, 1996 Edition], Information technology–Local and metropolitan area networks–Part 3: Carrier sense multiple access with collision detection (CSMA) access method and physical layer specifications.</li><li>IEEE Std. 802.3u-1995, Supplement to ISO/IEC 8802-3:1993, Local and Metropolitan Area Networks: Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units and Repeater for 100 Mbps Operation, Type 100BaseT</li><li>ISO/IEC 8802-5: [ANSI/IEEE Std 802.5-1995], Information Technology–Local and metropolitan area networks–Part 5: Token ring access method and physical layer specifications.</li><li>ISO/IEC 10038: 1993 [ANSI/IEEE Std 802.1D, 1993 Edition], Information technology–Telecommunications and information exchange between systems–Local area networks–Media access control (MAC) bridges.</li><li>IEEE Std. 802.12-1995, Demand Priority Access Method Physical Layer and Repeater Specifications for 100 Mbps Operation</li><li>af-phy-0015.000: "ATM Physical Medium Dependent Interface Specification for 155 Mbps over Twisted pair Cable"</li><li>af-phy-0040.000: "Physical Interface Specification for 25.6 Mbps over Twisted Pair"</li><li>af-phy-0046-000: "622.06 Mbps Physical Layer"</li><li>af-phy-0047-000: "155.52 Mbps Physical Layer Specification for Category 3 UTP"</li></ul></section></chapter><chapter anchor="2" title="2. Purpose"><p>This standard establishes the minimum requirements governing the telecommunications
+  wiring system used to provision voice, data, and video in government-owned and leased
+  buildings (hereinafter called 'federal buildings').</p><p>The standard provides a uniform, integrated approach to voice, data, and video
+  telecommunications wiring (or 'cabling') in all buildings occupied by federal
+  government departments and agencies. Its implementation will provide an advantageous
+  return on investment , maximize the timeliness of the management and administration of
+  moves, additions and changes of government personnel in the workplace, and reduce
+  incremental and costly physical additions to the cable plant over its lifetime.</p></chapter><chapter anchor="3" title="3. Application"><p>This standard is mandatory for all new federal buildings, and for retrofits of existing
+  ones. It prescribes requirements that provide a uniform, integrated approach to voice,
+  data, and video telecommunications wiring within federal buildings, and between them in
+  the case of campus environments. Additionally, installations must conform to the Canadian
+  Electrical Code, the National Building Code, and Provincial Building Codes as appropriate.</p></chapter><chapter anchor="4" title="4. Specifications"><p>With the exception of a number of restrictions and enhancements to better suit
+  government requirements, the following standards shall be used in the design,
+  installation, management and administration of telecommunications wiring systems in
+  government-owned and leased buildings: </p><ul><li>Canadian Standards Association standard CAN/<acronym title="Canadian Standards Association (CSA)">CSA</acronym> T529-95: "Telecommunications
+    Cabling Systems in Commercial Buildings"; </li><li>Canadian Standards Association standard CAN/<acronym title="Canadian Standards Association (CSA)">CSA</acronym>-T528-93: "Design Guidelines for
+    Administration of Telecommunications Infrastructure in Commercial Buildings"; </li><li>Canadian Standards Association standard CAN/CSA-T530-M90: "Building Facilities,
+    Design Guidelines for Telecommunications"; </li><li>Canadian Standards Association standard CAN/CSA-T527: "Grounding and Bonding for
+    Telecommunications in Commercial Buildings";</li></ul><p>Restrictions and enhancements are described in detail in Section 3, Specifications, of
+  the companion COSAC Profile. Of significance is that this standard recognizes only two
+  telecommunications media types: unshielded twisted pair cable, and optical fibre cable.</p></chapter><chapter anchor="5" title="5. Qualifications"><p>Unless expressly forbidden by local regulations which may take precedence over federal
+  ones, this standard is applicable throughout Canada.</p></chapter><chapter anchor="6" title="6. Implementation"><p>This standard will assist departments and agencies in establishing a clear preference
+  for non-proprietary, standards-based telecommunications wiring or cabling products and
+  services in government-owned and leased buildings.</p><p>The provisions of the standard are effective immediately upon publication.</p></chapter><chapter anchor="7" title="7. Government standards working group"><dl><dt>Bob Boucher</dt><dd>National Library of Canada</dd><dt>Alain Dutrisac</dt><dd>House of Commons (Sergeant-at-Arms)</dd><dt>Steve Hiltz</dt><dd>Transport Canada</dd><dt>Arnie Murray</dt><dd>Department of National Defence</dd><dt>Raymond Perrin</dt><dd>Public Works &amp; Government Services Canada</dd><dt>Judith Prindiville</dt><dd>National Archives Canada</dd><dt>Gilles Ravignat</dt><dd>Agriculture &amp; Agrifood Canada</dd><dt>Dan Rice</dt><dd>Statistics Canada Robert Scott House of Commons (ISD)</dd><dt>Raymond Siew</dt><dd>Human Resources Development Canada</dd><dt>Joe Van Beek</dt><dd>Government Telecommunications &amp; Informatics Services</dd></dl></chapter><chapter anchor="8" title="8. Where to Obtain Copies?"><p>This publication, and other TBITS:</p><ul><li><a href="/it-ti/itp-pti/its-nit-eng.asp">By Category</a></li><li><a href="/it-ti/itp-pti/its-nit-eng.asp">By TBITS Number</a></li></ul><address>
+ANSI documents<br />
+American National Standards Institute<br />
+430 Broadway<br />
+New York, NY, 10018<br />
+Tel: (212) 642-4900<br /><a href="http://www.ansi.org/default.aspx" title="ANSI documents">www.ansi.org</a></address><address>
+CSA documents<br />
+Canadian Standards Association<br />
+178 Rexdale Boulevard<br />
+Rexdale, Ontario, M9W 1R3<br />
+Tel: (416) 747-4044<br /><a href="http://www.csa.ca/default.asp?language=English" title="CSA documents">www.csa.ca</a></address><address>
+EIA and TIA documents<br />
+Global Engineering Documents Inc.<br />
+15 Inverness Way East<br />
+Englewood, CO 80112-5704<br />
+(800) 854-7179<br /><a href="http://www.cebus.org" title="EIA and TIA documents">www.cebus.org</a></address><address>
+IEEE documents<br />
+Institute of Electrical and Electronic Engineers<br />
+IEEE Service Centre<br />
+445 Hoes Lane, PO Box 1331<br />
+Piscataway, NJ 08855-1331<br />
+USA<br />
+Tel: (201) 981-0060
+</address></chapter></chapters></doc>

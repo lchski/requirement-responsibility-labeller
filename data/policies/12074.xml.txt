@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><doc title="Procurement Review Policy" documentID="12074" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PSI-Schema-HTML5-April2016.xsd"><notetoreader><p>The <em>Procurement Review Policy</em> will be  rescinded on October 11, 2019. </p></notetoreader><chapters><chapter anchor="1" title="Preface"><p>The policies, authorities and guidelines contained in the Government Contracts Regulations and in the "Contracting" volume 
+of the <em>Treasury Board Manual</em>, which apply to all government contracting activities, require procurement to be conducted 
+in a manner that will meet operational requirements in the most cost-effective manner and provide equal opportunity to tender.</p><p>The government has determined that its procurement activities should also be consistent with and supportive of such national 
+objectives as industrial and regional development, aboriginal economic development, the environment and other approved socio-economic 
+objectives.</p><p>To ensure that maximum benefit to Canada is achieved, therefore, the government has confirmed that all major federal 
+procurements will continue to be reviewed for industrial and regional development opportunities. The government has also 
+recognized that, in certain instances, special provisions may be necessary to develop regional economies and the Canadian 
+industrial base, as well as to support other national objectives.</p><p>The purpose of this procurement review policy is to provide an updated statement of the government’s procurement policy 
+objectives, to incorporate into the Treasury Board’s procurement management policies recent government initiatives in procurement 
+planning, and to ensure that procurement policy and processes support the achievement of the government’s objectives. More 
+particularly, this chapter:</p><ul><li>clarifies responsibilities for the development, implementation and monitoring of the government’s procurement review 
+  policy and processes, as well as for the review and approval of individual procurement strategies;</li><li>establishes a framework for the analysis and evaluation of proposals to use procurement as an instrument for industrial 
+  or regional development, that will: <ul><li>promote the use of procurement in a selective, judicious and cost-effective manner and</li><li>ensure that adequate information on the financial and socio-economic implications of procurement strategies are 
+    available to decision-making authorities; and</li></ul></li><li>modifies the present process for the review of individual procurements to ensure that the strategic direction given 
+  by ministers through the Canadian Annual Procurement Strategy (CAPS) process is effectively implemented and that procurement 
+  decisions are reviewed and analyzed in a manner that will optimize the achievement of all procurement objectives.</li></ul><p>Some of the more important elements of the revised process are:</p><ul><li>annual plans containing basic information on upcoming procurements (over $2M), to be submitted by operating departments 
+  to a Procurement Strategy Committee;</li><li>review of plans to identify those procurements, generally over $20M, for which consideration by a procurement review 
+  committee (PRC) is needed;</li><li>early notification to the Procurement Review Secretariat of procurements not in the plan, with individual review at 
+  the request of any committee member;</li><li>statement of expected benefits and monitoring plan to be prepared by the member requesting PRC review;</li><li>analysis of costs (including downstream costs) and risks where the operating department considers them significant 
+  (a detailed analysis of costs and benefits is not required where all parties agree that national objectives can be achieved 
+  with no material increase in cost or risk to the operating department);</li><li>Treasury Board approval of procurement strategies prior to release of the request for proposals where costs or risks 
+  are at issue, or where it is proposed to assign evaluation points to national objectives benefits; and</li><li>monitoring and reporting.</li></ul><p>A simplified chart of the process is attached as an annex to Appendix C.</p></chapter><chapter anchor="2" title="Policy objective"><p>The objective of the government’s procurement review policy is to enhance the use of procurement in support of industrial 
+and regional development and other national objectives in a manner that is fully consistent with the government’s approved 
+procurement objectives, and with Canada’s international commitments within the General Agreement on Tariffs and Trade (GATT), 
+the North American Free Trade Agreement (NAFTA) or other trade rights and obligations. The government’s approved procurement 
+objectives are in descending order of priority:</p><ul><li>the pre-eminence of operational requirements, competition, fairness and accessibility as major policy cornerstones 
+  of the federal procurement process;</li><li>long-term industrial and regional development; and</li><li>other national objectives.</li></ul></chapter><chapter anchor="3" title="Policy statement"><p>The government has confirmed that all procurements in excess of $2 million must be reviewed for potential regional and 
+industrial benefits. To ensure that this review is carried out in an efficient and cost-effective manner, and in recognition 
+of the diverse interests involved, Treasury Board has established an interdepartmental procurement review process applying 
+to all such procurements.</p><p>The major elements of the process, which is described in Appendix C, are:</p><ul><li>departmental short-range acquisition plans covering all goods and services contracts over $2M;</li><li>two levels of committees: 
+  	<dl class="mrgn-lft-sm"><dt><strong>Procurement Strategy Committee (PSC):</strong></dt><dd>a senior interdepartmental committee chaired by Public Works 
+    and Government Services Canada (PWCSC), that will review departmental plans, identify individual or aggregated procurements 
+    requiring individual review, and provide general guidance to the review committees;</dd><dt><strong>review committees:</strong></dt><dd>to review and recommend procurement strategies for individual procurements, 
+    or groups of procurements, normally only for those procurements exceeding $20M, in accordance with the Procurement Strategy 
+    Committee’s general direction;</dd></dl></li></ul><p>The terms of reference and the membership of these committees may be found in Appendix B; and</p><ul><li>an evaluation framework against which proposals to use procurement in support of industrial and regional development 
+  and, to the extent practical, other national objectives must be assessed (Appendix A).</li></ul><p>Competition is and must remain the cornerstone of the government procurement process. It is the most efficient way of 
+achieving both the primary and secondary goals of procurement: it gives each bidder the incentive to bring forward its best 
+solution to the operational problem, at a competitive price, as well as to respond more effectively to requirements in support 
+of other national objectives. Moreover, competition ensures that all qualified suppliers are afforded access to government 
+contracts.</p><p>Procurement initiatives in support of regional industrial development must, to the greatest extent possible, focus on 
+assisting Canadian firms in becoming competitive in domestic and world marketplaces; procurement is not intended to be used 
+to create or sustain dependent government suppliers.</p></chapter><chapter anchor="4" title="Application"><p>This policy applies to all departments and agencies listed in Schedules I and II of the <em>Financial Administration 
+Act</em>, and to branches of the Public Service designated as departments for the purposes of the Act. It applies to all 
+acquisitions of goods and services from the private sector, whether or not they form part of a capital project or are financed 
+from capital or operations and maintenance (O&amp;M) funds with the following exceptions:</p><ul><li>procurements in support of foreign aid undertaken by or on behalf of the Canadian International Development Agency;</li><li>procurement undertaken by the Canadian Commercial Corporation on behalf of entities not subject to this policy; and</li><li>contracts related to the acquisition, modification and routine maintenance of real property.</li></ul><p>The mandatory procurement review requirements of this policy do not apply to procurements requiring a special degree 
+of security by or on behalf of:</p><ul><li>the Communications Security Establishment of the Department of National Defence;</li><li>the Canadian Security Intelligence Service, for the purpose of pursuing security investigations; and</li><li>the Royal Canadian Mounted Police, for the purpose of pursuing criminal investigations.</li></ul><p>Notwithstanding this exemption, the above organizations must apply the principles of the policy where appropriate, consistent 
+with the security requirements of their procurements.</p><p>In cases of emergency, as defined in the “Contracting” volume of the <em>Treasury Board Manual</em>, departments may 
+enter into contract without submitting the procurement to review pursuant to this policy. Such action should be noted in 
+any subsequent submission or report to Treasury Board or Treasury Board Secretariat, and should also be reported to the 
+Procurement Review Secretariat.</p></chapter><chapter anchor="5" title="Policy requirements"><ol><li>All government procurements exceeding $2M must be reviewed for potential opportunities to support industrial and regional 
+	development and other national objectives (e.g., the environment employment and equity programs) in accordance with the 
+	process described in Appendix C. The primary mechanism for this review will be inclusion in the annual plan required under 
+	subsection 2.</li><li>Operating departments must, before initiating discussions with potential suppliers that could raise expectations as 
+	to the government’s procurement strategy:
+		<ul><li>provide their short-range acquisition plans, covering all procurements over $2M, to the Procurement Strategy Committee, 
+		  in response to an annual request to be issued by the committee;</li><li>provide to the Procurement Review Secretariat at the earliest opportunity details of upcoming requirements not included 
+		  in the most recent Short Range Acquisition Plan (SRAP), as well as changes to information included in the plan; and</li><li>form a senior project advisory committee for all departmental procurements over $100M (including services) that are 
+		  not part of a major Crown project.</li></ul></li><li>Any proposal to take specific procurement action to support other national objectives must include a statement of 
+	the benefits sought, for evaluation and monitoring purposes, together with an assessment of the feasibility of achieving 
+	the benefits. The factors set out in Section 2 of Appendix A may be used as a framework for such a statement.</li><li>Where an operating department demonstrates that a proposed procurement strategy in support of national objectives 
+	involves increased cost or risk, the proposal must be supported by an assessment of the potential benefits, costs and risks 
+	associated with the strategy, as compared to a procurement strategy more exclusively related to the operating department’s 
+	requirements. The source of funding for any extra costs must also be identified. Requirements for this assessment are set 
+	out in more detail in Appendix A.</li><li>Any proposal described in subsection 4 above, involving expenditures above delegated departmental contracting or project 
+	approval levels, must be approved by the Treasury Board prior to the issuance of a request for proposals.</li><li>Where it is proposed that industrial and regional benefits packages are to be evaluated and assigned relative ratings 
+	or scores, TB authority must be sought before the issuance of a request for proposals regardless of delegated levels.</li><li>Where the procurement strategies proposed for significant projects require Cabinet approval, sponsoring departments 
+	must consult with the Treasury Board Secretariat (TBS) in preparing the submission to Cabinet. These consultations must 
+	include the analysis of any socio-economic initiatives, specified in subsections 3 and 4 above, and the views of TBS must 
+	be specifically included in the submission to Cabinet.</li><li>Submissions to the Treasury Board or the Cabinet for project approvals must include a section on socio-economic considerations, 
+	the recommendation of the procurement review committee or the senior project advisory Committee, where applicable, and a 
+	summary of the analysis required in Appendix A.</li><li>Where it is proposed to seek socio-economic benefits through a competitive process, the objectives and the evaluation 
+	criteria for contractor selection must be clearly spelled out in the request for proposals, and industry must be made aware 
+	of those objectives as early in the process as possible. This should enable industry to respond more effectively to those 
+	objectives, and will maximize the transparency of the government’s procurement process. Consultations must be carried out 
+	in a manner that ensures that all potential suppliers are treated fairly and equitably. A decision to direct a contract 
+	or to limit competition must be taken, and made known, sufficiently early in the process to prevent unnecessary (and costly) 
+	effort on the part of firms who may subsequently be left out. Further guidance on the issuance of requests for proposals 
+	may be found in the "Contracting" volume of the <em>Treasury Board Manual</em>.</li></ol></chapter><chapter anchor="6" title="Responsibilities"><chapter anchor="6.1" title="Treasury Board"><p>The Treasury Board is responsible for the government’s overall procurement policy and process, and for establishing a 
+policy framework that permits procurement to be managed in a manner that will promote the achievement of all procurement 
+objectives. The cost-effective use of funds is of particular concern to TB Ministers. The Treasury Board is also responsible 
+for approving proposals to undertake capital projects and to enter into contracts above the dollar levels delegated to departments.</p></chapter><chapter anchor="6.2" title="Treasury Board Secretariat"><p>The Treasury Board Secretariat is responsible for reviewing proposed procurement strategies requiring Cabinet or Treasury 
+Board approval, for consistency with TB policy requirements, particularly the requirement for assessment of proposed socio-economic 
+initiatives described in Appendix A, and for monitoring the Canadian Annual Procurement Strategy process in the context 
+of the Treasury Board’s mandate.</p></chapter><chapter anchor="6.3" title="Industry Canada"><p>Industry Canada is responsible for the coordination and management of the Canadian Annual Procurement Strategy, the process 
+by which the government determines its overall strategy for the use of procurement in support of industrial and regional 
+development.</p></chapter><chapter anchor="6.4" title="Public Works and Government Services Canada"><p>Public Works and Government Services Canada (PWGSC) is responsible for developing procurement strategies for consideration 
+by the Procurement Strategy Committee and the review committees, and for implementing procurement strategies, within the 
+framework of its clients’ needs, its legislative mandate and government policy. Supply and services Canada will chair the 
+Procurement Strategy Committee specified in this policy, and will operate and maintain the Procurement Review Secretariat.</p></chapter><chapter anchor="6.5" title="Industry Canada, regional departments and agencies and other policy departments"><p>Industry Canada, the regional departments and agencies and other policy departments are responsible, within their mandates, 
+for identifying procurements offering potential benefits in support of their programs, providing a rationale or statement 
+of benefits expected when requesting individual procurement review or a specific procurement strategy, and for the evaluation 
+of bidders’ proposals for benefits relevant to their mandates.</p></chapter><chapter anchor="6.6" title="Operating departments"><p>Operating departments are responsible for the achievement of their approved project and procurement objectives, and for 
+incorporating the government’s socio-economic decisions into their procurement and project management activities.</p></chapter><chapter anchor="6.7" title="Monitoring"><p>The Treasury Board Secretariat plans to evaluate this policy on a regular basis. TBS will assess, in conjunction with 
+affected departments, its effectiveness and impact on departmental operations and performance. Evaluation approaches will 
+include: reviews of documents on departmental monitoring information, internal audits, program evaluations and other reports; 
+interviews and focus groups with key departmental representatives involved with the implementation of the policy and with 
+experts in the field; and other evaluation strategies when appropriate.</p><p>The Procurement Strategy Committee will play a major role in the evaluation of this policy. All departments and agencies 
+involved in the process are encouraged to forward comments, both positive and negative, on their experiences with it and 
+recommendations for improvement to the Strategy Committee or to the Procurement Review Secretariat for review and inclusion 
+in reports to the committee’s members and to Treasury Board. Reports to the Treasury Board should normally be made annually, 
+and at least every three years.</p><p>Industry Canada, in concert with the regional departments and agencies and other interested parties, is responsible for 
+the evaluation of the effectiveness of procurement in support of industrial and regional development. For other national 
+objectives, evaluation of the effectiveness of the procurement lever is the responsibility of department responsible for 
+the policy being supported. Results of such evaluations should be reported to the Procurement Strategy Committee and included 
+in any reports made to TB.</p><p>Monitoring the achievement of the benefits being sought in individual procurement strategies is the responsibility of 
+the department whose program will be supported by those benefits.</p></chapter></chapter><chapter anchor="7" title="References"><chapter anchor="7.1" title="Authority"><p>This policy is issued under Section 7 of the <em>Financial Administration Act</em>.</p></chapter><chapter anchor="7.2" title="Treasury Board Publications"><ul class="index list-unstyled"><li>“Contracting” volume of the <em>Treasury Board Manual</em></li><li>Long-term Capital Plans Policy, Chapter 1-1 of this volume</li><li>Project Approval Policy, Chapter 2-1 of this volume</li><li>Project Management Policy, Chapter 2-2 of this volume</li><li>Policy on the Management of Major Crown Projects, Chapter 2-3 of this volume</li></ul></chapter></chapter><chapter anchor="8" title="Cancellation"><p>This policy replaces Chapter 305 of the <em>Administrative Policy Manual</em>.</p></chapter><chapter anchor="9" title="Enquiries"><p>Please direct enquiries about this policy instrument to the organizational unit in your department responsible for this subject matter. For interpretation of this policy instrument, the responsible organizational unit should contact: <a href="/contact/contact-eng.aspx#enquiries">TBS Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Analysis of Proposals for Procurement Strategies in Support of National Objectives"><appendix anchor="A.1" title="1. Introduction"><p>1.1 Given the scarcity of government resources, it is essential that all the potential benefits of the procurement function 
+be identified and realized to the extent possible. It is equally important that procurement be used in the most efficient 
+manner possible, and that all anticipated benefits, both operational and those in support of other national objectives, 
+be attainable at justifiable levels of cost and risk. When optional procurement strategies are to be considered, they must 
+be supported by sufficient information to enable the government to make informed decisions.</p><p>1.2 Use of procurement to support other national objectives may sometimes involve additional costs, directly through 
+higher procurement costs, or indirectly, through increased risk, delay, or higher downstream costs. It is recognized that 
+the benefits expected from a procurement strategy and their associated costs can be very difficult to quantify. Nevertheless, 
+proposals to take specific procurement actions to support socio-economic goals must be supported by an analysis of both 
+the potential costs and benefits, as described below.</p><p>1.3 The factors set out in this section have been developed primarily to assist in identifying those procurement strategies 
+that offer the best opportunities for achieving regional and industrial benefits. Proposals to promote other national objectives 
+should be supported by a similar analysis, drawing on the principles of this Appendix to the extent practicable. The Procurement 
+Strategy Committee may provide special guidelines for other areas as appropriate.</p><p>1.4 Any recommendation to adopt a procurement strategy other than one which would best serve the primary procurement 
+objectives of operational requirements, accessibility and fairness must address the extent to which the proposal meets each 
+of the factors described in Section 2 below. As well, it must be supported by an assessment of the cost implications (Section 
+3) where the operating department, or others affected, can demonstrate that the proposal will entail significant costs or 
+risks for the achievement of the operational objective or to the carrying out of departmental programs. It is recognized 
+that not all proposed procurement actions will rank high against all the factors; guidance on the relative weight to be 
+given to the factors may be provided by Ministers, either through the CAPS process or by other means, and may vary from 
+case to case or by sector. The strategy committee may also provide guidance on the weighting of the factors and the depth 
+of analysis required for particular procurements or groups of procurements.</p></appendix><appendix anchor="A.2" title="2. Factors for consideration"><h4>2.1 Consistency with the government’s approved national objectives</h4><ul class="list-unstyled"><li>(a) <strong>Industrial and regional development:</strong> the government’s industrial and regional benefits policy stresses 
+	long-term economic benefits and support of the competitiveness of Canadian businesses. More specific objectives may be determined 
+	through the CAPS process and communicated to the PRCs and senior project advisory committees by the Procurement Strategy 
+	Committee. They indicate the priorities selected by the government for the use of procurement in support of industrial and 
+	regional development. It must be demonstrated how the industrial and regional development objectives of a proposed procurement 
+	strategy relate to these priorities, and to the approved industrial benefits policy.</li><li>(b) <strong>Other national objectives:</strong> the proposed procurement strategy must be consistent with other policies 
+	and requirements affecting procurement. These include, but are not restricted to, Canada’s international trade obligations, 
+	foreign policy considerations, the impact on the environment, Employment and Immigration’s labour force development strategy, 
+	employment equity, and conflict of interest guidelines. Further information on these objectives can be found in the “Contracting” 
+	volume of the <em>Treasury Board Manual</em>.</li></ul><h4>2.2 Industrial capacity and commercial viability</h4><ul class="list-unstyled"><li>(a) <strong>The extent to which the procurement option proposed will enhance the growth of, or strengthen, an industrial 
+	sector:</strong> procurement should not be used to create or support more capacity in a given sector than can reasonably 
+	be expected to be supported by the marketplace. However, where excess capacity does exist, the decision as to what will 
+	be eliminated should be left to the marketplace to the greatest extent possible.</li><li>(b) <strong>Enhanced regional capacity:</strong> the extent to which the proposed procurement action could contribute 
+	to the enhancement of growth of the supplier base in one or more of the regions for which the government has established 
+	special policies or programs in support of regional development.</li><li>(c) <strong>Aboriginal economic development:</strong> the extent to which the proposed procurement action is likely to 
+	contribute to the growth or enhancement of aboriginal businesses and communities consistent with the government’s objectives 
+	under the Canadian Aboriginal Economic Development Strategy (CAEDS).</li><li>(d) <strong>The degree to which the proposed procurement action is likely to lead to increased investment</strong> in 
+	the development of Canadian industry, either to build on or protect existing strengths, or to pursue new opportunities.</li><li>(e) <strong>International competitiveness:</strong> wherever possible, procurement actions taken for socio-economic reasons 
+	should promote the international competitiveness of the firm receiving the preferential treatment. The firm must be able 
+	to demonstrate through its history, business and marketing plans, etc., that it has the capability or potential capability 
+	to effectively exploit the assistance to be offered.</li><li>(f) <strong>The extent to which the benefits expected to be achieved from the proposed procurement strategy are likely 
+	to last beyond the life of the procurement itself:</strong> there can be a temptation to award contracts to solve an immediate 
+	problem, such as impending layoffs or bankruptcy, without addressing the basic problems affecting the company or industry 
+	concerned. The contract award then sets a precedent for further assistance.</li></ul><p>When the government is the sole or primary customer for a product, decisions to create or maintain a single-source Canadian 
+capability must take into consideration the long-term costs that can arise from a continuing non-competitive situation. 
+Once such a source is established and develops entrenched interests, it can be extremely difficult to withdraw support. 
+There should be over riding strategic reasons (e.g., defence considerations) to establish a firm that will remain essentially 
+dependent on government purchases. This is particularly important where government purchases are not large enough to provide 
+the economies of scale necessary to compete internationally.</p><h4>2.3 Defence industrial base</h4><p>The extent to which the proposed procurement strategy contributes to the development or maintenance of the defence industrial 
+base, particularly with respect to the development and manufacture of identified strategic materials.</p><h4>2.4 Other factors</h4><ul class="list-unstyled"><li>(a) <strong>Incrementality:</strong> it should be possible to provide an assessment as to whether the potential benefit 
+	might arise without government support through procurement. This is particularly so where it is proposed to award a contract 
+	to provide cash flow at a critical point, or to provide development funds. Proposals for subcontracting in accordance with 
+	government objectives (e.g., small or regional businesses) can also be used by firms to extract financial advantage from 
+	actions they would have taken in any case.</li><li>(b) <strong>Trade policy:</strong> the assessment must include a detailed analysis of the international trade impact.</li><li>(c) <strong>Risk assessment:</strong> the analysis must include an assessment of the likelihood of achieving the proposed 
+	industrial or regional development objectives. This assessment should identify the various factors affecting the outcome 
+	and the impact of failure on the firm or sector involved.</li></ul></appendix><appendix anchor="A.3" title="3. Cost-effective use of funds"><p>3.1 Any recommendation to adopt a procurement strategy that, in the opinion of the operating department, will result 
+in increased cost or risk, either directly or indirectly, must be supported by:</p><ul class="list-unstyled"><li>(a) an estimate of the incremental cost over the option that meets the primary procurement objectives (that is, operational 
+	requirements, accessibility and fairness), in the most cost-effective manner, and in the context of approved government 
+	policies. In addition to costs directly associated with the procurement, this estimate must include any implications for 
+	downstream costs, such as increased operating costs, training and the stocking of spares; and</li><li>(b) an estimate of the risks inherent in the project, and the impact of the proposed procurement strategy on those risks, 
+	particularly the likelihood of the supplier’s being unable to perform the work within agreed upon costs or schedule, and 
+	the adverse impact of any such failure on the operating department’s program and on the firm’s long-term viability. The 
+	risks associated specifically with the proposed procurement strategy must be identified separately from other risks affecting 
+	the procurement.</li></ul></appendix></appendix><appendix anchor="B" title="Appendix B - Strategy and Review Committees"><appendix anchor="B.1" title="1. Strategy committee"><p>The Procurement Strategy Committee, chaired by PWGSC, will provide a link between the government’s industrial and regional 
+benefits policy, direction on other national objectives, and their implementation through individual procurements. The committee 
+will base its general direction to review committees on inputs from the CAPS process, other relevant Cabinet direction, 
+and from departments that set policy.</p><h4>1.1 Terms of reference</h4><p>The Procurement Strategy Committee will:</p><ul class="list-unstyled"><li><p>(a) <em>identify</em> those acquisitions or groups of acquisitions that will require consideration by a review committee. 
+	This determination will be based largely on analysis of departmental acquisition plans, information on procurements received 
+	outside the plan, and on industry sector information provided by Industry Canada and the regional departments and agencies;</p><p><strong>Note:</strong> Individual review committees will not normally be held for procurements below $20M. Individual reviews will not be held 
+	for procurements that are subject to international agreements such as the GATT or NAFTA.</p></li><li>(b) <em>examine</em> the means by which national procurement objectives can be achieved through the procurement process, 
+	including aggregation or desegregation of requirements and for funding arrangements extra cost;</li><li>(c) <em>advise</em> deputy heads of those procurements that require individual procurement review and of any socio-economic 
+	objectives applicable to their operations.</li><li>(d) <em>provide guidance</em> to review committees on:
+		<ul><li>procurement objectives and criteria to be taken into account in the planning of individual procurements;</li><li>the use of evaluation criteria for industrial and regional benefits; and</li></ul></li></ul><p><strong>Note:</strong> because of the cost and time involved, for both industry and government, use of relative weighting for industrial and 
+regional benefits proposals should be restricted to procurements over $50M except in special circumstances.</p><ul><li>the conduct of analyses required in Appendix A.</li></ul><h4>1.2 Exemptions</h4><p>The committee may decide, subject to any conditions deemed appropriate, to exempt particular classes of procurement (by 
+type or dollar value) from the requirement for procurement review, including the requirement to be reported in the annual 
+plan.</p><h4>1.3 Participating departments</h4><ul class="index list-unstyled"><li>Atlantic Canada Opportunities Agency</li><li>Human Resources Development Canada</li><li>Environment</li><li>External Affairs</li><li>Federal Office of Regional Development (Quebec)</li><li>Finance</li><li>Fisheries and Oceans</li><li>Indian and Northern Affairs Canada</li><li>Industry</li><li>National Defence</li><li>National Research Council of Canada</li><li>Public Works and Government Services Canada (Chair)</li><li>Transport Canada</li><li>Treasury Board (Secretariat)</li><li>Western Economic Diversification.</li></ul></appendix><appendix anchor="B.2" title="2. Procurement review committees"><h4>2.1 Terms of reference</h4><p>The procurement review committees will:</p><ul class="list-unstyled"><li>(a) conduct the review of the socio-economic aspects of individual or aggregated procurements identified by the Procurement 
+	Strategy Committee, as early as possible in the requirements planning stage;</li><li>(b) recommend to the operating and contracting departments appropriate procurement strategies and other initiatives available 
+	to support government objectives in individual acquisitions;</li><li>(c) ensure that all recommendations to seek benefits in support of national objectives through procurement are supported 
+	by an analysis of the proposal as described in Appendix A;</li><li>(d) propose methods of funding any extra costs where significant; and</li><li>(e) where industrial and regional benefits or other national objectives form part of the bid evaluation, receive briefings 
+	on the results of bid evaluations, where the committee considers it to be appropriate to do so.</li></ul><h4>2.2 Participating departments</h4><p>Procurement review committees will be chaired by the contracting authority. The chairperson will call for representation 
+from other departments as the situation demands, and in accordance with any guidance provided by the Procurement Strategy 
+Committee.</p></appendix><appendix anchor="B.3" title="3. Senior project advisory committees"><p>3.1 The role and functions of these committees in the planning and implementation of projects over $100 million are set 
+out in the Treasury Board policy on Major Crown Projects. The requirements of this appendix are to be read in the context 
+of that policy.</p><p>3.2 The senior project advisory committee (SPAC) will carry out the procurement review functions of the PRC for the project, 
+including all significant associated procurements handled through the project office.</p><p>3.3 The SPACs must, in making their recommendations to the project manager, consider any specific direction given by 
+Cabinet with respect to the project under consideration, in addition to the general guidance provided by the Procurement 
+Strategy Committee. The committee’s recommendations may take the form of either a separate record of review, or the information 
+required (Section 3 of Appendix C) may be incorporated into the minutes of the committee.</p><p>3.4 These recommendations must be included in subsequent submissions to Cabinet or TB for approval, as detailed in Policy 
+Requirement 4.7.</p></appendix><appendix anchor="B.4" title="4. Standing review committees"><p>4.1 A number of committees now exist for the review of specialized areas of procurement, such as repair and overhaul 
+and ammunition. These committees may also, subject to the direction and guidance of the Procurement Strategy Committee, 
+perform the functions of a procurement review committee, as described in Section 2 above.</p></appendix><appendix anchor="B.5" title="5. Procurement review secretariat"><p>5.1 PWGSC in cooperation with the other contracting authorities, will provide a central secretariat to support the Procurement 
+Strategy Committee and to assist the chair of the PRCs and other review committees in coordinating and managing the decision-making 
+process of the committees. The functions of the Secretariat include:</p><ul class="list-unstyled"><li>(a) coordinating the analysis of departmental acquisition plans to assist the Procurement Strategy Committee in its deliberations;</li><li>(b) providing a link between the Procurement Strategy Committee and other review committees, such as the senior project 
+	advisory committees or the Advisory Committee on Repair and Overhaul;</li><li>(c) coordinating the development of information, supporting data and background material for cases to be considered by 
+	procurement review committees;</li><li>(d) monitoring the results of the advice and recommendations of review committees; and</li><li>(e) maintaining a record of decisions and precedents.</li></ul></appendix></appendix><appendix anchor="C" title="Appendix C - Procurement Review Process"><appendix anchor="C.1" title="1. Review process"><p>1.1 The successful implementation of the process laid out in this appendix is highly dependent on the cooperation and 
+goodwill of all concerned. The process is intended to be carried out with a view to the efficient use of time and resources; 
+the formality of the proceedings and the level of detail of supporting documentation should be tailored to the size and 
+complexity of the procurement at issue. Particular care must be taken to ensure that the process is carried out in a timely 
+manner, to avoid unnecessary and costly delays in the procurement process that could harm the ability of the operating departments 
+to carry out their objectives. By the same token, operating departments must provide early notification and sufficient information 
+to enable the policy departments to carry out their mandated objectives.</p><p>A simplified flow chart of the procurement review process is attached as an annex to this appendix.</p><p>1.2 The Procurement Strategy Committee will determine, based primarily on an analysis of departmental acquisition plans, 
+those procurements to be subject to procurement review on a case-by-case basis, and will notify departments accordingly, 
+within six weeks after departmental plans are received, subject to sufficient information being available to allow an informed 
+decision. For procurements under $20M, a decision to hold a PRC must be supported by an explanation as to why individual 
+review is desirable. No PRC is required for a procurement included in a departmental plan that has not been identified for 
+review by the Procurement Strategy Committee.</p><p>1.3 Where procurements were not included in departmental plans, operating departments will notify the Procurement Review 
+Secretariat as soon as it becomes aware of the new procurement. Any member of the Procurement Strategy Committee may request 
+a PRC for procurements not included in the plan, or for a procurement that was previously reviewed but not identified, but 
+in respect of which new information has become available. In both these circumstances, the Procurement Strategy Committee 
+will then determine whether or not a PRC review should take place and so inform the contracting authority and the operating 
+department.</p><p>1.4 Upon receipt of a request for consideration of a procurement case, the Procurement Review Secretariat will identify 
+a chairperson for the case, who will schedule a meeting date, identify the composition of the committee and have background 
+material prepared for the case under consideration.</p><p>1.5 The background material must include, to the greatest extent possible, the following:</p><ul class="list-unstyled"><li>(a) an operating department package that will, for example, contain a description of the requirement, and the intended 
+	use, quantity required, purchasing time frame, operational imperatives, estimated contracting value, follow-on potential, 
+	etc.;</li><li>(b) a statement from Industry Canada relating the procurement to the approved industrial benefits policy or other relevant 
+	ministerial direction, together with background data on the relevant industry or suppliers;</li><li>(c) optional procurement strategies, prepared by PWGSC, that will meet operational requirements, fairness and accessibility, 
+	and other national objectives, where appropriate;</li><li>(d) inputs from regional and policy departments and agencies, as appropriate, relating the procurement to their program 
+	objectives, including a statement of potential benefits and a plan for monitoring the achievement of the expected benefits; 
+	and</li><li>(e) relevant Procurement Strategy Committee guidance.</li></ul><p>1.6 In their deliberations, the procurement review committees will be guided by:</p><ul class="list-unstyled"><li>(a) procurement objectives and strategic guidance provided through CAPS and the Procurement Strategy Committee;</li><li>(b) relevant precedents and specific procurement policy direction promulgated by Cabinet, Treasury Board or other authorities;</li><li>(c) the requirements of Appendix A; and</li><li>(d) the terms of any present or future international agreements affecting government procurement, including the Defence 
+Production and Defence Development Sharing Arrangements.</li></ul></appendix><appendix anchor="C.2" title="2. Industry participation"><p>2.1 When appropriate, any of the committees involved in the review process may invite representatives from industry to 
+participate in the consultation process, to bring their expertise to bear respecting possible industrial benefit opportunities. 
+This representation may be drawn from broadly based national associations, from individual firms possessing a particular 
+expertise, or from industry consultants. Care must be exercised to ensure that this industrial participation is carried 
+out in a way that will not create any conflict of interest or jeopardize national security or commercial confidentiality. 
+In order to avoid this possibility, industry representatives will not participate in the committee’s/final considerations 
+and decisions.</p></appendix><appendix anchor="C.3" title="3. Record of review"><p>3.1 Output from the committee shall be in the form of general direction and guidance expressed as specifically as possible, 
+given the information available at the time. This advice will be contained in a record of review/which eventually will be 
+included in the Treasury Board submission for program or project approval and will be forwarded to the Ministers for consideration 
+and approval in principle of the procurement course recommended. The record of review will accompany any subsequent internal 
+government procurement documentation.</p><p>3.2 The record of review will contain the views and recommendations of the committee, a description of the industrial 
+and regional or other benefits to be sought, considerations of incremental costs and funding options, and any relevant international 
+considerations. In addition, it should contain an assessment of the risks associated with the achievement of national objectives, 
+and of any impact the recommended procurement strategy might have on the risk of achieving the performance, time and cost 
+objectives of the operating department, as well as a plan for monitoring the achievement of the expected benefits. The record 
+of review must also include the separate views of any committee members not in accord with the committee’s conclusions and 
+recommendations.</p></appendix><appendix anchor="C.4" title="4. Approval and implementation"><p>4.1 Where the acquisition involves expenditures that are above the client department’s delegated project approval level, 
+approval in principle of the procurement method proposed will normally be obtained from the Treasury Board as part of the 
+project approval. Otherwise, policy requirement 4.5 will apply. Supporting documentation for the procurement strategy will 
+include a copy of the record of review, a summary of the analysis prescribed in Appendix A, where applicable, and the views 
+of any department(s) that are at variance with the strategy proposed. Where the procurement has been exempted from review, 
+the submission should so state, and give the basis for the exemption.</p><p>4.2 The contracting authority will process all contracting documentation in accordance with existing policies, guidelines 
+and procedures, taking into account the advice provided by the procurement review committee. Particular care must be taken 
+to clearly identify socio-economic considerations in the bid solicitation documentation, to ensure that contractors have 
+a clear understanding of the evaluation criteria. The contracting authority will obtain advice, as required, from the appropriate 
+members of the PRC. Results of the contracting action will be reported back to the Procurement Review Secretariat, as part 
+of its reporting and monitoring functions, and may be requested from the Secretariat by any member.</p><p>4.3 Requests to Treasury Board for approval to enter into a contract will contain a section dealing with socio-economic 
+considerations, including any funding implications. If the procurement strategy has not received Treasury Board approval 
+through a program or project submission, the submission should include the supporting documentation described in subsection 
+4.1 above.</p><p>4.4 When the request to enter into contract does not conform to the recommendations of the PRC, the contracting authority 
+will provide PRC members with an explanation of the contracting decision, before carrying it out. If a Treasury Board project 
+or contract approval is required, the reasons for deviating from the PRC recommendation must be included in the submission.</p><figure><figcaption class="text-center"><strong>Annexe A: Procurement Review Proces (Procurements over $2M)</strong></figcaption><img src="/pol-cont/12074-01-eng.gif" class="img-responsive center-block" alt="Procurement Review Proces. Text version below:" /><details class="brdr-tp brdr-rght brdr-bttm brdr-lft"><summary class="wb-toggle">Annexe A - Text version</summary><p>This annex provides a simplified flow chart of the procurement review process. The departmental plan is submitted to the Procurement Review Secretariat (PRS) for review by the Procurement Strategy Committee (PSC). Procurements covered by the General Agreement on Tariffs and Trade (GATT) or North American Free Trade Agreement (NAFTA) are not sent to the Procurement Review Committee (PRC). Procurements less than $20 million rarely have the potential to be sent to the PRC. Procurements greater than $20M may potentially be sent to the PRC. Procurements submitted to the PRC may require a benefits monitoring plan. Notify the PRS of the benefits monitoring plan. Notify the PRS of procurements not included in the departmental plan. At the request of any member, such procurements may potentially be considered by the PRC.</p></details></figure></appendix></appendix></appendices></doc>

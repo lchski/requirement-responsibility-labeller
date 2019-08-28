@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guideline on Self-Insurance" space="preserve" language="en" versionID="1" documentID="20930" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Purpose"><p>1.1 This guideline replaces portions of the <em>Policy on Risk Management.</em></p><p>1.2 The purpose of this guideline is to assist managers and staff in
+departments in making decisions relative to underwriting risks that have
+financial implications. </p><p>1.3 This guideline does not present any new mandatory requirements.</p></chapter><chapter anchor="2" title="2. Context"><p>2.1 Key risks that are subject to this guideline, include, but are not
+limited to the following: </p><ul><li>Legal liability arising from loss or harm caused by government operations or employees in the course of their employment;</li><li>Loss or harm caused or suffered by volunteers for which the Government of Canada may be held legally liable;</li><li>Loss or damage to physical assets, such as real property or equipment;</li><li>Loss or damage to construction projects, such as real property or shipbuilding and overhaul; </li><li>Damage to the environment; and</li><li>Legal liability arising from government operations in foreign jurisdictions, such as liability for motor vehicle accidents.</li></ul><p>2.2 Where the deputy head has not designated a senior official responsible
+for risk management, it is expected that the chief financial officer (CFO) will
+play a proactive role in this respect. </p><p>2.3 This guideline is to be read in conjunction with the following:</p><ul><li><em><a href="/pol/doc-eng.aspx?id=18796">Policy on Financial Resource Management, Information and Reporting;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=19422">Framework for the Management of Risk;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=15782">Directive on Claims and Ex Gratia Payments;</a></em></li><li><em>Occupational Health and Safety – Polices and Publications </em>(relating to risk to employees and to injury and illness);</li><li><em><a href="/pol/doc-eng.aspx?id=15786">Directive on Contingencies;</a></em></li><li><em><a href="http://www.njc-cnm.gc.ca/directive/travel-voyage/index-eng.php">National Joint Council Travel Directive;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12065">Directive on Fleet Management: Light Duty Vehicles;</a></em></li><li><em><a href="/mm-gm/doc/gfm-ggpa/c1-00-eng.aspx">Guide to Fleet Management, Chapter 1: Light Duty Vehicles;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12064">Directive on Fleet Management: Executive Vehicles;</a></em></li><li><em><a href="/mm-gm/doc/gfm-ggpa/c2-00-eng.aspx">Guide to Fleet Management, Chapter 2: Executive Vehicles;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12038">Policy on Decision Making in Limiting Contractor Liability 
+  in Crown Procurement Contracts</a></em> (for those areas that address insurance); and</li><li><em><a href="http://www.njc-cnm.gc.ca/directive/fsd-dse/index-eng.php">Foreign Service</a>, 
+  <a href="http://www.njc-cnm.gc.ca/directive/index.php?did=4&amp;lang=eng">Isolated Posts and Government Housing</a>, 
+  <a href="http://www.njc-cnm.gc.ca/directive/index.php?did=6&amp;lang=eng">Relocation</a> and 
+  <a href="http://www.njc-cnm.gc.ca/directive/travel-voyage/index-eng.php">Travel</a></em> (relating to motor vehicles and other employee-owned 
+  transportation; and personal property in Crown-owned living accommodation).</li></ul></chapter><chapter anchor="3" title="3. Definitions"><p>Definitions to be used in the interpretation of this guideline are listed in the <a href="#appA">Appendix.</a></p></chapter><chapter anchor="4" title="4. Principles"><p>The Government of Canada, for the most part, underwrites its own risks and does not purchase insurance in the commercial
+insurance market. "Underwriting" risk requires the following:</p><ul><li>thorough risk analysis;</li><li>acceptance of risk; and</li><li>identification of all financial options in order to ensure that losses can be funded if they occur.</li></ul><p>Underwriting risk is the responsibility of each department, much in the same manner as is
+practising risk management under the <em>Framework for the Management of Risk.</em>
+The term   "self-insurance" refers to the practice of each department funding
+its own losses. An important distinction is that "self-insurance" connotes a
+business approach to loss funding, namely that the Department acts as if it
+were its own insurer by:</p><ul><li>understanding the nature of the risk;</li><li>making funds readily available in the event of a loss; and</li><li>having controls in place to reduce the financial impact once the loss has occurred.</li></ul><p>The Government of Canada may, from time to time, exercise the option to purchase insurance in
+the commercial insurance market to finance certain risks. Examples of these
+exceptions to the practice of self-insurance include the following:</p><ul><li>Operations in foreign jurisdictions that face
+    mandatory requirements for insurance coverage, such as the operation of motor
+    vehicles;</li><li>The interests of the Government co-mingled with those
+    of other parties and the purchase of insurance constitutes an economy of scale
+    that effectively protects all parties (e.g., Public Private Partnerships); and</li><li>Insurance coverage provided as part of expertise
+    in service contracts, such as removal (e.g., moving and transfer) services for
+    employees' personal property.</li></ul></chapter><chapter anchor="5" title="5. Management practices"><p>Managers are responsible for analyzing financial risks
+when considering the purchase of insurance, pursuant to the Principles section
+of this guideline and the <em>Framework of the Management of Risk</em>.  In such
+cases, a cost-benefit analysis should be carried out in order to validate the
+decision to purchase insurance. Note that Order in Council 1030, issued in 1881,
+stated that it is a "wise economy for the government to underwrite its own
+risks, as well as on moveable as on immoveable property... and no new ones
+effected". In 1927, this Order in Council was extended to include "automobiles
+etc".</p><p><strong>Acquisition of commercial insurance</strong></p><p>5.1 In cases where managers have determined that the purchase of insurance presents
+an effective risk underwriting strategy and value for money, managers should
+ensure that:</p><ul><li>legal services are consulted, in order to identify any legal
+    implications arising from the purchase of insurance and whether or not doing so
+    creates any potential liabilities for Canada;</li><li>other government departments with similar requirements are
+    consulted so that any opportunities for insurance coverage and cost sharing are
+    explored; and</li><li>officials of Public Works and Government Services Canada (PWGSC) are
+  consulted for guidance on the insurance procurement and management process.</li></ul><p>5.2 For additional guidance on insurance coverage for fleet-managed vehicles, note that the 
+<a href="/mm-gm/doc/gfm-ggpa/c1-00-eng.aspx"><em>Guide to Fleet Management, Chapter 1: Light Duty Vehicles</em></a> and 
+<a href="/mm-gm/doc/gfm-ggpa/c2-00-eng.aspx"><em>Guide to Fleet Management, Chapter 2: Executive Vehicles</em></a> apply.</p><p>For additional direction on insurance coverage for employees and
+vehicles while on government business travel, note that the National
+Joint Council <a href="http://www.njc-cnm.gc.ca/directive/travel-voyage/index-eng.php"><em>Travel Directive</em></a> applies.</p></chapter><chapter anchor="6" title="6. Roles and responsibilities of other organizations"><p>This section identifies other significant departments with respect to this guideline. In and of itself, it
+does not confer any authority.</p><p>6.1 The <strong>Department of Justice Canada</strong> is responsible for providing
+advice regarding government responsibilities and legal obligations where
+proposed investments, actions or policies might result in serious exposure in
+situations of risk.</p><p>6.2 The <strong>Treasury Board Secretariat</strong> is responsible for the
+development, oversight and maintenance of this guideline and for providing
+interpretative advice.  It is also responsible for Risk Management, Contracting/Procurement policies and Fleet Management policy
+instruments.</p><p>6.3 <strong>Public Works and Government Services Canada</strong> (PWGSC) is
+responsible for providing advice and guidance on the insurance requirements of
+contracts for goods, services, construction, building services and leases.</p><p>6.4 The <strong>Office of the Chief Human Resources Officer</strong> is responsible
+for interpretation of fundamental or complex issues relating to safety and
+health of employees. It is also responsible for the Travel policy instruments
+and National Joint Council Foreign Service, Relocation and Isolated Posts and
+Government Housing Directives.</p></chapter><chapter anchor="7" title="7. References"><section anchor="7.1" title="7.1 Other relevant legislation and regulations"><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/index.html">Financial Administration Act</a></em></li></ul></section><section anchor="7.2" title="7.2 Related policy instruments and publications"><ul><li><em><a href="/pol/doc-eng.aspx?id=18796">Policy on Financial Resource Management, Information and Reporting</a></em></li><li><em>Framework for the Management of Risk</em></li><li><em><a href="/pol/doc-eng.aspx?id=15782">Directive on Claims and Ex Gratia Payments</a></em></li><li><em>Occupational Safety and Health – Policies and Publications</em> (relating to risk to employees and to certain personal property, 
+  injury and illness)</li><li><em><a href="/pol/doc-eng.aspx?id=15786">Directive on Contingencies</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12065">Directive on Fleet Management: Light Duty Vehicles;</a></em></li><li><a href="/mm-gm/doc/gfm-ggpa/c1-00-eng.aspx"><em>Guide to Fleet Management, Chapter 1: Light Duty Vehicles;</em></a></li><li><em><a href="/pol/doc-eng.aspx?id=12064">Directive on Fleet Management: Executive Vehicles;</a></em></li><li><a href="/mm-gm/doc/gfm-ggpa/c2-00-eng.aspx"><em>Guide to Fleet Management, Chapter 2: Executive Vehicles;</em></a></li><li><em><a href="/pol/doc-eng.aspx?id=12038">Policy on Decision Making in Limiting Contractor Liability in Crown 
+  Procurement Contracts</a></em> (for those areas that address insurance);</li><li><em><a href="http://www.njc-cnm.gc.ca/directive/fsd-dse/index-eng.php">National Joint Council Foreign Service Directive</a></em></li><li><em><a href="http://www.njc-cnm.gc.ca/directive/index.php?did=4&amp;lang=eng">National Joint Council Isolated Posts and Government Housing Directive</a></em></li><li><em><a href="http://www.njc-cnm.gc.ca/directive/index.php?did=6&amp;lang=eng">National Joint Council Relocation Directive </a></em></li><li><em><a href="http://www.njc-cnm.gc.ca/directive/travel-voyage/index-eng.php">National Joint Council Travel Directive</a></em></li></ul></section></chapter></chapters><appendices><appendix anchor="A" title="Appendix - Definitions"><dl><dt><strong>Periodic</strong> (<em><span lang="fr" xml:lang="fr">périodique</span></em>)</dt><dd><p>Is an interval
+of time determined to be reasonable by the senior official responsible for risk
+management or chief financial officer based on risk and on the particular
+departmental circumstances (e.g., volume of transactions, automation of
+systems, size and structure of organization, etc.).</p></dd><dt><strong>Management practices and controls</strong> (<em><span lang="fr" xml:lang="fr">pratiques et contrôles de gestion</span></em>)</dt><dd><p>Are all policies, processes, procedures and systems that
+enable a department to operate its programs and activities, use its resources
+efficiently and effectively, exercise sound stewardship, fulfil its obligations
+and achieve its objectives.</p></dd><dt><strong>Commercial insurance</strong> (<em><span lang="fr" xml:lang="fr">assurance commerciale</span></em>)</dt><dd><p>Is a contract in which an insurance company agrees
+to compensate the insured for losses or damages caused by the risks identified
+in the contract in exchange for a payment of a premium.</p></dd><dt><strong>Risk</strong> (<em><span lang="fr" xml:lang="fr">risques</span></em>)</dt><dd><p>refers to the effect of uncertainty on objectives. It is the expression of the likelihood and impact of an event with the potential to affect the achievement of an organization's objectives.</p></dd><dt><strong>Risk management</strong> (<em><span lang="fr" xml:lang="fr">gestion des risques</span></em>)</dt><dd><p>Is a systematic approach to setting the best course of action under uncertainty by identifying, assessing, understanding, making decisions on and communicating risk issues.</p></dd><dt><strong>Self-insurance</strong> (<em><span lang="fr" xml:lang="fr">Auto-assurance</span></em>)</dt><dd><p>Is a risk management method whereby an eligible risk(s) 
+is retained. </p></dd><dt><strong>Underwrite</strong> (<em><span lang="fr" xml:lang="fr">souscrire</span></em>)</dt><dd><p>Is the method of analysing and accepting risk in order to fund losses.</p></dd></dl></appendix></appendices></doc>

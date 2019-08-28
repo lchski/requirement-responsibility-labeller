@@ -1,24 +1,205 @@
 id,title
-12755,Policy on Management of Information Technology
-15249,Directive on Management of Information Technology
-27600,Standard on Email Management
-28108,Directive on Open Government
-18909,Standard on Metadata
-18910,Standard for Electronic Documents and Records Management Solutions (EDRMS)
-16553,Standard on Geospatial Data
-25687,Standard on Enterprise Resource Planning Systems
-23601,Standard on Web Accessibility
-25875,Standard on Web Interoperability
-24227,Standard on Web Usability
-16578,Policy on Government Security
-32601,Directive on Service and Digital
-32603,Policy on Service and Digital
-27122,Policy on Acceptable Network and Device Use
-27916,Policy on Service
-12452,Policy Framework for Information and Technology
-12742,Policy on Information Management
-12754,Directive on Information Management Roles and Responsibilities
-16552,Directive on Recordkeeping
-12510,Policy on Privacy Protection
-18308,Directive on Privacy Impact Assessment
-18309,Directive on Privacy Practices
+25049,Values and Ethics Code for the Public Sector
+13616,Foundation Framework for Treasury Board Policies
+27122,"Acceptable Network and Device Use, Policy on"
+12022,"Assets and Acquired Services, Policy Framework for the Management of"
+12025,Common Services Policy
+14494,Contracting Policy
+28230,"Contractual Arrangements, Guidelines on"
+28107,"Managers - Best Practices for Using Advance Contract Award Notices (ACANS) (Revised January 2004), Guide for"
+14676,"Proactive Disclosure of Contracts, Guidelines on the"
+12038,"Decision Making in Limiting Contractor Liability in Crown Procurement Contracts, Policy on"
+32573,"Green Procurement, Policy on"
+18225,"Investment Planning - Assets and Acquired Services, Policy on"
+17660,"Investment Planning - Assets and Acquired Services, Guide to"
+12062,"Materiel, Policy on Management of"
+12063,Controlled Goods Directive
+12064,"Fleet Management: Executive Vehicles, Directive on"
+28288,"Fleet Management, Chapter 1: Light-Duty Vehicles, Guidelines on"
+28105,"Fleet Management, Chapter 2: Executive Vehicles, Guide to"
+12065,"Fleet Management: Light Duty Vehicles, Directive on"
+28288,"Fleet Management, Chapter 1: Light-Duty Vehicles, Guidelines on"
+14671,"Materiel, Guide to Management of"
+13872,"Movable Heritage Assets, Guide to the Management of"
+12066,"Surplus Materiel, Directive on Disposal of"
+12074,Procurement Review Policy
+18229,"Projects, Policy on the Management of"
+21252,"Organizational Project Management Capacity, Standard for"
+28190,Organizational Project Management Capacity Assessment Tool
+27807,"Project Brief, Guide to a"
+21261,"Project Complexity and Risk, Standard for"
+28001,"Using the Project Complexity and Risk Assessment Tool, Guide to"
+27421,"Projects - November 12, 2013, Notice on Policy on Management of"
+25576,"Public-Private Partnerships, Guideline to Implementing Budget 2011 Direction on"
+12042,"Real Property, Policy on Management of"
+12044,Accessibility Standard for Real Property
+12045,Appraisals and Estimates Standard for Real Property
+17316,Fire Protection Standard
+27419,"Real Property - November 12, 2013, Notice on Policy on Management of"
+17562,"Real Property - November 16, 2009, Notice on Policy on Management of"
+24834,"Real Property - November 17, 2011, Notice on Policy on Management of"
+25595,"Real Property Management: Aboriginal Context, Guide to"
+12056,"Real Property, Guide to the Management of"
+12047,Reporting Standard on Real Property
+25868,"Requesting Capacity-Based Real Property Transaction Approval Limits, Guide to"
+12043,"Sale or Transfer of Surplus Real Property, Directive on the"
+30683,"Communications and Federal Identity, Policy on"
+30682,"Communications, Directive on the Management of"
+12315,Federal Identity Program Manual
+27167,"Publishing, Procedures for"
+12084,"Compensation, Policy Framework for the Management of"
+12522,Bilingualism Bonus Directive
+12120,Defence Scientific Service Group - Pay Plan
+12111,"Educational Assistance for Children of Employees, Policy on"
+14220,"Executive Compensation, Directive on"
+13589,Flying Accidents Compensation
+12139,Injury on Duty Leave
+13848,Long-Term Disability Insurance
+13951,Performance Pay Administration Policy for Certain Non-Management Category Senior Excluded Levels
+12129,Performance pay for represented employees in the Administrative and Foreign Service Category
+13583,Public Service Income Benefit Plan for Survivors of Employees Slain on Duty
+12133,Salary Administration  – University Teachers (UT) (Employer/Union Agreement) (#658)
+12116,Salary administration policy - Mediation/Conciliation Officer Sub-group
+12588,Self-Funded Leave Policy
+13953,"Service outside Canada, Policy on"
+13954,"Staff engaged locally outside Canada, Policy on"
+15771,"Terms and Conditions of Employment, Policy on"
+15774,"Leave and Special Working Arrangements, Directive on"
+15773,"Terms and Conditions of Employment for Certain Excluded/Unrepresented Employees, Directive on"
+15772,"Terms and Conditions of Employment, Directive on"
+21104,"Union Dues, Directive on"
+13856,Travel Directive
+12135,"Travel Authorities, Special"
+12141,"Two-Tier Bargaining, Guidelines for"
+13593,Work Force Adjustment Directive
+12143,Workers' Compensation
+17151,"Compliance, Framework for the Management of"
+25178,"Conflict of Interest and Post-Employment, Policy on"
+32495,"Financial Management, Policy on"
+32499,"Accounting Standards, Directive on"
+20886,Capital Assets: A Supplement to the Financial Information Strategy (FIS) Manual; Interdepartmental Transfers
+12182,Financial Information Strategy Accounting Manual
+20888,Remediation Liabilities Related to Contaminated Sites: A Supplement to the Financial Information Strategy (FIS) Manual
+20885,"Supplement to the Financial Information Strategy (FIS) Manual, A; Future Asset Restoration Liability"
+32502,"Charging and Special Financial Authorities, Directive on"
+25593,"Chart of Accounts Line Object Codes, Guideline on Departmental"
+27256,"Chief Financial Officer Attestation for Cabinet Submissions, Guideline on"
+28305,"Classification of Procurement Items, Data Standard on"
+25857,"Customer Record, Standard on"
+32503,"Delegation of Spending and Financial Authorities, Directive on"
+32584,"Delegating and Applying Spending and Financial Authorities, Guide to"
+27260,"Internal Control, Guideline for the Policy on"
+32504,"Payments, Directive on"
+32583,"Administering Low-Value Amounts,Guide to"
+32581,"Claims, Guide to"
+17065,"Financial Management of Pay Administration, Guideline on"
+19018,"Goods and Services Tax/Harmonized Sales Tax, Guideline on the Application of"
+27177,"Payment, Recording and Rebate of the Quebec Sales Tax, Guideline on the"
+25600,"Processing of Garnishments, Guidelines for the"
+32505,"Public Money and Receivables, Directive on"
+17067,"Accountable Advances, Guideline on"
+32583,"Administering Low-Value Amounts,Guide to"
+32581,"Claims, Guide to"
+17066,"Collection of Receivables, Guideline on"
+32582,"Interest and Administrative Charges, Guide to"
+15796,"Security for Debts, Guideline on"
+27228,"Travel, Hospitality, Conference and Event Expenditures, Directive on"
+25845,"Vendor Record, Standard on"
+28203,Governance and Expenditure Management Policy Area
+12364,Manager's Guide to Operating Budgets
+12169,Review of Memorandum to Cabinet - Expenditure Management System (EMS) - SFO sign-off - Information Notice
+14265,"Streamlining - Statutory Reports to Parliament, Guidelines on"
+16578,"Government Security, Policy on"
+16577,"Identity Management, Directive on"
+32612,"Standard on Identity and Credential Assurance, Directive on Identity Management  - Appendix A"
+32611,"Security Management, Directive on"
+12452,"Information and Technology, Policy Framework for"
+12742,"Information Management, Policy on"
+18910,"Electronic Documents and Records Management Solutions (EDRMS), Standard for"
+27600,"Email Management, Standard on"
+16553,"Geospatial Data, Standard on"
+12754,"Information Management Roles and Responsibilities, Directive on"
+16557,Information Management (IM) Basics – Guideline for Employees of the Government of Canada
+18909,"Metadata, Standard on"
+28108,"Open Government, Directive on"
+16552,"Recordkeeping, Directive on"
+18909,"Metadata, Standard on"
+12755,"Information Technology, Policy on Management of"
+32592,"Automated Decision-Making, Directive on"
+32579,"Business Number, Directive on the"
+15249,"Information Technology, Directive on Management of"
+25687,"Enterprise Resource Planning Systems, Standard on"
+26295,Internet Protocol Version 6 (IPv6) Network Equipment Procurement Guideline
+27088,"Optimizing Websites and Applications for Mobile Devices, Standard on"
+17251,TBITS 03: Coded Character Set for Information Interchange - Implementation Criteria
+17253,TBITS 05 : Canadian Government Keyboard Standard for Information Technology Equipment - Implementation Criteria
+15746,"TBITS 06.9: Canadian Open Systems Application Criteria (COSAC), Telecommunications wiring system in Government-Owned and leased buildings - Implementation Criteria"
+17280,TBITS 12: Codes for the Representation of Currencies and Funds - Implementation Criteria
+17282,TBITS 25: Materiel Coding - Implementation Criteria
+17284,TBITS 36: All-Numeric Representation of Dates and Times -Implementation Criteria
+15260,TBITS 38: Advanced card technologies - Physical parameters and appearance of the Government of Canada employee technology card - Implementation Criteria
+23601,"Web Accessibility, Standard on"
+25875,"Web Interoperability, Standard on"
+24227,"Web Usability, Standard on"
+32603,"Service and Digital, Policy on"
+32601,"Service and Digital, Directive on"
+16484,"Internal Audit, Policy on"
+32533,"Internal Audit, Directive on"
+13607,"Ministers' Offices, Policies for"
+19134,"People Management, Policy Framework for"
+28697,"Classification, Policy on"
+28698,"Classification Grievances, Directive on"
+28699,"Classification Oversight, Directive on"
+28700,"Classification, Directive on"
+22370,"Discipline, Guidelines for"
+12541,"Duty to Accommodate Persons with Disabilities in the Federal Public Service, Policy on the"
+12542,"Employee Assistance Program, Policy on"
+12543,Employment Equity Policy
+12572,"Executives, Policy on the Management of"
+14218,"Career Transition for Executives, Directive on"
+14219,"Executive (EX) Group Organization and Classification, Directive on"
+13877,Management Category - Position Description Writing Manual
+14220,"Executive Compensation, Directive on"
+14226,"Performance Management Program (PMP) for Executives, Directive on the"
+27146,"Performance Management, Directive on"
+22379,"Termination or Demotion for Unsatisfactory Performance; Termination or Demotion for Reasons Other than Breaches of Discipline or Misconduct; and Termination of Employment During Probation, Guidelines for"
+26041,"Harassment Prevention and Resolution, Policy on"
+26040,"Harassment Complaint Process, Directive on the"
+12552,"Interchange Canada, Policy on"
+12553,"Interchange Canada, Directive on"
+12405,"Learning, Training, and Development, Policy on"
+12409,"Knowledge for Required Training, Standards on"
+12407,"Required Training, Directive on the Administration of"
+13937,"Legal Assistance and Indemnification, Policy on"
+12560,"Occupational Safety and Health, Policy on"
+12562,"Fire safety planning and fire emergency organization, Standard for"
+13661,Occupational Health and Safety Directive
+12563,"Liaison with Private Contractors, Procedures for"
+13662,"Occupational Health and Safety, - General, Directives and Standards"
+12561,Occupational Health Evaluation Standard
+13605,Uniforms Directive
+26160,"Official Languages, Policy on"
+26163,"Official Languages (Communications with and Services to the Public) Regulations, Directive on the Implementation of the"
+26164,"Official Languages for Communications and Services, Directive on"
+26168,"Official Languages for People Management, Directive on"
+12358,Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996
+27146,"Performance Management, Directive on"
+12607,"Strikes, Policy on"
+27987,"Essential Services Designations, Guidelines for"
+12582,Student Employment Policy
+12559,Telework Policy
+12584,Term Employment Policy
+13890,Termination of Employment of Public Service Employees Due to Alternative Delivery Situations (Policy)
+12583,Terms and Conditions of Employment for Students
+12614,Workplace Day Care Centres
+12612,Workplace Fitness Program Policy
+32593,"Planning and Management of Investments, Policy on the"
+32610,"Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area, Directive"
+32594,"Management of Projects and Programmes, Directive on the"
+31300,"Results, Policy on"
+32556,"Rapid Impact Evaluation, Guide to"
+31306,"Results, Directive on"
+19422,"Risk, Framework for the Management of"
+20930,"Self-Insurance, Guideline on"
+27916,"Service, Policy on"
+13525,"Transfer Payments, Policy on"

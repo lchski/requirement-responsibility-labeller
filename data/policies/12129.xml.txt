@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Performance pay for represented employees in the Administrative and Foreign Service Category" documentID="12129" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Application"><p>This chapter applies to employees in the Public Service as specified in Part I of Schedule I of the <em>Public Service 
+Staff Relations Act</em> who are classified at senior levels in the administrative and foreign service category and who 
+are subject to a collective agreement for which a performance pay range has been negotiated.</p></chapter><chapter anchor="2" title="Definitions"><p>In this chapter:</p><dl><dt><strong><em>increment</em></strong></dt><dd>means the amount representing the difference between successive rates in the performance 
+	pay range, or $500 (<em><span xml:lang="fr-CA" lang="fr-CA">augmentation</span></em>);</dd><dt><strong><em>lowest pay increment</em></strong></dt><dd>for the purposes of section 24 of the Public Service Terms and Conditions 
+	Employment Regulations shall be an amount equivalent to two increments in the performance pay range, or $1,000 (<em><span xml:lang="fr-CA" lang="fr-CA">augmentation 
+	de la rémunération en plus faible</span></em>);</dd><dt><strong><em>review committee</em></strong></dt><dd>means a committee established by the deputy head to review the performance 
+	of all employees in levels for which performance pay ranges have been approved (<em><span xml:lang="fr-CA" lang="fr-CA">comité de révision</span></em>).</dd></dl></chapter><chapter anchor="3" title="Pay"><p>In this chapter, the performance pay range applies to a person initially appointed, promoted or transferred to a position 
+for which a performance pay range has been established.</p><p>The rate of pay on appointment of a person from outside the Public Service shall be determined by the Public Service 
+Commission and shall not be at a rate higher than the maximum.</p></chapter><chapter anchor="4" title="Increases in the performance pay range"><p>For the purpose of reviewing an employee's performance, the fiscal year shall constitute the review period, and increases 
+in pay for employees in the department paid in the performance pay range for the full review period shall be granted on 
+July 1 of each year.</p><p>Where, in the opinion of the deputy head, after considering a recommendation of the review committee, an increase in 
+pay is warranted for an employee who was appointed during the 12-month period, he or she may increase the rate of pay of 
+that employee on any date prior to the end of the next review period but such increase shall not be to a rate beyond the 
+maximum.</p><p>Where, in the opinion of the deputy head, after considering a recommendation of the review committee, an increase in 
+pay for an employee who has been paid in the performance pay range for the full review period is warranted, he or she may 
+increase the rate of pay to any rate in the performance pay range subject to the following conditions:</p><ol><li>Increases in pay for employees who are being paid at rates of pay less than the maximum in any fiscal year:
+	<ol class="lower-roman"><li>shall be an average of two increments calculated on all employees receiving increases in the department who were paid 
+	  for the full review period in the performance pay ranges below the maximum, except that,
+	  </li><li>for each employee in the department receiving no increase and paid for the full review period in the performance pay 
+	  ranges at rates below the maximum, two increments shall be available to the department and such increments may be granted 
+	  as determined by the deputy head.</li></ol></li><li>The period between consideration for increases in pay shall not exceed 15 months.</li></ol></chapter><chapter anchor="5" title="Reference"><p>This chapter replaces chapter 1-2, appendix L of PMM Volume 8.</p></chapter><chapter anchor="6" title="Enquiries"><p>Enquiries about this chapter should be referred to the responsible officers in departmental headquarters who, in turn, 
+may direct questions regarding policy interpretations to:</p><div class="indent1"><p>Collective Agreement Administration<br />
+  Staff Relations Division<br />
+  Personnel Policy Branch<br />
+  Treasury Board Secretariat</p></div></chapter></chapters></doc>

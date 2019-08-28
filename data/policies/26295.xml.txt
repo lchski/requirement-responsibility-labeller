@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><doc title="Internet Protocol Version 6 (IPv6) Network Equipment Procurement Guideline" space="preserve" language="en" versionID="1" documentID="26295" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicySchema-renamed.xsd"><chapters><chapter anchor="1" title="1 Effective date"><p>This guideline takes effect on November 30, 2012.</p></chapter><chapter anchor="2" title="2 Purpose"><p>This guideline sets out recommendations to assist departments when procuring network equipment, in support of the Government 
+of Canada Internet Protocol Version 6 (IPv6) Adoption Strategy.</p></chapter><chapter anchor="3" title="3 Background"><p>The Internet's remaining unused Internet Protocol Version 4 (IPv4) address blocks were allocated in early 2011 to the 
+five Regional Internet Registries which allocate Internet addresses to network operators in their region. The Asia-Pacific 
+region has experienced strong Internet growth and has been a lead adopter of <abbr title="Internet Protocol version 6">IPv6</abbr>, 
+now using <abbr title="Internet Protocol version 6">IPv6</abbr> for all new growth. Due to the address space pressures, 
+many governments and enterprises around the world are actively adopting <abbr title="Internet Protocol version 6">IPv6</abbr>, 
+which provides a much larger address space.</p><p>Although <abbr title="Internet Protocol version 4">IPv4</abbr> and <abbr title="Internet Protocol version 6">IPv6</abbr> 
+are not backwards compatible, there are mechanisms to link the two, such as translation and tunnelling, which can be used 
+to assist in deployment during the transition from <abbr title="Internet Protocol version 4">IPv4</abbr> to
+<abbr title="Internet Protocol version 6">IPv6</abbr>. Both <abbr title="Internet Protocol version 4">IPv4</abbr> and
+<abbr title="Internet Protocol version 6">IPv6</abbr> networks will coexist in the global Internet for some time as systems 
+become inter-connected and move to a dual-stack architecture.</p></chapter><chapter anchor="4" title="4 Context"><p>The advent of <abbr title="Internet Protocol version 6">IPv6</abbr> will have an impact on the Government of Canada, 
+whose business is geographically dispersed throughout the world. The Government of Canada conducts business with clients, 
+suppliers and global partners who are (or soon will be) on <abbr title="Internet Protocol version 6">IPv6</abbr> networks, 
+and as a consequence, the Government of Canada must adopt <abbr title="Internet Protocol version 6">IPv6</abbr>.</p><p>The Government of Canada <abbr title="Internet Protocol version 6">IPv6</abbr> Adoption Strategy is designed to ensure 
+the continuity of Government of Canada services. Adoption of <abbr title="Internet Protocol version 6">IPv6</abbr> by the 
+Government of Canada will provide seamless, uninterrupted access to Government of Canada services by Canadians and users 
+around the world. It also ensures continued access to global Internet resources by public service employees in carrying 
+out their job functions.</p></chapter><chapter anchor="5" title="5 Network Equipment Procurement"><p>Network equipment (e.g., routers, proxy servers, firewalls) is procured for Government of Canada networks through a variety 
+of means, including contracts and standing offers such as Network Equipment Support Services (NESS).
+<abbr title="Internet Protocol version 6">IPv6</abbr> functions specified in this guideline are expected to be incorporated 
+in these procurement vehicles where IP-based network equipment is specified.</p></chapter><chapter anchor="6" title="6 Audience"><p>This guideline supports the <em><a href="/pol/doc-eng.aspx?id=15249">Directive on Management of Information Technology</a></em> 
+by providing functional specialists, within Government of Canada departments and at Shared Services Canada, with network 
+equipment procurement guidance to assist in the adoption of <abbr title="Internet Protocol version 6">IPv6</abbr>.</p><p>The target audience for this guideline includes Government of Canada departmental clients, technical authorities, network 
+architects, network procurement technical analysts and contracting authorities.</p></chapter><chapter anchor="7" title="7 Definitions"><p>There are numerous generic terms such as "<abbr title="Internet Protocol version 6">IPv6</abbr>-enabled", "<abbr title="Internet Protocol version 6">IPv6</abbr>-ready", "<abbr title="Internet Protocol version 6">IPv6</abbr>-compatible", 
+and "<abbr title="Internet Protocol version 6">IPv6</abbr>-capable", that are used to identify
+<abbr title="Internet Protocol version 6">IPv6</abbr> functionality in network equipment. There is no standard interpretation 
+of these terms, which can lead to confusion among buyers.</p><p>In this guideline, the term "<abbr title="Internet Protocol version 6">IPv6</abbr>-capable" means network equipment that 
+meets the set of functions identified in the <a href="/it-ti/ipv6/tr-et-eng.asp">Technical Requirements for Internet Protocol 
+Version 6 Network Equipment Procurement Guideline</a>.</p></chapter><chapter anchor="8" title="8 Usage recommendations"><p>This document provides guidance for those procuring network equipment, by identifying functions that are essential to 
+the proper functioning of equipment in a Government of Canada <abbr title="Internet Protocol version 6">IPv6</abbr> environment 
+(see the <a href="/it-ti/ipv6/tr-et-eng.asp">Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement 
+Guideline</a>). A list of base functions that applies to all network equipment is followed by lists of functions that apply 
+to the equipment when used in specific situations. Following these is a section that addresses future needs, also organized 
+according to the network scenario in which the equipment will be used.</p><p>When preparing network equipment requirements, buyers should include the <abbr title="Internet Protocol version 6">IPv6</abbr> 
+functions referred to above, as specified in the <a href="/it-ti/ipv6/tr-et-eng.asp">Technical Requirements for Internet 
+Protocol Version 6 Network Equipment Procurement Guideline</a>.</p><p>It is possible that not all functions listed are currently supported by all vendors and that some of the quoted Internet 
+standards may be updated or become obsolete. As a result, a "best fit" may be required when equipment must be replaced due 
+to end-of-life or other considerations, and cannot wait for the availability of the full
+<abbr title="Internet Protocol version 6">IPv6</abbr> functionality recommended in this guideline.</p><p>Although beyond the scope of this guideline, buyers may also wish to specify performance requirements (e.g., throughput, 
+latency, packet loss, jitter), for both <abbr title="Internet Protocol version 4">IPv4</abbr> and
+<abbr title="Internet Protocol version 6">IPv6</abbr> for the equipment being procured, because their performance characteristics 
+may differ. This could be particularly noticeable in cases where <abbr title="Internet Protocol version 6">IPv6</abbr> functionality 
+requires additional hardware or software modules.</p></chapter><chapter anchor="9" title="9 References"><section anchor="9.1" title="9.1 Related policy instruments and publications"><ul><li><em><a href="/pol/doc-eng.aspx?id=12755">Policy on Management of Information Technology</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=15249">Directive on Management of Information Technology</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=16578">Policy on Government Security</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12328">Operational Security Standard: Management of Information Technology Security 
+	(MITS)</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=14494">Contracting Policy</a></em></li></ul></section><section anchor="9.2" title="9.2 Relevant legislation"><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/">Financial Administration Act</a></em></li></ul></section></chapter><chapter anchor="10" title="10 Enquiries"><p>For questions on this policy instrument, please contact <a href="/tbs-sct/cmn/contact-eng.asp">Treasury Board of Canada 
+Secretariat (TBS) Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix – List of Abbreviations"><dl><dt><strong><abbr title="Internet Protocol version 4">IPv4</abbr></strong></dt><dd>Internet Protocol version 4</dd><dt><strong><abbr title="Internet Protocol version 6">IPv6</abbr></strong></dt><dd>Internet Protocol version 6</dd><dt><strong><abbr title="Network Equipment Support Services">NESS</abbr></strong></dt><dd>Network Equipment Support Services</dd><dt><strong><abbr title="National Master Standing Offer">NMSO</abbr></strong></dt><dd>National Master Standing Offer</dd></dl></appendix></appendices></doc>

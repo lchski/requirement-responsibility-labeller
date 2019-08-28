@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Long-Term Disability Insurance - Chapter 3-4" documentID="13848" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Introduction"><p>Long-term disability insurance, (LTD), is part of the Public Service Management Insurance Plan (PSMIP). It provides Public Service employees
+excluded from collective bargaining, and who are members of the plan, with monthly income benefits to replace a substantial portion of earnings lost
+as a result of extended periods of total disability.</p></chapter><chapter anchor="2" title="2. Authorities"><section anchor="2.1" title="2.1 Legislative and regulatory"><ul><li>Financial Administration Act;</li><li>Public Service Management Insurance Directives made by TB 81500 of November 1, 1990, as amended from time to time (Appendix A to Chapter 1-1,
+    Insurance and Related Benefits Volume of the TBM).</li></ul></section><section anchor="2.2" title="2.2 Administration"><p>The administration of the LTD is the same as for the PSMIP (See Chapter 1-1, paragraph 2.2 of this volume).</p></section></chapter><chapter anchor="3" title="3. General provisions"><p>The LTD plan supplements other disability benefits payable under such plans as the <em>Public Service Superannuation Act</em> (PSSA), the <em>Government
+Employees Compensation Act</em>, the Canada Pension Plan and the Quebec Pension Plan, to assure a reasonable level of income during periods of
+long-term disability.</p><p>The cost of the plan is shared by the employee and by the government as employer.</p></chapter><chapter anchor="4" title="4. Specific provisions"><p>Note: As LTD insurance is one portion of the larger PSMIP, the following must be read in conjunction with Chapter 1-1 of this volume, "Public
+Service Management Insurance Plan". Except as noted below, the basic provisions of the PSMIP in matters such as eligibility apply to LTD.</p><section anchor="4.1" title="4.1 Eligibility"><p>The eligibility requirements for LTD and the exceptions are the same as for the other portions of the PSMIP. (See Paragraph 4.1 of Chapter 1-1 of
+this Volume.) However, the following persons who are eligible for the other portions of the plan are not eligible to carry LTD insurance:</p><ul><li>judges under the <em>Judges Act</em>; and</li><li>employees who have attained the age of 64 years, 9 months.</li></ul></section><section anchor="4.2" title="4.2 Optional and compulsory coverage"><h4>4.2.1 Optional</h4><p>LTD membership is optional for persons who were eligible to join the PSMIP or the Disability Insurance (DI) Plan before the applicable effective
+date (September 1, 1982 for part-time employees and November 1, 1970 for all other employees) and have remained continuously employed since that date.
+Persons who did not join LTD or the DI Plan within two months of becoming eligible to apply must submit a Statement of Health acceptable to the
+Insurer in order to have coverage.</p><h4>4.2.2 Compulsory</h4><p>LTD insurance is compulsory for all persons eligible to join the PSMIP who entered the Public Service on or after the applicable effective dates
+specified in paragraph 4.2.1 above.</p><h4>4.2.3 Other employers</h4><p>Employees of any board, commission, corporation or other portion of the Public Service of Canada specified in Parts I and II of the Public Service
+Management Insurance Directives are eligible to join LTD insurance on the dates specified in the Directives.</p></section><section anchor="4.3" title="4.3 Effective date of coverage and premiums"><h4>4.3.1 Eligible employees with an option</h4><p>In cases where an acceptable Statement of Health is required, coverage and premiums begin on the first day of the month following the month in
+which application is received by Personnel, provided that the Statement of Health is accepted by the Insurer.</p><h4>4.3.2 Eligible employees with compulsory insurance</h4><p>Coverage for compulsory LTD members commences on the date of eligibility under the PSMIP. Premiums will only be payable from the first day of the
+month following the date coverage commences.</p><p>LTD insurance may only be cancelled by those persons who were members before November 1, 1970; for all others, cancellation is not permitted.</p><p>A member insured for LTD who ceases to be eligible because he or she is appointed to duties which are not managerial or confidential may retain his
+or her membership in LTD. If a member in this situation should decide to switch his or her membership to the DI Plan, he or she must simultaneously
+cancel all optional insurance under the PSMIP.</p><p>Coverage continues until age 65, but contributions cease at age 64 years, 9 months.</p><h4>4.3.3 Level of insurance and cost of coverage</h4><p>Contributions and benefits for LTD insurance are based on the member's current salary, the definition of which is the same as that used under the
+Supplementary Death Benefit Plan. If that salary is a multiple of $250, contributions and benefits are based on that salary; if it is not a multiple
+of $250, they are based on the next highest multiple of $250. This is known as the "adjusted salary".</p><h5>4.3.3.1 Part-time employees</h5><p>For a part-time employee, as defined in paragraph 3.2 of Chapter 1-1 of this volume, the "adjusted salary" is determined by reducing the
+full-time salary for his or her occupational group and level in proportion to the relationship his or her assigned hours of work bear to the
+normally-scheduled full-time hours of work for that group.</p><p>e.g., Insured Salary =</p><p><span class="underLine">Assigned Hours</span> Multiplied By Full-Time Salary</p><p>Full-Time Hours</p><p>If this amount is not a multiple of $250, it is rounded to the next highest multiple of $250.</p><h5>4.3.3.2 Premium Rate</h5><p>The current premium rate is $0.83 per month for each $1,000 of the adjusted annual salary of which the member pays $0.124 and the government, as
+employer, pays the remainder.</p><h5>4.3.3.3 Retroactive salary increases</h5><p>Effective March 1, 1993, "insured salary" includes retroactive increases in salary when they are authorized after the date on which
+disability benefits became payable, provided the effective date of the increase is prior to the date of entitlement to benefits.</p><h4>4.3.4 Leave without pay</h4><p>A member's coverage continues during all periods of leave without pay and premiums are collected from salary on return to duty. Only the employee's
+share of the LTD premium is required where the leave without pay is due to:</p><ol><li>illness;</li><li>maternity reasons;</li><li>paternal responsibilities for the purpose of caring for the member's child;</li><li>parental responsibilities for the purpose of caring for a child for which the member accepts custody for adoption;</li><li>personal needs for a period not exceeding three months when the leave was approved by the appropriate authority as leave for personal needs;</li><li>service in the Armed Forces;</li><li>educational leave in respect of which the member would pay single contributions under the PSSA; or</li><li>service with a federal Royal Commission, board or agency that is an agent of Her Majesty in Right of Canada.</li></ol><p>Subsections .2, .3 and .4 above only apply to those members who are entitled to leave without pay for family responsibilities related to paternity,
+adoption and other personal needs. (Chapter 1-5, Compensation Volume 8, TBM).</p><p>In all other leave-without-pay situations, the member must pay both the employee's and the employer's share of premiums. However, all premiums are
+waived in cases of leave without pay during any period where a member is or becomes eligible for LTD benefits. In any case where an employee is paid
+for part of a month, whether or not the employee is on leave without pay for the remainder of the month, only the employee's share is payable for that
+month, regardless of the reasons for leave.</p><h4>4.3.5 Administrative errors affecting premium deductions</h4><p>Where it is discovered that, as a result of administrative error, premium deductions are not being made from an employee's salary, the proper
+deductions should be commenced immediately. The paying office should also be instructed to pick up retroactive deductions back to January 1 of the
+year in which the error is discovered, or the date on which deductions should have commenced, whichever date is more recent. The retroactive
+deductions should be made over a period equal to the period for which collection is being made, that is by "doubling up" for as long as
+necessary.</p></section><section anchor="4.4" title="4.4 Level of benefit and offset of other disability benefits"><p>Effective September 1, 1979, the level of benefit is 70% of adjusted salary with total offset of other disability benefits paid in respect of the
+same disability, such as those payable under the Canada or Quebec Pension Plans, the PSSA, or benefits under the Government Employees Compensation Act
+or similar provincial or federal legislation.</p><p>Benefits to all employees who became disabled prior to September 1, 1979, are subject to annual increases to a maximum of 2%. Benefits to employees
+who became disabled on or after September 1, 1979, are subject to annual increases to a maximum of 3%.</p></section><section anchor="4.5" title="4.5 Definition of disability"><p>Benefits are payable for up to 24 months in respect of any medically-determinable physical or mental impairment which a) results in the withdrawal
+of any mandatory licence required by the employee to carry out his or her occupation or employment, or b) renders the employee completely incapable of
+performing substantially all of the essential duties of his or her occupation or employment.</p><p>Benefits will continue to be paid, after the 24-month period referred to above, as long as the totally disabling condition prevents the employee
+from earning more than 66 2/3% of the current annual rate of remuneration for the occupation of the employee or the position held by the employee
+immediately prior to the date he or she became totally disabled. However, an employee who engages in an occupation or business, except as provided in
+the Rehabilitation provision of the Long-term Disability Benefit, will be deemed not to be totally disabled. In no case are benefits payable beyond
+age 65.</p><p>It is important for personnel officers to remember, and to remind potential claimants, that in order to be eligible for benefits under LTD, a
+claimant must satisfy the Insurer's medical consultants, on the basis of concrete medical evidence, that he or she is totally disabled within the
+exact meaning set out in the plan.</p><p>If, for example, an employee's retirement on grounds of disability has been approved by Health Canada, or if the employee has been ruled eligible
+for benefits under the Canada or Quebec Pension Plan, this may provide useful additional information to the Insurer, but does not alter the fact that
+the employee's condition must still be shown to be one of total disability as defined in the plan. Similarly, where an employee is involuntarily
+released for cause under paragraph 11(2)(f) of the <em>Financial Administration Act</em> (FAA) as amended by the <em>Public Service Reform Act</em>,
+the employee should be made to understand clearly that this does not mean he or she will automatically be eligible for LTD benefits.
+"Incapacity" for the purposes of the PSEA can be quite different from "total disability" for the purposes of LTD, and personnel
+officers and claimants should govern their expectations accordingly.</p></section><section anchor="4.6" title="4.6 Commencement of benefits"><p>LTD benefits become payable after 13 weeks of disability, or after the member's paid sick leave is exhausted, whichever is later.</p></section><section anchor="4.7" title="4.7 Earnings from rehabilitation programs"><p>While in receipt of benefits, an employee may engage in a Rehabilitation Program, which means a program of vocational training or a period of work
+for the purpose of rehabilitation, either of which is approved in writing by the Insurer. Depending on the circumstances, the employee may be able to
+engage in such a program for up to 24 months without losing his/her qualification for benefits. Monthly benefits will not be reduced by any earnings
+received from the program, with one exception. The employee's total income while working together with any benefits received under this Plan, must not
+exceed 100 per cent of the current salary for the occupation of the employee or the position held by the employee immediately prior to the date he or
+she became totally disabled. Please note that benefits would be offset by 100 per cent of any earnings from employment not approved by the Insurer as
+rehabilitative.</p><p>The Insurer may pay the expenses incurred by an employee, other than usual employment expenses, which are associated with an approved
+rehabilitation program, provided the expenses have been approved, in writing, by the Insurer prior to being incurred.</p></section><section anchor="4.8" title="4.8 Pre-existing conditions"><p>Under the provisions of LTD, no benefits are payable in respect of a disability resulting from any illness or condition which existed at the
+commencement of an employee's insurance.</p><p>This limitation is waived once an employee has completed a period of 13 continuous weeks of active employment while insured, with no absence due to
+illness, during which the employee did not receive any medically required services for the disabling condition. This limitation is waived after the
+employee has been a member of the plan for 12 months, provided that the disability does not commence during that time.</p></section><section anchor="4.9" title="4.9 Claims"><h4>4.9.1 Claims procedure</h4><p>The Insurer wishes to make prompt and proper payment of any benefits to which an employee is entitled. If the employee is totally disabled and
+thinks the disability will last long enough to qualify for benefits, the employee should notify his or her personnel office as soon as possible. The
+personnel office will provide a claim form and a form for the doctor to complete (Attending Physician's Statement of Disability). It will be the
+employee's responsibility to complete Part I of the claim form and to arrange for the completion of the Attending Physician's Statement. It is
+important for both the employee and the doctor to complete these statements as clearly and completely as possible. If the employee or the doctor wish
+to add extra information to help explain the case, this is perfectly acceptable.</p><p>Claims for benefits are adjudicated by Industrial Alliance on the basis of all, and only, the objective medical evidence provided on the claimant's
+condition. To substantiate a claim, the medical information provided must be sufficiently complete, and supported to the fullest extent possible by
+objective test results and clinical findings, so that an independent physician, possessed of the appropriate medical qualifications, would, on the
+basis of that information, be able to arrive at a diagnosis of total disability for the claimant's own job.</p><p>Accordingly, the employee should ask the doctor to provide a full, well-documented report that clearly shows the objective medical evidence
+supporting his or her diagnosis and prognosis. If more than one doctor is involved in the assessment or treatment of the employee's disabling
+condition, all doctors should supply the Insurer with full medical reports. The onus is ultimately on the claimant to provide the Insurer with
+sufficient medical proof of total disability. It is important to note that any omissions or unclear statements could result in a delay in settling a
+claim.</p><p>The completed forms should be returned to the personnel office, which is responsible for completing Part 2 of the claim form and passing the claim
+on for processing. (If the employee wishes, however, the Attending Physician's Statement can be detached and mailed directly to Industrial Alliance.
+It is the employee's responsibility to follow-up with his or her physician to ensure that the medical report is completed by the doctor in a timely
+manner and reaches Industrial Alliance without delay.) All of this should be done within 90 calendar days of the date the employee becomes totally
+disabled.</p><p>The Insurer has the right to request additional medical information from the claimant's doctors as often as may be reasonably required. In addition
+to these supplementary reports, the Insurer frequently uses independent medical consultants to provide the necessary additional objective medical
+evidence. This is often the only objective way the Insurer has to assess, or monitor the course of, a disability, to ensure that benefits are not paid
+to persons who are not eligible or who have recovered to the point where they no longer qualify.</p><h4>4.9.2 Review procedure</h4><p>If a claimant does not agree with the decision given by the Insurer in connection with a claim for benefits, his or her case may be put forward for
+a review by the Board of Trustees. The Board has power only to make recommendations to the Insurer and cannot overrule decisions the Insurer has made.
+However, the Insurer supports the principle of such a review procedure and has given its full cooperation in all respects. If a claimant wishes to
+have his or her case reviewed by the Board of Trustees, the claimant should give all of the details of the case to the personnel office, or write
+directly to:</p><p>The Secretary<br />
+Board of Trustees<br />
+Public Service Management Insurance Plan<br />
+Treasury Board Secretariat<br />
+5th Floor, West Tower<br />
+L'Esplanade Laurier<br />
+Ottawa, Ontario<br />
+K1A OR5</p></section></chapter><chapter anchor="5" title="5. General information"><p>The general information contained in Chapter 1-1 of this volume, "Public Service Management Insurance Plan", concerning the role of the
+Board of Trustees (including the review of individual cases), the detailed administration of the plan, applications for coverage and claims for
+benefits, applies to LTD.</p></chapter><chapter anchor="6" title="6. References"><p>This chapter replaces chapter 3-2 of PMM volume 16.</p></chapter><chapter anchor="7" title="7. Enquiries"><p>Enquiries about the policy should be directed to the responsible officers in departments headquarters, who in turn, may seek interpretation from
+the following:</p><p>Income Protection Policies Group<br />
+Pensions and Benefits Division<br />
+Human Resources Policy Branch<br />
+Treasury Board Secretariat<br />
+Ottawa, Ontario<br />
+K1A 0R5</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Long-Term Disability Insurance for Part-Time Employees"><section anchor="A.1" title="1. Purpose"><p>The purpose of this Appendix is to consolidate the basic terms of participation for eligible part-time employees under the Long-term disability
+(LTD) insurance portion of the Public Service Management Insurance Plan (PSMIP).</p></section><section anchor="A.2" title="2. Policy"><h4>2.1 Overview</h4><p>Effective September 1, 1982, all part-time employees excluded from the collective bargaining process who are assigned to work more than one-third
+of the normally-scheduled full-time hours of work for their occupational groups, and who meet all of the normal membership requirements of the PSMIP,
+are eligible to participate in both the LTD portion and the optional insurance portions of the plan. The coverage of part-time employees who join the
+plan is proportionate to the coverage of full-time members, and the terms and conditions of participation are, apart from the few exceptions noted
+below, essentially the same for both groups.</p><p>The terms of participation for part-time employees under the LTD portion of the plan are consistent with those applied to represented part-time
+employees under the Disability Insurance (DI) Plan.</p><h4>2.2 Eligibility</h4><p>A part-time employee's assigned hours of work, and not the actual hours worked, determine his or her eligibility, premium rate and level of
+insurance under the LTD portion of the PSMIP. Therefore, it is essential that departments ensure that the hours of work formally assigned to a
+part-time employee are as close as possible to the current average of the hours he or she actually works. Whatever period is chosen to average the
+actual hours of work, it should be, in each case, a fair and reasonable one, given the nature of the work and the normality of the conditions
+prevailing during that time. If a part-time employee belongs to an occupational group for which there are no normally-scheduled full-time hours of
+work, departments can use as the standard full-time hours for prorating purposes the full-time hours of work most common within the department or to
+occupational groups within its employ engaged in work of a similar nature.</p><p>A part-time employee assigned to work one-third or less of the normally-scheduled full-time hours of work for his or her occupational group is not
+eligible to join the plan.</p><p>A part-time employee assigned to work thirty or more hours a week, that is, a person eligible to contribute to the Public Service Superannuation
+Account, is eligible to participate in the plan on exactly the same basis as a full-time employee.</p><p>A part-time employee assigned to work more than one-third of the normally-scheduled full-time hours of work for his or her occupational group, but
+less than thirty, is eligible to participate in the plan under the special terms and conditions applicable to "eligible part-time
+employees". The inclusion of this group of employees in the plan makes the scope of the plan's eligibility requirements fully consistent with the
+definition of "employee" in the <em>Public Service Staff Relations Act</em> and the <em>Public Service Employment Act</em>.</p><p>Of course, those part-time employees described in the above paragraph must also satisfy the normal conditions concerning duration of employment as
+set out in section 4 of Chapter 1-1 of this volume, that is, those conditions applied to full-time employees, in order to be eligible to join. One
+example of the application of these conditions is that part-time employees appointed for terms of six months or less will only become eligible when
+they have completed six months' service.</p><h4>2.3 Optional membership</h4><p>All part-time employees who satisfied the conditions of membership in the plan as part-time employees on August 31, 1982, must apply if they wish
+to join the LTD portion of the plan. Applications received by personnel offices on or after December 1, 1982, must be accompanied by a completed
+Statement of Health.</p><p>If a part-time employee in this situation was previously eligible as a full-time employee to join the DI Plan or LTD on an optional basis, chose
+not to do so, has been continuously employed in the Public Service ever since, and now chooses to apply for LTD membership, his or her application
+will be considered to be a late one and evidence of insurability satisfactory to the Insurer will be required before the application is accepted.</p><h4>2.4 Compulsory membership</h4><p>For all part-time employees who become eligible to join the PSMIP on or after September 1, 1982, membership is compulsory in the LTD portion of the
+plan with effect from the date they first become eligible.</p><p>For part-time employees on strength in the Public Service on August 31, 1982, who were not eligible to join the PSMIP on that date, because, for
+example, they were in the middle of a term of six months' duration or less, or were assigned to work one-third or less of the normally-scheduled
+full-time hours for their occupational group, membership is compulsory in the LTD portion of the plan from the date they first become eligible. If
+they were previously eligible as full-time employees to join the DI Plan or LTD, chose not to do so, and were continuously employed in the Public
+Service until becoming eligible once again as part-time employees, they must apply if they now wish to join LTD, in accordance with the procedure
+described in the last paragraph of the preceding subsection.</p><h4>2.5 Level of coverage</h4><p>A part-time employee's LTD premiums and benefits are based on his or her "adjusted salary". A part-time employee's adjusted salary is
+determined by reducing the full-time salary for the employee's group and level in proportion to the relationship his or her assigned hours of work
+bear to the normally-scheduled full-time hours of work for that group. If this amount is not a multiple of $250, it is rounded to the next highest
+multiple of $250.</p><h4>2.6 Effective date of coverage and premium deductions</h4><p>For a part-time employee compulsorily enroled in the LTD portion of the plan, coverage is effective on the day the employee first becomes eligible
+to join the plan, and premiums are deducted effective the first day of the following month.</p><p>For a part-time employee with an option, premiums will be deducted effective the first of the month following receipt by the personnel office of
+the application, and coverage is effective that same day subject to acceptance by the Insurer.</p><p>In any case where an employee is absent from work on sick leave or on leave without pay for any reason on the date coverage would otherwise become
+effective, insurance is deferred until the employee returns to active duty, and premiums are deducted effective the first of the following month.</p><h4>2.7 Movement from full-time to part-time employment</h4><p>When a member of the LTD portion of the plan who was assigned to work thirty or more hours a week is subsequently assigned to work more than a
+third of regular full-time hours but less than thirty hours per week, the terms of the member's participation in LTD will be automatically adjusted to
+those applicable to eligible part-time employees, and vice versa when the movement is from part-time to full-time employment.</p><h4>2.8 Other conditions</h4><p>Part-time employees participate in the LTD portion of the plan on the same basis as full-time employees for the purposes of all provisions of the
+LTD portion of the plan, apart from the few exceptions noted above. For example, a part-time employee who works each and every hour he or she is
+assigned to work will satisfy the "actively at work" requirements of the plan in respect of the thirteen-week qualifying period related to
+pre-existing conditions and in respect of the intervening period between successive periods of disability.</p></section><section anchor="A.3" title="3. Special administrative procedures"><p>The administrative procedures related to the enrolment of part-time employees in the LTD portion of the PSMIP and the processing of their claim
+forms are outlined in the Insurance Administration Manual and related bulletins issued by the Compensation Directorate, Government Services Canada.</p></section></appendix></appendices></doc>

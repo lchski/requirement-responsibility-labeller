@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Salary administration policy - Mediation/Conciliation Officer Sub-group" space="preserve" language="en" versionID="1" documentID="12116" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy objective"><p>To ensure accuracy and consistency in the salary administration, including incentives to recognize and reward
+individuals in relation to their peers and subordinates, of the Mediation and Conciliation Officer Sub-group.</p></chapter><chapter anchor="2" title="Policy statement"><p>It is government policy to pay employees of the PM-MCO sub-group according to their contribution to the organization
+and their attainment of performance goals. The Salary administration plan in appendix A provides the means to achieve
+this; its chief provisions are that:</p><ul><li>the salary range for this single classification level comprises three salary sectors. These sectors represent
+successive levels of expertise and capability with regard to the duties and responsibilities expected of the
+incumbent;</li><li>the salary sectors have no fixed incremental steps but consist of minimum and maximum rates only. Advancement
+within a sector is effected through the application of variable percentage increases based on the assigned category of
+performance for the evaluation period;</li><li>advancement to a higher sector is normally contingent upon an incumbent demonstrating effectiveness typical of the
+higher sector over several successive evaluation periods;</li><li>performance pay comprises two elements: (1) salary increases related to adjustments in the salary range for the
+level and (2) periodic salary increases related to progression within a sector or progression to a higher sector.</li></ul></chapter><chapter anchor="3" title="Application"><p>This policy applies to all employees certified in the Mediation/Conciliation Officer Sub-group of the Programme
+Administration group.</p></chapter><chapter anchor="4" title="Policy requirements"><p>Deputy heads must implement and adhere to the plan in their departments.</p><p>They must:</p><ul><li>ensure that the salaries of the Mediation/Conciliation Officer Sub-group are administered according to the plan,
+based upon the salary range for the level and periodic salary increases related to progression within a sector in
+progression to a higher sector;</li><li>ensure that employee salaries are determined according to the plan for the year in which they are
+administered;</li><li>provide all information, training, advice and guidance required to implement and administer the plan;</li><li>obtain prior written approval from the Treasury Board Secretariat when he or she believes that the provisions of
+the Plan should be exceeded.</li></ul></chapter><chapter anchor="5" title="Monitoring"><p>The department will provide reports on the administration of salary according to instructions issued by Treasury
+Board Secretariat from time to time. These reports will be used in assessing departmental personnel administration
+practices.</p></chapter><chapter anchor="6" title="References"><p>Financial Administration Act, Section 11(2)(d).</p><p>This chapter replaces chapter 1-2, appendix M of PMM volume 8.</p></chapter><chapter anchor="7" title="Enquiries"><p>Enquiries about this policy should be referred to the responsible officers in departmental headquarters who in turn
+may direct questions regarding policy interpretation to:</p><div class="alignCenter"><p>Compensation and Human Resource Policy - Executive Group<br />
+General Personnel Policy Development and Compensation Division<br />
+Personnel Policy Branch<br />
+Treasury Board Secretariat</p></div></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Salary Administration Plan - Mediation/Conciliation Officer Sub-Group"><section anchor="A.1" title="1. Purpose"><p>This appendix presents guidelines for the consistent application of the Mediation/Conciliation Officer Sub-group
+salary administration plan.</p></section><section anchor="A.2" title="2. Description of salary sectors"><h4>2.1 First sector</h4><p>Employees whose salaries are positioned in this sector are capable of and undertake assignments which are of limited
+socio-economic impact. These assignments require a good knowledge of labour relations, labour law and associated
+legislation, familiarity with recent developments in the areas of labour economics and industrial relations,
+well-developed communication and interpersonal skills, and experience with the Canadian collective bargaining
+process.</p><h4>2.2 Second sector</h4><p>Employees whose salaries are positioned in this sector are capable of and undertake assignments which are typically
+of greater socio-economic impact. These assignments require a thorough knowledge of labour relations, labour law and
+associated legislation, a good knowledge of recent developments in the areas of labour economics and industrial
+relations, considerable experience in the application of conciliation techniques and practices, and demonstrated
+achievements in the development and presentation of new concepts and initiatives in mediation and conciliation.</p><h4>2.3 Third sector</h4><p>Employees whose salaries are positioned in this sector are capable of and undertake assignments which are of serious
+socio-economic impact. These assignments require advanced knowledge of conciliation techniques and practices; a
+thorough knowledge of the entire labour relations field and a comprehensive knowledge of recent developments in the
+areas of labour economics and industrial relations, and the ability to develop and use innovative techniques to fit
+particularly complex situations. Additionally, incumbents may be required to possess extensive knowledge of a specific
+industrial sector.</p></section><section anchor="A.3" title="3. Rate of pay on appointment"><h4>3.1 Rate of pay on appointment from outside the Public Service</h4><p>The starting salary for a person appointed to a position subject to this plan normally shall be the minimum of the
+authorized salary range for this position.</p><p>In certain instances, to compete with going rates in the private sector in recruiting experienced and qualified
+personnel, the Public Service Commission or the department concerned may recruit at a rate higher than that specified
+above, taking into consideration the criteria established for the various salary sectors and the relative personal
+qualifications, demonstrated effectiveness and salaries of other employees subject to this plan.</p><h4>3.2 Rate of pay on appointment from another group</h4><p>Where an employee from another group or sub-group is appointed to a position in the Mediation/Conciliation Officer
+Sub-group, the salary on appointment shall depend upon whether the appointment constitutes a promotion or transfer.</p><p>A promotion occurs where the maximum rate of pay for the salary sector to which the employee will be appointed
+exceeds the maximum rate of pay applicable for fully satisfactory performance in the employee's former position by at
+least 4 per cent. Where a promotion occurs an employee shall: (a) receive an increase equal to 4 per cent of his or her
+present salary up to the sector maximum; or (b) be paid the minimum rate for the appropriate sector, whichever is
+greater. The amount determined under (a) shall be rounded to the next higher $100.</p><p>A transfer occurs where the maximum rate of pay of the appropriate sector does not exceed the maximum rate of pay
+applicable for fully satisfactory service in the employee's former position by 4 per cent. On transfer to a position in
+this sub-group an employee shall receive the salary rate that he or she was receiving in the former position, rounded
+to the next higher $100.</p></section><section anchor="A.4" title="4. Performance categories"><p>For the purpose of administering the salary administration plan, the five performance categories will be applied
+giving due consideration to the degree of compatibility or the extent and direction of non-compatibility between the
+capabilities demonstrated during the review period and capabilities expected of incumbents in the sector in which the
+employee's salary is positioned.</p></section><section anchor="A.5" title="5. Salary review dates"><p>Employees' performance shall be reviewed annually and salaries adjusted on the basis of the performance categories.
+Normally, such reviews and adjustments will occur at the start of the fiscal year coincidental with the revisions to
+the appropriate salary range.</p><p>Performance pay comprises two elements: (1) salary increases related to adjustments in the salary range for the
+level; and (2) periodic salary increases related to progression within a sector or progression to a higher sector.</p><p>Annual adjustments to salary ranges do not imply that all employees should automatically be granted the percentage
+increase applicable to the range. Considerations in determining the total amount of an employee's annual salary
+increase should include:</p><ul><li>the reasons underlying the particular assignments handled during the review period (e.g. operational requirements
+at that point in time, career development assignment, assignment difficulty, demonstrated personal ability of the
+incumbent);</li><li>assigned category of performance;</li><li>the percentage increase applicable to the range; and</li><li>the appropriateness of the employee's current salary with respect to the defined criteria for the salary
+sectors.</li></ul></section><section anchor="A.6" title="6. Salary range revisions"><p>The current salary range for this sub-group is contained in chapter 4-1. The sector maxima are deemed to be the
+rates attainable for fully satisfactory performance relative to the nature of assignments described for the particular
+salary sector.</p><p>An employee whose recent performance is at least satisfactory and whose salary is properly positioned should be
+granted the total percentage increase.</p><p>When an employee's salary is above the appropriate sector, consideration should be given to granting not less than
+one half (1/2) of the range adjustment to regress the employee's salary over a period of time to its appropriate
+position.</p><p>The salary of an employee whose performance is reviewed as unsatisfactory will not be increased as a result of an
+adjustment to the salary range.</p></section><section anchor="A.7" title="7. Performance increases"><p>In addition to the salary increase determined in section 6, the employee should receive an appropriate performance
+increase in accordance with the performance pay grid. This pay grid is designed to be used as a guide and specifies
+only the maximum performance adjustment available under this plan. The performance pay grid should not be used in a
+mechanical fashion to determine performance increases.</p><p>The number of employees whose performance is reviewed as superior and outstanding should not exceed 30 per cent of
+the total number of employees in the sector. The scale contained in appendix B should be used to determine the number
+of employees who may be categorized above fully satisfactory.</p><p>The appropriate performance increase will be determined in accordance with the pay grids contained in appendix C,
+taking into account the nature of assignments appropriate to the employee's salary sector, and the category of
+performance for the period under review.</p><p>The total salary increase shall be the sum of the range adjustment plus the performance increase, rounded to the
+nearest $100. The total increase shall not place the employee's new salary higher than the maximum of the appropriate
+sector.</p></section><section anchor="A.8" title="8. Employees on loan"><p>Employees on loan to other departments shall be considered for performance increases on their annual review dates.
+When considering the amount of increase to be granted, the deputy head of the parent department should obtain from the
+other department or agency the necessary information to complete a performance review and appraisal report.</p></section><section anchor="A.9" title="9. Leave without pay"><p>Consideration may be given to granting performance increases to employees on leave without pay during the period
+covered by the performance review and appraisal report. Particular consideration should be given to employees who have
+taken education or sabbatical leave without pay to improve their qualifications to the future advantage of the Public
+Service and the employee. The performance category should be based on the employee's performance prior to and after the
+period of leave without pay.</p></section><section anchor="A.10" title="10. Employees on language training"><p>Employees in full-time attendance at government sponsored language training courses will be considered for
+performance increases while undergoing such training. Performance categories should be based on the employee's
+performance prior to and after the period of language training.</p></section><section anchor="A.11" title="11. Acting pay"><h4>11.1       Salary calculation</h4><p>An employee who is subject to this plan is not entitled to acting pay when performing, on an acting basis, the
+duties of any other position to which this pay plan also applies.</p><p>An employee from another group who accepts a temporary assignment to a position classified subject to this plan may
+receive acting pay. Acting pay is the rate of pay the employee would be paid on appointment to such higher
+classification level, as calculated pursuant to the acting pay directives.</p><p>An employee in receipt of acting pay is entitled to a recalculation of the acting rate of pay pursuant to Section 64
+when increments within and revisions to the salary range for the substantive level occur. If following recalculation
+the rate of pay in the higher classification level is less than the rate of pay received immediately prior to the
+recalculation, the employee shall be paid at the rate of pay received immediately prior to the recalculation.</p><p>The qualifying period to receive acting pay is determined by the collective agreement or terms and conditions of
+employment applicable to the employee's substantive group and level.</p><h4>11.2       Range revisions</h4><p>While in receipt of acting pay, an employee is eligible to receive revisions to the salary range of the acting
+level.</p><p>Employees in receipt of acting pay remain subject to the non-pay terms and conditions of employment governing their
+substantive level.</p><h4>11.3       Performance increases while receiving acting pay</h4><p>An employee who is receiving acting pay for a temporary assignment to a position classified subject to this plan is
+eligible for performance increases at the higher level when the following criteria are met:</p><ul><li>the substantive rate of pay has reached the range maximum and the employee is no longer eligible for increments or
+in-range performance increases in the substantive level; or an increment or in-range performance increase in the
+substantive level does not result in a change to the acting rate of pay; and</li><li>performance of the higher level duties is assessed as fully satisfactory or better; and</li><li>the employee is on strength in the acting situation on March 31st and April 1st.</li></ul><p>The commencement date of the acting assignment will not affect an employee's eligibility for performance increase
+when these conditions are met. Prorating the performance increase, based on the length of time in the acting
+assignment, is an option.</p><p>When an increment or an in-range performance increase in the substantive rate of pay results in a salary increase on
+recalculation of the acting pay, the employee is not eligible for performance increase under this plan, and should not
+be included in the ratings distribution.</p></section><section anchor="A.12" title="12. Salary distribution guidelines"><p>Based on past experience and projected workloads, taking into account the frequency and nature of assignments, the
+levels of expertise required, operational requirements for geographical dispersion, and the personal development time
+frames explicit in the salary structure for this sub-group, it is anticipated that the number of employees whose
+salaries, at any point in time, will be positioned in sectors 2 and 3, without the authority of Treasury Board, shall
+not exceed 50 per cent and 25 per cent respectively.</p></section><section anchor="A.13" title="13. Departmental review committee"><p>The department will establish a committee to review and approve all salary increases, including movements to higher
+salary sectors, to ensure, to the extent possible, the uniform and equitable application of this salary administration
+plan. In addition to senior line management representation, this committee should comprise a senior personnel
+representative who is knowledgeable about the operation of the departmental program.</p></section></appendix><appendix anchor="B" title="Appendix B - Performance Increases"><table class="rpp widthFull"><tbody><tr><th class="alignTop" id="t-cqcm-g1-r1-c1"><strong>Number of employees in the sector</strong></th><th class="alignTop" id="t-cqcm-g1-r1-c2"><strong>Number above fully satisfactory should not exceed</strong></th></tr><tr><td class="alignTop" id="t-cqcm-g1-r2-c1" headers="t-cqcm-g1-r1-c1">1 - 3</td><td class="alignTop alignCenter" id="t-cqcm-g1-r2-c2" headers="t-cqcm-g1-r1-c2">1</td></tr><tr><td class="alignTop" id="t-cqcm-g1-r3-c1" headers="t-cqcm-g1-r1-c1">4 - 6</td><td class="alignTop alignCenter" id="t-cqcm-g1-r3-c2" headers="t-cqcm-g1-r1-c2">2</td></tr><tr><td class="alignTop" id="t-cqcm-g1-r4-c1" headers="t-cqcm-g1-r1-c1">7 - 10</td><td class="alignTop alignCenter" id="t-cqcm-g1-r4-c2" headers="t-cqcm-g1-r1-c2">3</td></tr><tr><td class="alignTop" id="t-cqcm-g1-r5-c1" headers="t-cqcm-g1-r1-c1">11 - 13</td><td class="alignTop alignCenter" id="t-cqcm-g1-r5-c2" headers="t-cqcm-g1-r1-c2">4</td></tr><tr><td class="alignTop" id="t-cqcm-g1-r6-c1" headers="t-cqcm-g1-r1-c1">14 - 16</td><td class="alignTop alignCenter" id="t-cqcm-g1-r6-c2" headers="t-cqcm-g1-r1-c2">5</td></tr><tr><td class="alignTop" id="t-cqcm-g1-r7-c1" headers="t-cqcm-g1-r1-c1">17 - above</td><td class="alignTop alignCenter" id="t-cqcm-g1-r7-c2" headers="t-cqcm-g1-r1-c2">30%</td></tr></tbody></table></appendix><appendix anchor="C" title="Appendix C - Category of Performance"><table class="rpp widthFull"><caption>(1) General correspondence between assignments during review period and those typical of the employee's salary sector.</caption><tbody><tr><th class="alignTop" id="t-mnde-g1-r1-c1">Unsat.</th><th class="alignTop" id="t-mnde-g1-r1-c2">Sat.
+			up to
+				
+			
+			</th><th class="alignTop" id="t-mnde-g1-r1-c3">F.S.
+			up to</th><th class="alignTop" id="t-mnde-g1-r1-c4">
+				
+			
+			Sup.
+			up to</th><th class="alignTop" id="t-mnde-g1-r1-c5">Out.
+			up to
+				
+			
+			</th></tr><tr><td class="alignTop" id="t-mnde-g1-r2-c1" headers="t-mnde-g1-r1-c1">0</td><td class="alignTop" id="t-mnde-g1-r2-c2" headers="t-mnde-g1-r1-c2">2%</td><td class="alignTop" id="t-mnde-g1-r2-c3" headers="t-mnde-g1-r1-c3">4%</td><td class="alignTop" id="t-mnde-g1-r2-c4" headers="t-mnde-g1-r1-c4">6%</td><td class="alignTop" id="t-mnde-g1-r2-c5" headers="t-mnde-g1-r1-c5">8%</td></tr></tbody></table><table class="rpp widthFull"><caption>(2)    Assignments during review period generally typical of a higher sector than that in which the employee's salary is positioned.</caption><tbody><tr><th class="alignTop" id="t-hcdr-g1-r1-c1">
+			
+			Unsat.</th><th class="alignTop" id="t-hcdr-g1-r1-c2">Sat.
+			up to</th><th class="alignTop" id="t-hcdr-g1-r1-c3">F.S.
+			up to</th><th class="alignTop" id="t-hcdr-g1-r1-c4">Sup. or Out.
+			
+			up to</th></tr><tr><td class="alignTop" id="t-hcdr-g1-r2-c1" headers="t-hcdr-g1-r1-c1">0</td><td class="alignTop" id="t-hcdr-g1-r2-c2" headers="t-hcdr-g1-r1-c2">4%</td><td class="alignTop" id="t-hcdr-g1-r2-c3" headers="t-hcdr-g1-r1-c3">6%</td><td class="alignTop" id="t-hcdr-g1-r2-c4" headers="t-hcdr-g1-r1-c4">8%</td></tr></tbody></table><table class="rpp widthFull"><caption>(3)    Assignments during review period generally typical of a lower sector than that in which the employee's salary is positioned.</caption><tbody><tr><th class="alignTop" id="t-owle-g1-r1-c1">
+			Unsat.</th><th class="alignTop" id="t-owle-g1-r1-c2">Sat.
+			up to</th><th class="alignTop" id="t-owle-g1-r1-c3">F.S., Sup. or Out.
+			
+			up to</th></tr><tr><td class="alignTop" id="t-owle-g1-r2-c1" headers="t-owle-g1-r1-c1">0</td><td class="alignTop" id="t-owle-g1-r2-c2" headers="t-owle-g1-r1-c2">0</td><td class="alignTop" id="t-owle-g1-r2-c3" headers="t-owle-g1-r1-c3">4%</td></tr></tbody></table></appendix></appendices></doc>

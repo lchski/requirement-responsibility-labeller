@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd" title="Directive on Information Management Roles and Responsibilities" versionID="1" documentID="12754" space="preserve" language="en"><notetoreader><p>The Directive on Service and Digital will take effect on April 1, 2020. It will replace the Directive on Management of Information Technology, the Directive on Information Management Roles and Responsibilities, and the Directive on Recordkeeping.</p><p>The Directive on Management of Information Technology, the Directive on Information Management Roles and Responsibilities, and the Directive on Recordkeeping remain in effect until April 1, 2020.</p></notetoreader><chapters><chapter anchor="1" title="1. Effective date"><p>1.1 This directive takes effect on October 8, 2007</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 This directive applies to departments as defined in section 2 of the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial
+Administration Act</a></em> (FAA) unless excluded by specific acts, regulations or
+Orders in Council.</p><p>2.2  Sections 7.3.1 and 8.1 do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, 
+the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the 
+Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these 
+organizations are solely responsible for monitoring and ensuring compliance with this policy within their organizations, as well as for 
+responding to cases of non-compliance in accordance with any Treasury Board instruments that address the management of compliance.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 Managing information is an essential component in the effective
+management of business of a department. Using and managing information is part
+of how the Government of Canada (GC) conducts business. Information is
+created, gathered, stored and made available in various formats and for various
+purposes. Information technology (IT) is a key enabler to achieving
+well-managed information in support of policies, programs and services.</p><p>3.2 Clear accountabilities for information management ensure that
+information retains its value throughout the entire period for which it is
+required for government business. Accountability for information management (IM within government departments is assigned to the deputy head through the <em><a href="/pol/doc-eng.aspx?id=12742">Policy on Information Management</a></em>. This directive defines the roles and
+responsibilities of departmental employees to support deputy heads in the
+management of information in the Government of Canada.</p><p>3.3 This directive is issued under
+the authority of section 7 of the FAA and pursuant to Section 3.4 of the <em>Policy on Information Management</em>.</p><p>3.4 This directive is to be read in conjunction with the <em><a href="/pol/doc-eng.aspx?id=12452">Policy Framework
+for Information and Technology</a></em>, the <em>Policy on Information Management </em> and related policy instruments.</p></chapter><chapter anchor="4" title="4. Definitions"><p>4.1 Definitions to be used in the interpretation of this directive are in the <a href="#appA">Appendix</a>.</p></chapter><chapter anchor="5" title="5. Directive statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this directive is to identify the roles and
+responsibilities of all departmental employees in supporting the deputy head in
+the effective management of information in their department.</p></section><section anchor="5.2" title="5.2 Expected results"><p>5.2.1. Governance structures in departments ensure
+sound IM accountability. </p><p>5.2.2. Information management is an identifiable and
+integral element of departmental programs and services.</p><p>5.2.3. Information management in departments supports
+the GC IM Program.</p></section></chapter><chapter anchor="6" title="6. Requirements"><section anchor="6.1" title="6.1 Senior executive for each department designated responsible for&#xA;information management (IM) by the Deputy Head"><p>As the senior executive for IM designated by the deputy head as per Section
+6.1.7 of the <em>Policy on Information Management</em>, this is the central role
+to co-ordinate, promote and direct information management within the
+department. The designated senior executive is responsible for ensuring the
+appropriate management direction, processes and tools are in place to
+efficiently manage information under the control of the department to support
+the department's business and to retain the quality of information throughout
+the information life cycle by:</p><p>6.1.1 participating in GC IM
+committees and ensuring participation from their department in the development
+and implementation of government-wide policy instruments;</p><p>6.1.2 ensuring IM
+requirements are addressed during departmental strategic planning;</p><p>6.1.3 advising the
+designated senior executive for the department who is responsible for
+information technology (IT), on information management requirements and
+objectives;</p><p>6.1.4 ensuring IM
+requirements are addressed during the planning phase of departmental program
+and system design;</p><p>6.1.5 ensuring that adequate
+information management governance and accountability structures are in place
+throughout the department and that the accountability structures are clearly
+defined when information is shared with other federal government departments,
+other governments or non-governmental organizations;</p><p>6.1.6 co-ordinating
+resources and implementation of departmental information management activities
+including: service delivery, internal development of policy instruments, training
+and development for staff, as well as building awareness;</p><p>6.1.7 identifying,
+addressing and monitoring departmental information management resource and
+training requirements;</p><p>6.1.8 ensuring the
+effectiveness of the IM policy and its instruments is regularly assessed
+against objectives within the department (e.g., every three years);</p><p>6.1.9 adopting, as
+applicable, government-wide solutions for IM within their respective
+departments; and</p><p>6.1.10 advising Treasury Board Secretariat (TBS) of
+any impact that new or amended legislation and policies will have on
+departmental IM.</p></section><section anchor="6.2" title="6.2 Managers"><p>Managers at all levels in a department have the role of managing resources,
+tools and processes in order to achieve assigned deliverables and
+outcomes. Managers are responsible for managing information as an
+integral part of their program and service delivery and as a strategic business
+resource by:</p><p>6.2.1 analysing the business
+process and conveying information requirements to information management
+functional specialists, i.e., what information the business process requires,
+produces, collects and stores; who needs access to it; for what purpose and for
+how long; and incorporating solutions into the business process;</p><p>6.2.2 applying information
+management policy, standards, procedures, directives, guidelines, tools and
+best practices, in the performance of the manager's duties, to ensure the
+authenticity and integrity of the information;</p><p>6.2.3 identifying
+information issues and requirements to information management functional
+specialists to ensure processes and systems appropriately address these issues
+and requirements;</p><p>6.2.4 ensuring employees
+understand and apply effective information management in day-to-day operations
+and that these responsibilities are included in performance objectives;</p><p>6.2.5 ensuring information
+management requirements are included in the contractual terms and conditions
+for contractors and others engaged in work on behalf of the GC; and</p><p>6.2.6 ensuring that appropriate
+arrangements are put in place for the management of
+information received from other federal
+departments and agencies and from individuals and entities outside of the
+federal government (e.g., private citizens, the private sector and
+other jurisdictions).</p></section><section anchor="6.3" title="6.3 Employees of the Government of Canada"><p>All employees are responsible for managing the information they collect,
+create and use as a valuable asset to support not only the outcomes of the
+programs and services, but also the department's operational needs and
+accountabilities by:</p><p>6.3.1 applying GC and
+departmental information management policy, standards, procedures, directives,
+guidelines, tools and best practices in a way that supports their department's
+business, as implemented in their department;</p><p>6.3.2 documenting their
+activities and decisions;</p><p>6.3.3 providing and bringing
+to their manager's attention information requirements and issues and, when
+appropriate, to information management functional specialists; and</p><p>6.3.4 treating departmental
+information in a manner that facilitates access while ensuring privacy and
+security requirements are met.</p></section><section anchor="6.4" title="6.4 IM functional specialists"><p>IM functional specialists are responsible for supporting the effective
+management of departmental information throughout its life cycle by:</p><p>6.4.1 implementing
+government-wide policies, directives and standards; adopting as appropriate
+procedures, guidelines, tools and best practices, as well as developing
+supporting departmental information management initiatives;</p><p>6.4.2 developing and
+delivering information management services, advice and training and awareness
+sessions to departmental personnel at all levels;</p><p>6.4.3 supporting integration
+of IM requirements into departmental business and information technology
+strategies and plans;</p><p>6.4.4 collaborating with
+program managers to address information life cycle requirements in the
+development and operation of processes, systems, standards and tools that
+support business information requirements; and</p><p>6.4.5 analysing newly
+introduced or changed legislation, policies and standards for IM impact.</p></section></chapter><chapter anchor="7" title="7. Monitoring"><section anchor="7.1" title="7.1 Within departments"><p>7.1.1 Deputy heads are
+responsible for monitoring adherence to this directive within their department,
+consistent with the provisions of the Treasury Board's <em><a href="/pol/doc-eng.aspx?id=12309">Policy on Evaluation</a></em>
+and <em><a href="/pol/doc-eng.aspx?id=12340">Policy on Internal Audit</a>.</em> Deputy heads are responsible for
+ensuring that appropriate remedial action is taken to address any deficiencies
+within their department.</p></section><section anchor="7.2" title="7.2 By departments"><p>7.2.1 Deputy heads will
+report concerns relating to information management roles and responsibilities
+to Treasury Board Secretariat as appropriate.</p></section><section anchor="7.3" title="7.3 Government-wide"><p>7.3.1 TBS will monitor
+compliance with all aspects of this directive and the achievement of expected
+results in a variety of ways, including but not limited to assessments under the
+<em><a href="/maf-crg/index-eng.asp">Management Accountability Framework</a></em>, examinations of Treasury Board
+submissions, Departmental Performance Reports, results of audits, evaluations
+and studies. TBS will also work directly with departments.</p><p>7.3.2 Treasury Board
+Secretariat (Chief Information Officer) will review this directive and its
+effectiveness at the five‑year mark from the effective date of the
+directive (or earlier if warranted). When substantiated by risk‑analysis,
+the Chief Information Officer Branch will also ensure an evaluation is
+conducted.</p></section></chapter><chapter anchor="8" title="8. Consequences"><p>8.1 Consequences of non-compliance can include
+informal follow-ups and requests from Treasury Board Secretariat, external
+audits, or formal direction on corrective measures.</p><p>8.2 Consequences of non-compliance with this directive can include any
+measure allowed by the <em>Financial Administration Act</em> that the Treasury
+Board would determine as appropriate and acceptable in the circumstances.</p></chapter><chapter anchor="9" title="9. Roles and responsibilities of other government organizations"><p><strong>Note: </strong>This section identifies other departments that
+have a role in the <em>Directive on Information Management Roles and
+Responsibilities</em>. In and of itself, this section does not confer an
+authority.</p><section anchor="9.1" title="9.1 Treasury Board Secretariat"><p>9.1.1 Provides interpretive
+advice and guidance on this directive;</p><p>9.1.2 Develops and promotes, in consultation with other federal government departments:</p><ul><li>a program and framework for the management of information;</li><li>enterprise information architecture including principles, methods,
+processes and standards to enable consistent information architecture across
+domains such as finance, human resources, etc.;</li><li>standards, procedures, directives, guidelines, tools and best practices
+that achieve the goals and expected results of this directive;</li></ul><p>9.1.3 Promotes functional
+communities for the management of information as required to support IM
+functional specialists; and</p><p>9.1.4 Develops competency
+and other professional standards for IM functional specialists as required.</p></section><section anchor="9.2" title="9.2 Library and Archives Canada"><p>Library and Archives Canada (LAC) is responsible for administering the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/L-7.7/">Library and Archives of Canada Act</a></em>.
+Notably, LAC:</p><p>9.2.1 acquires, preserves, makes known and facilitates
+access to the documentary heritage of Canada;</p><p>9.2.2 preserves the published heritage of the nation and of the
+Government of Canada;</p><p>9.2.3 provides direction and assistance on recordkeeping for the
+Government of Canada;</p><p>9.2.4 identifies, selects, acquires and preserves government
+records, as defined in the <em>Library and Archives of Canada Act</em>, in all
+media considered to be of enduring value to Canada as documentary heritage;</p><p>9.2.5 issues records disposition authorities, pursuant to section
+12 of the <em>Library and Archives of Canada Act</em>, to enable departments to
+carry out their records retention and disposition plans;</p><p>9.2.6 manages and protects the essential records and less
+frequently referenced material of federal government departments; and</p><p>9.2.7 assists federal government departments in ensuring that all
+of their published information is easily accessible to decision-makers and is
+available to the public.</p></section><section anchor="9.3" title="9.3 Statistics Canada"><p>Statistics Canada is responsible for administering the <em><a href="http://laws-lois.justice.gc.ca/en/S-19/index.html">Statistics Act</a></em>. Notably Statistics Canada:</p><p>9.3.1 collaborates with and
+provides assistance to federal government departments in the collection,
+compilation, analysis and publication of statistical information, including
+statistics derived from the activities of federal government departments; and</p><p>9.3.2 recognizes and
+addresses opportunities to avoid duplication in statistical collection across
+the Government of Canada.</p></section><section anchor="9.4" title="9.4 Public Works and Government Services Canada"><p>Public Works and Government Services Canada is responsible for common
+government information technology services including:</p><p>9.4.1 providing common
+government-wide information solutions for document management, web content
+management, portal and collaboration, and enterprise search management.</p></section><section anchor="9.5" title="9.5 Canada School of Public Service"><p>The Canada School of Public Service is
+responsible for the development and delivery of a government wide core learning
+strategy and program for all public servants involved in the management of
+information. These tasks are performed in consultation with the relevant
+functional authority centres and consistent with the <em><a href="/pol/doc-eng.aspx?id=12405">Policy on Learning,
+Training and Development</a></em>.</p></section></chapter><chapter anchor="10" title="10. References"><h3>Relevant legislation</h3><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/">Access to Information Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/en/C-5/">Canada Evidence Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/C-42/index.html">Copyright Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/C-47/">Criminal Records Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/e-4.6/index.html">Emergency Preparedness Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-5.5?noCookie">Federal Accountability Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/L-7.7/">Library and Archives of Canada Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/O-3.01/index.html">Official Languages Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/p-8.6/?noCookie">Personal Information Protection and Electronic Documents Act (Part 2)</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/">Privacy Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/en/O-5/index.html">Security of Information Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/en/S-19/index.html">Statistics Act</a></em></li></ul><h3>Related Treasury Board policies</h3><ul><li><em><a href="/pol/doc-eng.aspx?id=12453">Access to Information Policy</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12025">Common Services Policy</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12316">Communications Policy</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12541">Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12206">Policy on Electronic Authorization and Authentication</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12309">Policy on Evaluation</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12322">Government Security Policy</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12742">Policy on Information Management</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12340">Policy on Internal Audit</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12520">Policy on Language of Work</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12405">Policy on Learning, Training and Development</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12755">Policy on Management of Information Technology</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12412">Management, Resources and Results Structure Policy</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12521">Policy on Official Languages for Human Resources Management</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12510">Privacy and Data Protection Policy</a></em></li><li><em>Policy on Service<a href="#fn1" id="fnr1" title="See footnote 1">*</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=12526">Policy on the Use of Official Languages for Communications with and Services to the Public</a></em></li></ul><h3>Other publications</h3><ul><li><em><a href="/emf-cag/index-eng.asp">Enhanced Management Framework</a></em></li><li><em><a href="/fmi-cgi/index-eng.asp">Framework for the Management of Information </a></em><a href="/fmi-cgi/index-eng.asp">(FMI)</a></li><li><em>Directive on Information Technology Governance<a href="#fn1">*</a></em> (to be developed)</li><li><em><a href="/maf-crg/index-eng.asp">Management Accountability Framework</a></em></li></ul></chapter><chapter anchor="11" title="11. Enquiries"><p>Please direct enquiries about this
+directive to your department's headquarters. For interpretation of this
+directive, departmental headquarters should contact:</p><p>Information Management Strategies Division<br />
+Chief Information Officer Branch<br />
+Treasury Board of Canada Secretariat<br />
+Ottawa ON K1A 0R5</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix – Definitions"><p><strong>Note</strong>: The following supplements the terms and
+definitions provided in the <em>Policy on Information Management</em></p><dl><dt><strong>Information Management Functional Specialist</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Spécialiste fonctionnel en Gestion de l'information</em></span>)</dt><dd><p>is an employee who carries out roles and responsibilities that require function-specific knowledge, skills and attributes related to managing information such as those found in records and document management, library services, archiving, data management, content management, business intelligence and decision support, information access, information protection and information privacy.</p><p>The roles and responsibilities of information management functional specialists support departmental objectives and programs with planning, tools or services which provide accurate, reliable, current, and complete information to the appropriate people, in the appropriate format, at the appropriate time.</p></dd><dt><strong>Information Life cycle</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Cycle de vie de l'information</em></span>)</dt><dd>The life cycle of information management encompasses the following: planning; the collection, creation, receipt, and capture of information; its organization, use and dissemination; its maintenance, protection and preservation; its disposition; and evaluation.</dd><dt><strong>Senior Executive</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Cadre supérieur</em></span>)</dt><dd>is an executive level resource designated by the deputy head of the institution to provide a department-wide focus on the management of information.</dd></dl></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="*" tooltip="Return to footnote reference 1">Policy instruments or other documents referenced by title only and without links, are under development and not yet in effect. They will be published as they are approved.
+	</footnote></footnotes></doc>

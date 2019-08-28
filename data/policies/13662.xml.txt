@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Directives and Standards - General - Occupational Health and Safety" documentID="13662" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Introduction"><p>Public Service work operations and activities must be guided by
+standards designed to provide for acceptable conditions of occupational and
+environmental safety and health. Therefore, in keeping with its responsibilities
+under the <em>Financial Administration Act</em>, the Treasury Board has developed
+or adapted a range of standards governing the occupational safety and health of
+persons employed in the Public Service.</p></chapter><chapter anchor="2" title="Definition"><p>A standard is a document outlining specific or minimum working
+conditions to be fulfilled, and its development is the result of a particular
+consensus or standardization effort.</p><p>If the standard has been consulted upon within the National
+Joint Council and forms part of collective agreements, it holds the title of
+"directive".</p></chapter><chapter anchor="3" title="Objectives"><p>Standards are designed to provide measures which are considered
+necessary or appropriate for the prevention of accidents and injuries, and also
+for protection against exposure to unhealthy environmental or occupational
+factors. Standards are developed with the intention of protecting personnel from
+the hazards of their employment, and are conceived so as to exercise the minimum
+restriction or interference with operations or levels of service.</p></chapter><chapter anchor="4" title="Application"><p>Public Service occupational safety and health standards apply to
+all departments and agencies, as defined in Part I of Schedule I of
+the <em>Public Service Staff Relations Act</em>. The requirements of these
+standards, as well as specific directives or procedures issued pursuant to such
+standards, are mandatory. Where another code or standard is referred to in a
+Public Service standard, it is the responsibility of each department and agency
+to apply the most recent edition of such code or standard.</p></chapter><chapter anchor="5" title="Consultation"><p>All directives have been consulted upon within the National
+Joint Council (NJC) and are subject to ongoing consultation and concurrence
+whenever changes are proposed. Directives which have been signed-off within NJC
+now form part of each Public Service collective agreement and are subject to a
+six-year cyclical review process.</p></chapter><chapter anchor="6" title="Monitoring"><p>The Treasury Board, supported by the inspection, technical and
+advisory services of Labour Canada, and by the survey, investigation and
+consultative services of Health and Welfare Canada, will monitor the application
+of occupational safety and health standards in the Public Service.</p></chapter><chapter anchor="7" title="Reference"><p>This chapter replaces chapter 3 of PMM volume 12.</p></chapter><chapter anchor="8" title="Enquiries"><p>Enquiries about directives and standards should be referred to
+the responsible officers in departmental headquarters who, in turn, may direct
+questions regarding their interpretation to the following:</p><ul><li>Safety, Health and Employee Services Group</li><li>Staff Relations Division</li><li>Human Resources Policy Branch</li><li>Treasury Board Secretariat</li></ul></chapter></chapters></doc>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Defence Scientific Service Group - Pay Plan" documentID="12120" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><chapters><chapter anchor="1" title="Introduction"><p>1. The purpose of this document is to define the plan; to provide managers and employees with the information needed 
+to be able to apply the plan and understand its operation; to provide a common basis for dialogue between individual 
+managers about individuals and circumstances and between management and employee representatives about collective interests 
+in the plan; and to promote uniform application of the plan throughout the DS Group.</p></chapter><chapter anchor="2" title="Application"><p>2. This plan applies to those employed as members of the Defence Scientific Service Group in Grades DS-01 to DS-07 
+(employees in Grades DS-07a, DS-07b and DS-08 are excluded from this pay plan).</p></chapter><chapter anchor="3" title="Authority"><p>3. This plan was approved under TB Decision Number 769818 dated March 14, 1980, and was subsequently amended effective 
+March 1<sup>st</sup>, 1999 under TB Decision Number 826950 dated February 11, 1999.</p></chapter><chapter anchor="4" title="Classification"><p>4. The DS Classification and Selection Standard specifies that this is a person-oriented level description plan. 
+The candidate is appointed by staffing action at a designated classification level in relation to the characteristics 
+of the work to be performed and individual qualifications of the candidate.</p><p>5. The characteristics of each bargained level are summarized in the level determinants of the DS Classification 
+and Selection Standard and are attached for reference in Appendix A. An examination of these determinants will show 
+that they are descriptions written from a career perspective and not just from the short-term perspective of the current 
+assignment and performance. The degree of complexity and responsibility of a defence scientist's assignments tends 
+to increase as the employee matures (i.e. as knowledge and abilities develop with experience). The general characteristics 
+associated with an individual scientist are compared with the level determinants in order to establish his or her classification 
+level and state of professional development within the level. An employee's classification level is governed solely 
+by the Classification and Selection Standard and the DS Promotion and Salary Advancement Guidelines produced pursuant 
+to the Classification and Selection Standard, and is not a product of the Salary Progression Guidelines outlined in 
+paragraphs 11 to 16 below.</p></chapter><chapter anchor="5" title="Implementation"><section anchor="5.1" title="Merit review"><p>6. The purpose of the DS Merit Review is to assess the state of professional development of individual scientists 
+and to determine promotions and appropriate salary progression.</p><p>7. Actions resulting from a Merit Review shall be implemented effective April 1 of each year.</p><p>8. The Merit Review forms the basis for decisions to promote, withhold a pay increment, grant a single increment, 
+grant multiple increments and grant increments over a single or double barrier on the effective date.</p><p>9. The Merit Review is a three-stage process. The first stage is the provision of information about the employee, 
+with input from the employee, the immediate supervisor and the accountable manager, including assessment and salary 
+recommendations from the accountable manager. The second stage involves a review of the Performance Evaluation and 
+salary recommendation for each DS by a Reviewing Officer. The following types of cases shall be referred to the Defence 
+Scientist Human Resource Management Committee (DSHRMC):</p><ol class="lower-alpha"><li>recommendations that an employee or the reviewing officer do not agree to;</li><li>recommendations for the withholding of an increment or the awarding of more than 2 increments;</li><li>recommendations for promotion to DS-03, DS-04, DS-05, DS-06 and DS-07;</li><li>unsatisfactory assessment recommendations;</li><li>cases that, in the view of the Chairperson of the DSHRMC, should be reviewed by the Committee. Employees will 
+be informed if such action has been taken.</li></ol><p>Review by the DSHRMC is the third stage in the process. The DSHRMC normally consists of senior defence research 
+management and members of the external scientific community. The main responsibility of the DSHRMC is to review the 
+matters referred to it and to make the subsequent final decision on the resulting appointment levels and salary actions. 
+It is also responsible for ensuring that classification actions are administered in conformity with the DS Classification 
+Standard and that assessments, the pay plan and the standard are applied uniformly and equitably throughout the population 
+of employees to which they apply. When the DSHRMC changes a recommendation, an employee shall be provided with a written 
+explanation of such changes.</p></section><section anchor="5.2" title="DS assessment"><p>10. The factors that will be used in the DS assessment process are itemized in Appendix B.</p></section><section anchor="5.3" title="DS Salary progression guidelines"><p>11. The following guidelines are intended to permit progressive action towards providing employees with salaries 
+consistent with their state of professional development.</p><p>12. The normal rates of salary progression within the levels will be as follows:</p><ul><li>annual increments - DS-02, DS-03, DS-06 and DS-07</li><li>annual increments - below the double barriers in DS-04 and DS-05<br />   </li><li>biennial increments - crossing the double barriers in DS-04 and DS-05 and at each single barrier thereafter</li></ul><p>13. Employees in DS-03, and those below the double barriers in DS-04 and DS-05, may receive double increments if 
+they are developing at a much faster rate than normal towards meeting the criteria for promotion to the next level.</p><p>14. Slower than normal rates of salary progression may also occur.</p><p>15. Employees will be considered for promotion after one year at the DS-01 level and after one year at the maximum 
+of DS-02 and DS-03 levels, the double barrier in DS-04 and the sixth increment in DS-05. Consideration for promotion 
+can occur at other points on the salary scale.</p><p>16. There may be, on occasion, an assessment recommendation of "Unsatisfactory". An unsatisfactory rating would 
+occur where the evidence shows the employee's actual state of professional development to be unacceptably low by comparison 
+with the normal state of professional development for the employee's grade and salary. An employee whose performance 
+is assessed as "Unsatisfactory" will be denied advancement to the next step on the scale, and will be notified, in 
+writing, of the decision to that effect not more than six (6) weeks and not less than two (2) weeks 
+prior to the increment date.</p></section></chapter><chapter anchor="6" title="General"><section anchor="6.1" title="Rate of pay on initial appointment"><p>17. Entrants to the DS Group with a bachelor's degree or a bachelor's degree with limited experience will normally 
+be appointed at the DS-01 level. This level will also be used for term appointments of university graduate students 
+who demonstrate an interest in continuing employment within the group on completion of their graduate studies.</p><p>18. Entrants to the DS Group with a master's degree or a master's degree with limited experience will normally be 
+appointed in the DS-02 range.</p><p>19. Entrants to the DS Group with a PhD degree or a PhD degree with limited experience will normally be appointed 
+in the DS-03 range.</p><p>20. For experienced personnel, the rate of pay on initial appointment shall be a rate consistent with the appointment 
+level and assessed state of professional development.</p></section><section anchor="6.2" title="Rate of pay on promotion"><p>21. The guidelines describe the normal points at which employees may be recommended for promotion, but they are 
+not intended to prohibit promotion from any point in the pay range.</p><p>22. On promotion, an employee shall be paid a rate of pay that provides for an increase in salary that is at least 
+equal to the lowest pay increment for the level to which the employee is promoted.</p><p>23. Notwithstanding anything to the contrary, an employee who is promoted on a day on which he or she is also eligible 
+for consideration for an incremental increase, shall not normally receive that salary increment in addition to the 
+salary adjustment provided by paragraph 22.</p></section><section anchor="6.3" title="Significance of barriers"><p>24. All of the single barriers in DS-03 and below the double barriers in DS-04 and DS-05 are points at which the 
+salary of an employee, whose state of professional development is significantly lower than normally expected, may be 
+held for an additional year beyond that which is normal. In addition, the double barriers in the DS-04 and DS-05 ranges, 
+all of the single barriers above the double barriers in the DS-04 and DS-05 ranges, and all the single barriers in 
+the DS-06 and DS-07 pay ranges are points at which employees' salary progression may terminate because they have ceased 
+to demonstrate an increase in their state of professional development.</p></section><section anchor="6.4" title="Pay increment dates"><p>25. The date on which employees shall be considered eligible for pay increment consideration will be April 1.</p><p>26. The first review date for an employee shall be April 1 following the date of initial appointment to the DS Group, 
+provided that the employee has earned at least twenty-six (26) weeks of pay immediately prior to the April 1 review 
+date. An employee who has not completed this minimum requirement will not be entitled to the first merit review until 
+the next annual review date of April 1.</p></section></chapter><chapter anchor="7" title="Defence Scientific Service Group"><p>DS 01 $ _______ to _______</p><p>DS 02 $ _______  _______  _______  _______  _______</p><p>DS 03 $_______  _______  _______  /  _______  _______  /  _______  _______</p><p>DS 04 $ _______  _______  /  _______  _______  /  _______  _______  /  _______</p><p>_______  //  _______  /  _______  /  _______  /  _______  /  _______</p><p>DS 05 $ _______  /  _______  /  _______  /  _______  /  _______  /  _______  /  _______  /</p><p>_______  //  _______  /  _______</p><p>DS 06 $ _______  /  _______  /  _______  /  _______  /  _______  /  _______  /  ______</p><p>DS-07 $ _______  /  _______  /  _______  /  _______</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - DS Classification Standard"><section anchor="A.1" title="Defence scientist level 1"><h4>General characteristics</h4><p>This is the recruiting and learning level for members of the group who possess a bachelor's degree or a bachelor's 
+    degree and limited experience. The work is done under supervision either as a member of research and development (R&amp;D) 
+    teams or as an assistant to more senior members of the group. The level is also used for term appointments of university 
+    graduate students who demonstrate an interest in continuing employment within the group on completion of their graduate 
+    studies.</p><h4>Characteristic duties and responsibilities</h4><p>Participates in R&amp;D projects and studies, feasibility studies, field trials, tests and experiments; operational 
+    research and scientific analysis projects and studies; scientific and technological evaluations of foreign military 
+    activities, capabilities and equipment; the identification, location and selective acquisition of scientific and technological 
+    information from classified and proprietary sources.</p><p>Responsibilities are restricted in scope, complexity and requirement for independent interpretation. Supervisory 
+    responsibilities are limited to guidance and supervision of technical or support staff.</p><h4>Other level determinants</h4><p>Demonstrated competence in comparison with established standards of competence for scientists of similar academic 
+    background and experience, and evidence of promise of professional development.</p></section><section anchor="A.2" title="Defence scientist level 2"><h4>General characteristics</h4><p>This is the recruiting and developmental level for those with a master's degree or for members of the group with 
+    a bachelor's degree and research experience relevant to defence science. The work is done under general supervision 
+    either as a member of R&amp;D teams, or as an assistant to more senior members of the group.</p><h4>Characteristic duties and responsibilities</h4><p>Participates in R&amp;D projects and studies, feasibility studies, field trials, tests and experiments; operational 
+    research and scientific analysis projects and studies; scientific and technological evaluations of foreign military 
+    activities, capabilities and equipment; the identification, location and selective acquisition of scientific and technological 
+    information from classified and proprietary sources.</p><p>Responsibilities are restricted either in scope, complexity or requirement for independent interpretation. Supervisory 
+    responsibilities are limited to guidance and supervision of technical or support staff.</p><h4>Other level determinants</h4><p>Demonstrated competence, comparison with established standards of competence for scientists with similar relevant 
+    experience, evidence of promise of professional development.</p></section><section anchor="A.3" title="Defence scientist level 3"><h4>General characteristics</h4><p>This is a junior working level for those with the experience and expertise needed to undertake independent work 
+    in defence science and technology. It is the entrance level for those with a PhD degree and developmental level for 
+    those with a bachelor's or master's degree and experience directly related to the field of employment. Work will normally 
+    be done under general supervision and often as a member of a team.</p><h4>Characteristic duties and responsibilities</h4><p>Plans, organizes and conducts research, development, investigations, studies, evaluations, field trials and experiments 
+    requiring specialized knowledge in a professional discipline, of defence science and technology or of military operations 
+    and defence problem areas. Plans and conducts evaluations of foreign science and technology and work in the area of 
+    scientific information.</p><p>Responsibilities include accountability for evaluation, interpretation and reporting of results and for judgements 
+    made in the conduct of work; and for providing professional advice to scientific and military colleagues involved in 
+    the work. May be responsible for the co-ordination of technical activities with internal and external elements and 
+    for responding in timely fashion to external requests for consultation and problem solving. May represent the department 
+    on scientific and technological issues.</p><p>Responsibilities may include general supervision of junior professionals and technical support staff.</p><h4>Other level determinants</h4><p>Demonstrated competence and capabilities, comparison with established standards of competence for scientists with 
+    similar relevant experience, evidence of promise of professional development.</p></section><section anchor="A.4" title="Defence scientist level 4"><h4>General characteristics</h4><p>This is the working level for experienced officers who have demonstrated the ability to accept responsibility for 
+    and successfully conduct specific projects and investigations in specialized areas of defence science and technology 
+    and who may be required to plan and co-ordinate the work of project teams internally and with external organizations. 
+    Work will be under general supervision or under direction depending on the individual's demonstrated ability.</p><h4>Characteristic duties and responsibilities</h4><p>With respect to scientific R&amp;D and scientific analysis plans, organizes and conducts investigative activities requiring 
+    current specialized knowledge of defence science and technology; accepts responsibility and accountability for the 
+    evaluation, interpretation and reporting of results; formulates solutions for and provides advice on operational and 
+    equipment-related problems of the Canadian Forces; supervises technical and junior professional staff. With respect 
+    to scientific liaison, maintains contacts and exchanges information with colleagues in defence organizations in other 
+    countries, represents the department as technical expert in limited fields or as a junior member of an official liaison 
+    element in other countries. Duties in scientific advice, scientific planning and evaluation are normally limited in 
+    scope and outputs are intended for use within the department.</p><h4>Other level determinants</h4><p>Demonstrated competence and capabilities, depth and scope of work being done and of achievements, estimated potential 
+    for further advancement and comparison with group members with similar relevant experience.</p></section><section anchor="A.5" title="Defence scientist level 5"><h4>General characteristics</h4><p>This is the senior working level for mature, experienced officers who have established a recognized reputation and 
+    professional competency and leadership in a complex area of science and defence technology. They must have consistently 
+    demonstrated the ability to work under direction, to generate original and novel solutions to problems, and to meet 
+    scientific and technological objectives that are defined in broad terms, subject only to policy, budgetary or other 
+    general managerial or military limitations.</p><h4>Characteristic duties and responsibilities</h4><p>With respect to scientific R&amp;D and scientific analysis plans, organizes, conducts and controls projects, studies, 
+    etc., that demand leadership and direction of work of considerable scientific and technological scope and often involve 
+    several different aspects of the R&amp;D spectrum. Work may require supervision of personnel and direction of multi-disciplinary 
+    matrix-management type projects.</p><p>With respect to scientific liaison, maintains contacts with national and international science communities and represents 
+    national and organizational scientific and technological interests at national and international meetings. With respect 
+    to scientific advice, provides comprehensive scientific and technical evaluations and advice and in scientific planning 
+    and evaluation; formulates and develops proposals on scientific and technological policies and R&amp;D programs; and provides 
+    comprehensive assessments and evaluation of existing R&amp;D programs and activities. Duties in relation to the evaluation 
+    of foreign science and military technology and in scientific information activities are comprehensive and varied.</p><h4>Other level determinants</h4><p>Demonstrated competence and capabilities, depth and scope of work being done and of achievements, evidence of continued 
+    professional growth and development, estimated potential for further advancement and comparison with group members 
+    with similar relevant experience.</p></section><section anchor="A.6" title="Defence scientist level 6"><h4>General characteristics</h4><p>This is the select level of those who have consistently demonstrated exceptional scientific leadership and ability 
+    in highly complex and significant fields of defence science and technology and scientific analysis, and/or in directing 
+    and managing the work of multi-disciplinary groups of R&amp;D personnel. This level is also associated with senior staff 
+    positions in headquarters and foreign offices that require broad experience and exceptional ability to provide authoritative 
+    advice on the policy, planning, evaluation, co-ordination, technology transfer, foreign liaison, intelligence and information 
+    aspects of major national, international and departmental programs and issues in defence research and development. 
+    Wide latitude is provided for the application of independent scientific and technological judgement.</p><h4>Characteristic duties and responsibilities</h4><p>With respect to scientific R&amp;D and scientific analysis and normally under direction on the objectives of the work, 
+    conducts and manages major projects and scientific investigations requiring outstanding leadership abilities and performance 
+    in major complex areas of defence science, technology, military operations and policies. With respect to scientific 
+    liaison, represents the department on major issues of defence science and technology both nationally and internationally 
+    and provides support to national political and military representatives in foreign countries over the whole spectrum 
+    of defence science and technology. Provides advice to senior departmental personnel by the analysis, assessment and 
+    review of highly complex and advanced fields of defence science and technology and of departmental research and development 
+    programs and activities. In the areas of foreign science and military technology and acquisition of scientific and 
+    technological information, determines thrust, scope and depth of activities within the prescribed broad policy and 
+    resource limitations.</p><h4>Other level determinants</h4><p>Demonstrated competence and capabilities, depth and scope of work being done, of achievements, and of associated 
+    responsibilities, evidence of continued professional growth and development, evidence of development of managerial 
+    and similar skills and abilities, estimated potential for further advancement and comparison with other members at 
+    this level.</p></section><section anchor="A.7" title="Defence scientist level 7"><h4>General characteristics</h4><p>This level is primarily for those who have demonstrated exceptional ability to manage the R&amp;D activities of defence 
+    R&amp;D organizations and/or scientific analysis organizations and the resources - personnel, facilities and operating 
+    funds - allocated to those organizations and/or the co-ordination of R&amp;D programs or activities including determining 
+    the nature and priority of objectives within such organizations. Scientists with an exceptional record of achievements 
+    and scientific advisors in very senior advisory roles may also attain this level.</p><h4>Duties and responsibilities</h4><p>The management of defence research establishments and the co-ordination of major R&amp;D programs and activities.</p><p>The direction and conduct of R&amp;D at an exceptionally high level of achievement.</p><p>The provision of defence scientific and technological advice to the executive levels of the department.</p></section></appendix><appendix anchor="B" title="Appendix B - DS Performance Assessment Factors"><p>The assessment of an employee's state of professional development and productivity will be based on evidence related 
+to the three factors described below. The factors are intended to provide a means of assessing performance in a uniform 
+manner throughout the DS Group. They will also help individual employees to appreciate the basis on which performance 
+is assessed. The relative importance of each factor will depend on the nature of work, the level and the length of 
+experience of the individual, and undue significance should not be attached to the order of presentation below.</p><p>1. Effectiveness and productivity in scientific research, development and analysis (SRDA)</p><p>The measures of effectiveness in SRDA are:</p><ul><li><strong>Expertise</strong> (<span xml:lang="fr-CA"><em>connaissance techniques</em></span>) - the extent to 
+	which one is capable of being a source of current, knowledgeable 
+and dependable data, information, opinion and advice.</li><li><strong>Creativity</strong> (<span xml:lang="fr-CA"><em>créativité</em></span>) - the extent to which one is the 
+	source of new theoretical or experimental approaches, new 
+concepts, instrumentation or systems, adaptations of existing techniques, etc. to novel situations; and the extent 
+to which one sources new ideas and proposals for SRDA, whether through in-house work or as scientific authority in 
+contracting out and technology-transfer activities.</li><li><strong>Productivity</strong> (<span xml:lang="fr-CA"><em>productivité</em></span>) - the quality, quantity and value 
+	of accomplishments and contributions to the department, 
+whether through in-house work or as scientific authority in contracting out and technology-transfer activities.</li><li><strong>Recognition</strong> (<span xml:lang="fr-CA"><em>reconnaissance</em></span>) - the extent to which one's 
+	accomplishments and contributions in SRDA are known to, 
+and accepted by, peers, colleagues and superiors.</li><li><strong>Impact</strong> (<span xml:lang="fr-CA"><em>influence</em></span>) - the extent to which one has an effect 
+	on the quality, scope or direction of departmental activities and/or the extent to which one has added to scientific or technological knowledge.</li></ul><p>2. Effectiveness and productivity in representational and human relations activities</p><p>The measure of effectiveness in these activities is acceptance as a communicator, representative, advocate and negotiator 
+in SRDA matters and issues by peers, colleagues and superiors in the home establishment and elsewhere. The more important 
+the matter and issues entrusted to one and the more senior and wider the circle of one's activities, the greater is 
+the significance of this factor. Important areas where this factor is quite significant are technology transfer and 
+industrial liaison; scientific liaison with the Canadian Forces, other agencies and countries; scientific staff and 
+advisory positions; and contracting out.</p><p>3. Effectiveness and productivity in managerial activities</p><p>Management of defence SRDA involves organizing, planning and controlling diversified resources to execute the manager's 
+assignments, and the provision of leadership to, and evaluation of, other scientists, engineers and/or technologists. 
+The measures of effectiveness in these activities are provision of leadership; handling of complexities; obtaining, 
+motivating and evaluating staff; communicating; and judgement. The managerial functions may be carried out operationally 
+and executively (by line personnel and senior officers) or conceptually and consultatively (by staff and advisory personnel). 
+The more important and diverse the SRDA functions and the greater the productivity and effectiveness of the functions 
+managed, the greater is the significance of success in these activities.</p></appendix></appendices></doc>

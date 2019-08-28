@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Service outside Canada" documentID="13953" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy objective"><p>To provide special terms and conditions of employment for personnel serving outside Canada.</p></chapter><chapter anchor="2" title="Policy statement"><p>Living conditions and conditions of employment outside Canada are affected by a variety of circumstances over which
+  the employer and the employee have only limited control. In recognition of these differences, special terms and
+  conditions of employment are provided for career foreign service employees, foreign assignment employees, Heads of
+  Mission, members of the Canadian Forces serving outside Canada, members of the Royal Canadian Mounted Police serving
+  outside Canada, civilian foreign assignment employees serving abroad with the Canadian Forces and staff engaged locally
+  outside Canada.</p></chapter><chapter anchor="3" title="Application"><p>This policy applies to members of the Canadian Forces serving outside Canada, members of the Royal Canadian Mounted
+  Police serving outside Canada, staff engaged locally outside Canada and all employees serving outside Canada who are
+  within that portion of the Public Service of Canada</p><ol class="lower-roman"><li>listed in Part I of Schedule I to the <em>Public Service Staff Relations Act</em>;</li><li>listed in Part II of Schedule I to the <em>Public Service Staff Relations Act</em> and which is a member of the
+      National Joint Council of the Public Service of Canada and for which the Foreign Service Directives form part of their
+    collective agreements.</li></ol></chapter><chapter anchor="4" title="Policy requirements"><ol><li>The Foreign Service Directives apply to career foreign service employees, foreign assignment employees, Heads
+    of Mission, military attachés and their staff and members of the Royal Canadian Mounted Police serving outside
+    Canada.<br />
+	 <br />
+    The Foreign Service Directives are revised periodically following consultation in the National Joint Council of the
+    Public Service of Canada and are issued as a separate volume within the <em>Treasury Board Manual</em>.<br />
+	 </li><li>Civilian foreign assignment employees serving abroad with the Canadian Forces in a military environment come
+    under the same provisions as those that apply to their military counterparts except for relocation and leave
+    provisions, which are in accordance with the Foreign Service Directives. For all other purposes, these employees come
+    under the <em>Military Foreign Service Regulations</em>. These regulations are administered by the Department of National
+    Defence and enquiries should be directed to that department.</li><li>Persons serving at posts abroad in the role of Head of Mission come under the Heads of Post Directives.
+    Responsibility for the administration of these directives rests with External Affairs and International Trade Canada.
+    Any relevant enquiries should be directed to that department.</li><li>Members of the Canadian Forces serving outside Canada come under the provisions of the <em>Military Foreign
+    Service Regulations</em> and the <em>Foreign Duty Allowance Regulations</em> which are administered by the Department of
+    National Defence. Any relevant enquiries should be directed to that department.</li><li>Persons engaged locally outside Canada come under the provisions of the <em>Locally Engaged Staffs' Terms and
+    Conditions Regulations</em> (see chapter 2-2). Copies of these regulations are available from External Affairs and
+    International Trade Canada. Any relevant enquiries should be directed to that department.</li></ol></chapter><chapter anchor="5" title="Monitoring"><p>The Foreign Service Directives require reports to the Treasury Board Secretariat or to the appropriate foreign
+  service interdepartmental coordinating committee. Directive 70 of the Foreign Service Directives outlines the frequency
+  and details of the various reporting requirements.</p></chapter><chapter anchor="6" title="Reference"><p>This chapter replaces chapter 1-5 of PMM volume 8.</p></chapter><chapter anchor="7" title="Enquiries"><p>Except as noted above, enquiries about this policy should be referred to the responsible officers in departmental
+  headquarters who, in turn, may direct questions on policy interpretation to:</p><address class="indent1">Benefits Group,<br />
+    General Personnel Policy Development and Compensation Division<br />
+    Personnel Policy Branch,<br />
+    Treasury Board Secretariat,<br />
+    Ottawa, Ontario.<br />
+    K1A 0R5</address></chapter></chapters></doc>

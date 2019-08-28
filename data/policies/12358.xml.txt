@@ -1,0 +1,363 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+    <head>
+        <!-- Google Tag Manager (NOT BUILT IN TO THE CDN TEMPLATE) -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5HHZ4ST');</script>
+        <!-- End Google Tag Manager -->
+
+        <meta charset="utf-8"/>
+        <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+            wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+        <title>Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996- Canada.ca</title>
+        <meta content="width=device-width,initial-scale=1" name="viewport"/>
+        <!-- Load closure template scripts -->
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/soyutils.js"></script>
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/wet-en.js"></script>
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/plugins-en.js"></script>
+        <noscript>
+            <!-- Write closure fall-back static file -->
+            		<!--[if gte IE 9 | !IE ]><!-->
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/theme.min.css">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsfixes.css">
+		<!-- Are you using the application templates? If so add the following CSS file -->
+		<!-- <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsapps.css">-->
+		<!--<![endif]-->
+		<!--[if lt IE 9]>
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/favicon.ico" rel="shortcut icon" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/ie8-theme.min.css" />
+		<![endif]-->
+		<!--[if lte IE 9]><![endif]-->
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/noscript.min.css" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsnoscript.css" />
+        </noscript>
+         <!-- Write closure template -->
+        <script type="text/javascript">
+            document.write(wet.builder.refTop({"cdnEnv":"prod","isApplication":false}));
+        </script>
+
+        <meta name="WebConfigHost" content="www" />
+<link rel="stylesheet" href="./css/pol.css" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<meta name="type" content="Guide" />
+<meta name="typeid" content="13" />
+<meta name="status" content="Approved" />
+<meta name="statusid" content="1" />
+<meta name="instrumentversion" content="Current" />
+<meta name="instrumentversionid" content="7" />
+<meta name="plannedactionid" content="266" />
+<script src="//assets.adobedtm.com/caacec67651710193d2331efef325107c23a0145/satelliteLib-c2082deaf69c358c641c5eb20f94b615dd606662.js"></script>
+<meta name="dc.title" content="Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996">
+<meta name="dcterms.title" content="Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996">
+<meta name="dcterms:title" content="Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996">
+<meta name="gc.description.Long" content="Constitutes a questionnaire that enables line managers and those responsible for official languages to quickly assess the official languages situation in their area of responsibility.">
+<meta name="dcterms.description" content="Constitutes a questionnaire that enables line managers and those responsible for official languages to quickly assess the official languages situation in their area of responsibility.">
+<meta name="dcterms:description" content="Constitutes a questionnaire that enables line managers and those responsible for official languages to quickly assess the official languages situation in their area of responsibility.">
+<meta name="dc.creator" content="Treasury Board of Canada Secretariat">
+<meta name="dcterms.creator" content="Treasury Board of Canada Secretariat">
+<meta name="dcterms:creator" content="Treasury Board of Canada Secretariat">
+<meta name="gc.institution" content="Government of Canada">
+<meta name="dc.language" title="ISO639-2" content="eng">
+<meta name="dcterms.language" title="ISO639-2/T" content="eng">
+<meta name="dcterms:language" title="ISO639-2/T" content="eng">
+<meta name="dc.audience" content="public">
+<meta name="dc.date.issued" title="W3CDTF" content="2006-03-06">
+<meta name="dcterms.issued" title="W3CDTF" content="2006-03-06">
+<meta name="dcterms:issued" title="W3CDTF" content="2006-03-06">
+<meta name="dc.date.modified" title="W3CDTF" content="1996-03-01">
+<meta name="dcterms.modified" title="W3CDTF" content="1996-03-01">
+<meta name="dcterms:modified" title="W3CDTF" content="1996-03-01">
+<meta name="dc.spatial.country" content="Canada">
+<meta name="dcterms.spatial" content="Canada">
+<meta name="dcterms:spatial" content="Canada">
+<meta name="dcterms.service" content="pol">
+<meta name="dcterms:service" content="pol">
+<meta name="dcterms.accessRights" content="2">
+<meta name="dcterms:accessRights" content="2">
+
+        <!-- GoC.WebTemplate Version ASPX 4.0.27.1 -->
+        <!-- GoC.WebTemplate.Core Version 1.0.6596.29129 -->
+    </head>
+    <body vocab="http://schema.org/" typeof="WebPage">
+        
+        <div id="def-top">
+            <!-- Write closure fall-back static file -->
+            		<ul id="wb-tphp">
+			<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+			<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Skip to "About this site"</a></li>
+		</ul>
+		<header role="banner">
+			<div id="wb-bnr" class="container">
+				<div class="row">
+					<div class="brand col-xs-8 col-sm-9 col-md-6">
+						<a href="https://www.canada.ca/en.html"><object type="image/svg+xml" tabindex="-1" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/sig-blk-en.svg"></object><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+					</div>
+					<section class="wb-mb-links col-xs-4 col-sm-3 visible-sm visible-xs" id="wb-glb-mn">
+						<h2>Search and menus</h2>
+						<ul class="list-inline text-right chvrn">
+							<li><a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">Search and menus</span></span></span></a></li>
+						</ul>
+						<div id="mb-pnl"></div>
+					</section>
+					<section id="wb-srch" class="col-xs-6 text-right visible-md visible-lg">
+						<h2>Search</h2>
+						<form action="https://www.canada.ca/en/sr.html" method="get" name="cse-search-box" role="search" class="form-inline">
+							<div class="form-group">
+								<label for="wb-srch-q" class="wb-inv">Search website</label>
+								<input name="cdn" value="canada" type="hidden">
+								<input name="st" value="s" type="hidden">
+								<input name="num" value="10" type="hidden">
+								<input name="langs" value="en" type="hidden">
+								<input name="st1rt" value="1" type="hidden">
+								<input name="s5bm3ts21rch" value="x" type="hidden">
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+								<input type="hidden" name="_charset_" value="UTF-8">
+								<datalist id="wb-srch-q-ac">
+									<!--[if lte IE 9]><select><![endif]-->
+									<!--[if lte IE 9]></select><![endif]-->
+								</datalist>
+							</div>
+							<div class="form-group submit">
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			<nav role="navigation" id="wb-sm" class="wb-menu visible-md visible-lg" typeof="SiteNavigationElement">
+				<div class="container nvbar">
+					<h2>Topics menu</h2>
+					<div class="row">
+						<ul class="list-inline menu">
+							<li><a href="https://www.canada.ca/en/services/jobs.html">Jobs</a></li>
+							<li><a href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration</a></li>
+							<li><a href="https://travel.gc.ca/">Travel</a></li>
+							<li><a href="https://www.canada.ca/en/services/business.html">Business</a></li>
+							<li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+							<li><a href="https://www.canada.ca/en/services/health.html">Health</a></li>
+							<li><a href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+							<li><a href="https://www.canada.ca/en/services.html">More services</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<nav role="navigation" id="wb-bc" property="breadcrumb">
+				<h2>You are here:</h2>
+				<div class="container">
+					<div class="row">
+						<ol class="breadcrumb">
+							<li><a href="https://www.canada.ca/en.html">Home</a></li>
+						</ol>
+					</div>
+				</div>
+			</nav>
+		</header>
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defTop = document.getElementById("def-top");
+            defTop.outerHTML = wet.builder.top({"cdnEnv":"prod","search":true,"lngLinks":[{"href":"doc-fra.aspx?id=12358&section=xml","lang":"fr","text":"Français"}],"showPreContent":true,"breadcrumbs":[{"href":"http://www.canada.ca/en/index.html","title":"Home"},{"href":"http://www.canada.ca/en/government/system/index.html","title":"How government works"},{"href":"index-eng.aspx","title":"Policies, directives, standards and guidelines"},{"href":"doc-eng.aspx?id=12358","title":"Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996"}],"topSecMenu":false,"siteMenu":true});
+        </script>
+
+        <main role="main" property="mainContentOfPage" class="container">
+
+            <!-- the main content -->
+            
+    <h1 id="wb-cont" property="name">Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996</h1>
+    <div class="row">
+        <div class="col-md-12">
+            Constitutes a questionnaire that enables line managers and those responsible for official languages to quickly assess the official languages situation in their area of responsibility.
+        </div>
+        <div class="col-md-12 text-right">
+            Date modified: 1996-03-01
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            
+            
+
+            <div class="row mrgn-tp-md">
+                
+
+                <!--googleoff: all-->
+                <section class="col-md-4 pull-right">
+                    
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="glyphicon glyphicon-info-sign pull-right"></span>More information</h2></summary>
+
+                        
+                            <p><strong>Policy:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                            
+                                <li><a href="doc-eng.aspx?id=26160">Official Languages, Policy on</a></li>
+                            
+                            </ul>
+                        
+                            <p><strong>Terminology:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                                
+                                
+                                    <li><a href="doc-eng.aspx?id=12358&section=glossary">Glossary</a></li>
+                                
+                            </ul>
+                        
+
+                    </details>
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="fa fa-sitemap pull-right"></span>Hierarchy</h2></summary>
+                        <div class="tv">
+<ul class="tv-ul">
+<li class="tv-li tv-first tv-last" aria-expanded="true">
+<div class="tv-top">
+<span class="tv-sp"></span><a href="#" class="tv-plus tv-action-expand"><img alt="Official Languages, Policy on is collapsed. Click to expand." src="./img/tv/plus.png" /></a><a href="#" class="tv-minus tv-action-collapse"><img alt="Official Languages, Policy on is expanded. Click to collapse." src="./img/tv/minus.png" /></a>
+<a href="doc-eng.aspx?id=26160" class="tv-in">Official Languages, Policy on</a>
+</div>
+<ul class="tv-ul">
+<li class="tv-li tv-last">
+<div class="tv-top">
+<span class="tv-sp"></span>
+<a href="doc-eng.aspx?id=12358" class="tv-in"><strong>Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996</strong></a>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+
+                        <a class="btn btn-link" href="hierarch-eng.aspx#id12358"><span class="fa fa-sitemap"></span> View complete hierarchy</a>
+                        </div>
+
+                    </details>
+                    
+
+                </section>
+                <!--googleon: all-->
+
+                
+                <section class="col-md-8">
+                    
+                            <div id="ctl00_MainContent_AlternateFormatsNotAvailable">
+                                <h2>Alternate formats</h2>
+                                <span class="text-muted"><em>Not available</em></span>
+                            </div>                            
+                            
+                            <div class="clearfix"></div>
+                            
+
+                            <!-- ISBN data not available -->
+
+                            
+                </section>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+            <!-- end main content -->
+            <div id="def-preFooter">
+                <!-- Write closure fall-back static file -->
+                			<div class="row pagedetails">
+				<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+					<a href="https://www.canada.ca/en/report-problem.html" class="btn btn-default btn-block">Report a problem or mistake on this page</a>
+				</div>
+				<div class="datemod col-xs-12 mrgn-tp-lg">
+					<dl id="wb-dtmd">
+						<dt>Date modified:&#32;</dt>
+						<dd><time property="dateModified">2017-08-24</time></dd>
+					</dl>
+				</div>
+			</div>
+            </div>
+            <!-- Write closure template -->
+            <script type="text/javascript">
+                var defPreFooter = document.getElementById("def-preFooter");
+                defPreFooter.outerHTML = wet.builder.preFooter( {"cdnEnv":"prod","dateModified":"1996-03-01","showPostContent":true,"showFeedback":false,"showShare":["bitly","blogger","delicious","digg","diigo","email","facebook","gmail","googleplus","linkedin","myspace","pinterest","reddit","stumbleupon","tumblr","twitter","yahoomail"]});
+            </script>
+        </main>
+        <div id="def-footer">
+            <!-- Write closure fall-back static file -->
+            		<aside class="gc-nttvs container">
+			<h2>Government of Canada activities and initiatives</h2>
+			<div id="gcwb_prts" class="wb-eqht row">
+				<p class="mrgn-lft-md"><a href="https://www.canada.ca/activities.html">Access Government of Canada activities and initiatives</a></p>
+			</div>
+		</aside>
+		<footer role="contentinfo" id="wb-info">
+			<nav role="navigation" class="container wb-navcurr">
+				<h2 class="wb-inv">About government</h2>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+					<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+					<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+					<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+					<li><a href="https://www.canada.ca/en/news.html">News</a></li>
+					<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+					<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+					<li><a href="http://pm.gc.ca/eng">Prime Minister</a></li>
+					<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+					<li><a href="http://open.canada.ca/en/">Open government</a></li>
+				</ul>
+			</nav>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">About this site</h2>
+							<ul>
+								<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+								<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+								<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-2 text-right">
+							<object type="image/svg+xml" tabindex="-1" role="img" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/wmms-blk.svg" aria-label="Symbol of the Government of Canada"></object>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defFooter = document.getElementById("def-footer");
+            defFooter.outerHTML = wet.builder.footer( {"cdnEnv":"prod","showFooter":true,"showFeatures":true});
+        </script>
+        <!-- Write closure template -->
+            <script type="text/javascript">
+                document.write(wet.builder.refFooter({"cdnEnv":"prod","exitScript":false,"displayModal":false}));
+            </script>
+        <script src="scripts/ps-1.0.0.js"></script>
+<script>if (!!PS) { PS.Root="/pol"; }</script>
+<script src="scripts/PagePreferences.js"></script>
+<script>PS.InstrumentId=12358;</script>
+<script src="scripts/lh-1.0.0.js"></script>
+<script src="scripts/tv-1.0.3.js"></script>
+<script src="scripts/bootstrap.tooltip-3.3.6.js"></script>
+<script src="scripts/bootstrap.popover-3.3.6.js"></script>
+<script src="scripts/bootstrap.accessibility-plugin.js"></script>
+<script src="scripts/gls-0.0.1.js"></script>
+<!--googleoff: all-->
+<script>GLOSSARY.Terms = [{"id":11147,"definition":"\u003cp\u003eEnglish-speaking population in Quebec and French-speaking population outside Quebec.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"English and French linguistic minority communities","nameTranslation":""},{"id":11142,"definition":"\u003cp\u003eClearly indicate visually and verbally that members of the public can communicate with and obtain services from a designated office in either English or French. Mechanisms are in place to ensure that services are available in the official language chosen. The availability of communications and services in both official languages can be promoted in a number of ways:\u003c/p\u003e\u003cul\u003e\u003cli\u003eProminently displaying the official languages symbol\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cimg src=\"/pol-cont/26160-01-eng.jpg\" width=\"23\" height=\"23\" alt=\"The official languages symbol: greeting the public in both official languages, beginning with French displayed first\" /\u003e in Quebec and\u003c/p\u003e\u003cp\u003e\u003cimg src=\"/pol-cont/26160-02-eng.jpg\" width=\"23\" height=\"23\" alt=\"The official languages symbol: greeting the public in both official languages, beginning with English displayed first\" /\u003e elsewhere in Canada.\u003c/p\u003e\u003cp\u003eInstitutions for which Treasury Board is not the employer may use this symbol or a comparable symbol.\u003c/p\u003e\u003cul\u003e\u003cli\u003eGreeting members of the public in both official languages, beginning with the official language of the majority of the population of the province or territory where the office is located.\u003c/li\u003e\u003cli\u003eEnsuring that the office\u0027s recorded messages are entirely in both official languages.\u003c/li\u003e\u003cli\u003eDisplaying forms and brochures of institutions subject to the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e in a manner that respects the equal status of English and French.\u003c/li\u003e\u003cli\u003eUsing permanent or temporary signs in both official languages to direct the public within an office.\u003c/li\u003e\u003cli\u003eEnsuring public-access computers permit the use of English and French software and keyboards.\u003c/li\u003e\u003c/ul\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"actively offers (active offer)","nameTranslation":""},{"id":11151,"definition":"\u003cp\u003eIn bilingual regions, personal and central services are offered to all employees in the official language of their choice. These services are those that affect the employee on a personal level (their health and well-being, personal development, their career) or that are essential for the employee to perform their duties. Some examples:\u003c/p\u003e\u003cp\u003ePersonal services:\u003c/p\u003e\u003cul\u003e\u003cli\u003epay and benefits services\u003c/li\u003e\u003cli\u003ecareer counselling services\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCentral services:\u003c/p\u003e\u003cul\u003e\u003cli\u003einformation systems services\u003c/li\u003e\u003cli\u003elegal services\u003c/li\u003e\u003c/ul\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"personal and central services","nameTranslation":""},{"id":11149,"definition":"\u003cp\u003eAny correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine readable record, and any other documentary material, regardless of whether it\u0027s in physical, electronic or any other format, and any copy thereof.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"method of communication","nameTranslation":""},{"id":11150,"definition":"\u003cp\u003eThe official languages unit is a structure whose size and role are appropriate with regard to the institution\u0027s mandate. The unit may be a distinct unit, or it may be combined with another unit within the institution.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"official languages unit","nameTranslation":""},{"id":11144,"definition":"\u003cp\u003eAn organizational culture in which employees are systematically encouraged to use the official language of their choice in the workplace.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"conducive (workplace)","nameTranslation":""},{"id":11153,"definition":"\u003cp\u003eSubstantive equality is achieved when one takes into account, where necessary, the differences in characteristics and circumstances of minority communities and provides services with distinct content or using a different method of delivery to ensure that the minority receives services of the same quality as the majority. This approach is the norm in Canadian law. Please also see the \u003cem\u003e\u003ca href=\"/olo/caldech/analytical-analyse-eng.asp\"\u003eAnalytical Grid (Substantive Equality)\u003c/a\u003e\u003c/em\u003e.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"substantive equality","nameTranslation":""},{"id":11146,"definition":"\u003cp\u003eAn office is designated bilingual for communications with and services to the members of the public if it meets criteria set out in the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e or in the Regulations such as (not an exhaustive list):\u003c/p\u003e\u003cul\u003e\u003cli\u003ean institution\u0027s head or central office;\u003c/li\u003e\u003cli\u003ean office within the National Capital Region;\u003c/li\u003e\u003cli\u003ean office of an institution that reports directly to Parliament;\u003c/li\u003e\u003cli\u003ean office where there is significant demand for services in either official languages;\u003c/li\u003e\u003cli\u003ean office, where due to its nature, it is reasonable that communications with and services from that office be available in both English and French.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eA list of offices designated bilingual is available in \u003cem\u003e\u003ca href=\"https://www.tbs-sct.gc.ca/burolis/search-recherche/search-recherche-eng.aspx\"\u003eBurolis\u003c/a\u003e\u003c/em\u003e.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"designated offices","nameTranslation":""},{"id":11143,"definition":"\u003cp\u003eThe \u003ca href=\"http://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/chap5_1-eng.asp\"\u003elist of Bilingual Regions of Canada for Language-of-Work Purposes\u003c/a\u003e is available on the TBS Web site.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"bilingual regions","nameTranslation":""},{"id":11145,"definition":"\u003cp\u003eThis term is equivalent to \"deputy minister\", \"chief executive officer\" and other titles denoting this level of responsibility.\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"deputy heads","nameTranslation":""},{"id":11148,"definition":"\u003cp\u003eInstitution means:\u003c/p\u003e\u003cul\u003e\u003cli\u003eAny institution subject to Parts IV, V and VI and section 91 of the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e, except for the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer and the office of the Conflict of Interest and Ethics Commissioner. For a formal definition of “federal institutions”, see section 3 of the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e; and\u003c/li\u003e\u003cli\u003eAny institution whose acts of incorporation provide for the application of the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e (e.g. Air Canada and NavCanada). \u003c/li\u003e\u003c/ul\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"institutions","nameTranslation":""},{"id":11152,"definition":"\u003cp\u003eAny person, group of persons (professional associations or others) or organization or company (other than a Crown corporation) in Canada or abroad, any representative of another level of government communicating with or receiving a service from an institution, excluding officers and employees of institutions subject to the \u003cabbr title=\"Official Languages Act\"\u003eOLA\u003c/abbr\u003e when carrying out their duties\u003c/p\u003e","instrumentId":26160,"instrumentTitle":"Official Languages, Policy on","name":"public","nameTranslation":""}]</script>
+<!--googleon: all-->
+<script type="text/javascript" src="./scripts/ga/googleanalytics.js"></script>
+<noscript><iframe title="Google Tag Manager Canada" src="//www.googletagmanager.com/ns.html?id=GTM-MG4LMJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MG4LMJ');</script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+    </body>
+</html>
+

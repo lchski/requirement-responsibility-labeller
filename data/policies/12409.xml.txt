@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="iso-8859-1"?><doc title="Standards on Knowledge for Required Training" documentID="12409" versionID="4" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><chapters><chapter anchor="1" title="1. Effective Date"><p>1.1 These <em>Standards</em> take effect on June 15, 2007.</p><p>1.2 Implementation of requirements found in paragraph 5.1 relating to knowledge elements for managers at all levels (Appendix 1) will be phased in no later than September of each year starting in 2008.</p><p>1.3 Implementation of requirements found in paragraph 5.2 relating to knowledge elements for employees newly appointed to the core public administration (Appendix 2) will be phased in no later than September of each year starting in 2009.</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 These <em>Standards</em> apply to the core public administration - as defined in the <em>Financial Administration Act</em>, i.e. the departments named in Schedule I and the other portions of the federal public administration named in Schedule IV of the Act.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1 These <em>Standards</em> establish the common knowledge elements linked to legal responsibilities of managers at all levels and employees newly appointed to the core public administration regardless of their functions, organization or profession. They do not replace professional standards established by functional authorities.</p><p>3.2 These <em>Standards</em> help implement requirements stipulated in subparagraphs 6.1.1, 6.2 and 6.4 of the <em><a href="/pol/doc-eng.aspx?id=12405">Policy on Learning, Training and Development</a></em> (the <em>Learning Policy</em>). They provide guidance to the Canada School of Public Service (CSPS) on knowledge elements to incorporate in courses, programs and knowledge assessment instruments developed to meet policy requirements in relation 
+to required training.</p><p>3.3 Effective implementation of these <em>Standards</em> results in the following:</p><div class="indent1">
+3.3.1 employees newly appointed to the core public administration share a common understanding of their legal responsibilities as public servants; and
+<p>3.3.2 managers at all levels have the necessary knowledge of legal responsibilities to effectively exercise their delegated authorities.</p></div><p>3.4 These <em><a href="/pol/doc-eng.aspx?id=12405#b10" title="Policy on Learning, Training, and Development">Standards</a></em> are issued pursuant to a delegation of the Treasury Board to the Chief Human Resources Officer (OCHRO), the Secretary of the Treasury Board (TBS), and the Comptroller General of Canada (OCG) to issue standards for the portion of the <em>Learning Policy</em> for which they are responsible. This delegation is authorized by section 
+6 of the <em>Financial Administration Act.</em></p><p>3.5 These <em>Standards</em> are to be read in conjunction with the <a href="/pol/doc-eng.aspx?id=12405"><em>Policy on Learning, Training and Development</em></a>, the related <a href="/pol/doc-eng.aspx?id=12407"><em>Directive on the Administration of Required Training</em></a> and the <em><a href="/pol/doc-eng.aspx?id=13616">Foundation Framework for Treasury 
+Board Policies</a></em> which explain the purpose of Treasury Board policies and other policy instruments; summarize general requirements common to all Treasury Board policy instruments; and build on the <em><a href="http://www.pco-bcp.gc.ca/default.asp?Page=Publications&amp;Language=E&amp;doc=gdm-gsm/gdm-gsm_doc_e.htm">Guidance for Deputy Ministers</a></em> and <em><a href="http://pm.gc.ca/grfx/docs/guide_e.pdf">Accountable Government: A Guide for Ministers</a></em> (Privy Council Office) by 
+explaining the general responsibilities, accountabilities and expectations of ministers and deputy heads in applying Treasury Board policy instruments.</p></chapter><chapter anchor="4" title="4. Definitions"><p>4.1 The definitions to be used for purposes of these <em>Standards</em> are those included in the <em><a href="/pol/doc-eng.aspx?id=12407">Directive on the Administration of Required Training</a></em>.</p></chapter><chapter anchor="5" title="5. Requirements"><p>5.1 The list of knowledge elements found in Appendix 1 is to be used by the CSPS to design and regularly update the content of required training courses, programs and knowledge assessment instruments for managers at all levels. Knowledge elements followed by an asterisk (*) are to be integrated on a priority basis in the content of required training courses, programs and knowledge assessment instruments 
+for managers at all levels. The remaining knowledge elements will be integrated in other educational venues.</p><p>5.2 
+The list of knowledge elements found in Appendix 2 is to be used by the CSPS to design and regularly update the content 
+of the required training orientation program for employees newly appointed to the core public administration.</p><p>The 
+Orientation to the Public Service program will focus on the employee responsibilities which derive from legislation and 
+related policy instruments listed in Appendix 2: Knowledge Elements for Newly Appointed Employees. </p><p>Specific 
+priority elements have not been identified in Appendix 2; rather all are essential content for the required training 
+program for new employees</p><p>5.3 Knowledge elements for managers at all levels are organized in the following categories:</p><ul><li>Values and Ethics;</li><li>Official Languages;</li><li>Management of Communications and Government Information;</li><li>Management of Human Resources including Employment Equity;</li><li>Expenditure and Financial Management; and</li><li>Management of Assets and Acquired Services (including contracting).</li></ul><p>5.4 Knowledge elements for newly appointed employees are organized in the following categories: </p><ul><li>Values and Ethics</li><li>Official Languages</li><li>Terms and Conditions of Employment</li><li>Employment Equity and Duty to Accommodate</li><li>Communications and Government Information</li><li>Labour Relations and Benefit Plans</li><li>Financial Resources</li></ul><p>5.5 The Chief Human Resources Officer, the Secretary of the Treasury Board, the Comptroller General of Canada and the President of the Public Service Commission (PSC) are responsible for establishing and regularly updating these <em>Standards</em> for policy sectors under their responsibility. Policy sectors will update knowledge elements under their responsibility 
+as needed, and provide their updates to OCHRO.</p><p>5.6 In addition to providing yearly updates, these organizations are responsible for promptly informing OCHRO and the CSPS of any change to legal and policy instruments that may have a substantial impact on required training knowledge elements.</p><p>5.7 OCHRO is responsible for the coordination of updates to the list of knowledge elements by policy sectors and for the release of revised <em>Standards</em> by January 30<sup>th</sup> of each year starting in January 2009.</p><p>5.8 OCHRO, TBS and the PSC are responsible for working in close collaboration with the CSPS to determine, having regards to the level of participants and training time constraints, the extent to which knowledge elements under their responsibility will be integrated in the required training courses, programs and knowledge assessment instruments.</p><p>5.9 CSPS is responsible for establishing, having regards to the level of participants and training time constraints, the proportion of the required training to be devoted to the acquisition of knowledge and its application in the context of their work.</p></chapter><chapter anchor="6" title="6. Monitoring and Reporting Requirements"><p>6.1 OCHRO is responsible for reviewing the effectiveness of these <em>Standards</em> at the five-year anniversary of implementation of the <em>Learning Policy</em>. Where substantiated by risk-analysis, 
+OCHRO will also ensure an evaluation is conducted.</p></chapter><chapter anchor="7" title="7. Enquiries"><p>7.1 For interpretation of these <em>Standards</em>, please contact:</p><p>Public Service Learning Policy<br />
+Leadership and Talent Management<br />
+Office of the Chief Human Resources Officer<br />
+Ottawa, Ontario K1A 0R5<br />
+Tel: (613) 943-5507<br />
+Fax: (613) 943-6688<br />
+E-mail: <a href="mailto:re-info@tbs-sct.gc.ca">re-info@tbs-sct.gc.ca</a><br />
+Web site: <a href="http://www.tbs-sct.gc.ca/chro-dprh/index-eng.asp">http://www.tbs-sct.gc.ca/chro-dprh/index-eng.asp</a></p></chapter></chapters><appendices><appendix anchor="A" title="Appendix 1 - Knowledge Elements for First-Time Managers at all Levels"><div class="lightgreyBG borderSimple"><p><strong>Preamble</strong> - excerpts from the <em><a href="/pol/doc-eng.aspx?id=13616">Foundation Framework for Treasury Board Policies</a></em></p><p>The government's management regime establishes minimum standards for <em>how</em> ministers and deputy heads use their authorities and manage public resources. This management regime consists of sound management <strong>practices,</strong> strong public service <strong>values</strong>, and clear
+    <strong>rules</strong> set out in legislation and Treasury Board policies.</p><p>Consistent with the Expenditure Management System renewal, managers are expected to design and manage their programs in a way that achieves results for Canadians. The intended results should be clear and measurable; performance should be tracked and evaluated and reliable performance information should be factored into all expenditure management planning, decision-making and reporting.</p><p>Modern public sector management <strong>practices</strong> are set out in the <a href="/maf-crg/documents/booklet-livret/booklet-livret-eng.asp">Management Accountability Framework (MAF)</a>, which establishes general expectations of deputy heads. The MAF describes the general and interdependent management practices, such as accountability, stewardship, values, and performance that every organization needs in order to create a productive and innovative working 
+    environment. The MAF also serves as a tool for both departments and Treasury Board to assess management performance.</p><p>The MAF emphasizes strong <strong>values</strong> as being fundamental to guiding sound management decisions. The <em><a href="/pubs_pol/hrpubs/tb_851/vec-cve-eng.asp">Values and Ethics Code for the Public Service</a></em> states "how ends are achieved should be as important as the achievements themselves". The manner in which results are achieved is an important reflection of the democratic, ethical, professional, and people values described in the Code. Canadians will look 
+    to both the results achieved and the means used to assess their trust in the competence and integrity of the government.</p><p>Beyond the general expectations of MAF and the requirements of the Code, certain management functions must be conducted according to specific <strong>rules</strong> that are set out in legislation and policies. As appropriate, the <a href="/tbs-sct/abu-ans/tb-ct/abu-ans-eng.asp">Treasury Board</a> issues policy instruments pursuant to the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-11/">Financial Administration Act</a></em> and more than
+    <a href="/tbs-sct/abu-ans/tbs-sct/abu-ans-eng.asp">20 other pieces of enabling legislation</a> that provide it with the authority to establish pay rates and benefits for government employees, control and report on public expenditures, and establish rules for managing people and public resources.</p></div><table class="table table-bordered table-condensed"><tr class="active"><th scope="col"><p><strong>Overview of the Management Accountability Framework</strong></p><p><strong>A comprehensive and integrated model for management and management improvement</strong></p></th><th scope="col" class="text-center"><strong>Priority Elements</strong></th></tr><tr><td>MAF Vision: the integrated set of 10 management expectations of deputy ministers</td><td class="text-center"><strong>*</strong></td></tr><tr><td>MAF Assessment: oversight of the state of management</td><td class="text-center"><strong>*</strong></td></tr></table><div> </div><table class="table table-bordered table-condensed"><tbody><tr class="active"><th id="t2_h1"><strong>Knowledge Elements</strong></th><th id="t2_h2" class="text-center"><strong>Priority Elements</strong></th></tr><tr><th id="t2_hA" class="btn-info" colspan="2"><strong>A Values and Ethics</strong></th></tr><tr><th id="t2_hA1" headers="t2_hA t2_h1"><strong>A1 Legal and Ethical Underpinnings</strong></th><td class="text-center" headers="t2_hA1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA1_1" headers="t2_hA t2_hA1 t2_h1"><div class="mrgn-lft-lg">
+                    A1.1 Values and Ethics as Foundation of Public Service (legislative framework)
+                </div></th><td class="text-center" headers="t2_hA1_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA1_2" headers="t2_hA t2_hA1 t2_h1"><div class="mrgn-lft-lg">
+                    A1.2 Public Service Values
+                </div></th><td class="text-center" headers="t2_hA1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA1_3" headers="t2_hA t2_hA1 t2_h1"><div class="mrgn-lft-lg">
+                    A1.3 Roles and responsibilities
+                </div></th><td class="text-center" headers="t2_hA1_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA2" headers="t2_hA t2_h1"><strong>A2 Values and Ethics in Action</strong></th><td class="text-center" headers="t2_hA2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA2_1" headers="t2_hA t2_hA2 t2_h1"><div class="mrgn-lft-lg">
+                    A2.1 The Values and Ethics Code for the Public Service
+                </div></th><td class="text-center" headers="t2_hA2_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_2" headers="t2_hA t2_hA2 t2_hA2_1 t2_h1"><div class="mrgn-lft-xl">
+                    - conflict of interest and assets, liabilities and trusts
+                </div></th><td class="text-center" headers="t2_d_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_3" headers="t2_hA t2_hA2 t2_hA2_1 t2_h1"><div class="mrgn-lft-xl">
+                    - post employment
+                </div></th><td class="text-center" headers="t2_d_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA2_2" headers="t2_hA t2_hA2 t2_h1"><div class="mrgn-lft-lg">
+                    A2.2 Prevention / resolution of Harassment
+                </div></th><td class="text-center" headers="t2_hA2_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA2_3" headers="t2_hA t2_hA2 t2_h1"><div class="mrgn-lft-lg">
+                    A2.3 Internal Disclosure of Wrongdoing
+                </div></th><td class="text-center" headers="t2_hA2_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA2_4" headers="t2_hA t2_hA2 t2_h1"><div class="mrgn-lft-lg">
+                    A2.4 Lobbying
+                </div></th><td class="text-center" headers="t2_hA2_2 t2_h2"></td></tr><tr><th id="t2_hA2_5" headers="t2_hA t2_hA2 t2_h1"><div class="mrgn-lft-lg">
+                    A2.5 Indemnification of, and legal assistance for, Crown Servants
+                </div></th><td class="text-center" headers="t2_hA2_5 t2_h2"></td></tr><tr><th id="t2_hA3" headers="t2_hA t2_h1"><strong>A3 Legal Ramifications</strong></th><td class="text-center" headers="t2_hA2_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA3_1" headers="t2_hA t2_hA3 t2_h1"><div class="mrgn-lft-lg">
+                    A3.1 Fraud/contracting offences
+                </div></th><td class="text-center" headers="t2_hA3_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA3_2" headers="t2_hA t2_hA3 t2_h1"><div class="mrgn-lft-lg">
+                    A3.2 Bribery and Breach of Trust
+                </div></th><td class="text-center" headers="t2_hA3_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA3_3" headers="t2_hA t2_hA3 t2_h1"><div class="mrgn-lft-lg">
+                    A3.3 Influencing/dealing in appointments
+                </div></th><td class="text-center" headers="t2_hA3_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA3_4" headers="t2_hA t2_hA3 t2_h1"><div class="mrgn-lft-lg">
+                    A3.4 Disobeying a Statute
+                </div></th><td class="text-center" headers="t2_hA3_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hA3_5" headers="t2_hA t2_hA3 t2_h1"><div class="mrgn-lft-lg">
+                    A3.5 Failure to report knowledge of information that the government is being defrauded
+                </div></th><td class="text-center" headers="t2_hA3_3 t2_h2"></td></tr><tr><th id="t2_hB" class="btn-info" colspan="2"><strong>B Official Languages</strong></th></tr><tr><th id="t2_hB1_1" headers="t2_hB t2_h1"><div class="mrgn-lft-lg">
+                    B1.1 Legal and Ethical Underpinnings
+                </div></th><td class="text-center" headers="t2_hA3_5 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hB1_2" headers="t2_hB t2_h1"><div class="mrgn-lft-lg">
+                    B1.2 Official Languages at a glance
+                </div></th><td class="text-center" headers="t2_hB1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC" class="btn-info" colspan="2"><strong>C Management of Communications and Government Information</strong></th></tr><tr><th id="t2_hC1" headers="t2_hC t2_h1"><strong>C1 Management of Communications and Services to the Public</strong></th><td class="text-center" headers="t2_hB1_1 t2_h2"></td></tr><tr><th id="t2_hC1_1" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.1 Legal and Ethical Underpinnings
+                </div></th><td class="text-center" headers="t2_hC1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_2" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.2 Policy Framework
+                </div></th><td class="text-center" headers="t2_hC1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_3" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.3 Roles and responsibilities
+                </div></th><td class="text-center" headers="t2_hC1_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_4" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.4 Communications Policy
+                </div></th><td class="text-center" headers="t2_hC1_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_4" headers="t2_hC t2_hC1 t2_hC1_4 t2_h1"><div class="mrgn-lft-xl">
+                    - communication planning and management
+                </div></th><td class="text-center" headers="t2_d_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_5" headers="t2_hC t2_hC1 t2_hC1_4 t2_h1"><div class="mrgn-lft-xl">
+                    - regional communications
+                </div></th><td class="text-center" headers="t2_d_5 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_6" headers="t2_hC t2_hC1 t2_hC1_4 t2_h1"><div class="mrgn-lft-xl">
+                    - internal communications
+                </div></th><td class="text-center" headers="t2_d_6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_7" headers="t2_hC t2_hC1 t2_hC1_4 t2_h1"><div class="mrgn-lft-xl">
+                    - spokespersons
+                </div></th><td class="text-center" headers="t2_d_7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_8" headers="t2_hC t2_hC1 t2_hC1_4 t2_h1"><div class="mrgn-lft-xl">
+                    - communications training and development
+                </div></th><td class="text-center" headers="t2_d_8 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_5" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.5 Federal Identity Program
+                </div></th><td class="text-center" headers="t2_hC1_5 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_9" headers="t2_hC t2_hC1 t2_hC1_5 t2_h1"><div class="mrgn-lft-xl">
+                    - corporate identity standards
+                </div></th><td class="text-center" headers="t2_d_8 t2_h2"></td></tr><tr><th id="t2_hC1_6" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.6 Policy on Language of Work
+                </div></th><td class="text-center" headers="t2_d_9 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_7" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.7 Policy on the Use of Official Languages for Communications with and Services to the Public
+                </div></th><td class="text-center" headers="t2_hC1_7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC1_8" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.8 Directive on the Use of Official Languages in Electronic Communications
+                </div></th><td class="text-center" headers="t2_hC1_6 t2_h2"></td></tr><tr><th id="t2_hC1_9" headers="t2_hC t2_hC1 t2_h1"><div class="mrgn-lft-lg">
+                    C1.9 Directive on the Use of Official Languages on Web Sites
+                </div></th><td class="text-center" headers="t2_hC1_9 t2_h2"></td></tr><tr><th id="t2_hC2" headers="t2_hC t2_h1"><strong>C2 Management of Information and Information Technology</strong></th><td class="text-center" headers="t2_hC2 t2_h2"></td></tr><tr><th id="t2_hC2_1" headers="t2_hC t2_hC2 t2_h1"><div class="mrgn-lft-lg">
+                    C2.1 Legal and Ethical Underpinnings
+                </div></th><td class="text-center" headers="t2_hC1_9 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC2_2" headers="t2_hC t2_hC2 t2_h1"><div class="mrgn-lft-lg">
+                    C2.2 Policy Framework
+                </div></th><td class="text-center" headers="t2_hC2_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_10" headers="t2_hC t2_hC2 t2_hC2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on information management
+                </div></th><td class="text-center" headers="t2_d_10 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_11" headers="t2_hC t2_hC2 t2_hC2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on management of information technology
+                </div></th><td class="text-center" headers="t2_d_11 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_12" headers="t2_hC t2_hC2 t2_hC2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on access to information
+                </div></th><td class="text-center" headers="t2_d_12 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_13" headers="t2_hC t2_hC2 t2_hC2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on privacy and data protection
+                </div></th><td class="text-center" headers="t2_d_13 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_14" headers="t2_hC t2_hC2 t2_hC2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on privacy impact assessments
+                </div></th><td class="text-center" headers="t2_d_14 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC2_3" headers="t2_hC t2_hC2 t2_h1"><div class="mrgn-lft-lg">
+                    C2.3 Roles and Responsibilities
+                </div></th><td class="text-center" headers="t2_hC2_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_15" headers="t2_hC t2_hC2 t2_hC2_3 t2_h1"><div class="mrgn-lft-xl">
+                    - directive on information management roles and responsibilities
+                </div></th><td class="text-center" headers="t2_d_15 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_16" headers="t2_hC t2_hC2 t2_hC2_3 t2_h1"><div class="mrgn-lft-xl">
+                    - record keeping
+                </div></th><td class="text-center" headers="t2_hC2_3 t2_h2"></td></tr><tr><th id="t2_d_17" headers="t2_hC t2_hC2 t2_hC2_3 t2_h1"><div class="mrgn-lft-xl">
+                    - treasury board information technology standard
+                </div></th><td class="text-center" headers="t2_d_17 t2_h2"></td></tr><tr><th id="t2_d_18" headers="t2_hC t2_hC2 t2_hC2_3 t2_h1"><div class="mrgn-lft-xl">
+                    - access to information
+                </div></th><td class="text-center" headers="t2_d_16 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_19" headers="t2_hC t2_hC2 t2_hC2_3 t2_h1"><div class="mrgn-lft-xl">
+                    - privacy and data protection
+                </div></th><td class="text-center" headers="t2_d_19 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC3" headers="t2_hC t2_h1"><strong>C3 Information Lifecycle</strong></th><td class="text-center" headers="t2_hC3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_20" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - planning
+                </div></th><td class="text-center" headers="t2_d_18 t2_h2"></td></tr><tr><th id="t2_d_21" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - creation, collection, receipt, capture of information
+                </div></th><td class="text-center" headers="t2_d_20 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_22" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - organization, use and dissemination
+                </div></th><td class="text-center" headers="t2_d_22 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_23" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - maintenance, protection and preservation
+                </div></th><td class="text-center" headers="t2_d_23 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_24" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - disposition
+                </div></th><td class="text-center" headers="t2_d_24 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_25" headers="t2_hC t2_hC3 t2_h1"><div class="mrgn-lft-xl">
+                    - evaluation
+                </div></th><td class="text-center" headers="t2_d_23 t2_h2"></td></tr><tr><th id="t2_hC4" headers="t2_hC t2_h1"><strong>C4 Security of Information</strong></th><td class="text-center" headers="t2_d_25 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_1" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.1 Legal and Ethical Underpinnings
+                </div></th><td class="text-center" headers="t2_hC4_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_2" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.2 Policy on Government Security
+                </div></th><td class="text-center" headers="t2_hC4_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_3" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.3 Roles and responsibilities
+                </div></th><td class="text-center" headers="t2_hC4_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_4" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.4 Use of Electronic Networks
+                </div></th><td class="text-center" headers="t2_hC4_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_5" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.5 Business Continuity Planning
+                </div></th><td class="text-center" headers="t2_hC4_5 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_6" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.6 Information Technology Security
+                </div></th><td class="text-center" headers="t2_hC4_6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_7" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.7 Determination of information security level
+                </div></th><td class="text-center" headers="t2_hC4_7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hC4_8" headers="t2_hC t2_hC4 t2_h1"><div class="mrgn-lft-lg">
+                    C4.8 Management of Document Security
+                </div></th><td class="text-center" headers="t2_hC4_8 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD" class="btn-info" colspan="2"><strong>D Management of Human Resources Including Employment Equity</strong></th></tr><tr><th id="t2_hD1" headers="t2_hD t2_h1"><strong>D1 Legal and ethical underpinnings</strong></th><td class="text-center" headers="t2_hD1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD1_1" headers="t2_hD t2_hD1 t2_h1"><div class="mrgn-lft-lg">
+                    D1.1 The Legislative Framework and People Component of the Management Accountability Framework
+                </div></th><td class="text-center" headers="t2_hD1_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD1_2" headers="t2_hD t2_hD1 t2_h1"><div class="mrgn-lft-lg">
+                    D1.2 Delegated Authorities
+                </div></th><td class="text-center" headers="t2_hD1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_26" headers="t2_hD t2_hD1 t2_hD1_2 t2_h1"><div class="mrgn-lft-xl">
+                    - departmental agreements (e.g. appointment delegation and accountability instruments)
+                </div></th><td class="text-center" headers="t2_d_26 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD2" headers="t2_hD t2_h1"><strong>D2 Roles and Responsibilities</strong></th><td class="text-center" headers="t2_hD2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD3" headers="t2_hD t2_h1"><strong>D3 Planning</strong></th><td class="text-center" headers="t2_hD3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD3_1" headers="t2_hD t2_hD3 t2_h1"><div class="mrgn-lft-lg">
+                    D3.1 Integrated Human Resources and Business Planning
+                </div></th><td class="text-center" headers="t2_hD3_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD3_2" headers="t2_hD t2_hD3 t2_h1"><div class="mrgn-lft-lg">
+                    D3.2 Workforce Adjustment (non-executive)
+                </div></th><td class="text-center" headers="t2_hD2 t2_h2"></td></tr><tr><th id="t2_hD3_3" headers="t2_hD t2_hD3 t2_h1"><div class="mrgn-lft-lg">
+                    D3.3 Career Transition for Executives
+                </div></th><td class="text-center" headers="t2_hD3_3 t2_h2"></td></tr><tr><th id="t2_hD4" headers="t2_hD t2_h1"><strong>D4 Organizational Design and Classification</strong></th><td class="text-center" headers="t2_hD3_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD4_1" headers="t2_hD t2_hD4 t2_h1"><div class="mrgn-lft-lg">
+                    D4.1 Organizational design
+                </div></th><td class="text-center" headers="t2_hD4 t2_h2"></td></tr><tr><th id="t2_hD4_2" headers="t2_hD t2_hD4 t2_h1"><div class="mrgn-lft-lg">
+                    D4.2 Classification
+                </div></th><td class="text-center" headers="t2_hD4_2 t2_h2"></td></tr><tr><th id="t2_d_27" headers="t2_hD t2_hD4 t2_hD4_2 t2_h1"><div class="mrgn-lft-xl">
+                    - work descriptions
+                </div></th><td class="text-center" headers="t2_d_27 t2_h2"></td></tr><tr><th id="t2_d_28" headers="t2_hD t2_hD4 t2_hD4_2 t2_h1"><div class="mrgn-lft-xl">
+                    - occupational groups
+                </div></th><td class="text-center" headers="t2_d_28 t2_h2"></td></tr><tr><th id="t2_d_29" headers="t2_hD t2_hD4 t2_hD4_2 t2_h1"><div class="mrgn-lft-xl">
+                    - standards
+                </div></th><td class="text-center" headers="t2_d_29 t2_h2"></td></tr><tr><th id="t2_d_30" headers="t2_hD t2_hD4 t2_hD4_2 t2_h1"><div class="mrgn-lft-xl">
+                    - monitoring
+                </div></th><td class="text-center" headers="t2_d_30 t2_h2"></td></tr><tr><th id="t2_d_31" headers="t2_hD t2_hD4 t2_hD4_2 t2_h1"><div class="mrgn-lft-xl">
+                    - grievances
+                </div></th><td class="text-center" headers="t2_d_31 t2_h2"></td></tr><tr><th id="t2_hD5" headers="t2_hD t2_h1"><strong>D5 Resourcing</strong></th><td class="text-center" headers="t2_d_29 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD5_1" headers="t2_hD t2_hD5 t2_h1"><div class="mrgn-lft-lg">
+                    D5.1 Resourcing Policies
+                </div></th><td class="text-center" headers="t2_hD5 t2_h2"></td></tr><tr><th id="t2_d_32" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - appointment framework
+                </div></th><td class="text-center" headers="t2_hD5_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_33" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - priority administration
+                </div></th><td class="text-center" headers="t2_d_32 t2_h2"></td></tr><tr><th id="t2_d_34" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - staffing audits
+                </div></th><td class="text-center" headers="t2_d_34 t2_h2"></td></tr><tr><th id="t2_d_35" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - occupational group qualification standards
+                </div></th><td class="text-center" headers="t2_d_35 t2_h2"></td></tr><tr><th id="t2_d_36" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - interchange canada
+                </div></th><td class="text-center" headers="t2_d_36 t2_h2"></td></tr><tr><th id="t2_d_37" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - student programs and bridging mechanisms
+                </div></th><td class="text-center" headers="t2_d_37 t2_h2"></td></tr><tr><th id="t2_d_38" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - term employment
+                </div></th><td class="text-center" headers="t2_d_38 t2_h2"></td></tr><tr><th id="t2_d_39" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - deployment
+                </div></th><td class="text-center" headers="t2_d_39 t2_h2"></td></tr><tr><th id="t2_d_40" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - special deployment
+                </div></th><td class="text-center" headers="t2_d_40 t2_h2"></td></tr><tr><th id="t2_d_41" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - casual employment
+                </div></th><td class="text-center" headers="t2_d_41 t2_h2"></td></tr><tr><th id="t2_d_42" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - volunteers
+                </div></th><td class="text-center" headers="t2_d_42 t2_h2"></td></tr><tr><th id="t2_d_43" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - secondment and assignments
+                </div></th><td class="text-center" headers="t2_d_43 t2_h2"></td></tr><tr><th id="t2_d_44" headers="t2_hD t2_hD5 t2_hD5_1 t2_h1"><div class="mrgn-lft-xl">
+                    - personnel screening for security
+                </div></th><td class="text-center" headers="t2_d_44 t2_h2"></td></tr><tr><th id="t2_hD6" headers="t2_hD t2_h1"><strong>D6 Diversity, Employment Equity, Multiculturalism and Duty to Accommodate</strong></th><td class="text-center" headers="t2_d_42 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD6_1" headers="t2_hD t2_hD6 t2_h1"><div class="mrgn-lft-lg">
+                    D6.1 Legal and Ethical underpinnings
+                </div></th><td class="text-center" headers="t2_hD6_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_45" headers="t2_hD t2_hD6 t2_hD6_1 t2_h1"><div class="mrgn-lft-xl">
+                    - policy on employment equity
+                </div></th><td class="text-center" headers="t2_d_45 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_46" headers="t2_hD t2_hD6 t2_hD6_1 t2_h1"><div class="mrgn-lft-xl">
+                    - policy and directive on duty to accommodate
+                </div></th><td class="text-center" headers="t2_d_46 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD7" headers="t2_hD t2_h1"><strong>D7 Official Languages</strong></th><td class="text-center" headers="t2_hD7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD7_1" headers="t2_hD t2_hD7 t2_h1"><div class="mrgn-lft-lg">
+                    D7.1 Policy on Official Languages for Human Resources Management
+                </div></th><td class="text-center" headers="t2_hD7_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_47" headers="t2_hD t2_hD7 t2_hD7_1 t2_h1"><div class="mrgn-lft-xl">
+                    - directive on the linguistic identification of positions or functions
+                </div></th><td class="text-center" headers="t2_d_47 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_48" headers="t2_hD t2_hD7 t2_hD7_1 t2_h1"><div class="mrgn-lft-xl">
+                    - directive on the staffing of bilingual positions
+                </div></th><td class="text-center" headers="t2_d_48 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_49" headers="t2_hD t2_hD7 t2_hD7_1 t2_h1"><div class="mrgn-lft-xl">
+                    - public service official languages exclusion approval order
+                </div></th><td class="text-center" headers="t2_d_49 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD8" headers="t2_hD t2_h1"><strong>D8 Political Activities</strong></th><td class="text-center" headers="t2_hD8 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD8_1" headers="t2_hD t2_hD8 t2_h1"><div class="mrgn-lft-lg">
+                    D8.1 Political Activities Regime under the Public Service Employment Act
+                </div></th><td class="text-center" headers="t2_hD8_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD8_2" headers="t2_hD t2_hD8 t2_h1"><div class="mrgn-lft-lg">
+                    D8.2 Requests for permission to be a candidate in elections
+                </div></th><td class="text-center" headers="t2_hD8_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD8_3" headers="t2_hD t2_hD8 t2_h1"><div class="mrgn-lft-lg">
+                    D8.3 Investigations and corrective measures
+                </div></th><td class="text-center" headers="t2_hD8_1 t2_h2"></td></tr><tr><th id="t2_hD9" headers="t2_hD t2_h1"><strong>D9 Workplace Well Being</strong></th><td class="text-center" headers="t2_hD9 t2_h2"></td></tr><tr><th id="t2_hD9_1" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.1 Health and Safety under the Canada Labour Code Part II
+                </div></th><td class="text-center" headers="t2_hD8_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD9_2" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.2 Employee Assistance Program
+                </div></th><td class="text-center" headers="t2_hD9_1 t2_h2"></td></tr><tr><th id="t2_hD9_3" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.3 Prevention and Resolution of Harassment
+                </div></th><td class="text-center" headers="t2_hD9_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD9_4" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.4 Flexible Work Arrangements
+                </div></th><td class="text-center" headers="t2_hD9_3 t2_h2"></td></tr><tr><th id="t2_hD9_5" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.5 Day Care and fitness Centre
+                </div></th><td class="text-center" headers="t2_hD9_5 t2_h2"></td></tr><tr><th id="t2_hD9_6" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.6 Awards and Recognition
+                </div></th><td class="text-center" headers="t2_hD9_6 t2_h2"></td></tr><tr><th id="t2_d_50" headers="t2_hD t2_hD9 t2_hD9_6 t2_h1"><div class="mrgn-lft-xl">
+                    - national public service week
+                </div></th><td class="text-center" headers="t2_d_50 t2_h2"></td></tr><tr><th id="t2_d_51" headers="t2_hD t2_hD9 t2_hD9_6 t2_h1"><div class="mrgn-lft-xl">
+                    - recognition
+                </div></th><td class="text-center" headers="t2_d_51 t2_h2"></td></tr><tr><th id="t2_hD9_8" headers="t2_hD t2_hD9 t2_h1"><div class="mrgn-lft-lg">
+                    D9.8 Policy on Language of Work
+                </div></th><td class="text-center" headers="t2_d_50 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD10" headers="t2_hD t2_h1"><strong>D10 Performance Management</strong></th><td class="text-center" headers="t2_hD10 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD10_1" headers="t2_hD t2_hD10 t2_h1"><div class="mrgn-lft-lg">
+                    D10.1 Probation
+                </div></th><td class="text-center" headers="t2_hD10_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD10_2" headers="t2_hD t2_hD10 t2_h1"><div class="mrgn-lft-lg">
+                    D10.2 Performance Management for non-executives
+                </div></th><td class="text-center" headers="t2_hD10_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD10_3" headers="t2_hD t2_hD10 t2_h1"><div class="mrgn-lft-lg">
+                    D10.3 Performance Management Program Executives
+                </div></th><td class="text-center" headers="t2_hD10_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD11" headers="t2_hD t2_h1"><strong>D11 Conflict Management</strong></th><td class="text-center" headers="t2_hD11 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD11_1" headers="t2_hD t2_hD11 t2_h1"><div class="mrgn-lft-lg">
+                    D11.1 Informal Conflict Management System
+                </div></th><td class="text-center" headers="t2_hD11_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD11_2" headers="t2_hD t2_hD11 t2_h1"><div class="mrgn-lft-lg">
+                    D11.2 Classification
+                </div></th><td class="text-center" headers="t2_hD11 t2_h2"></td></tr><tr><th id="t2_hD11_3" headers="t2_hD t2_hD11 t2_h1"><div class="mrgn-lft-lg">
+                    D11.3 Resourcing
+                </div></th><td class="text-center" headers="t2_hD11_3 t2_h2"></td></tr><tr><th id="t2_d_52" headers="t2_hD t2_hD11 t2_hD11_3 t2_h1"><div class="mrgn-lft-xl">
+                    - staffing complaints
+                </div></th><td class="text-center" headers="t2_d_52 t2_h2"></td></tr><tr><th id="t2_d_53" headers="t2_hD t2_hD11 t2_hD11_3 t2_h1"><div class="mrgn-lft-xl">
+                    - deployment grievances
+                </div></th><td class="text-center" headers="t2_d_53 t2_h2"></td></tr><tr><th id="t2_d_54" headers="t2_hD t2_hD11 t2_hD11_3 t2_h1"><div class="mrgn-lft-xl">
+                    - investigations
+                </div></th><td class="text-center" headers="t2_d_54 t2_h2"></td></tr><tr><th id="t2_hD11_4" headers="t2_hD t2_hD11 t2_h1"><div class="mrgn-lft-lg">
+                    D11.4 Labour Relations
+                </div></th><td class="text-center" headers="t2_d_53 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD12" headers="t2_hD t2_h1"><strong>D12 Terms and Conditions of Employment</strong></th><td class="text-center" headers="t2_hD12 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD12_1" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.1 Values and Ethics Code
+                </div></th><td class="text-center" headers="t2_hD12_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD12_2" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.2 Collective agreements
+                </div></th><td class="text-center" headers="t2_hD12_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_55" headers="t2_hD t2_hD12 t2_hD12_2 t2_h1"><div class="mrgn-lft-xl">
+                    - compensation
+                </div></th><td class="text-center" headers="t2_hD12_1 t2_h2"></td></tr><tr><th id="t2_hD12_3" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.3 Policies and Directives on Terms &amp; Conditions of Employment
+                </div></th><td class="text-center" headers="t2_d_55 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD12_4" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.4 Hours of work
+                </div></th><td class="text-center" headers="t2_hD12_3 t2_h2"></td></tr><tr><th id="t2_hD12_5" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.5 Pay Equity
+                </div></th><td class="text-center" headers="t2_hD12_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD12_6" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.6 Leave with and without pay
+                </div></th><td class="text-center" headers="t2_hD12_6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_56" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - vacation leave
+                </div></th><td class="text-center" headers="t2_hD12_5 t2_h2"></td></tr><tr><th id="t2_d_57" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - sick leave
+                </div></th><td class="text-center" headers="t2_d_57 t2_h2"></td></tr><tr><th id="t2_d_58" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - compensatory leave
+                </div></th><td class="text-center" headers="t2_d_58 t2_h2"></td></tr><tr><th id="t2_d_59" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - management leave
+                </div></th><td class="text-center" headers="t2_d_59 t2_h2"></td></tr><tr><th id="t2_d_60" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - family-related responsibilities leave
+                </div></th><td class="text-center" headers="t2_d_60 t2_h2"></td></tr><tr><th id="t2_d_61" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - maternity, paternity and parental leaves without pay
+                </div></th><td class="text-center" headers="t2_d_61 t2_h2"></td></tr><tr><th id="t2_d_62" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - educational leave
+                </div></th><td class="text-center" headers="t2_d_62 t2_h2"></td></tr><tr><th id="t2_d_63" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - self-funded leave
+                </div></th><td class="text-center" headers="t2_d_63 t2_h2"></td></tr><tr><th id="t2_d_64" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - income averaging
+                </div></th><td class="text-center" headers="t2_d_64 t2_h2"></td></tr><tr><th id="t2_d_65" headers="t2_hD t2_hD12 t2_hD12_6 t2_h1"><div class="mrgn-lft-xl">
+                    - pre-retirement transition leave
+                </div></th><td class="text-center" headers="t2_d_65 t2_h2"></td></tr><tr><th id="t2_hD12_7" headers="t2_hD t2_hD12 t2_h1"><div class="mrgn-lft-lg">
+                    D12.7 Work-related illness and injury
+                </div></th><td class="text-center" headers="t2_d_64 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_66" headers="t2_hD t2_hD12 t2_hD12_7 t2_h1"><div class="mrgn-lft-xl">
+                    - government employees compensation act
+                </div></th><td class="text-center" headers="t2_d_66 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_67" headers="t2_hD t2_hD12 t2_hD12_7 t2_h1"><div class="mrgn-lft-xl">
+                    - leave without pay for illness or injury policy
+                </div></th><td class="text-center" headers="t2_d_67 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_68" headers="t2_hD t2_hD12 t2_hD12_7 t2_h1"><div class="mrgn-lft-xl">
+                    - injury on duty leave policy
+                </div></th><td class="text-center" headers="t2_d_68 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD13" headers="t2_hD t2_h1"><strong>D13 Pension and Group Benefit Plans</strong></th><td class="text-center" headers="t2_d_67 t2_h2"></td></tr><tr><th id="t2_hD13_1" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.1 Pension and Superannuation
+                </div></th><td class="text-center" headers="t2_hD13_1 t2_h2"></td></tr><tr><th id="t2_hD13_2" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.2 Disability Insurance Plan
+                </div></th><td class="text-center" headers="t2_hD13_2 t2_h2"></td></tr><tr><th id="t2_hD13_3" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.3 Public Service Dental Care Plan
+                </div></th><td class="text-center" headers="t2_hD13_3 t2_h2"></td></tr><tr><th id="t2_hD13_4" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.4 Public Service Health Care Plan
+                </div></th><td class="text-center" headers="t2_hD13_4 t2_h2"></td></tr><tr><th id="t2_hD13_5" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.5 Public Service Management Insurance Plan
+                </div></th><td class="text-center" headers="t2_hD13_5 t2_h2"></td></tr><tr><th id="t2_hD13_6" headers="t2_hD t2_hD13 t2_h1"><div class="mrgn-lft-lg">
+                    D13.6 Supplementary Death Benefit Plan
+                </div></th><td class="text-center" headers="t2_hD13_6 t2_h2"></td></tr><tr><th id="t2_hD14" headers="t2_hD t2_h1"><strong>D14 National Joint Council Agreements</strong></th><td class="text-center" headers="t2_hD13_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD14_1" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.1 Bilingualism Bonus Directive
+                </div></th><td class="text-center" headers="t2_hD14 t2_h2"></td></tr><tr><th id="t2_hD14_2" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.2 Health and Safety Directives
+                </div></th><td class="text-center" headers="t2_hD14_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD14_3" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.3 Travel Directive
+                </div></th><td class="text-center" headers="t2_hD14_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD14_4" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.4 Commuting Assistance Directive
+                </div></th><td class="text-center" headers="t2_hD14_2 t2_h2"></td></tr><tr><th id="t2_hD14_5" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.5 Relocation Directive
+                </div></th><td class="text-center" headers="t2_hD14_5 t2_h2"></td></tr><tr><th id="t2_hD14_6" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.6 Isolated Posts and Government Housing Directive
+                </div></th><td class="text-center" headers="t2_hD14_6 t2_h2"></td></tr><tr><th id="t2_hD14_7" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.7 Foreign Service Directives
+                </div></th><td class="text-center" headers="t2_hD14_7 t2_h2"></td></tr><tr><th id="t2_hD14_8" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.8 Public Service Health Care Plan Directive
+                </div></th><td class="text-center" headers="t2_hD14_6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD14_9" headers="t2_hD t2_hD14 t2_h1"><div class="mrgn-lft-lg">
+                    D14.9 Work Force Adjustment Directive
+                </div></th><td class="text-center" headers="t2_hD14_8 t2_h2"></td></tr><tr><th id="t2_hD15" headers="t2_hD t2_h1"><strong>D15 Labour Relations</strong></th><td class="text-center" headers="t2_hD15 t2_h2"></td></tr><tr><th id="t2_hD15_1" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.1 Discipline
+                </div></th><td class="text-center" headers="t2_hD14_9 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_2" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.2 Demotion / Termination of Employment Unsatisfactory Performance
+                </div></th><td class="text-center" headers="t2_hD15_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_3" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.3 Termination of employment during probation
+                </div></th><td class="text-center" headers="t2_hD15_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_4" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.4 Collective Agreements
+                </div></th><td class="text-center" headers="t2_hD15_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_5" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.5 Essential Service Agreements
+                </div></th><td class="text-center" headers="t2_hD15_5 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_6" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.6 Managerial or confidential positions
+                </div></th><td class="text-center" headers="t2_hD15_6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_7" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.7 Strikes
+                </div></th><td class="text-center" headers="t2_hD15_7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_8" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.8 Labour Management Consultation Committees
+                </div></th><td class="text-center" headers="t2_hD15_8 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_9" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.9 Co-development
+                </div></th><td class="text-center" headers="t2_hD15_9 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD15_10" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.10 Union dues
+                </div></th><td class="text-center" headers="t2_hD15_8 t2_h2"></td></tr><tr><th id="t2_hD15_11" headers="t2_hD t2_hD15 t2_h1"><div class="mrgn-lft-lg">
+                    D15.11 Use of Employer Facilities
+                </div></th><td class="text-center" headers="t2_hD15_10 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD16" headers="t2_hD t2_h1"><strong>D16 Learning and Career Development</strong></th><td class="text-center" headers="t2_hD15_11 t2_h2"></td></tr><tr><th id="t2_hD16_1" headers="t2_hD t2_hD16 t2_h1"><div class="mrgn-lft-lg">
+                    D16.1 Required Training
+                </div></th><td class="text-center" headers="t2_hD16_1 t2_h2"></td></tr><tr><th id="t2_hD16_2" headers="t2_hD t2_hD16 t2_h1"><div class="mrgn-lft-lg">
+                    D16.2 Corporate development programs
+                </div></th><td class="text-center" headers="t2_hD16_2 t2_h2"></td></tr><tr><th id="t2_d_69" headers="t2_hD t2_hD16 t2_hD16_2 t2_h1"><div class="mrgn-lft-xl">
+                    - career assignment program
+                </div></th><td class="text-center" headers="t2_d_69 t2_h2"></td></tr><tr><th id="t2_d_70" headers="t2_hD t2_hD16 t2_hD16_2 t2_h1"><div class="mrgn-lft-xl">
+                    - management trainee program
+                </div></th><td class="text-center" headers="t2_d_70 t2_h2"></td></tr><tr><th id="t2_hD17" headers="t2_hD t2_h1"><strong>D17 Government Security</strong></th><td class="text-center" headers="t2_hD16_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD17_1" headers="t2_hD t2_hD17 t2_h1"><div class="mrgn-lft-lg">
+                    D17.1 Protection of Personnel / Emergency Management
+                </div></th><td class="text-center" headers="t2_hD17_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD17_2" headers="t2_hD t2_hD17 t2_h1"><div class="mrgn-lft-lg">
+                    D17.2 Incident response
+                </div></th><td class="text-center" headers="t2_hD17_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD17_3" headers="t2_hD t2_hD17 t2_h1"><div class="mrgn-lft-lg">
+                    D17.3 Training and Awareness
+                </div></th><td class="text-center" headers="t2_hD17_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hD17_4" headers="t2_hD t2_hD17 t2_h1"><div class="mrgn-lft-lg">
+                    D17.4 Personnel Security Screening Process
+                </div></th><td class="text-center" headers="t2_hD17_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE" class="btn-info" colspan="2"><strong>E Expenditure and Financial Management</strong></th></tr><tr><th id="t2_hE1" headers="t2_hE t2_h1"><strong>E1 Legal and Ethical Underpinnings</strong></th><td class="text-center" headers="t2_hE1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE1_1" headers="t2_hE t2_hE1 t2_h1"><div class="mrgn-lft-lg">
+                    E1.1 The Legislative Framework
+                </div></th><td class="text-center" headers="t2_hE1_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE1_2" headers="t2_hE t2_hE1 t2_h1"><div class="mrgn-lft-lg">
+                    E1.2 Treasury Board Policies
+                </div></th><td class="text-center" headers="t2_hE1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_71" headers="t2_hE t2_hE1 t2_hE1_2 t2_h1"><div class="mrgn-lft-xl">
+                    - management resources and results structure policy
+                </div></th><td class="text-center" headers="t2_d_71 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE1_3" headers="t2_hE t2_hE1 t2_h1"><div class="mrgn-lft-lg">
+                    E1.3 The Financial Administration Act
+                </div></th><td class="text-center" headers="t2_hE1_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_72" headers="t2_hE t2_hE1 t2_hE1_3 t2_h1"><div class="mrgn-lft-xl">
+                    - delegation of financial signing authority
+                </div></th><td class="text-center" headers="t2_d_71 t2_h2"></td></tr><tr><th id="t2_d_73" headers="t2_hE t2_hE1 t2_hE1_3 t2_h1"><div class="mrgn-lft-xl">
+                    - expenditure authority
+                </div></th><td class="text-center" headers="t2_d_73 t2_h2"></td></tr><tr><th id="t2_d_74" headers="t2_hE t2_hE1 t2_hE1_3 t2_h1"><div class="mrgn-lft-xl">
+                    - transaction processing
+                </div></th><td class="text-center" headers="t2_d_74 t2_h2"></td></tr><tr><th id="t2_d_75" headers="t2_hE t2_hE1 t2_hE1_3 t2_h1"><div class="mrgn-lft-xl">
+                    - internal controls sign-offs
+                </div></th><td class="text-center" headers="t2_d_75 t2_h2"></td></tr><tr><th id="t2_hE1_4" headers="t2_hE t2_hE1 t2_h1"><div class="mrgn-lft-lg">
+                    E1.4 Roles and Responsibilities
+                </div></th><td class="text-center" headers="t2_d_74 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE2" headers="t2_hE t2_h1"><strong>E2 Planning, Forecasting and Budget Cycle Management</strong></th><td class="text-center" headers="t2_hE1_4 t2_h2"></td></tr><tr><th id="t2_hE2_1" headers="t2_hE t2_hE2 t2_h1"><div class="mrgn-lft-lg">
+                    E2.1 Overview of the Expenditure and Budgeting cycle
+                </div></th><td class="text-center" headers="t2_hE2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_76" headers="t2_hE t2_hE2 t2_hE2_1 t2_h1"><div class="mrgn-lft-xl">
+                    - supply process
+                </div></th><td class="text-center" headers="t2_hE2_1 t2_h2"></td></tr><tr><th id="t2_d_77" headers="t2_hE t2_hE2 t2_hE2_1 t2_h1"><div class="mrgn-lft-xl">
+                    - expenditure management system
+                </div></th><td class="text-center" headers="t2_d_77 t2_h2"></td></tr><tr><th id="t2_hE2_2" headers="t2_hE t2_hE2 t2_h1"><div class="mrgn-lft-lg">
+                    E2.2 Planning / Program Management
+                </div></th><td class="text-center" headers="t2_d_76 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_78" headers="t2_hE t2_hE2 t2_hE2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - government level
+                </div></th><td class="text-center" headers="t2_hE2_2 t2_h2"></td></tr><tr><th id="t2_d_79" headers="t2_hE t2_hE2 t2_hE2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - organization level
+                </div></th><td class="text-center" headers="t2_d_79 t2_h2"></td></tr><tr><th id="t2_d_80" headers="t2_hE t2_hE2 t2_hE2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - responsibility center level
+                </div></th><td class="text-center" headers="t2_d_78 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_81" headers="t2_hE t2_hE2 t2_hE2_2 t2_h1"><div class="mrgn-lft-xl">
+                    - performance management
+                </div></th><td class="text-center" headers="t2_d_81 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE2_3" headers="t2_hE t2_hE2 t2_h1"><div class="mrgn-lft-lg">
+                    E2.3 Costing, including make or buy decision, cost benefits analysis and cost recovery
+                </div></th><td class="text-center" headers="t2_d_80 t2_h2"></td></tr><tr><th id="t2_hE3" headers="t2_hE t2_h1"><strong>E3 Financial Management</strong></th><td class="text-center" headers="t2_hE3 t2_h2"></td></tr><tr><th id="t2_hE3_1" headers="t2_hE t2_hE3 t2_h1"><div class="mrgn-lft-lg">
+                    E3.1 Spending and Payment Authorities
+                </div></th><td class="text-center" headers="t2_hE2_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_82" headers="t2_hE t2_hE3 t2_hE3_1 t2_h1"><div class="mrgn-lft-xl">
+                    - allotment control
+                </div></th><td class="text-center" headers="t2_hE3_1 t2_h2"></td></tr><tr><th id="t2_hE3_2" headers="t2_hE t2_hE3 t2_h1"><div class="mrgn-lft-lg">
+                    E3.2 Budgetary Control and Control of Expenditures
+                </div></th><td class="text-center" headers="t2_hE3_2 t2_h2"></td></tr><tr><th id="t2_d_83" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - acquisition cards
+                </div></th><td class="text-center" headers="t2_d_82 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_84" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - paying for goods and services
+                </div></th><td class="text-center" headers="t2_d_84 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_85" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - travel credit cards and accounts
+                </div></th><td class="text-center" headers="t2_d_85 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_86" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - hospitality policy
+                </div></th><td class="text-center" headers="t2_d_86 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_87" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - claims against the crown
+                </div></th><td class="text-center" headers="t2_d_85 t2_h2"></td></tr><tr><th id="t2_d_88" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - interdepartmental charging and transfers between appropriations
+                </div></th><td class="text-center" headers="t2_d_88 t2_h2"></td></tr><tr><th id="t2_d_89" headers="t2_hE t2_hE3 t2_hE3_2 t2_h1"><div class="mrgn-lft-xl">
+                    - losses of money, offences and other illegal acts against the crown
+                </div></th><td class="text-center" headers="t2_d_89 t2_h2"></td></tr><tr><th id="t2_hE3_3" headers="t2_hE t2_hE3 t2_h1"><div class="mrgn-lft-lg">
+                    E3.3 Control of revenue and accounts receivable
+                </div></th><td class="text-center" headers="t2_hE3_3 t2_h2"></td></tr><tr><th id="t2_d_90" headers="t2_hE t2_hE3 t2_hE3_3 t2_h1"><div class="mrgn-lft-xl">
+                    - segregation of duties
+                </div></th><td class="text-center" headers="t2_d_89 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_d_91" headers="t2_hE t2_hE3 t2_hE3_3 t2_h1"><div class="mrgn-lft-xl">
+                    - collection of revenue and receipts, re-spending public money, external user charges
+                </div></th><td class="text-center" headers="t2_d_90 t2_h2"></td></tr><tr><th id="t2_hE3_4" headers="t2_hE t2_hE3 t2_h1"><div class="mrgn-lft-lg">
+                    E3.4 Transfer payments - financial aspects of grants and contributions
+                </div></th><td class="text-center" headers="t2_d_91 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE4" headers="t2_hE t2_h1"><strong>E4 Financial Reporting</strong></th><td class="text-center" headers="t2_hE3_4 t2_h2"></td></tr><tr><th id="t2_hE4_1" headers="t2_hE t2_hE4 t2_h1"><div class="mrgn-lft-lg">
+                    E4.1 Departmental Performance Report / Report on Plans and Priorities
+                </div></th><td class="text-center" headers="t2_hE4_1 t2_h2"></td></tr><tr><th id="t2_hE4_2" headers="t2_hE t2_hE4 t2_h1"><div class="mrgn-lft-lg">
+                    E4.2 Public Accounts
+                </div></th><td class="text-center" headers="t2_hE4_2 t2_h2"></td></tr><tr><th id="t2_hE4_3" headers="t2_hE t2_hE4 t2_h1"><div class="mrgn-lft-lg">
+                    E4.3 Proactive Disclosure
+                </div></th><td class="text-center" headers="t2_hE4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE4_4" headers="t2_hE t2_hE4 t2_h1"><div class="mrgn-lft-lg">
+                    E4.4 Financial Statements and Accounting Policy
+                </div></th><td class="text-center" headers="t2_hE4_3 t2_h2"></td></tr><tr><th id="t2_hE5" headers="t2_hE t2_h1"><strong>E5 Audit</strong></th><td class="text-center" headers="t2_hE5 t2_h2"></td></tr><tr><th id="t2_hE5_1" headers="t2_hE t2_hE5 t2_h1"><div class="mrgn-lft-lg">
+                    E5.1 Internal Audit Policy Requirements
+                </div></th><td class="text-center" headers="t2_hE4_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE5_2" headers="t2_hE t2_hE5 t2_h1"><div class="mrgn-lft-lg">
+                    E5.2 Departmental Audit Committee
+                </div></th><td class="text-center" headers="t2_hE5_1 t2_h2"></td></tr><tr><th id="t2_hE5_3" headers="t2_hE t2_hE5 t2_h1"><div class="mrgn-lft-lg">
+                    E5.3 Internal Audit
+                </div></th><td class="text-center" headers="t2_hE5_3 t2_h2"></td></tr><tr><th id="t2_hE5_4" headers="t2_hE t2_hE5 t2_h1"><div class="mrgn-lft-lg">
+                    E5.4 Management-led Audit
+                </div></th><td class="text-center" headers="t2_hE5_4 t2_h2"></td></tr><tr><th id="t2_hE5_5" headers="t2_hE t2_hE5 t2_h1"><div class="mrgn-lft-lg">
+                    E5.5 External Audit
+                </div></th><td class="text-center" headers="t2_hE5_5 t2_h2"></td></tr><tr><th id="t2_hE6" headers="t2_hE t2_h1"><strong>E6 Program Evaluation</strong></th><td class="text-center" headers="t2_hE6 t2_h2"></td></tr><tr><th id="t2_hE6_1" headers="t2_hE t2_hE6 t2_h1"><div class="mrgn-lft-lg">
+                    E6.1 Policy, Directives and Standards on Evaluation
+                </div></th><td class="text-center" headers="t2_hE5_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE6_2" headers="t2_hE t2_hE6 t2_h1"><div class="mrgn-lft-lg">
+                    E6.2 Management Response to Evaluation and Action Plans
+                </div></th><td class="text-center" headers="t2_hE6_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE6_3" headers="t2_hE t2_hE6 t2_h1"><div class="mrgn-lft-lg">
+                    E6.3 Timely provision of information to evaluators
+                </div></th><td class="text-center" headers="t2_hE6_3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hE7" headers="t2_hE t2_h1"><strong>E7 Program Management</strong></th><td class="text-center" headers="t2_hE6_2 t2_h2"></td></tr><tr><th id="t2_hE7_1" headers="t2_hE t2_hE7 t2_h1"><div class="mrgn-lft-lg">
+                    E7.1 Integration of performance results in program decision-making
+                </div></th><td class="text-center" headers="t2_hE7_1 t2_h2"></td></tr><tr><th id="t2_hE7_2" headers="t2_hE t2_hE7 t2_h1"><div class="mrgn-lft-lg">
+                    E7.2 Management of Risk
+                </div></th><td class="text-center" headers="t2_hE7_2 t2_h2"></td></tr><tr><th id="t2_hE8" headers="t2_hE t2_h1"><strong>E8 Transfer Payments Program Management</strong></th><td class="text-center" headers="t2_hE8 t2_h2"></td></tr><tr><th id="t2_hE8_1" headers="t2_hE t2_hE8 t2_h1"><div class="mrgn-lft-lg">
+                    E8.1 Grants, Contributions, Conditional Grants, Repayable Contributions
+                </div></th><td class="text-center" headers="t2_hE8_1 t2_h2"></td></tr><tr><th id="t2_hE8_2" headers="t2_hE t2_hE8 t2_h1"><div class="mrgn-lft-lg">
+                    E8.2 Transfers to Aboriginal Peoples, international organizations and other levels of government
+                </div></th><td class="text-center" headers="t2_hE8_2 t2_h2"></td></tr><tr><th id="t2_hE8_3" headers="t2_hE t2_hE8 t2_h1"><div class="mrgn-lft-lg">
+                    E8.3 Program design: with recipients, service delivery and service standards, Official Language obligations
+                </div></th><td class="text-center" headers="t2_hE8_3 t2_h2"></td></tr><tr><th id="t2_hE8_4" headers="t2_hE t2_hE8 t2_h1"><div class="mrgn-lft-lg">
+                    E8.4 Audit and Evaluation of Grant and Contribution Programs
+                </div></th><td class="text-center" headers="t2_hE8_4 t2_h2"></td></tr><tr><th id="t2_hE8_5" headers="t2_hE t2_hE8 t2_h1"><div class="mrgn-lft-lg">
+                    E8.5 Audit of recipients
+                </div></th><td class="text-center" headers="t2_hE8_5 t2_h2"></td></tr><tr><th id="t2_hF" class="btn-info" colspan="2"><strong>F Management of Assets and Acquired Services</strong></th></tr><tr><th id="t2_hF1" headers="t2_hF t2_h1"><strong>F1 Legal and Ethical Underpinnings</strong></th><td class="text-center" headers="t2_hE8_4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF1_1" headers="t2_hF t2_hF1 t2_h1"><div class="mrgn-lft-lg">
+                    F1.1 The Legislative Framework
+                </div></th><td class="text-center" headers="t2_hF1_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF1_2" headers="t2_hF t2_hF1 t2_h1"><div class="mrgn-lft-lg">
+                    F1.2 Sustainable Development
+                </div></th><td class="text-center" headers="t2_hF1_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF2" headers="t2_hF t2_h1"><strong>F2 Delegation of Contracting Authorities</strong></th><td class="text-center" headers="t2_hF2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF2_1" headers="t2_hF t2_hF2 t2_h1"><div class="mrgn-lft-lg">
+                    F2.1 Within Departments
+                </div></th><td class="text-center" headers="t2_hF2_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF2_2" headers="t2_hF t2_hF2 t2_h1"><div class="mrgn-lft-lg">
+                    F2.2 Delegations from the Minister of Public Works and Government Services Canada for contracting
+                </div></th><td class="text-center" headers="t2_hF2_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF3" headers="t2_hF t2_h1"><strong>F3 Roles and Responsibilities</strong></th><td class="text-center" headers="t2_hF3 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF4" headers="t2_hF t2_h1"><strong>F4 Contracting Policy</strong></th><td class="text-center" headers="t2_hF4 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF4_1" headers="t2_hF t2_hF4 t2_h1"><div class="mrgn-lft-lg">
+                    F4.1 Contracting for goods and services
+                </div></th><td class="text-center" headers="t2_hF2_2 t2_h2"></td></tr><tr><th id="t2_hF4_2" headers="t2_hF t2_hF4 t2_h1"><div class="mrgn-lft-lg">
+                    F4.2 End to end Procurement Process
+                </div></th><td class="text-center" headers="t2_hF4_2 t2_h2"></td></tr><tr><th id="t2_hF4_3" headers="t2_hF t2_hF4 t2_h1"><div class="mrgn-lft-lg">
+                    F4.3 Emergency contracting
+                </div></th><td class="text-center" headers="t2_hF4_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF4_4" headers="t2_hF t2_hF4 t2_h1"><div class="mrgn-lft-lg">
+                    F4.4 Acquisition Tools
+                </div></th><td class="text-center" headers="t2_hF4_3 t2_h2"></td></tr><tr><th id="t2_d_92" headers="t2_hF t2_hF4 t2_hF4_4 t2_h1"><div class="mrgn-lft-xl">
+                    - local purchase orders
+                </div></th><td class="text-center" headers="t2_d_92 t2_h2"></td></tr><tr><th id="t2_d_93" headers="t2_hF t2_hF4 t2_hF4_4 t2_h1"><div class="mrgn-lft-xl">
+                    - call-ups against standing offers
+                </div></th><td class="text-center" headers="t2_d_93 t2_h2"></td></tr><tr><th id="t2_d_94" headers="t2_hF t2_hF4 t2_hF4_4 t2_h1"><div class="mrgn-lft-xl">
+                    - goods and services contracts
+                </div></th><td class="text-center" headers="t2_d_94 t2_h2"></td></tr><tr><th id="t2_d_95" headers="t2_hF t2_hF4 t2_hF4_4 t2_h1"><div class="mrgn-lft-xl">
+                    - memorandum of understanding (mou) between organizations
+                </div></th><td class="text-center" headers="t2_d_95 t2_h2"></td></tr><tr><th id="t2_d_96" headers="t2_hF t2_hF4 t2_hF4_4 t2_h1"><div class="mrgn-lft-xl">
+                    - acquisition card
+                </div></th><td class="text-center" headers="t2_d_96 t2_h2"></td></tr><tr><th id="t2_hF5" headers="t2_hF t2_h1"><strong>F5 Common Services Policy</strong></th><td class="text-center" headers="t2_d_94 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF6" headers="t2_hF t2_h1"><strong>F6 Management of Real Property</strong></th><td class="text-center" headers="t2_hF5 t2_h2"></td></tr><tr><th id="t2_hF6_1" headers="t2_hF t2_hF6 t2_h1"><div class="mrgn-lft-lg">
+                    F6.1 Accessibility
+                </div></th><td class="text-center" headers="t2_hF6 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF6_2" headers="t2_hF t2_hF6 t2_h1"><div class="mrgn-lft-lg">
+                    F6.2 Accommodations
+                </div></th><td class="text-center" headers="t2_hF6_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF7" headers="t2_hF t2_h1"><strong>F7 Materiel Management</strong></th><td class="text-center" headers="t2_hF7 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF7_1" headers="t2_hF t2_hF7 t2_h1"><div class="mrgn-lft-lg">
+                    F7.1 Lifecycle Management including disposal of surplus materiel
+                </div></th><td class="text-center" headers="t2_hF7_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF7_2" headers="t2_hF t2_hF7 t2_h1"><div class="mrgn-lft-lg">
+                    F7.2 Recording of assets
+                </div></th><td class="text-center" headers="t2_hF7_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF8" headers="t2_hF t2_h1"><strong>F8 Project Management</strong></th><td class="text-center" headers="t2_hF8 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF8_1" headers="t2_hF t2_hF8 t2_h1"><div class="mrgn-lft-lg">
+                    F8.1 Project Approval Process
+                </div></th><td class="text-center" headers="t2_hF7_2 t2_h2"></td></tr><tr><th id="t2_hF8_2" headers="t2_hF t2_hF8 t2_h1"><div class="mrgn-lft-lg">
+                    F8.2 Information Technology Enabled Projects
+                </div></th><td class="text-center" headers="t2_hF8_2 t2_h2"></td></tr><tr><th id="t2_hF9" headers="t2_hF t2_h1"><strong>F9 Monitoring, Oversight and Reporting</strong></th><td class="text-center" headers="t2_hF8_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF9_1" headers="t2_hF t2_hF9 t2_h1"><div class="mrgn-lft-lg">
+                    F9.1 Real Property, Materiel and Procurement Reporting
+                </div></th><td class="text-center" headers="t2_hF9_1 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF9_2" headers="t2_hF t2_hF9 t2_h1"><div class="mrgn-lft-lg">
+                    F9.2 Proactive Disclosure of Projects over $10,000
+                </div></th><td class="text-center" headers="t2_hF9 t2_h2"></td></tr><tr><th id="t2_hF9_3" headers="t2_hF t2_hF9 t2_h1"><div class="mrgn-lft-lg">
+                    F9.3 Monitoring performance
+                </div></th><td class="text-center" headers="t2_hF9_3 t2_h2"></td></tr><tr><th id="t2_hF10" headers="t2_hF t2_h1"><strong>F10 Government Security</strong></th><td class="text-center" headers="t2_hF9_2 t2_h2"><strong>*</strong></td></tr><tr><th id="t2_hF10_1" headers="t2_hF t2_hF10 t2_h1"><div class="mrgn-lft-lg">
+                    F10.1 Physical security - identification / categorization and protection of Crown assets
+                </div></th><td class="text-center" headers="t2_hF10 t2_h2"></td></tr><tr><th id="t2_d_97" headers="t2_hF t2_hF10 t2_hF10_1 t2_h1"><div class="mrgn-lft-xl">
+                    - materiel
+                </div></th><td class="text-center" headers="t2_d_97 t2_h2"></td></tr><tr><th id="t2_d_98" headers="t2_hF t2_hF10 t2_hF10_1 t2_h1"><div class="mrgn-lft-xl">
+                    - intellectual property
+                </div></th><td class="text-center" headers="t2_d_98 t2_h2"></td></tr><tr><th id="t2_d_99" headers="t2_hF t2_hF10 t2_hF10_1 t2_h1"><div class="mrgn-lft-xl">
+                    - real property
+                </div></th><td class="text-center" headers="t2_d_99 t2_h2"></td></tr><tr><th id="t2_hF10_2" headers="t2_hF t2_hF10 t2_h1"><div class="mrgn-lft-lg">
+                    F10.2 Removal of assets and loans to and from government property
+                </div></th><td class="text-center" headers="t2_hF10_2 t2_h2"></td></tr><tr><th id="t2_hF10_3" headers="t2_hF t2_hF10 t2_h1"><div class="mrgn-lft-lg">
+                    F10.3 Industrial security - contractors
+                </div></th><td class="text-center" headers="t2_hF10_3 t2_h2"></td></tr></tbody></table></appendix><appendix anchor="B" title="Appendix 2 - Knowledge Elements for Newly Appointed Employees"><h3>Knowledge Elements</h3><h4>A VALUES AND ETHICS</h4><ul class="noBullet index"><li><strong>A 1</strong> The Values and Ethics Code for the Public Service</li><li><strong>A 2 </strong> Policy on the Prevention and Resolution of Harassment in the Workplace</li><li><strong>A 3 </strong> Public Servants Disclosure Protection Act (PSDPA)</li></ul><h4>B OFFICIAL LANGUAGES</h4><ul class="noBullet index"><li><strong>B 1 </strong><a href="http://laws-lois.justice.gc.ca/eng/acts/O-3.01/">Official Languages Act</a></li><li><strong>B 2</strong><a href="/pubs_pol/hrpubs/OffLang/dolr-eng.asp">Official Languages (Communications 
+		  with and Services to the Public) Regulations</a></li><li><strong>B 3</strong> Policy on the Use of Official Languages for Communications with 
+		  and Services to the Public and related Directives </li><li><strong>B 4</strong> Policy on Language of Work and related Directives</li><li><strong>B 5</strong> Policy on Official Languages for Human Resources Management and related 
+		  Directives</li></ul><h4>C TERMS AND CONDITIONS OF EMPLOYMENT</h4><ul class="noBullet index"><li><strong>C 1 </strong> Terms &amp; Conditions of Employment
+		<ul class="noBullet"><li>C 1.1 Unionized Employees
+				<ul class="noBullet"><li>Collective Agreements including Workforce Adjustments Appendices</li></ul></li><li>C 1.2 Unrepresented Employees</li><li>C 1.3 Rates of pay, bi-weekly pay, statutory and voluntary deductions, and departmental contacts</li></ul></li><li><strong>C 2 </strong>Public Service LabourRelations Act</li><li><strong>C 3 </strong>Public Service Employment Act
+		<ul class="noBullet"><li>C 3.1 Appointment Regime and Values</li><li>C 3.2 Political Activities Regime</li></ul></li></ul><h4>D EMPLOYMENT EQUITY AND DUTY TO ACCOMMODATE</h4><ul class="noBullet index"><li><strong>D 1</strong> Canadian Human Rights Act
+		<ul class="noBullet"><li>D1.1 Policy and Directive on the Duty to Accommodate (Effective date to be determined) (Replacing the 
+				  Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service)</li></ul></li><li><strong>D 2</strong> Employment Equity Act and Regulations
+		<ul class="noBullet"><li>D 2.1 Policy on Employment Equity (Effective date to be determined) (Replacing the 1999 Employment 
+				  Equity Policy)</li></ul></li></ul><h4>E COMMUNICATIONS AND GOVERNMENT INFORMATION</h4><ul class="noBullet index"><li><strong>E 1 </strong>Communications Policy</li><li><strong>E 2 </strong>Access to Information Act
+		<ul class="noBullet"><li>E 2.1 Policy on Access to Information and related directives and guidelines</li></ul></li><li><strong>E 3</strong> Privacy Act
+		<ul class="noBullet"><li>E 3.1 Policy on Privacy and Data Protection</li></ul></li><li><strong>E 4</strong> Security of Information</li><li><strong>E 5 </strong>Policy on Information Management
+		<ul class="noBullet"><li>E 5.1 Directive on Information Management Roles and Responsibilities</li></ul></li><li><strong>E 6 </strong>Policy on Government Security
+		<ul class="noBullet"><li>E 6.1 Use of Electronic Networks</li></ul></li></ul><h4>F LABOUR RELATIONS AND BENEFIT PLANS</h4><ul class="noBullet index"><li><strong>F 1</strong> Occupation Health and Safety under the Canada Labour Code (CLC) Part II
+		<ul class="noBullet"><li>F1.1 Overview of CLC Part II</li><li>F1.2 Government Employees Compensation Act (GECA) coverage</li><li>F1.3 Injury-On-Duty-Leave</li></ul></li><li><strong>F 2 </strong>Employee Assistance Program</li><li><strong>F 3 </strong>Informal Conflict Management System</li><li><strong>F 4</strong> Pensions and Group Benefit Plans </li><li><strong>F 5 </strong>National Joint Council Directives
+		<ul class="noBullet"><li>F 5.1 Travel Directive</li><li>F 5.2 Workforce Adjustment Directive</li></ul></li></ul><h4>G FINANCIAL RESOURCES</h4><ul class="noBullet index"><li><strong>G 1</strong> Financial Administration Act
+		<ul class="noBullet"><li>G 1.1 Contracting Policy</li></ul></li></ul></appendix></appendices></doc>

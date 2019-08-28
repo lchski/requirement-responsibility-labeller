@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Notice on Policy on Management of Real Property - November 16, 2009" documentID="17562" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy Notice"><p>Date: November 16, 2009</p><p>Please note the following changes, effective April 1, 2010:</p><ol><li><p>The <a href="/pol/doc-eng.aspx?id=17316"><em>Fire Protection Standard</em></a> comes into effect.</p></li><li><p>The <a href="/pol/doc-eng.aspx?id=12042"><em>Policy
+	on Management of Real Property</em></a> will be amended to include the following
+	requirement:</p><p>6.1.17 A senior official is designated as Departmental Fire Protection Coordinator (DFPC) to oversee implementation of the <em>Fire Protection Standard</em>.</p></li><li><p>The <a href="/pol/doc-eng.aspx?id=12034"><em>Policy on Fire
+	Protection, Investigation and Reporting</em></a> will be rescinded.</p></li></ol><p>Enquiries about these changes should be directed to: </p><p>Real Property and Material Policy Division<br />
+Treasury Board of Canada Secretariat<br />
+L'Esplanade Laurier<br />
+140 O'Connor Street<br />
+Ottawa, ON  K1A 0G5<br />
+Telephone: (613) 941-4798<br />
+Facsimile: (613) 957-2405<br />
+Email: <a href="mailto:rpmpd@tbs-sct.gc.ca">rpmpd@tbs-sct.gc.ca</a></p><p>Shirley Jen<br />
+Senior Director<br />
+Real Property and Material Policy Division</p></chapter></chapters></doc>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guidelines for Discipline" space="preserve" language="en" versionID="1" documentID="22370" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Context"><p>These guidelines replace the <em>Guidelines for Discipline</em> issued on
+April 1, 2005.</p><p>Paragraph
+12(1)<em>(c</em>) of the <a href="http://laws-lois.justice.gc.ca/eng/F-11/index.html"><em>Financial Administration Act
+(FAA)</em></a> authorizes every deputy head in the core public administration to
+establish standards of discipline and to set penalties, including termination of
+employment, suspension, demotion to a position at a lower maximum rate of pay,
+and financial penalties that may be applied for breaches of discipline or
+misconduct. Subsection 12(3) provides, among other things, that
+disciplinary action shall be for cause. Finally subsection 12.2(1) permits
+delegation of these authorities.</p><p>These
+guidelines support the principles set out in the <a href="/pol/doc-eng.aspx?id=19134"><em>Policy Framework for People
+Management</em></a> by providing advice that will foster sound people management
+practices across the core public administration. </p></chapter><chapter anchor="2" title="2. Target Audience and Purpose"><p>These
+guidelines assist human resources advisors in the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-33.3/section-2.html">core public administration</a> in their role of
+providing advice and guidance to management in the application of discipline,
+in the development of departmental codes of discipline, and in the conduct of
+disciplinary investigations and hearings.</p><p>The nature
+of discipline is to be corrective, rather than punitive, and its purpose is to
+motivate employees to accept those rules and standards of conduct that are
+desirable or necessary to achieve the organization's goals and objectives.</p></chapter><chapter anchor="3" title="3. General"><p>Under
+subsection 12.2(1) of the FAA, management is responsible and accountable for
+the imposition of discipline. Typically, the level of management involved is
+commensurate with the severity of the disciplinary measure. Managers can be
+referred by human resources advisors to the guidance provided in Appendix A and
+can consult with their human resources advisor, their labour relations
+specialist, or both at the earliest indication that misconduct may have
+occurred. Furthermore, management can refer to the following website devoted to
+<a href="/tou/pmc-dgr/intro-eng.asp">performance management</a>.</p><p>It is
+recommended that codes of discipline developed by human resources advisors or
+management be based on sound managerial practices. When new codes of discipline
+or any significant amendments to an existing code are developed, a draft copy
+may be forwarded to the Treasury Board Secretariat's (TBS's) Employer
+Representation in Recourse Section for consultation before promulgation.</p><p>Upon
+request, TBS's Employer Representation in Recourse Team is available to provide
+advice and guidance on termination
+of employment or demotion or other disciplinary actions.  </p></chapter><chapter anchor="4" title="4. Definitions - Disciplinary measures"><p>In order of
+increasing severity, disciplinary measures are as follows:</p><dl><dt><strong>oral reprimand</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>réprimande verbale</em></span>)</dt><dd><p>A verbal
+disciplinary measure that includes a statement outlining to the employee the nature
+of the misconduct, the corrective action required, and the consequences should
+it not be corrected. No record of this measure is placed on the employee's
+personnel file.</p></dd><dt><strong>written
+reprimand</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>réprimande écrite</em></span>)</dt><dd><p>A
+formal written notice that misconduct has occurred. It outlines the nature of
+the misconduct, the corrective action required, and the consequences should it
+not be corrected. If more severe disciplinary action should later become
+necessary, the record of the reprimand or reprimands on the personnel file
+demonstrates that the employee was made aware of the consequences of further
+misconduct.</p></dd><dt><strong>suspension</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>suspension</em></span>)</dt><dd><p>The temporary removal of
+the employee from the place of work without pay as a consequence of misconduct.
+The notice of suspension includes the nature of the misconduct, the corrective
+action required, and the consequences should it not be corrected.</p></dd><dt><strong>financial
+penalty</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>sanction pécuniaire</em></span>)</dt><dd><p>An
+alternative to a suspension, where a financial penalty is considered preferable
+for operational or economic reasons. Financial penalties are appropriate in
+situations involving mass unlawful withdrawal of services, continuous shift
+operations, ships at sea, or isolated posts where it may be difficult to schedule
+suspensions without the use of replacements and overtime. It may also be used
+to impose a definitive disciplinary measure for an act of misconduct. The
+notice of financial penalty outlines the nature of the misconduct, the
+corrective measure required, and the consequences
+should it not be corrected.</p></dd><dt><strong>demotion</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>rétrogradation</em></span>)</dt><dd><p>An action taken by
+the employer to appoint an employee to a position at a lower maximum rate of
+pay. Demotion is an alternative to a disciplinary termination and may be used
+when the manager is of the opinion that, despite the misconduct, the employee
+is still suitable for continued employment, albeit in a position at a lower
+maximum rate of pay. Demotion could be used in situations where a manager is
+found guilty of harassment and is moved to a position with no managerial
+responsibilities.</p></dd><dt><strong>termination</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>licenciement</em></span>)</dt><dd><p>The separation of an
+employee from the core public administration for misconduct. Termination may be
+used after a series of acts of misconduct when a culminating incident has
+occurred or for a single act of serious misconduct. Termination is the most
+severe disciplinary measure, and the decision to proceed is taken only after
+careful consideration and when it is determined that the employee is no longer
+suitable for continued employment by reason of misconduct.</p></dd></dl></chapter><chapter anchor="5" title="5. Redress"><p>An employee
+who is disciplined as described in these guidelines is entitled to present an
+individual grievance at each of the levels in the grievance process, up to and
+including the final level, under the <em><a href="http://laws-lois.justice.gc.ca/eng/SOR-2005-79/index.html"><em>Public
+Service Labour Relations Board Regulations</em></a></em> and the
+provisions of any applicable collective agreement. Individual grievances may
+also be subject to third-party adjudication, under paragraph 209(1)<em>(b)</em>
+of the <em><a href="http://laws-lois.justice.gc.ca/eng/P-33.3/index.html"><em>Public Service
+Labour Relations Act</em></a></em>.</p></chapter><chapter anchor="6" title="6. References"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/"><em>Financial
+Administration Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-83-508/index.html"><em>Privacy
+Regulations</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/p-33.3/"><em>Public Service
+Labour Relations Act</em></a></li><li><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-2005-79/"><em>Public
+Service Labour Relations Board Regulations</em></a></li><li><a href="/pol/doc-eng.aspx?id=19134">Policy
+Framework for People Management</a></li><li><a href="/pol/doc-eng.aspx?id=15771"><em>Policy on Terms
+and Conditions of Employment</em></a></li><li><a href="/pubs_pol/hrpubs/coll_agre/siglist-eng.asp"><em>Collective agreements</em></a></li></ul></chapter><chapter anchor="7" title="7. Enquiries"><p>Please
+direct enquiries about these guidelines to your departmental labour relations headquarters.
+Departmental labour relations headquarters can contact their Employer
+Representation in Recourse Analyst at TBS for interpretation of the guidelines:
+</p><p>Employer Representation in Recourse Team<br />
+Compensation and Labour Relations<br />
+Employer Representation in Recourse<br />
+Treasury Board Secretariat<br />
+Ottawa ON  K1A 0R5</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A — Guidance for Delegated Managers with Respect to Discipline"><ol><li><strong>Collective agreements</strong><p>Review the
+applicable collective agreement for provisions pertaining to discipline. </p></li><li><strong>Steps in determining misconduct and disciplinary action</strong><ul><li>
+    Determine
+    whether rules and orders have been applied fairly and consistently. </li><li>
+    Conduct
+    a fair and objective investigation as expeditiously as possible. </li><li>
+    Establish
+    whether the employee has been accorded due administrative process
+    (see "Investigations and interviews" below). </li><li>
+    Determine
+    whether a breach of conduct has occurred. </li><li>
+    Determine
+    the appropriate disciplinary action, taking into consideration mitigating and
+    aggravating circumstances. </li></ul></li><li><strong>Investigations and interviews</strong><ul><li>
+    Conduct
+    an investigation into the alleged misconduct as soon as possible after the
+    relevant incident. </li><li>
+    Conduct
+    the investigation fairly and objectively and consider and provide the
+    following: 
+    <ul><li>
+        Background
+        information leading to the relevant incident; </li><li>
+        Input
+        from the witness or witnesses; </li><li>
+        The employee's
+        response to the allegation(s); </li><li>
+        An
+        analysis of the facts; and </li><li>
+        The
+        conclusion as to whether misconduct has taken place. </li></ul></li></ul><p>In
+  the context of administrative due process, employees have a right to be
+  informed of the alleged wrongdoing and to have an opportunity to respond.
+  Interviews with employees normally take place in private. Managers are
+  encouraged to consult the applicable collective agreement and to advise the
+  employee of the provisions respecting the attendance of a union representative
+  or other representative at the interview. Management may also choose to be
+  accompanied by a human resources advisor or another management colleague during
+  the interview. Documentation of the outcome of the interview, including the
+  investigation report if there is one, is retained and made available to the
+  employee.</p><p>Note that a suspension
+may be imposed pending investigation of certain suspected misconduct when the
+presence of the employee at work cannot be tolerated or could undermine or impede
+theinvestigation.
+(See Appendix B for indefinite suspension principles as enunciated in the
+Public Service Staff Relations Board decision 2002 PSSRB 9, <strong><br /></strong><em><a href="http://www.pslrb-crtfp.gc.ca/decisions/summaries/30267-eng.asp">Larson
+v. Treasury Board(Solicitor
+General Canada - Correctional Service)</a></em>.</p></li><li><strong> Determining appropriate disciplinary action</strong><p>Each
+incident of alleged misconduct is considered on the basis of individual merit. Based
+on the circumstances, in management's opinion, what corrective measures are
+necessary to correct the undesirable behaviour? The application of disciplinary
+measures is not to be punitive. In the event that previous efforts to correct
+behaviour have not achieved the desired results, or if the misconduct of the
+employee is deemed so egregious that continued employment is not considered
+feasible, termination action may be the only meaningful, appropriate measure. </p><p>Mitigating
+circumstances, such as the employee's length of service, past record, the
+seriousness of the offence, and the unique circumstances of each situation, may
+require variations in management's response to seemingly similar offences.
+Whatever the response, disciplinary actions depend on the nature of the
+offence, the attendant circumstances, and any mitigating factors. Consultation
+with your labour relations specialist may also be appropriate, and a review of
+applicable jurisprudence is advisable. </p><p>It
+is strongly advised not to delay disciplinary action; a lengthy time gap
+between the breach of discipline and management's response tends to dissociate
+the offence from the corrective action. Such delay may also be considered as
+condoning the offence and may weaken management's case at adjudication. </p></li><li><strong>Flexibility and application of discipline</strong><p>It is
+recommended to avoid the rigid equation of offences and disciplinary measures.
+Disciplinary action of a progressively more serious nature may be warranted
+when there are repeated incidents of misconduct.</p></li><li><strong>Meeting at which a disciplinary decision is rendered</strong><p>Please be
+mindful of the principles of procedural fairness. According to these
+principles, once a decision on disciplinary action is made, an employee should
+be informed of this decision at a disciplinary meeting as soon as practicable.
+Managers should consult the applicable collective agreement and advise the
+employee of the provisions relating to the attendance of a bargaining agent or
+other representative at the meeting. An employee should be informed of the
+following during a disciplinary meeting:</p><ul><li>The disciplinary
+    measure or measures to be taken; </li><li>The reasons the
+    disciplinary measure was chosen; </li><li>The mitigating
+    circumstances and the contributing factors that were taken into consideration
+    in reaching this decision; </li><li>The manner and the
+    time frame in which the disciplinary measure or measures will be administered
+    in cases involving suspension, financial penalty, demotion and termination; and
+  </li><li>The right to present
+    an individual grievance.</li></ul><p>Applicable
+  collective agreements may also require management to inform local union
+  representatives when taking specific forms of disciplinary action. At the
+  disciplinary hearing, an employee should be provided with a written statement
+  of the disciplinary action to be taken.</p><p>The
+Supreme Court of Canada decision in <em><a href="http://scc.lexum.org/en/1999/1999scr2-817/1999scr2-817.html">Baker v.
+Canada (Minister of Citizenship and
+Immigration)</a></em>, [1999]2 S.C.R.
+817, sheds additional light on the principles of procedural fairness:</p><p>The
+duty of procedural fairness is flexible and variable and depends on an
+appreciation of the context of the particular statute and the rights affected. The
+purpose of the participatory rights contained within it is to ensure that
+administrative decisions are made using a fair and open procedure, appropriate
+to the decision being made and its statutory, institutional and social context,
+with an opportunity for those affected to put forward their views and evidence
+fully and have them considered by the decision maker.</p></li><li><strong> Documentation</strong><p>A written
+record of the disciplinary action taken should be placed on an employee's
+personnel file. With respect to discipline, only documentation that the
+employee is aware of can be placed on his or her personnel file. Failure on the
+part of an employee to acknowledge disciplinary documentation being placed on
+file may be substituted by a notation to that effect. Any document or written
+statement related to a disciplinary action which may have been placed on the
+personnel file of an employee shall be destroyed in compliance with the
+applicable provision of the collective agreement or in compliance with section
+4 of the <em>Privacy Regulations</em>. </p></li></ol></appendix><appendix anchor="B" title="Appendix B — Indefinite Suspension Principles for Consideration by Delegated Managers"><p>Adjudicators
+have considered the following principles fromthe Public Service Staff
+Relations Board decision 2002 PSSRB 9<em>, <a href="http://www.pslrb-crtfp.gc.ca/decisions/summaries/30267-eng.asp">Larson v.
+Treasury Board(Solicitor General Canada - Correctional
+Service)</a></em>, in determining whether an indefinite suspension was
+justified: </p><ol><li>
+    The issue
+    in a grievance of this nature is not whether the grievor is guilty or innocent,
+    but rather whether the presence of the grievor as an employee of the
+    organization can be considered to present a reasonably serious and immediate
+    risk to the legitimate concerns of the employer; </li><li>
+    The onus
+    is on the [employer] to satisfy the board of the existence of such a risk and
+    the simple fact that a criminal charge has been laid is not sufficient to
+    comply with that onus. The [employer] must also establish that the nature of
+    the charge is such as to be potentially harmful or detrimental or adverse in
+    effect to the [employer's] reputation or product or that it will render the
+    employee unable properly to perform his duties or that it will have a harmful
+    effect on other employees of the company or its customers or will harm the
+    general reputation of the [employer]; </li><li>
+    The
+    [employer] must show that it did, in fact, investigate the criminal charge to
+    the best of its abilities in a genuine attempt to assess the risk of continued
+    employment. The burden, in this area, on the [employer] is significantly less
+    in the case where the police have investigated the matter and have acquired the
+    evidence to lay the charge than in the situation where the [employer] has initiated
+    proceedings; </li><li>
+    There is
+    further onus on the [employer] to show that it has taken reasonable steps to
+    ascertain whether the risk of continued employment might be mitigated through
+    such techniques as closer supervision or transfer to another position; and </li><li>
+    There is
+    a continued onus on the part of the [employer] during the period of suspension
+    to consider objectively the possibility of reinstatement within a reasonable
+    period of time following suspension in light of new facts or circumstances
+    which may come to the attention of the [employer] during the course of the
+    suspension. These matters, again, must be evaluated in the light of the
+    existence of a reasonable risk to the legitimate interest of the [employer]. </li></ol></appendix></appendices></doc>

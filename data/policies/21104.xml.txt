@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Directive on Union Dues" documentID="21104" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective date"><p>1.1 This directive takes effect on March 1<sup>st</sup>, 2011.</p><p>1.2 It replaces the <em>Treasury Board Manual, Chapter 11, Union Dues Check-off, </em>dated May 1, 1995.</p></chapter><chapter anchor="2" title="2. Application"><p>2.1 This directive applies to the core public administration, as defined in section 11 of the <em>Financial Administration
+Act </em>(<em>FAA</em>), unless excluded through specific acts, regulations or Orders-in Council. </p></chapter><chapter anchor="3" title="3. Context"><p>3.1 This directive supports the
+Policy on Terms and Conditions of Employment by outlining the responsibilities
+of the departments within the core public administration for ensuring the
+accurate, consistent, and timely administration of union dues.  It identifies
+mandatory requirements for the application of union dues that are not covered
+under collective agreements.</p><p>3.2 The authority to deduct and remit
+union dues to certified bargaining agents is governed by the employee's relevant
+collective agreement. Where there is a conflict between a provision of the
+collective agreement and this directive, the provision of the collective
+agreement applies.</p><p>3.3 This directive is issued pursuant to sections 7 and 11.1 of the FAA.</p><p>3.4 This directive is to be read in conjunction with the following:</p><ul><li><em>the Financial Administration Act;</em></li><li><em>the Public Service Labour Relations Act; </em></li><li><em>the Policy on Terms and Conditions of Employment</em>; and</li><li>collective agreements.</li></ul></chapter><chapter anchor="4" title="4. Definitions"><p>4.1 Definitions of terms to be used
+in the interpretation of this directive are provided in Appendix "A".</p></chapter><chapter anchor="5" title="5. Directive statement"><section anchor="5.1" title="5.1 Objective"><p>The objective of this directive is to ensure the sound, consistent and effective
+practices with respect to the administration of union dues across the core
+public administration.</p></section><section anchor="5.2" title="5.2 Expected results"><p>The expected results of this directive are that the deductions and remittance of
+union dues are administered in accordance with relevant collective agreements
+and as prescribed in this directive.</p></section></chapter><chapter anchor="6" title="6. Requirements"><section anchor="6.1" title="6.1 Senior departmental human resources officials or any other person named by the deputy head are responsible for:"><p>6.1.1 Ensuring that the necessary organizational
+structure, resources, systems, service standards and controls are in place in
+order to facilitate the accurate, consistent and timely administration of union
+dues.</p></section><section anchor="6.2" title="6.2 Human resources advisors are responsible for:"><p>6.2.1 Ensuring that issues associated
+with the administration of union dues are effectively managed in cooperation
+with the compensation advisors;</p><p>6.2.2 Ensuring that compensation
+advisors are provided with letters of offer, secondment or assignment
+agreements or any other relevant document on a timely basis in order to apply
+and administer this directive effectively;</p><p>6.2.3 Ensuring that employees are
+provided accurate and consistent information regarding union dues; and</p><p>6.2.4 Ensuring the accuracy and
+completeness of the data in the Position Exclusion System (PES) for the proper
+administration of union dues.</p></section><section anchor="6.3" title="6.3 Compensation advisors are responsible for:"><p>6.3.1 Processing union dues
+transactions in the pay system in accordance with this directive and the
+relevant collective agreements; and</p><p>6.3.2 Completing and submitting the <a href="/tbsf-fsct/publi/340-51-eng.asp">Bargaining Agent Identification Notice of Change Form</a>
+in a timely manner when there is an initial appointment or change in union
+representation and/or employment status.</p></section><section anchor="6.4" title="6.4 Monitoring requirements"><h4>6.4.1 Within departments</h4><p>6.4.1.1 Senior departmental human resources
+officials or any other person delegated by the deputy head are responsible for
+monitoring compliance with this directive within their organization.  Under Section
+6.2 of the <em>Policy on Terms and Conditions of Employment</em>, senior
+departmental human resources officials are to review, on an ongoing basis, the
+processes and procedures associated with the administration of union dues to
+assess the accuracy and timeliness of their application and to implement
+corrective measures in a timely manner when required.</p><h4>6.4.2 Treasury Board Secretariat (TBS)</h4><p>6.4.2.1 The Treasury Board Secretariat (TBS)
+will monitor departments' compliance with this directive on an on-going basis through
+the reconciliation of information provided by the bargaining agents, Public
+Works and Government Services Canada (PWGSC) and departments. </p><p>6.4.2.2 TBS will review this directive,
+its associated policy and their effectiveness at the five-year mark from the
+policy's implementation.  Where substantiated by risk-analysis, TBS will also
+ensure that an evaluation is conducted.</p></section></chapter><chapter anchor="7" title="7. Consequences"><p>7.1 In cases of non-compliance with this
+directive, deputy heads are responsible for taking corrective measures to
+restore compliance within their organization, including temporary supervision,
+withdrawal of delegated authorities from the staff or taking any other measures
+including disciplinary action. </p></chapter><chapter anchor="8" title="8. Roles and responsibilities of government organizations"><section anchor="8.1" title="8.1 Treasury Board Secretariat"><p>8.1.1 TBS is responsible for notifying departments of changes in the administration of union dues and in union dues deduction rates.</p><p>8.1.2 Should labour relations circumstances warrant it, TBS will notify PWGSC to automatically cease union dues deductions for
+employees in the bargaining unit.</p><h3><strong>8.2 Department of Public Works and Government Services Canada</strong></h3><p>8.2.1 PWGSC is responsible for remitting union dues deductions made by the employer to the relevant bargaining agent.</p></section></chapter><chapter anchor="9" title="9. References"><ul><li><em>Collective Agreements Implementation Order</em></li><li><em>Directive on Terms and Conditions of Employment </em></li><li><em>Guidelines on Managerial or Confidential Exclusions</em></li></ul></chapter><chapter anchor="10" title="10. Enquiries"><p>Please direct enquiries about this directive to your departmental headquarters. For interpretation
+of this directive, departmental headquarters should contact:</p><p>Treasury Board Secretariat <br />
+L'Esplanade Laurier<br />
+300 Laurier Avenue West<br />
+Ottawa, ON  K1A 0R5</p><p>E-mail: <a href="mailto:Interpretation@TBS-SCT.GC.CA" title="Contact Interpretations at Treasury Board Secretariat by email">Interpretations@TBS-SCT.GC.CA</a></p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Definitions"><dl><dt><strong>arrears</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>arrérages</em></span>)</dt><dd>in the context of this directive means an amount owing when union dues have not been deducted in a timely manner.</dd><dt><strong>bargaining agent</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>agent négociateur</em></span>)</dt><dd>means an employee organization that is certified by the Public Service Labour Relations Board as the bargaining agent for the employees in a bargaining unit.</dd><dt><strong>bargaining unit</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>unité de négociation</em></span>)</dt><dd>means a group of two or more employees that is determined by the Public Service Labour Relations Board to constitute a unit of employees appropriate for collective bargaining.</dd><dt><strong>check-off</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>précompte des cotisations</em></span>)</dt><dd>has the same meaning as union dues (<em>retenues syndicales)</em></dd><dt><strong>collective agreement</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>convention collective</em></span>)</dt><dd>means an agreement in writing, entered into under Part 1 of the <em>Public Service Labour Relations Act</em> between the employer and a bargaining agent, containing provisions pertaining to terms and conditions of employment and related matters.</dd><dt><strong>deficiencies</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>insuffisances</em></span>)</dt><dd>in the context of this directivemeans that an inadequate amount of union dues has been deducted.</dd><dt><strong>employee</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>employé</em></span>)</dt><dd>in the context of this directive has the same meaning as in sub-section 2(1) of the <em>Public Service Labour Relations Act.</em></dd><dt><strong>full calendar month of employment</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>mois civil complet d'emploi</em></span>)</dt><dd>means the period from the first day of the month to the last day of the month inclusively.</dd><dt><strong>full month of employment</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>mois complet d'emploi</em></span>)</dt><dd>has the same meaning as full calendar month of employment referred to in some collective agreements.</dd><dt><strong>managerial or confidential position</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>poste de direction ou de confiance</em></span>)</dt><dd>is a position that has been declared to be a managerial or confidential position by the Public Service Labour Relations Board.</dd><dt><strong>occupant of an excluded position</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>titulaire d'un poste exclus</em></span>)</dt><dd>means the incumbent or the person who is acting or has assumed wholly or substantially the duties and responsibilities of a position that has been declared to be a managerial or confidential position.</dd><dt><strong>Position Exclusion System</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>système d'exclusion des postes</em></span>)</dt><dd>is the system designated by the Treasury Board Secretariat to compile data on public service positions that have been identified as managerial or confidential positions. The data contained in the system is used by the employer and the bargaining agents to implement the union dues provisions set out in the relevant collective agreement.</dd><dt><strong>refund</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>remboursement</em></span>)</dt><dd>is an amount of money owing to a bargaining agent and/or an employee as a result of union dues being deducted in error or directed in error.</dd><dt><strong>temporarily struck-off strength</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>temporairement rayé de l'effectif</em></span>)</dt><dd>is the action that is taken to temporarily stop the pay activity of an employee for reasons such as extended leave without pay, suspension or seasonal lay-off, or to temporarily stop the pay activity status of an employee pending the processing of a struck-off strength pay transaction.</dd><dt><strong>union dues</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>cotisations syndicales</em></span>)</dt><dd>are mandatory fees payable to the relevant certified bargaining agent.</dd><dt><strong>unrepresented position</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>poste non représenté</em></span>)</dt><dd>is a position that is not represented by a bargaining agent.</dd></dl></appendix><appendix anchor="B" title="Appendix B - Requirements for the Application and Administration of Union Dues"><p>Senior departmental human resources officials or any other person named by the deputy head are to ensure the following:</p><section anchor="B.1" title="1. General"><p>1.1 In accordance with the relevant collective agreement, compensation advisors are to deduct union dues from an employee's pay each
+month provided that sufficient earnings exist after mandatory and statutory deductions have been taken.  Compensation advisors are to remit the union dues
+to the bargaining agent representing the occupational group under which the work is being performed. The occupational group is established by the staffing
+action or the resourcing option effected.</p><p>1.2 Compensation advisors deduct union dues from an employee's pay unless that employee is:</p><ul><li>the occupant of a position excluded from a bargaining unit under the <em>Public Service Labour Relations Act (PSLRA)</em>; </li><li>exempt from paying dues because of religious affiliation in accordance with the specific check-off provisions of the collective agreement; </li><li>the occupant of an unrepresented position; or</li><li>not an employee as defined in the <em>PSLRA (see definitions).</em></li></ul></section><section anchor="B.2" title="2. Commencing union dues"><p>2.1 Initial appointments to the core public administration</p><p>2.1.1 The date used to establish when to commence union dues for an initial
+appointment is the effective date of the appointment.  Compensation advisors
+will commence to deduct union dues following the completion of a full calendar
+month of employment.  Therefore, an appointment on the 1<sup>st</sup> day of
+the month will result in the completion of that full calendar month of
+employment. Union dues deductions will commence on the 1<sup>st</sup> day of
+that month.  However, an appointment on any other day of the month will result
+in deductions starting on the 1<sup>st</sup> day of the following month.</p><p>2.2. Subsequent appointments or other resourcing options within the core public administration</p><p>2.2.1 The date used to establish when to commence union dues for subsequent
+appointments or other resourcing options such as deployments, transfers, acting
+appointments, demotions, assignments or secondments is the effective date when
+the employee actually starts that employment.  Compensation advisors will
+commence to deduct union dues in respect of the completion of a full calendar
+month of employment. Thus, a subsequent appointment or a change occuring on the
+1<sup>st</sup> day of the month will result in the completion of that full
+calendar month of employment and union dues deductions will commence on the 1<sup>st</sup>
+day of that month.  However, a change of employment on any other day of the
+month will result in deductions commencing on the 1<sup>st</sup> day of the
+following month.</p></section><section anchor="B.3" title="3. Ceasing or amending union dues"><p>3.1 The date used to establish when to cease or amend union dues
+is the effective date of the subsequent appointment, the other resourcing
+option or when the employee returns to his or her substantive position. Compensation
+advisors will cease union dues deductions on the 1st day of the month if the
+effective date is the 1st day of that month or the 1st day of the following
+month if the effective date is any other day during that month.</p><p>3.2 Religious affiliation</p><p>3.2.2 Once a request for exemption by an employee has been approved
+in accordance with the relevant collective agreement, compensation advisors
+will cease union dues deductions on the 1<sup>st</sup> day of the month if the
+effective date is the 1<sup>st</sup> day of that month or the 1<sup>st</sup>
+day of the following month if the effective date is any other day during that
+month.</p></section><section anchor="B.4" title="4. Leave without pay (temporarily struck-off strength) or return to work"><p>4.1 Union dues are not deducted for an employee who is on leave
+without pay for a period of more than a month or on seasonal off-duty status.
+Compensation advisors will initiate the temporarily struck-off strength pay
+action so that dues automatically cease. Compensation advisors will ensure that
+union dues for the month of departure are deducted provided sufficient earnings
+exist after statutory and mandatory deductions have been taken.</p><p>4.2 Upon return to work, compensation advisors will ensure that
+union dues are deducted during the month the employee returns to work provided
+sufficient earnings exist after statutory and mandatory deductions have been
+taken.</p><p>4.3 Return to work from a period of disability (rehabilitation program)</p><p>4.3.1 An employee returning to work on reduced hours under an approved rehabilitation program is still considered a full-time employee (or
+part-time if the employee was a part-time employee prior to his or her period
+of disability).  Compensation advisors will ensure that union dues are deducted
+for the month in which the employee returns to work provided sufficient
+earnings exist after statutory and mandatory deductions have been taken. </p></section><section anchor="B.5" title="5. New proposal for exclusion of a position"><p>5.1 No objection from bargaining agent</p><p>5.1.1 The position becomes excluded on the date specified in the
+order issued by the Public Service Labour Relations Board (PSLRB).  Compensation
+advisors will cease union dues deductions on the 1<sup>st</sup> day of the
+month if the date specified in the order is the 1<sup>st</sup> of that month or
+the 1<sup>st</sup> day of the following month if the date specified in the
+order is any other day during that month.</p><p>5.2 Objection from bargaining agent</p><p>5.2.1 When informed by the TBS that
+a bargaining agent has filed an objection to the exclusion of a position, the human
+resources advisor is to take immediate action to ensure that the compensation
+advisor holds union dues in suspense until the case is resolved, as stipulated
+in the PSLRA.  Compensation advisors will hold union dues in suspense starting on
+the 1<sup>st</sup> day of the month if the date of the objection is the 1<sup>st</sup>
+of that month or the 1<sup>st</sup> day of the following month if the date of
+the objection is any other day during that month.</p><p>5.2.2 If the PSLRB determines that the position is not excluded or
+if the employer withdraws the proposal, the human resources advisor is to
+inform the compensation unit of such. Compensation advisors are to ensure that
+all monies held in suspense in respect to this proposal are redirected to the
+bargaining agent.</p><p>5.2.3 If the PSLRB determines that the position is excluded or if
+the bargaining agent withdraws the objection, the human resources advisor will
+inform the compensation unit of such. Compensation advisors will reimburse all
+monies held in suspense in respect to this proposal to the occupant(s) of the
+position and will cease union dues deduction on the 1<sup>st</sup> day of the
+month if the date of the order is the 1<sup>st</sup> of that month or the 1<sup>st</sup>
+day of the following month if the date of the order is any other day during
+that month.</p><p>5.3. Return of a position to the bargaining unit</p><p>5.3.1 The date used to establish when to start union dues deductions
+when a position is returned to the bargaining unit is the date of the order. Compensation
+advisors will start union dues deduction on the 1st day of the month if the
+effective date of the order is the 1st day of that month or the 1st day of the
+following month if the effective date is any other day during that month.</p></section><section anchor="B.6" title="6. Union dues arrears, deficiencies and refunds"><p>6.1 When it is established that arrears or deficiencies in union
+dues are outstanding, compensation advisors must communicate immediately with
+the bargaining agent to reconcile amounts owed. Compensation advisors will
+inform employees accordingly. The compensation advisor is to ensure that the
+amount owed is directed to the appropriate bargaining agent.  Bargaining agents
+are to be paid all arrears or deficiencies owed within 30 calendar days of discovering
+the error, unless both parties agree otherwise. </p><p>6.2 If union dues were directed in error to a bargaining agent,
+the compensation advisor is to ensure that the amount owed is directed to the
+appropriate bargaining agent within 30 calendar days of discovering the error,
+unless both parties agree otherwise.  </p><p>6.3 The compensation advisor will contact the bargaining agent
+who received union dues in error to discuss the situation prior to initiating
+recovery of the amount(s) in question. The compensation advisor is to request
+that the bargaining agent, to which union dues were sent in error, reimburse
+the full amount of the union dues within 30 calendar days following the request
+for reimbursement, unless both parties agree otherwise.</p><p>6.4 Employees will be responsible for any under-deduction or will
+be refunded on any over-deduction as a result of errors.  Compensation advisors
+will inform employees accordingly. Compensation advisors are to refund
+employees any over-deduction of union dues or recover any under-deduction of
+dues within 30 calendar days of discovering the error, unless both parties
+agree otherwise.  </p><p>6.5 Compensation advisors are to recover the amount owed from the
+employee's pay at the rate of one current month of union dues plus an additional
+amount equal to one month of dues.</p></section></appendix></appendices></doc>

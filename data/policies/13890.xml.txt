@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Termination of Employment of Public Service Employees Due to Alternative Delivery Situations" documentID="13890" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Effective Date"><p>This document sets out the policy approved by the Treasury
+Board on July 10,1996, with effect from July 16, 1996.</p></chapter><chapter anchor="2" title="Preface"><p>A new termination of employment authority has been added to
+the <em>Financial Administration Act (FAA)</em> as paragraph
+11(2)(g.1). Under this authority, Treasury Board may provide for
+the termination of employment of an employee to whom an offer of
+employment is made as the result of the transfer of any work,
+undertaking or business from a portion of the Public Service
+specified in Part I of Schedule I of the <em>Public Service Staff
+Relations Act</em> to any body or corporation that is a separate
+employer or that is outside the Public Service. Section 29 of the
+<em>Public Service Employment Act</em> continues to provide the
+authority for lay-off as a result of lack of work, discontinuance
+of function or transfer of function not provided for under the
+new authority.</p></chapter><chapter anchor="3" title="Policy objective"><p>To facilitate the transfer of staff to new employers in the
+case of alternative delivery initiatives in a fair and open
+manner reflecting the operational requirements of the
+organizations involved.</p></chapter><chapter anchor="4" title="Policy statement"><p>Terminations of employment shall be undertaken in a manner
+that will:</p><ol class="lower-alpha"><li> ensure the operational requirements of the government
+organization which is transferring the function and those of the
+receiving organization are the basis on which employees are
+selected to receive job offers;</li><li> keep employees and their representatives informed on a
+regular basis and involved in consultations where possible;</li><li> result from open and transparent processes.</li></ol></chapter><chapter anchor="5" title="Application"><p>This policy applies to the departments and agencies listed in
+Part I, Schedule I of the <em>Public Service Staff Relations
+Act.</em></p></chapter><chapter anchor="6" title="Policy requirements"><p>Deputy heads must:</p><ul><li>establish corporate human resources principles and
+guidelines for the treatment, identification and termination of
+employment of departmental employees affected by the transfer of
+any work, business or undertaking;</li><li>ensure that a formal decision to transfer any work,
+undertaking or business has occurred prior to offers of
+employment being made to employees;</li><li>ensure that employees who are significantly involved with
+the transferring work, undertaking or business are considered for
+employment opportunities with the receiving organization;</li><li>give regard to employees' interests and preferences, subject
+to operational requirements;</li><li>exercise authorities under this policy in accordance with
+the terms of the Work Force Adjustment Directive in place at the
+time of transfer.</li></ul></chapter><chapter anchor="7" title="Authorities"><section anchor="7.1" title="Delegation"><p>Deputy Heads and their equivalents:</p><ul><li>are authorized, under paragraph 12(1) of the <em>FAA</em>, to
+exercise the power to terminate the employment of employees
+pursuant to the <em>FAA</em> 11(2)(g.1);</li><li>have the power to deem an employee to have accepted a job
+offer under paragraph 11(2.02) of the <em>FAA</em>;</li><li>are responsible and accountable for exercising these
+authorities in accordance with the provisions of this policy;
+and</li><li>may vary or rescind such decisions as may be required.</li></ul></section><section anchor="7.2" title="Sub-delegation"><p>Deputy heads may sub-delegate the above authorities to one or
+more persons under their jurisdiction.</p></section></chapter><chapter anchor="8" title="Implementation"><section anchor="8.1" title="Interim arrangements"><p>Employees, affected by the transfer of work or business,
+declared surplus prior to the effective date of this policy are
+subject to lay-off under the provisions of section 29 of the
+<em>Public Service Employment Act.</em></p></section></chapter><chapter anchor="9" title="Monitoring"><p>The Secretariat will monitor the administration of this policy
+in the context of its ongoing monitoring of the Work Force
+Adjustment Directive.</p></chapter><chapter anchor="10" title="References"><section anchor="10.1" title="Authority"><p>This policy is issued pursuant to the <em>Financial
+Administration Act</em>, paragraphs 11(2)(g.1) and 11(2.02).</p></section><section anchor="10.2" title="Relevant Legislation and Directives"><p><em>Financial Administration Act</em></p><p><em>Public Service Employment Act</em></p><p><em>Public Service Staff Relations Act</em></p><p><em>Work Force Adjustment Directive</em></p></section></chapter><chapter anchor="11" title="Enquiries"><p>Please direct enquiries about this policy to the responsible
+officers in departmental headquarters who, in turn, may seek
+interpretations from:</p><div class="indent1"><p>Employment Adjustment and Alternative Delivery Group<br />
+Labour Relations and Human Resources Management Division<br />
+Human Resources Branch<br />
+Treasury Board Secretariat<br />
+(613) 957-2672</p></div></chapter></chapters></doc>

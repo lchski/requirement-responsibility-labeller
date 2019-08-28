@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="TBITS 36: All-Numeric Representation of Dates and Times -Implementation Criteria" documentID="17284" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Reference"><section anchor="1.1" title="1.1 Name"><ul><li>All-numeric representation of dates and times</li></ul></section><section anchor="1.2" title="1.2 Identifier"><ul><li><acronym title="Treasury Board Information and Technology Standards">TBITS</acronym>-36
+		</li></ul></section><section anchor="1.3" title="1.3 Category"><ul><li>Standard </li></ul></section><section anchor="1.4" title="1.4 Effective date"><ul><li>Immediately Upon Publication </li></ul></section><section anchor="1.5" title="1.5 Approving authority"><ul><li>Updated per Information Technology Guidelines – Part 2</li><li><acronym title="Advisory Committee on Information Management">ACIM</acronym> 
+	Endorsement (Dec. 18, 1997)</li></ul></section><section anchor="1.6" title="1.6 Maintenance agency"><ul><li>Infrastructure Investment Management </li><li>Treasury Board Secretariat </li></ul></section><section anchor="1.7" title="1.7 Cross index"><ul><li><acronym title="Federal Information Processing Standard Publication">FIPS 
+	PUB</acronym> 4-1, Representation for calendar date and ordinal date for information 
+	interchange</li><li><acronym title="International Organization for Standardization">ISO</acronym> 
+	8601:1988, Data elements and interchange formats - Information interchange - 
+	Representation of dates and times</li></ul></section><section anchor="1.8" title="1.8 Related documents"><ul><li>CAN/<acronym title="Canadian Standards Association">CSA</acronym>-Z243.4-89, 
+	All-numeric date and time</li><li><acronym title="American National Standards Institute">ANSI</acronym> X3.30-1985 
+	(R1991) - for information systems - Representation for calendar date and ordinal 
+	date for information interchange</li><li><acronym title="Government EDP Standards/Normes gouvernementales en informatique">
+	GES/NGI</acronym>-2/A-1977-04-01 is replaced by this publication</li></ul></section></chapter><chapter anchor="2" title="2. Purpose"><p>The purpose of this standard is to define the numeric format for calendar dates 
+for the purpose of interchange of machine-readable data between departments and 
+agencies.</p><p>The term "Gregorian Date", as frequently used in Electronic Data Processing parlance, 
+is the equivalent of the term "Calendar Date" as used in this document, i.e. date 
+format consisting of three numeric fields to represent year, month and day of month 
+respectively.</p><p>The term "Julian Date", also frequently used in
+<acronym title="Electronic Data Processing">EDP</acronym> parlance, is the equivalent 
+of the term "Ordinal Date" as used in this document, i.e. date format consisting 
+of two numeric fields, often conjoined, to represent year and sequential day within 
+the year commencing with 001 for January 1st.</p></chapter><chapter anchor="3" title="3. Application"><p>This standard shall apply when describing either calendar or ordinal dates in 
+an all-numeric form for interchange of machine-readable data between departments 
+and agencies.</p></chapter><chapter anchor="4" title="4. Qualifications"><section anchor="4.1" title="4.1 Sequence"><p>An all-numeric date consists of the following data elements from left to right:</p><ul><li>(Calendar) year-month-day</li><li>(Ordinal) year-day of year</li></ul></section><section anchor="4.2" title="4.2 Characters"><p>Arabic numerals from set 0, 1, 2, ... 9 are used.</p></section><section anchor="4.3" title="4.3 Elements"><p>4.3.1 A calendar date consists of three elements:</p><ul><li>four digits to represent "year"</li><li>two digits to represent "month"</li><li>two digits to represent "day"</li></ul><p>4.3.2 An ordinal date consists of two elements:</p><ul><li>four digits to represent "year"</li><li>three digits to represent "day of the year"</li></ul></section><section anchor="4.4" title="4.4 Separators"><p>For person-to-machine (input) or machine-to-person (output) purposes, as well 
+as for person-to-person purposes, the calendar date may be edited by the inclusion 
+of either of the separators space or hyphen to partition the elements, e.g.:</p><ul class="lower-alpha"><li>1975 07 01 (space separators)</li><li>1975-07-01 (hyphen separators)</li></ul><p>but the internal machine representation does not include separators.</p></section></chapter><chapter anchor="5" title="5. Implementation"><p>The permitted period for conformance to this standard shall not exceed six months 
+subsequent to its publication date.</p></chapter><chapter anchor="6" title="6. Government Standards Working Group"><ul><li>G.E. Henderson (Chairman)</li><li>B. Laidlaw <acronym title="Treasury Board Secretariat">TBS</acronym></li><li>G. Beauséjour </li><li>R.E. Blasius</li><li>N.D. Brewer</li><li>D.S. Brooks</li><li>D.M. Brown</li><li>A.B. Donaldson</li><li>J.A. Guminski</li><li>T.J. Jones</li><li>P. McLellan <acronym title="Public Works and Government Services">PWGSC</acronym></li><li>S. Poretski</li><li>J.M. Selman</li></ul></chapter><chapter anchor="7" title="7. Where to Obtain Copies"><p>Copies of the technical specification may be obtained as follows:</p><p>FIPS PUB 4-1,</p><p>Representation for calendar date and ordinal date for information interchange</p><p>National Technical Information Service
+<acronym title="National Technical Information Service">(NTIS)</acronym><br />
+U.S. Department of Commerce<br />
+ATTN: Sales Office, Sills Building<br />
+5285 Port Royal Road<br />
+Springfield, VA 22161<br />
+U.S.A.<br />
+Telephone: (703) 487-4650<br />
+Facsimile: (703) 321-8547<br />
+ISO 8601:1988,</p><p>Data elements and interchange format - Information interchange - Representation 
+of dates and times<br /></p><!-- #include virtual="/cioscripts/address/addscc-eng.txt" --><p>CAN/CSA-Z243.4-89, All-numeric date and time<br />
+Canadian Standards Association<br />
+178 Rexdale Blvd.<br />
+Etobicoke, Ontario<br />
+M9W 1R3<br />
+Telephone: (416) 747-4044<br />
+Facsimile: (416) 747-247</p></chapter></chapters></doc>

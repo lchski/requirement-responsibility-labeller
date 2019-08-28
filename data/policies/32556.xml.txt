@@ -1,0 +1,361 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+    <head>
+        <!-- Google Tag Manager (NOT BUILT IN TO THE CDN TEMPLATE) -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5HHZ4ST');</script>
+        <!-- End Google Tag Manager -->
+
+        <meta charset="utf-8"/>
+        <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+            wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+        <title>Guide to Rapid Impact Evaluation- Canada.ca</title>
+        <meta content="width=device-width,initial-scale=1" name="viewport"/>
+        <!-- Load closure template scripts -->
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/soyutils.js"></script>
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/wet-en.js"></script>
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/compiled/plugins-en.js"></script>
+        <noscript>
+            <!-- Write closure fall-back static file -->
+            		<!--[if gte IE 9 | !IE ]><!-->
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/theme.min.css">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsfixes.css">
+		<!-- Are you using the application templates? If so add the following CSS file -->
+		<!-- <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsapps.css">-->
+		<!--<![endif]-->
+		<!--[if lt IE 9]>
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/favicon.ico" rel="shortcut icon" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/ie8-theme.min.css" />
+		<![endif]-->
+		<!--[if lte IE 9]><![endif]-->
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/css/noscript.min.css" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/cdts/cdtsnoscript.css" />
+        </noscript>
+         <!-- Write closure template -->
+        <script type="text/javascript">
+            document.write(wet.builder.refTop({"cdnEnv":"prod","isApplication":false}));
+        </script>
+
+        <meta name="WebConfigHost" content="www" />
+<link rel="stylesheet" href="./css/pol.css" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<meta name="type" content="Guide" />
+<meta name="typeid" content="13" />
+<meta name="status" content="Approved" />
+<meta name="statusid" content="1" />
+<meta name="instrumentversion" content="Current" />
+<meta name="instrumentversionid" content="7" />
+<meta name="plannedaction" content="None" />
+<meta name="plannedactionid" content="266" />
+<script src="//assets.adobedtm.com/caacec67651710193d2331efef325107c23a0145/satelliteLib-c2082deaf69c358c641c5eb20f94b615dd606662.js"></script>
+<meta name="dc.title" content="Guide to Rapid Impact Evaluation">
+<meta name="dcterms.title" content="Guide to Rapid Impact Evaluation">
+<meta name="dcterms:title" content="Guide to Rapid Impact Evaluation">
+<meta name="dc.creator" content="Treasury Board of Canada Secretariat">
+<meta name="dcterms.creator" content="Treasury Board of Canada Secretariat">
+<meta name="dcterms:creator" content="Treasury Board of Canada Secretariat">
+<meta name="gc.institution" content="Government of Canada">
+<meta name="dc.language" title="ISO639-2" content="eng">
+<meta name="dcterms.language" title="ISO639-2/T" content="eng">
+<meta name="dcterms:language" title="ISO639-2/T" content="eng">
+<meta name="dc.audience" content="public">
+<meta name="dc.date.issued" title="W3CDTF" content="2017-10-13">
+<meta name="dcterms.issued" title="W3CDTF" content="2017-10-13">
+<meta name="dcterms:issued" title="W3CDTF" content="2017-10-13">
+<meta name="dc.date.modified" title="W3CDTF" content="2017-10-13">
+<meta name="dcterms.modified" title="W3CDTF" content="2017-10-13">
+<meta name="dcterms:modified" title="W3CDTF" content="2017-10-13">
+<meta name="dc.spatial.country" content="Canada">
+<meta name="dcterms.spatial" content="Canada">
+<meta name="dcterms:spatial" content="Canada">
+<meta name="dcterms.service" content="pol">
+<meta name="dcterms:service" content="pol">
+<meta name="dcterms.accessRights" content="2">
+<meta name="dcterms:accessRights" content="2">
+
+        <!-- GoC.WebTemplate Version ASPX 4.0.27.1 -->
+        <!-- GoC.WebTemplate.Core Version 1.0.6596.29129 -->
+    </head>
+    <body vocab="http://schema.org/" typeof="WebPage">
+        
+        <div id="def-top">
+            <!-- Write closure fall-back static file -->
+            		<ul id="wb-tphp">
+			<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+			<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Skip to "About this site"</a></li>
+		</ul>
+		<header role="banner">
+			<div id="wb-bnr" class="container">
+				<div class="row">
+					<div class="brand col-xs-8 col-sm-9 col-md-6">
+						<a href="https://www.canada.ca/en.html"><object type="image/svg+xml" tabindex="-1" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/sig-blk-en.svg"></object><span class="wb-inv"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+					</div>
+					<section class="wb-mb-links col-xs-4 col-sm-3 visible-sm visible-xs" id="wb-glb-mn">
+						<h2>Search and menus</h2>
+						<ul class="list-inline text-right chvrn">
+							<li><a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">Search and menus</span></span></span></a></li>
+						</ul>
+						<div id="mb-pnl"></div>
+					</section>
+					<section id="wb-srch" class="col-xs-6 text-right visible-md visible-lg">
+						<h2>Search</h2>
+						<form action="https://www.canada.ca/en/sr.html" method="get" name="cse-search-box" role="search" class="form-inline">
+							<div class="form-group">
+								<label for="wb-srch-q" class="wb-inv">Search website</label>
+								<input name="cdn" value="canada" type="hidden">
+								<input name="st" value="s" type="hidden">
+								<input name="num" value="10" type="hidden">
+								<input name="langs" value="en" type="hidden">
+								<input name="st1rt" value="1" type="hidden">
+								<input name="s5bm3ts21rch" value="x" type="hidden">
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+								<input type="hidden" name="_charset_" value="UTF-8">
+								<datalist id="wb-srch-q-ac">
+									<!--[if lte IE 9]><select><![endif]-->
+									<!--[if lte IE 9]></select><![endif]-->
+								</datalist>
+							</div>
+							<div class="form-group submit">
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			<nav role="navigation" id="wb-sm" class="wb-menu visible-md visible-lg" typeof="SiteNavigationElement">
+				<div class="container nvbar">
+					<h2>Topics menu</h2>
+					<div class="row">
+						<ul class="list-inline menu">
+							<li><a href="https://www.canada.ca/en/services/jobs.html">Jobs</a></li>
+							<li><a href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration</a></li>
+							<li><a href="https://travel.gc.ca/">Travel</a></li>
+							<li><a href="https://www.canada.ca/en/services/business.html">Business</a></li>
+							<li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+							<li><a href="https://www.canada.ca/en/services/health.html">Health</a></li>
+							<li><a href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+							<li><a href="https://www.canada.ca/en/services.html">More services</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<nav role="navigation" id="wb-bc" property="breadcrumb">
+				<h2>You are here:</h2>
+				<div class="container">
+					<div class="row">
+						<ol class="breadcrumb">
+							<li><a href="https://www.canada.ca/en.html">Home</a></li>
+						</ol>
+					</div>
+				</div>
+			</nav>
+		</header>
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defTop = document.getElementById("def-top");
+            defTop.outerHTML = wet.builder.top({"cdnEnv":"prod","search":true,"lngLinks":[{"href":"doc-fra.aspx?id=32556&section=xml","lang":"fr","text":"Français"}],"showPreContent":true,"breadcrumbs":[{"href":"http://www.canada.ca/en/index.html","title":"Home"},{"href":"http://www.canada.ca/en/government/system/index.html","title":"How government works"},{"href":"index-eng.aspx","title":"Policies, directives, standards and guidelines"},{"href":"doc-eng.aspx?id=32556","title":"Guide to Rapid Impact Evaluation"}],"topSecMenu":false,"siteMenu":true});
+        </script>
+
+        <main role="main" property="mainContentOfPage" class="container">
+
+            <!-- the main content -->
+            
+    <h1 id="wb-cont" property="name">Guide to Rapid Impact Evaluation</h1>
+    <div class="row">
+        <div class="col-md-12">
+            
+        </div>
+        <div class="col-md-12 text-right">
+            Date modified: 2017-10-13
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            
+            
+
+            <div class="row mrgn-tp-md">
+                
+
+                <!--googleoff: all-->
+                <section class="col-md-4 pull-right">
+                    
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="glyphicon glyphicon-info-sign pull-right"></span>More information</h2></summary>
+
+                        
+                            <p><strong>Policy:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                            
+                                <li><a href="doc-eng.aspx?id=31300">Results, Policy on</a></li>
+                            
+                            </ul>
+                        
+                            <p><strong>Terminology:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                                
+                                
+                                    <li><a href="doc-eng.aspx?id=32556&section=glossary">Glossary</a></li>
+                                
+                            </ul>
+                        
+
+                    </details>
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="fa fa-sitemap pull-right"></span>Hierarchy</h2></summary>
+                        <div class="tv">
+<ul class="tv-ul">
+<li class="tv-li tv-first tv-last" aria-expanded="true">
+<div class="tv-top">
+<span class="tv-sp"></span><a href="#" class="tv-plus tv-action-expand"><img alt="Results, Policy on is collapsed. Click to expand." src="./img/tv/plus.png" /></a><a href="#" class="tv-minus tv-action-collapse"><img alt="Results, Policy on is expanded. Click to collapse." src="./img/tv/minus.png" /></a>
+<a href="doc-eng.aspx?id=31300" class="tv-in">Results, Policy on</a>
+</div>
+<ul class="tv-ul">
+<li class="tv-li tv-last">
+<div class="tv-top">
+<span class="tv-sp"></span>
+<a href="doc-eng.aspx?id=32556" class="tv-in"><strong>Guide to Rapid Impact Evaluation</strong></a>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+
+                        <a class="btn btn-link" href="hierarch-eng.aspx#id32556"><span class="fa fa-sitemap"></span> View complete hierarchy</a>
+                        </div>
+
+                    </details>
+                    
+
+                </section>
+                <!--googleon: all-->
+
+                
+                <section class="col-md-8">
+                    
+                            <div id="ctl00_MainContent_AlternateFormatsNotAvailable">
+                                <h2>Alternate formats</h2>
+                                <span class="text-muted"><em>Not available</em></span>
+                            </div>                            
+                            
+                            <div class="clearfix"></div>
+                            
+
+                            <!-- ISBN data not available -->
+
+                            
+                </section>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+            <!-- end main content -->
+            <div id="def-preFooter">
+                <!-- Write closure fall-back static file -->
+                			<div class="row pagedetails">
+				<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+					<a href="https://www.canada.ca/en/report-problem.html" class="btn btn-default btn-block">Report a problem or mistake on this page</a>
+				</div>
+				<div class="datemod col-xs-12 mrgn-tp-lg">
+					<dl id="wb-dtmd">
+						<dt>Date modified:&#32;</dt>
+						<dd><time property="dateModified">2017-08-24</time></dd>
+					</dl>
+				</div>
+			</div>
+            </div>
+            <!-- Write closure template -->
+            <script type="text/javascript">
+                var defPreFooter = document.getElementById("def-preFooter");
+                defPreFooter.outerHTML = wet.builder.preFooter( {"cdnEnv":"prod","dateModified":"2017-10-13","showPostContent":true,"showFeedback":false,"showShare":["bitly","blogger","delicious","digg","diigo","email","facebook","gmail","googleplus","linkedin","myspace","pinterest","reddit","stumbleupon","tumblr","twitter","yahoomail"]});
+            </script>
+        </main>
+        <div id="def-footer">
+            <!-- Write closure fall-back static file -->
+            		<aside class="gc-nttvs container">
+			<h2>Government of Canada activities and initiatives</h2>
+			<div id="gcwb_prts" class="wb-eqht row">
+				<p class="mrgn-lft-md"><a href="https://www.canada.ca/activities.html">Access Government of Canada activities and initiatives</a></p>
+			</div>
+		</aside>
+		<footer role="contentinfo" id="wb-info">
+			<nav role="navigation" class="container wb-navcurr">
+				<h2 class="wb-inv">About government</h2>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+					<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+					<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+					<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+					<li><a href="https://www.canada.ca/en/news.html">News</a></li>
+					<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+					<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+					<li><a href="http://pm.gc.ca/eng">Prime Minister</a></li>
+					<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+					<li><a href="http://open.canada.ca/en/">Open government</a></li>
+				</ul>
+			</nav>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">About this site</h2>
+							<ul>
+								<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+								<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+								<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-2 text-right">
+							<object type="image/svg+xml" tabindex="-1" role="img" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_27/assets/wmms-blk.svg" aria-label="Symbol of the Government of Canada"></object>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defFooter = document.getElementById("def-footer");
+            defFooter.outerHTML = wet.builder.footer( {"cdnEnv":"prod","showFooter":true,"showFeatures":true});
+        </script>
+        <!-- Write closure template -->
+            <script type="text/javascript">
+                document.write(wet.builder.refFooter({"cdnEnv":"prod","exitScript":false,"displayModal":false}));
+            </script>
+        <script src="scripts/ps-1.0.0.js"></script>
+<script>if (!!PS) { PS.Root="/pol"; }</script>
+<script src="scripts/PagePreferences.js"></script>
+<script>PS.InstrumentId=32556;</script>
+<script src="scripts/lh-1.0.0.js"></script>
+<script src="scripts/tv-1.0.3.js"></script>
+<script src="scripts/bootstrap.tooltip-3.3.6.js"></script>
+<script src="scripts/bootstrap.popover-3.3.6.js"></script>
+<script src="scripts/bootstrap.accessibility-plugin.js"></script>
+<script src="scripts/gls-0.0.1.js"></script>
+<!--googleoff: all-->
+<script>GLOSSARY.Terms = [{"id":11831,"definition":"Refers to the definition of “program” in subsection 42.1(2) of the \u003cspan lang=\"fr\"\u003eFinancial Administration Act\u003c/span\u003e, which defines program as a program of grants or contributions made to one or more recipients that are administered so as to achieve a common objective and for which spending authority is provided in an appropriation Act","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"program of grants and contributions","nameTranslation":"Programme de subventions et de contributions"},{"id":11828,"definition":"The document that identifies the performance information for each Program from the Program Inventory.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Performance Information Profile","nameTranslation":"Profil de l\u0027information sur le rendement"},{"id":11818,"definition":"Consists of the department\u0027s Core Responsibilities, Departmental Results and Departmental Result Indicators.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Departmental Results Framework","nameTranslation":"Cadre ministériel des résultats"},{"id":11819,"definition":"A factor or variable that provides a valid and reliable means to measure or describe progress on a Departmental Result.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Departmental Result Indicator","nameTranslation":"Indicateur de résultat ministériel"},{"id":11815,"definition":"Evaluations initiated by the Secretary of the Treasury Board of Canada.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Centrally-led evaluations","nameTranslation":"évaluations effectuées par l\u0027administration centrale"},{"id":11833,"definition":"Cyclical or targeted exercises that consider the alignment with priorities, resources, and results of government programs in support of management excellence, good expenditure prioritization and innovation.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"resource alignment review","nameTranslation":"Examen de l\u0027alignement des ressources"},{"id":11825,"definition":"Basic data used to identify organizations included in the institutional and corporate composition of the Government of Canada (e.g., name, appropriate Minister, enabling instrument, etc.).","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"organizational profile","nameTranslation":"Profil de l\u0027organisation"},{"id":11816,"definition":"An enduring function or role performed by a department. The intentions of the department with respect to a Core Responsibility are reflected in one or more related Departmental Results that the department seeks to contribute to or influence.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Core Responsibility","nameTranslation":"Responsabilité essentielle"},{"id":11817,"definition":"Departmental Results represent the changes departments seek to influence. Departmental Results are often outside departments\u0027 immediate control, but they should be influenced by Program-level outcomes.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Departmental Result","nameTranslation":"Résultat ministériel"},{"id":11830,"definition":"Identifies all of the department\u0027s programs and describes how resources are organized to contribute to the department\u0027s Core Responsibilities and Results.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Program Inventory","nameTranslation":"Répertoire des programmes"},{"id":11826,"definition":"A change or consequence attributable to outputs or to which outputs or other outcomes of the program contribute. Program outcomes may be a hierarchy of short-, medium-, or long-term, and are generally more directly influenced by departments and within their immediate control than Departmental Results. Program outcomes are found at the Program level, whereas Departmental Results are found at the Core Responsibility level.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"program outcome","nameTranslation":"Résultat du programme"},{"id":11820,"definition":"The impacts of a program, policy or other entity, or the extent to which it is achieving its expected outcomes.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"effectiveness","nameTranslation":"Efficacité"},{"id":11821,"definition":"The extent to which resources are used such that a greater level of output/outcome is produced with the same level of input or, a lower level of input is used to produce the same level of output/outcome. The level of input and output/outcome could be increases or decreases in quantity, quality, or both.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"efficiency","nameTranslation":"Efficience"},{"id":11822,"definition":"In the Government of Canada, evaluation is the systematic and neutral collection and analysis of evidence to judge merit, worth or value. Evaluation informs decision making, improvements, innovation and accountability. Evaluations typically focus on programs, policies and priorities and examine questions related to relevance, effectiveness and efficiency. Depending on user needs, however, evaluations can also examine other units, themes and issues including alternatives to existing interventions. Evaluations generally employ social science research methods.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"evaluation","nameTranslation":"Évaluation"},{"id":11832,"definition":"The extent to which a program, policy or other entity addresses and is responsive to a demonstrable need. Relevance may also consider if a program, policy or other entity is a government priority or a federal responsibility.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"relevance","nameTranslation":"Pertinence"},{"id":11824,"definition":"Impartiality in behaviour and process, ensuring that official, professional, personal or financial relationships or interests do not have an impact on evaluations. Neutrality also requires that preconceived ideas, prejudices or biases do not affect the decision whether to evaluate; analysis; findings, conclusions, recommendations; and the tone and content of evaluation reporting.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"neutral","nameTranslation":"Neutre"},{"id":11829,"definition":"Individual or groups of services, activities or combinations thereof that are managed together within the department and focus on a specific set of outputs, outcomes or service levels.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"Program","nameTranslation":"Programme"},{"id":11827,"definition":"Direct products, services or similar stemming from the activities of an organization, policy, program or initiative, and usually within the control of the organization itself.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"output","nameTranslation":"Extrant"},{"id":11823,"definition":"The financial and non-financial resources (e.g., funds, personnel, equipment and supplies) used by organizations to implement policies, programs and other activities to produce outputs and influence outcomes.","instrumentId":31300,"instrumentTitle":"Results, Policy on","name":"input","nameTranslation":"Intrant"}]</script>
+<!--googleon: all-->
+<script type="text/javascript" src="./scripts/ga/googleanalytics.js"></script>
+<noscript><iframe title="Google Tag Manager Canada" src="//www.googletagmanager.com/ns.html?id=GTM-MG4LMJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MG4LMJ');</script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+    </body>
+</html>
+

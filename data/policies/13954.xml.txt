@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Staff engaged locally outside Canada" documentID="13954" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Policy objective"><p>To provide terms and conditions of employment for locally-engaged staff employed outside Canada.</p></chapter><chapter anchor="2" title="Policy statement"><p>At Canadian posts abroad, where it is practical and in the public interest, local persons are engaged to perform office 
+and household operating and maintenance functions. The <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em> 
+are designed to establish a personnel management system which will take into account local law and practice, operational 
+requirements of Posts and comparability with local employers. In this way local employees will be provided with reasonable 
+terms and conditions of employment, while posts will be able to recruit, retain and motivate qualified staff.</p></chapter><chapter anchor="3" title="Application"><p>The <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em> apply to any person who is filling a locally-engaged 
+position, or is appointed on an emergency basis under these regulations.</p></chapter><chapter anchor="4" title="Policy requirements"><p>With the exception of Canadian Forces Europe, External Affairs and International Trade Canada is responsible for the 
+provision of administrative support services at posts outside Canada.</p><p>The Under-Secretary of State for External Affairs is authorized to classify positions and set terms and conditions of 
+employment, including pay and benefits (but excluding pensions and insurance), for employees engaged locally at posts abroad, 
+including both integrated and non-integrated employees. The Under-Secretary of State for External Affairs is also responsible 
+for the printing and distribution of the <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em> and for making 
+them available upon request, for those who require them.</p><p>The Deputy Minister of National Defence is authorized to classify positions and set local terms and conditions of employment, 
+including pay and benefits (but excluding pensions and insurance), for civilian component employees hired locally by Canadian 
+Forces Europe.</p><p>The responsibility for pensions and insurance has not been delegated but remains under the jurisdiction of the Treasury 
+Board Secretariat.</p></chapter><chapter anchor="5" title="Monitoring"><p>In order to evaluate the effectiveness of the <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em>, the 
+Under-Secretary of State for External Affairs and the Deputy Minister of National Defence shall submit reports or analyses 
+pertaining to locally-engaged staff establishment, compensation, and benefits at the request of the Treasury Board Secretariat.</p><p>Departments shall retain such records and related documentation as may be necessary to justify use of deputy head authority 
+and to provide comprehensive reports of such actions.</p></chapter><chapter anchor="6" title="References"><p>The <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em> should be consulted for detailed information.</p><p>This chapter replaces chapter 1-6 of PMM volume 8.</p></chapter><chapter anchor="7" title="Enquiries"><p>As the Under-Secretary of State for External Affairs has been delegated authority to classify positions and determine 
+local terms and conditions of employment for locally-engaged staff, enquiries should be directed to:</p><div class="indent1"><p>Locally-Engaged Staff Abroad Section<br />
+  Personnel Administration Bureau (ABM)<br />
+  External Affairs and International Trade Canada</p></div><p>Requests for copies of the <em>Locally-Engaged Staffs' Terms and Conditions Regulations</em> should also be directed 
+to the above address.</p><p>Enquiries concerning civilian component employees should be directed to:</p><div class="indent1"><p>Directorate<br />
+  Civilian Personnel Coordination<br />
+  National Defence</p></div></chapter></chapters></doc>

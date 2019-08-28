@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="TBITS 05 : Canadian Government Keyboard Standard for Information Technology Equipment - Implementation Criteria" documentID="17253" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Reference"><section anchor="1.1" title="1.1 Name"><ul><li>Canadian government keyboard standard for information technology equipment</li></ul></section><section anchor="1.2" title="1.2 Identifier"><ul><li><acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-5</li></ul></section><section anchor="1.3" title="1.3 Category"><ul><li>Standard</li></ul></section><section anchor="1.4" title="1.4 Effective date"><ul><li>January 1, 1993</li></ul></section><section anchor="1.5" title="1.5 Approving authority"><ul><li>Treasury Board of Canada</li></ul></section><section anchor="1.6" title="1.6 Maintenance agency"><ul><li>Information Technology Management</li><li><acronym title="Treasury Board Secretariat (TBS)">Treasury Board Secretariat (TBS)</acronym></li></ul></section><section anchor="1.7" title="1.7 Cross index"><ul><li>CAN/<acronym title="Canadian Standards Association (CSA)">CSA</acronym>-Z243.200-91, Canadian Keyboard Standard for 
+  the English and French Languages <acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-1, 
+  -2, -3, -4, -5, -6, -7, Information processing C Keyboard layouts for text and office systems (1991 DIS, various part 
+  names)</li></ul></section><section anchor="1.8" title="1.8 Related documents"><ul><li><acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-3, Coded character set 
+  for information processing and interchange CAN/<acronym title="Canadian Standards Association (CSA)">CSA</acronym>-Z243.4-87, 
+  7-bit and 8-bit Coded Character Sets for Information Processing and Interchange </li><li>Official Languages Act, R.S. 1985, c. O-3.01</li></ul></section></chapter><chapter anchor="2" title="2. Purpose"><ul><li>The purpose of this standard is to accommodate the needs of all keyboard users in the Canadian federal government 
+  and to support the <em>Official Languages Act</em> and related policies.</li></ul></chapter><chapter anchor="3" title="3. Application"><p>This standard applies to the acquisition of computer-based keyboards for general office use in regularly and widely used 
+automated systems within departments and agencies of the Canadian government. Without restricting its general application, 
+it particularly applies to keyboards that are primarily used for word processing, whether standalone or not.</p></chapter><chapter anchor="4" title="4. Interpretation"><p>In this standard, CSA Standard means CAN/CSA-Z243.200-91, Canadian Keyboard Standard for the English and French Languages; 
+group has the same meaning as in the <acronym title="Canadian Standards Association (CSA)">CSA</acronym> Standard; layout 
+means the assignment of the graphic characters in a group to levels on graphic keys; level has the same meaning as in the 
+CSA Standard; primary keyboard layout has the same meaning as in ISO 9995-1; secondary keyboard layout has the same meaning 
+as in ISO 9995-1; and unaccented primary keyboard layout means a primary keyboard layout that does not contain any accented 
+characters.</p><p>In this standard, any reference to all or part of a national or international standard shall be construed as a reference 
+to the most recent finalized version of that standard, with the following two exceptions: </p><ol class="lower-alpha"><li>until ISO 9995 or any of its parts is finalized, any reference to it or to a part of it shall be construed as a reference 
+  to the most recent Draft International Standard (DIS) version thereof; and</li><li>where reference is made to a specific part, clause or other portion or conformance level of a standard, it shall be 
+  construed as a reference to the substantive replacement thereof in any version of the standard issued after January 1, 
+  1992.</li></ol><p>Any change to a referenced national or international standard that affects this standard shall not be required to be 
+implemented before six months after the effective date of the change.</p></chapter><chapter anchor="5" title="5. Implementation"><p>This standard adopts CAN/CSA-Z243.200-91, Canadian Keyboard Standard for the English and French Languages, with the clarifications 
+and additional details specified in Appendix A of this standard.</p><p>This standard also provides for the continued use of unaccented primary keyboard layouts in specified cases in conjunction 
+with a secondary keyboard layout that, together with the unaccented primary keyboard layout, provides access to all characters 
+commonly used in English and French.</p><section anchor="5.1" title="5.1 Required conformance"><div class="indent1"><p>5.1.1 Keyboard acquired for use in the National Capital Region, the province of Quebec, or a place prescribed under Part 
+V of the <em>Official Languages Act</em> (bilingual region), shall conform to the following specifications: </p><ol class="lower-alpha"><li>CAN/CSA-Z234.200-91, Canadian Keyboard Standard for the English and French Languages, Conformance Level A (see Figure 
+  3 of the CSA standard); and</li><li><acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-7, Information processing 
+  B Keyboard layouts for text and office systems B Symbols used on keyboard to represent functions; and</li><li>Appendix A of this standard.</li></ol><p>5.1.2 In all other cases, a keyboard shall conform to either: </p><ol class="lower-alpha"><li>the specifications set out in 5.1.1; or</li><li>the combination of:<ol class="lower-roman"><li>an unaccented primary keyboard layout; and</li><li>the secondary keyboard layout; and</li><li>Appendix A of this standard.</li></ol></li></ol></div></section><section anchor="5.2" title="5.2 Optional conformance"><p>Conformance to the CSA standard at conformance level B or C (implementation of the secondary keyboard layout) is encouraged 
+in order to provide access to the other characters found in Latin Alphabet No. 1 as defined in
+<acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-3, Coded character set for 
+information interchange.</p></section><section anchor="5.3" title="5.3 Exemptions"><p>A keyboard that does not comply with 5.1.1 or 5.1.2 may be acquired where its acquisition is reasonably justified.</p><p>This standard does not require retrofitting of keyboards purchased prior to the effective date.</p></section></chapter><chapter anchor="6" title="6. Certification of compliance"><p>No procedure is currently established to obtain a certificate of conformance.</p></chapter><chapter anchor="7" title="7. Government keyboard standard working group"><p>Hicks, Ed (Chairperson) <acronym title="Treasury Board Secretariat">TBS</acronym><br />
+Bourdon, André <acronym title="Economic Council of Canada">ECC</acronym><br />
+Brunton, Brian <acronym title="Department of Employment and Immigration">EIC</acronym><br />
+Butler, Ed <acronym title="Government of Canada Privy Council Office">PCO</acronym><br />
+Casselman, Brian <acronym title="Registry of the Competition Tribunal">RCT</acronym><br />
+Charlebois, George <acronym title="National Library of Canada">NLC</acronym><br />
+Chrenowski, Tony <acronym title="Department of the Secretary of State of Canada">SEC</acronym><br />
+Clemis, David CC<br />
+Cyr, André <acronym title="Indian and Northern Affairs Canada">INAC</acronym><br />
+Desrochers, Alain <acronym title="Department of Agriculture and Agri-Food">AGR</acronym><br />
+Farley, Benoit <acronym title="National Research Council Canada">NRC</acronym><br />
+Gagné-Hallé, Claire <acronym title="National Defence">ND</acronym><br />
+Hadrill, John <acronym title="International Standard Textual Work">ISTC</acronym><br />
+Hammond, Roy <acronym title="Statistics Canada">STC</acronym><br />
+Hart, Neil <acronym title="Royal Canadian Mounted Police">RCMP</acronym><br />
+Kroll, Gerry <acronym title="Canadian Sugar Stabilization Corporation Limited">SSC</acronym><br />
+Morgan, David BC<br />
+Olmstead, Marilyn AGR<br />
+Payant, Christine <acronym title="Office of the Comptroller General of Canada">OCG</acronym><br />
+Perrier, Yvon <acronym title="Canadian International Development Agency">CIDA</acronym><br />
+Poulin, Greg <acronym title="Health and Welfare Canada">HWC</acronym><br />
+Sauvé, Gene <acronym title="Office of the Commissioner of Official Languages">OCOL</acronym><br />
+Tweedle, Debbie <acronym title="Department of Finance Canada">FIN</acronym></p></chapter><chapter anchor="8" title="8. Where to obtain copies"><p>Copies of the technical specification may be obtained as follows:</p><p>CAN/CSA-Z243.200-91,<br />
+Canadian Keyboard Standard for the English and French Languages<br />
+Canadian Standards Association<br />
+178 Rexdale Boulevard<br />
+Rexdale, Ontario<br />
+M9W 1R3</p><p>Tel: (416) 747-4044<br />
+Fax: (416) 747-2475</p><p>ISO 9995-1, -2, -3, -4, -5, -6, -7,</p><p>Information processing CKeyboard layouts for text and office systems (1991 DIS)</p><p>Standards Council of Canada<br />
+270 Albert Street, Suite 200<br />
+OTTAWA ON K1P 6N7</p><p>Tel.: (613) 238-3222<br />
+Fax: (613) 569-7808</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Clarifications and Additional Details"><p>This Appendix is a normative part of this standard.</p><p>The purpose of this Appendix is to clarify interpretation of the CAN/<acronym title="Canadian Standards Association (CSA)">CSA</acronym>-Z243.200-91, Canadian Keyboard Standard for the English and French 
+Languages, to provide additional details regarding the <acronym title="Canadian Standards Association (CSA)">CSA</acronym> 
+standard, and to specify certain details of the unaccented primary keyboard layout provided for in
+<acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-5.</p><p>1. On a keyboard that is labelled in accordance with the CSA primary keyboard layout, function keys shall be labelled 
+only with symbolic labels, and the symbolic labels shall be in accordance with
+<acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-7.</p><p>2. A keyboard may use either the 47-key or 48-key geometry as specified in Figures 1 and 2 of the CSA Standard.</p><p>3. The following requirements apply to all keyboards:</p><div class="indent1"><p>3.1 The keys for the functions "level 3 shift", "control" and "alternate" shall be located in row A.</p><p>3.2 The function "group shift" may be implemented with a single key in row A, or with a combination of two or three keys 
+in any rows.</p><p>3.3 The symbol on level 3 of key E00 of the CSA Standard shall be shown on the keyboard as a solid vertical bar, not 
+as a broken bar. It is the character found at code point 7C hex/124 decimal in
+<acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-3. Wherever it may be positioned 
+on unaccented primary keyboard layouts, its representation should be as a solid vertical bar.</p><p>3.4 If printed, engraved or some other fixed form of keycap labelling is used, then the labels for graphic characters 
+shall be placed on keys in accordance with ISO 9995-1. If liquid crystal display or some other variable form of keycap labelling 
+is used, then the labels for graphic characters may be placed in another fashion.</p></div><p>4. The following requirements apply to all 47-key keyboards:</p><div class="indent1"><p>4.1 The key for the function "return" shall be located in positions C12 and C13. This is the key that normally generates 
+a "carriage return/line feed".</p><p>4.2 The key for the function backward erase shall be located in positions E13 and E14.</p><p>4.3 The secondary keyboard layout shall be the same as the
+<acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-3 common secondary keyboard layout 
+with the exception of the lack of key B00.</p><p>4.4 Where the broken bar ( ) is available in an implementation's character set, access shall be provided to it. The broken 
+bar is a character in the ISO common secondary keyboard layout (<acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-3), and is found at code point A6 hex/166 
+decimal in <acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-3; it is <strong>
+not</strong> the vertical bar (|) at code point 7C hex/124 decimal, which is commonly mislabelled on keyboards as a broken 
+bar. Since the broken bar on key B00 of the ISO common secondary keyboard layout cannot be accessed in the 47-key version 
+of any of the keyboard layouts, some other means of access to it must be provided and documented with the keyboard documentation.</p></div><p>5. The following requirements apply to the secondary keyboard layout:</p><div class="indent1"><p>5.1 The secondary keyboard layout is the complete "common secondary keyboard layout" as defined in
+<acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995-3, to the extent that a given implementation 
+can support it. Each implementation will of necessity be character-set dependent, but shall implement all the functionality 
+of the ISO common secondary keyboard layout that is feasible within the constraints of that implementation. This shall include 
+duplicating functionality that may be present in either of the two primary keyboard layouts (CSA or unaccented). That is, 
+if the character set or sets available to an implementation contain a character that is within the ISO 9995-3 group 2 character 
+set, then the secondary keyboard layout shall provide the functionality to produce that character, whether or not that character 
+may be labelled on a keycap and whether or not it may be available in either primary keyboard layout.</p><p>5.2 Labelling of the secondary keyboard layout is optional with either primary keyboard layout. Partial labelling as 
+indicated in Figures 4 and 5 of the CSA Standard is acceptable in conjunction with the CSA primary keyboard layout. When 
+the secondary keyboard layout is labelled in conjunction with an unaccented primary keyboard layout, all available non-spacing 
+diacritics and all other available characters that are not duplicated on the unaccented primary keyboard layout shall be 
+labelled.</p></div></appendix><appendix anchor="B" title="Appendix B - Explanatory Notes, Suggestions and Implementation Considerations"><p><strong>This Appendix is not a normative part of this standard.</strong></p><p>The purpose of this Appendix is to explain some of the rationale behind
+<acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-5, to make recommendations 
+regarding aspects of the <acronym title="Canadian Standards Association (CSA)">CSA</acronym> standard and
+<acronym title="International Organization for Standardization (ISO)">ISO</acronym> 9995 that have not yet been fully defined, 
+and to explain some of the potential problems that should be considered in implementing this standard.</p><section anchor="B.1" title="1. Explanatory Notes"><p>The headings within parentheses refer to the corresponding headings in the main text of the implementation criteria.</p><p><strong>1.1 Official Languages Act </strong></p><p>The following extracts from the <em>Official Languages Act</em> set the context for this standard: </p><p>35(1) Every federal institution has the duty to ensure that</p><ol class="lower-alpha"><li>within the National Capital Region and in any part or region of Canada, or in any place outside Canada, that is prescribed, 
+  work environments of the institution are conducive to the effective use of both official languages and accommodate the 
+  use of either official language by its officers and employees; and<br /><br />
+  36(1) Every federal institution has the duty, within the National Capital Region and in any part or region of Canada, 
+  or in any place outside Canada, that is prescribed for the purpose of paragraph 35(1)(a), to<br /><br /></li><li>ensure that regularly and widely used automated systems for the processing and communication of data acquired or produced 
+  by the institution on or after January 1, 1991 can be used in either official language; and<br /><br />
+  (2) Every federal institution has the duty to ensure that, within the National Capital Region and in any part or region 
+  of Canada, or in any place outside Canada, that is prescribed for the purpose of paragraph 35(1)(a), such measures are 
+  taken in addition to those required under subsection (1) as can reasonably be taken to establish and maintain work environments 
+  of the institution that are conducive to the effective use of both official languages and accommodate the use of either 
+  official language by its officers and employees./li&gt; </li></ol><p>For a list of prescribed regions, see Appendix C.</p><p><strong>1.2 (1.7 Cross Index and 4. Interpretation)C ISO 9995 DIS</strong></p><p>As of April 1, 1992, most of the <acronym title="International Organization for Standardization (ISO)">ISO</acronym> 
+9995 standard is still a Draft International Standard <acronym title="Draft International Standard (DIS)">(DIS)</acronym>. 
+It is anticipated that most of its parts will be finalized in 1992.</p><p><strong>1.3 (3. Application)</strong></p><p>"Keyboards" includes keyboards that are integrated with other parts of a computer such as a display screen or a processing 
+unit. While it is mainly directed towards office-based keyboards, departments and agencies are encouraged to apply this 
+standard, or a specified part of it, in all pertinent applications. However, it should not be applied if it would unduly 
+restrict competition or unduly interfere with operations.</p><p><strong>1.4 (4. Interpretation)</strong></p><p>The only changes in the ISO 9995 DIS that are currently anticipated that may affect this standard relate to the positioning 
+of the level 3 shift, group shift, Alt and Ctrl keys. Treasury Board Secretariat will endeavour to make updated information 
+available as soon as possible after any changes to the DIS.</p><p>The CSA Standard defines a "primary keyboard layout" and a "secondary keyboard layout". The CSA primary keyboard layout 
+standardizes the positioning of accented letters and diacritical marks and how to access them. The labelling specified for 
+function keys used with this primary keyboard layout makes it feasible to use the one standard in English, French and bilingual 
+environments.</p><p>The internationally-standardized secondary keyboard layout provides users of unaccented primary keyboard layouts with 
+a viable and standardized means of producing accented characters. It also provides all users with standardized access to 
+numerous additional characters that are often of use, such as characters used in other languages, fractions and special 
+symbols. The extent of the availability of these additional characters will depend on the hardware and software being used.</p><p>The labelling of a keyboard layout relates to that layout (group, in ISO terminology) only. For example, if a key is 
+labelled with the CSA primary keyboard layout and the ISO secondary keyboard layout, it is labelled with two layouts. Thus, 
+the definition of "unaccented primary keyboard layout" as being one not labelled with any accented characters relates only 
+to that single layout or group; it may be combined with another layout or group, such as the ISO common secondary keyboard 
+layout, that contains labelled accented characters.</p><p><strong>1.5 (5.3 Exemptions) C Some examples</strong></p><p>Portable computers often do not have the exact physical keyboard layouts required by this standard, and that could be 
+a reasonable justification for acquiring a non-standard keyboard. However, it may still be possible to require that they 
+conform to the labelling and functionality requirements, within the limits of their non-standard physical layouts C this 
+will depend on how soon manufacturers adapt their portables to this standard.</p><p>If a keyboard is being acquired primarily as a terminal to an existing computer that cannot support the accented characters 
+intended to be produced by the keyboard, then that may be a reasonable justification for acquiring a non-standard keyboard.</p><p>The need to acquire keyboards adapted for use by persons with disabilities would be a reasonable justification for acquiring 
+a non-standard keyboard.</p><p><strong>1.6 (Appendix A, 3.1) C New shift and control key placements</strong></p><p>There is still some debate within ISO over the positioning of the "level 3 shift", "group shift", "control" and "alternate" 
+keys. We anticipate that it will result in further flexibility than the DIS provides for, so
+<acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-5 provides considerably more 
+flexibility than the DIS. TBITS-5 will be adjusted if necessary when ISO 9995 is finalized. (Note that it self-adjusts under 
+clause 4 for most such changes.)</p><p><strong>1.7 (Appendix A, 4.4) C Access to broken bar</strong></p><p>It was proposed to the CSA that this character be placed on level 3 of key E11 (hyphen/underscore key), but it was not 
+included due to the potential confusion respecting the solid vertical bar and the prevalent mislabelling of the vertical 
+bar as a broken bar. Examples of acceptable other means of access are to hold down a key such as &lt;Alt&gt; and enter a code 
+for the character, or to display a table of characters on the screen and provide a means of choosing to enter the broken 
+bar.</p><p><strong>1.8 (Appendix A, 5.1) C Secondary keyboard layout</strong></p><p>"Implementation" generally equates to "operating system", although this does not prevent applications or some other level 
+of software from implementing any of the specified keyboard layouts. However, it is usually preferable if it is done at 
+the lowest level possible. For example, since access to all the graphic characters of TBITS-3 (CAN/CSA-Z243.4, ISO 8859-1) 
+is able to be provided on all IBM-compatible personal computers (standard in Windows; available in MS/PC-DOS via code page 
+850 or third-party equivalents), the entire portion of the common secondary character set that is also part of the TBITS-3 
+character set should be functional on these computers (mapped to code page 850 for MS/PC-DOS).</p><p>Note that this does not guarantee that any given <strong>application</strong> within those implementations can properly 
+process or image the entire character set C it may be some time before applications catch up with implementations in this 
+regard. However, it at least enables those applications that can process and image the characters to do so.</p><p>Without going into the details, the clear implication in both the CSA Standard and ISO 9995 is that all characters of 
+the common secondary group that are able to be functional shall be functional. This makes sense since manufacturers can 
+then produce, for a given implementation, only one functional driver for the common secondary keyboard layout regardless 
+of what national layouts it may be associated with. Labelling of group 2 characters on keycaps then becomes the separate 
+issue that it is C dependant on national layouts.</p><p>In Canada, this has an immediate practical benefit in that users who wish to use an unaccented primary keyboard layout 
+can still use the common secondary layout to obtain all the characters available within a given implementation's character 
+set or sets.</p><p><strong>1.9 Character sets</strong></p><p>TBITS-3 adopts the Latin alphabet no. 1 graphic character set of CAN/CSA-Z243.4-87 which is the same as ISO 8859-1:1987. 
+In this character set, each accented character is allocated to a separate code point.</p><p>The character set ISO 6937 is used in many telecommunications applications. It does not allocate separate code points 
+to accented characters, but rather has a group of accents that, when followed by a valid letter, are interpreted as a single 
+accented character. The ISO common secondary keyboard layout is based on the characters able to be generated using ISO 6937, 
+which includes ISO 8859-1 as a proper subset.</p><p>IBM-compatible personal computers using PC/MS DOS 3.3 and above are capable of using a variety of character sets through 
+the code page facility provided in DOS. While not a proper implementation of any of the above-mentioned character set standards, 
+code page 850 provides the character set of Latin alphabet no. 1 and should therefore be used until a better option is available.</p><p>The Microsoft Windows operating environment bypasses the DOS code pages and uses the TBITS-3 character set (with the 
+minor addition of single `6 and 9' quotes in the C1 set); therefore, Windows applications are essentially TBITS-3 compliant.</p><p>Implementations of keyboard drivers in IBM-compatible personal computers should take account of this information.</p></section><section anchor="B.2" title="2. Suggestions"><p>These suggestions are offered to assist suppliers in deciding how to implement certain features that otherwise are not 
+clearly specified. They are not requirements and do not form part of any evaluation or compliance criteria. However, we 
+commend them to keyboard suppliers, as well as to the CSA and ISO, who have as yet not seen fit to include such details 
+in their keyboard standards.</p><p><strong>2.1 Action of non-spacing characters ("accents")</strong></p><p>Neither the CSA standard nor ISO 9995 defines what happens when a non-spacing character ("accent") is followed by an 
+invalid character C that is, by a character with which the accent cannot be combined, either because the combination is 
+not a recognized one (for example, ^3 or ^?) or because the particular implementation cannot deal with the combination (for 
+example, ^j, which is a valid combination to produce a recognized language character (^j), but which most implementations 
+cannot deal with).</p><p>The TBITS suggestion to suppliers is that this situation always be dealt with in the following simple and logical manner: 
+discard the first in the sequence of two characters.</p><p>Thus, an accent followed by a 3 would produce only the 3. A circumflex followed by a j would produce the ^j character 
+if that is available in the implementation, but otherwise would produce only the j. A circumflex followed by a diaeresis 
+would discard the circumflex and would retain the diaeresis to be applied to the following character, if it is a valid one; 
+likewise with a circumflex followed by itself.</p><p>An accent followed by a space is then a logical way to think of producing the accent as a spacing character, since it 
+is essentially an accented space (which is made a valid character by definition).</p><p><strong>2.2 Group shift and level 3 shift</strong></p><p>Neither the CSA standard nor ISO 9995 defines important aspects of the operation of the group shift and level 3 shift 
+keys.</p><p>Group shift would be relatively simple if there were only two groups, the primary keyboard layout and the common secondary 
+keyboard layout, but the standards provide for an unlimited number of groups. Many keyboards in Canada will have at least 
+three groups available, the third being an unaccented keyboard layout. (The unaccented keyboard layout will likely continue 
+to be the default if no software to implement the CSA standard is loaded, and users may often find it necessary to activate 
+it in order to work with certain software.)</p><p>Annex B to ISO 9995-1 <strong>describes</strong> (but does not even go so far as to <em>recommend</em>) one method of 
+group shifting: use the group shift key in conjunction with the left and right (regular) shift keys to move from group to 
+group. It is not clear as to whether "in conjunction with" means "at the same time as" or "one after the other" that is, 
+to move to another group, must you press and hold the group shift key, then press a regular shift key, or can you press 
+the group shift key, let it up, then press a regular shift key? However, the whole description is in conflict with another 
+statement in Annex B to ISO 9995-1 which states. "If, while the group shift key is held down, 
+a graphic key is operated, the graphic character is generated from a different group and depends on the shift level in force" 
+(underline added). This statement appears to be an error, since shifting to another group cannot require that you hold the 
+group shift key down in order to get any characters from whatever group it may be.</p><p>Similarly, regarding the level 3 shift key, ISO 9995-1 Annex B states that "if the level 3 shift key
+has been operated, the graphic character is generated from level 3" (underline added). This 
+would imply that it is, or may be, a sticky shift key, and that you can get a level 3 character by pressing <strong>and 
+releasing</strong> the level 3 shift key and then pressing the character key.</p><p>It is suggested that both group shift and level 3 shift be implemented to function in the same way as regular shift keys 
+C they must be held down while another key is pressed in order to produce any effect. This is best for consistency, and 
+allows easy "cancellation" of a miss-hit shift key. The only disadvantage is to persons who do not have two hands to type 
+with, and special keyboard drivers that make shift keys "sticky" are generally available to solve the problem for them.</p><p>It is also suggested that group shift be implemented in the following fashion: <strong>press and hold the group shift 
+key or two-key combination, then press a number from 0 to 9 to indicate the group (layout) to shift to</strong>. The primary 
+keyboard layout for a given implementation should always be 1, the common secondary keyboard layout should always be 2, 
+and then others can be added beyond that. The 0 (zero) keyboard layout should always be the power-on default keyboard layout 
+that is in effect if no special keyboard drivers are loaded. For example, in current North American personal computers, 
+it would almost always be the unaccented keyboard layout that a given supplier now provides. That layout should always be 
+available in case it is needed for use with an application that cannot work with another layout. It is highly unlikely that 
+anyone will want to implement more than 7 other keyboard layouts.</p><p>Thus, in an existing personal computer implementation of the CSA standard, group 0 would be the unaccented power-on default 
+layout, group 1 would be the CSA primary keyboard layout, and group 2 would be the secondary keyboard layout. If a two-key 
+combination is used for this sort of implementation of the group shift function, it is suggested that it be the Alt-Ctrl 
+combination.</p></section><section anchor="B.3" title="3. Some Implementation Considerations"><p>These considerations relate primarily to IBM-compatible personal computers, though some (especially the first) are applicable 
+to other equipment.</p><p><strong>3.1 Keyboard is only one step</strong></p><p>The main thing to recognize is that the keyboard is only one step in implementing the capability to use French with a 
+computer system. In fact, it is not even the first step C it is only the most visible. It cannot function properly without 
+a compatible character set, display device and printer. And of course, the operating system and applications should all 
+work compatibly with each of these other pieces of the system. In other words, there are complications.</p><p>One thing that must be realized is that users who are presented with a keyboard that is labelled with accented characters 
+will expect that it will work as labelled. Therefore, if it will not work with certain applications or in certain instances, 
+then users should be advised of this and should be trained in what to do about the problems. Everyone needs to realize that 
+the transition will not be without problems.</p><p><strong>3.2 Code pages</strong></p><p>MS/PC-DOS versions 3.3 and above have the ability to use several character sets, which DOS calls "code pages". The code 
+page recommended for use in conjunction with the TBITS-5 keyboard standard is code page 850 C Multinational. It contains 
+all the characters required by TBITS-3 although they are not mapped to the same code points in the upper half of the set. 
+(There is a possible exception C the no-break space, which should presumably be code point 255 decimal/FF hex in code page 
+850, but it is not clear that this works.)</p><p>However, using a code page presents problems. One is <acronym title="Random Access Memory (RAM)">RAM</acronym> cram, 
+and another is that many applications, including some of the most popular ones, do not work with code pages. These are covered 
+in more detail below. Another problem that is more one of appearance than reality is that the intersections of double and 
+single lines of box-drawing symbols created using code page 437 will appear as alphabetic characters on a display using 
+code page 850.</p><p><strong>3.3 Hardware and operating system requirements</strong></p><p>To properly implement this keyboard standard on an IBM-compatible personal computer, the computer should have an EGA 
+or VGA compatible display and should be operating under MS/PC-DOS 3.3 or higher. Otherwise, code pages cannot be fully implemented 
+and most uppercase accented characters probably cannot be displayed.</p><p><strong>3.4 RAM cram</strong></p><p>A keyboard driver (software to implement this keyboard standard) takes up memory. Implementation of the code page facility 
+takes up even more memory. This can become a problem, especially for computers on a network, because network drivers also 
+take up a lot of memory. The result may be that there is insufficient memory to run some applications. Upgrading to a new 
+operating system such as MS-DOS 5.0 or DR-DOS 5.0/6.0 can help considerably. Another possible aid is third-party substitutes 
+for DOS code pages.</p><p><strong>3.5 Networks</strong></p><p>Networks present problems other than RAM cram. Most significant are incompatibilities among computers on a network. If 
+one computer is using code page 850 and another is using code page 437 (the PC-compatible default), then transmission compatibility 
+problems need to be considered. This may involve incompatibilities in file contents, complications with printer drivers, 
+and other problems. For example, a database record or electronic mail message containing uppercase accents entered using 
+code page 850 would appear to contain errors if viewed on a computer using code page 437. Generally, a printer driver has 
+to know what code page is being printed in order to print it correctly (WordPerfect being an exception since it deals with 
+code pages and extended characters by itself). Informatics support staff will have to become much more familiar with these 
+problems than most such staff currently are.</p><p><strong>3.6 Application problems</strong></p><p>Very few MS/PC-DOS applications are "code-page aware" C that is, few even recognize that a code page other than 437 exists. 
+One important exception is WordPerfect C for more details on its use with code pages and with French characters, refer to 
+TBITS-15, The use of French characters with IBM-compatible personal computers. Most applications just pass characters through 
+as bytes, not really caring what they are (unless, for example, you are doing a validity check in a database or a spellcheck 
+in a document). Such "transparent" applications may pose few problems, other than with printer drivers. A few applications 
+want to take over the computer themselves, to the extent of taking control of the keyboard and using their own character 
+sets. Lotus 1-2-3 is the major example. The key is to know your environment and how your applications interact with it.</p><p><strong>3.7 Microsoft Windows</strong></p><p>Microsoft Windows is an operating environment C something between the operating system (MS/PC-DOS) and the application 
+(WordPerfect, Lotus 1-2-3, etc.). However, it creates an environment so different from DOS that one can safely regard it, 
+for most purposes, as another operating system, and this is especially true with respect to keyboards and character sets.</p><p>Windows both alleviates and creates problems. It alleviates problems because it uses its own character set that is essentially 
+the same as the TBITS-3 character set, and all true Windows applications can use that character set. (Note that WordPerfect 
+for Windows still uses its own character set C exactly the same as in the DOS version C but this does not present problems 
+since it knows how to deal with the Windows character set.) Windows also provides various keyboard drivers, and will hopefully 
+be able to provide the ones required by this TBITS-5 standard by the effective date.</p><p>Windows creates problems because it takes over the keyboard from DOS, substituting its own keyboard driver (except that 
+in a DOS window, the DOS keyboard is re-activated). Also, at the time of writing this document, Windows appears to assume 
+that all data being imported from DOS is in code page 437 format C it does not contain a means of specifying that data is 
+in another code page format, specifically code page 850.</p></section><section anchor="B.4" title="4. Conclusion"><p>Even from this brief summary, which barely scratches the surface of a complex issue, it should be evident that there 
+are many complications related to implementing the capability to use French on computer systems, and in particular on IBM-compatible 
+personal computers. TBITS-3 and TBITS-5 are important steps on the road to resolving these complications. These standards 
+are fully compatible with national and international standards, and will finally provide the computer industry with a definitive 
+Canadian framework that will resolve the confusion that has previously existed.</p><p>As with any transition period, problems can be expected. The important thing is that we have established a target for 
+the future. It is now up to suppliers and government informatics support staff to work toward the common goal of eliminating 
+the problems.</p></section></appendix><appendix anchor="C" title="Appendix C - Regions of Canada Prescribed under Part V of the Official Languages Act"><title>Appendix C - Regions of Canada Prescribed under Part V of the <em>Official Languages Act</em></title><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr><th scope="col" class="alignTopCenter"><strong>Regions</strong></th><th scope="col" class="alignTopCenter"><strong>Counties</strong></th><th scope="col" class="alignTopCenter"><strong>Cities</strong></th><th scope="col" class="alignTopCenter"><strong>Towns</strong></th></tr><tr><td class="alignTopLeft">The National Capital Region</td><td class="alignTopLeft"> </td><td class="alignTopLeft"> </td><td class="alignTopLeft"> </td></tr><tr><td class="alignTopLeft">The Province of New Brunswick</td><td class="alignTopLeft"> </td><td class="alignTopLeft"> </td><td class="alignTopLeft"> </td></tr><tr><td class="alignTopLeft">Bilingual Region of Montréal</td><td class="alignTopLeft">Deux-Montagnes Île-de-Montréal et Île-Jésus</td><td class="alignTopLeft">Deux-Montagnes, Ste-Scholastique, Beaconsfield, Côte-St-Luc, Dorval, Lachine, LaSalle, Laval, Montréal, Montréal-Nord, 
+    Outremont, Pierre-fonds, Pointe-aux-Trembles, Pointe-Claire, St-Laurent, St-Léonard, Verdun, Westmount</td><td class="alignTopLeft">Oka-sur-le-Lac, St-Eustache, Anjou, Baie-d'Urfé, Dollard-des-Ormeaux, Hampstead, Île-Dorval, Kirkland, Montréal-Est, 
+    Montréal-Ouest, Mont-Royal, Roxboro, Ste-Anne-de-Bellevue, Ste-Geneviève, St-Pierre</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">La Prairie</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Brossard, Candiac, Delson, La Prairie</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Vaudreuil</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Dorion, Hudson, Île-Cadieux, Île-Perrot, Pincourt, Pointe-du-Moulin, Rigaud, Vaudreuil</td></tr><tr><td class="alignTopLeft">Bilingual Regions of </td><td class="alignTopLeft">Bonaventure</td><td class="alignTopLeft"> </td><td class="alignTopLeft">New Richmond</td></tr><tr><td class="alignTopLeft">"Other parts of Quebec"</td><td class="alignTopLeft">Gaspé-Est</td><td class="alignTopLeft">Gaspé, Percé</td><td class="alignTopLeft">Chandler</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Brome</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Bromont, Lac-Brome, Sutton</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Compton</td><td class="alignTopLeft">;</td><td class="alignTopLeft">
+    Cookshire, Eas-Angus, Scotstown, Waterville</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Huntingdon</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Huntingdon</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Mississquoi</td><td class="alignTopLeft">Farnham</td><td class="alignTopLeft">Bedford, Cowansville</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Richmond</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Asbestor, Bromptonville, Danville, Richmond, Windsor</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Stanstead</td><td class="alignTopLeft">Magog</td><td class="alignTopLeft">Lennoxville</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Argenteuil</td><td class="alignTopLeft">Lachute</td><td class="alignTopLeft">Barkmere</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Pontiac</td><td class="alignTopLeft" colspan="2">(excluding those sections of the county located in the National Capital Region</td></tr><tr><td class="alignTopLeft">Bilingual Region of </td><td class="alignTopLeft">Glengarry</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Alexandria</td></tr><tr><td class="alignTopLeft">Eastern Ontario</td><td class="alignTopLeft">Prescott</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Hawkesbury, Vankleek Hill</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Russell</td><td class="alignTopLeft">(excluding those sections of the county located in the National Capital Region)</td><td class="alignTopLeft">Rockland</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Stormont</td><td class="alignTopLeft">Cornwall</td><td class="alignTopLeft"> </td></tr></table><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr><th scope="col" class="alignTopCenter"><strong>Regions</strong></th><th scope="col" class="alignTopCenter"><strong>Counties</strong></th><th scope="col" class="alignTopCenter"><strong>Cities</strong></th><th scope="col" class="alignTopCenter"><strong>Towns</strong></th></tr><tr><td class="alignTopLeft">Bilingual Region of Northern Ontario</td><td class="alignTopLeft">Algoma</td><td class="alignTopLeft">Sault Ste Marie</td><td class="alignTopLeft">Blind River, Bruce Mines, Thessalon</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Cochrane</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Cochrane, Hearst, Iroquois Falls, Kapuskasing, Smooth Rock Falls, Timmins</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Nipissing</td><td class="alignTopLeft">North Bay</td><td class="alignTopLeft">Bonfield, Cache Bay, Mattawa, Sturgeon Falls</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Sudbury</td><td class="alignTopLeft">Sudbury</td><td class="alignTopLeft">Capreol, Coniston, Copper Cliff, Espanola, Levack, Lively, Massey, Webbwood</td></tr><tr><td class="alignTopLeft"> </td><td class="alignTopLeft">Timiskaming</td><td class="alignTopLeft"> </td><td class="alignTopLeft">Charlton, Cobalt, Englehart, Latchford, New Liskeard</td></tr></table></appendix></appendices></doc>

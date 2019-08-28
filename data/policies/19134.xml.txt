@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Policy Framework for People Management" documentID="19134" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="Effective date"><p>This
+Framework is effective as of July 19, 2010, and applies to the core public
+administration <a href="#fn1" title="See Footnote 1" id="fnr1"><sup>[1]</sup></a>.  </p></chapter><chapter anchor="2" title="Context "><p>The federal public service
+undertakes complex and diverse work developing policy and delivering programs
+and services to Canadians. Effective
+people management is a cornerstone of a high performing public service and a key
+enabler in building Canadians' trust in and satisfaction with government.  </p><p>Over the
+years, people management has evolved to keep pace with changes in the business
+context.  New challenges of fast paced change, globalization, increasingly more
+complex, diverse situations and fiscal considerations now have to be addressed
+to ensure continuing excellence in public service.  </p><p>People
+management goes beyond the transactional activities associated with
+human resources to building a culture of excellence on foundations such as leadership,
+values and ethics and employee engagement and development.  It is an integral
+part of achieving operational objectives and requires sustained leadership and
+investment of time and resources.  It also requires the engagement of managers,
+employees, human resources practitioners, central organizations, and bargaining
+agents.  </p><p>This
+Framework outlines an approach to people management that builds on past changes
+and further enables organizations to manage people in a way that best
+accomplishes their business objectives. The approach is based on legislated
+authorities, common principles, sound risk management practices and enhanced
+collaboration between parties.  The application of this approach is expected to
+achieve a public service that: </p><ol class="lower-roman"><li>Attracts,
+recruits and retains talented individuals, and maximizes the potential of its <strong>workforce</strong>
+to meet both current and future organizational needs;</li><li>Provides a <strong>workplace</strong>
+where employees have meaningful work in a fair, safe, supportive and ethical
+environment; </li><li>Fosters <strong>leadership</strong>
+that sets clear direction, engages employees and demonstrates and promotes the
+public service values and ethics; and </li><li>Invests in an <strong>infrastructure</strong>
+of people and systems that enables high quality people management services. </li></ol></chapter><chapter anchor="3" title="Purpose"><p>The Framework sets out the principles that will guide the approach
+to people management governance and the development of people management policy. 
+It also sets out the principles that will effectively foster excellence in
+people management.  Finally, the Framework clarifies the roles and
+responsibilities of Treasury Board Secretariat, Office of the Chief Human
+Resources Officer (OCHRO), deputy heads and several other parties in shaping
+people management.</p></chapter><chapter anchor="4" title="Principles"><p>The
+following principles are fundamental to people management and apply to and
+guide decisions related to:</p><ol class="lower-roman"><li><strong>People
+management governance</strong> (both within departments and across the core public administration):
+ <ul><li>Recognition that
+there exists an inter-dependency between the role of OCHRO and the deputy heads;
+and </li><li>Deputy heads
+have a responsibility in supporting the corporate people management agenda for
+the public service. </li></ul></li><li><strong>People
+management policy development:</strong><ul><li>Focuses on
+priorities, areas of high risk or issues where a common approach is warranted;</li><li>Respects the primary
+role and authority of deputy heads in exercising their responsibilities for
+managing their employees; and</li><li>Provides
+departments and agencies with people management flexibilities to respond to
+their business needs.</li></ul></li><li><strong>People
+management practice</strong>:  
+ <ul><li>Leadership,
+empowerment and employee engagement are fostered at all levels of the
+organization;</li><li>Linguistic
+duality and diversity of backgrounds and skills are reflected across the public
+service;</li><li>A respectful
+workplace is fostered through inclusiveness and meaningful dialogue with all
+parties; </li><li>Trust and a
+spirit of horizontal collaboration is cultivated; </li><li>Innovation and
+creativity are nurtured and recognized; and</li><li>An effective people
+management information infrastructure supports business success and
+accountabilities.</li></ul></li></ol></chapter><chapter anchor="5" title="Roles and Responsibilities "><p><strong>Deputy
+heads</strong> have primary
+responsibility for the effective management of the people in their
+organizations. In accordance with the principles above, they are responsible
+for planning and implementing people management practices that deliver on their
+operational objectives and for assessing their organization's people management
+performance. They are also responsible for working individually and
+collectively to foster a culture of people management excellence in the public
+service. </p><p><strong>Other
+key departmental players </strong>are the Heads of Human Resources, who have an essential role in
+supporting deputy heads in fulfilling their responsibilities, as well as
+departmental managers, who are responsible for ensuring effective people
+management in all activities falling under their area of responsibility.</p><p>The <strong>Treasury Board</strong> may act on all matters relating to
+people management unless otherwise provided for under legislation. For
+example, those areas specifically conferred on the Public Service Commission
+under the <em>Public Service Employment Act</em>.</p><p>The <strong>Treasury Board Secretariat, Office of the Chief Human
+Resources Officer </strong>(OCHRO) supports the Treasury Board on matters regarding
+people management and enables deputy heads in fulfilling their roles and
+responsibilities for people management by: </p><ul><li>Developing broad
+policy direction;</li><li>Assessing and
+preparing reports on the state of people management in the public service;</li><li>Working with deputy
+ heads and to develop people management capacity and to advance corporate people
+management priorities; and</li><li>Establishing
+common business processes and shared systems.</li></ul><p>Furthermore, it is responsible for the management of compensation,
+including compensation planning <a href="#fn2" title="See Footnote 2" id="fnr2"><sup>[2]</sup></a> and reporting, classification
+standards, pensions and benefits, collective bargaining and effective labour
+management-relations. Where warranted, it also leads corporate people
+management projects and initiatives.  </p><p><strong>Other central organizations</strong> have key roles in government-wide
+people management:</p><ul><li>The <strong>Privy
+Council Office</strong> supports the Clerk in his role as Head of the Public Service
+including identifying and driving specific public service-wide people
+management priorities. </li><li>The <strong>Canada
+School of Public Service</strong> has a legislated mandate to provide learning,
+training and development in the public service and to assist deputy heads in
+meeting the learning needs of their organizations.</li><li>The <strong>Public
+Service Commission</strong> is responsible for independently safeguarding the integrity
+of the staffing system and the non-partisanship of the public service.</li></ul><p>The <strong>Human
+Resources Council</strong>, comprised of Heads of Human Resources, is an integral part in shaping a shared people management agenda and is
+engaged through established governance structures. </p><p>The <strong>Bargaining
+Agents</strong> represent unionized employees in the workplace. They are engaged by
+the Treasury Board Secretariat, departments and other organizations in
+meaningful consultations in areas such as the people management agenda and policy
+development that could affect their membership.</p><p><strong>Other parties
+</strong></p><p>A number of
+other parties such as tribunals, commissions and boards have important roles
+and responsibilities related to people management, as defined in legislation. 
+Certain departments have people management responsibilities, such as Department
+of Public Works and Government Services for administrative pay matters and the
+Department of Human Resources and Skills Development for Worker's Compensation,
+ Health and Safety issues.  For additional information regarding these parties
+and others please see Section 9, "References".</p></chapter><chapter anchor="6" title="Monitoring and Reporting"><p>Specific
+monitoring and reporting requirements are described in the individual policy
+instruments associated with this Framework.  </p><p>The
+Treasury Board Secretariat-OCHRO will use information gathered through its
+monitoring and assessment activities to assess and to report, as necessary, on
+the people management performance of individual organizations.  It will also
+prepare an annual report to Parliament on the overall state of people
+management in the public service.  </p><p>The
+<a href="/pol/doc-eng.aspx?id=13616">Foundation
+Framework for Treasury Board Policies</a> includes additional information on
+reporting and oversight of Treasury Board policies.</p></chapter><chapter anchor="7" title="Consequences"><p>The Treasury Board Framework
+for the Management of Compliance explains the role and application of consequences
+with respect to Treasury Board policies. Specific consequences for
+non-compliance are outlined in individual policy instruments associated with
+this Framework.</p></chapter><chapter anchor="8" title="Enquiries"><p>The
+Treasury Board of Canada Portfolio is responsible for the policy instruments to
+which this Framework applies. </p><p>Please
+direct any enquiries related to this framework to: </p><p><a href="mailto:publicenquiries-demandesderenseignement@tbs-sct.gc.ca">TBS Public Enquiries</a><br />
+Treasury Board of Canada Secretariat Telephone: 613-957-2400<br />
+  Ottawa ON K1A 0R5 Facsimile: 613-952-1010</p></chapter><chapter anchor="9" title="References"><p>Values and
+Ethics Code for the Public Sector (under development in 2010)</p><p><strong>TB Frameworks</strong></p><ul><li><a href="/pol/doc-eng.aspx?id=13616">Foundation Framework for Treasury Board Policies</a></li><li><a href="/pol/doc-eng.aspx?id=17151">Framework for the Management of Compliance</a></li><li><a href="/pol/doc-eng.aspx?id=12022">Policy Framework for the Management of Assets and Acquired
+Services</a></li><li>Governance and Expenditure Management Framework (yet to be published)
+ </li><li>Framework for the Management of Risk (yet to be published)</li><li>Financial Management Policy Framework (yet to be published) </li><li><a href="/pol/doc-eng.aspx?id=12452">Policy Framework for Information and Technology</a></li><li><a href="/pol/doc-eng.aspx?id=12084">Policy Framework for the Management of Compensation</a></li></ul><p><strong>Related Legislation</strong></p><ul><li><em><a href="http://laws-lois.justice.gc.ca/eng/L-2/index.html">Canada Labour Code (Part II - Occupational
+Health and Safety)</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/C-10.13/20100716/index.html">Canada School of Public Service Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/H-6/20100716/index.html">Canadian
+Human Rights Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-38.2/20100716/index.html">Department
+of Public Works and Government Services Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/E-5.401/20100716/index.html">Employment Equity Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/F-11/20100716/index.html">Financial Administration Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/en/G-5/">Government Employees Compensation Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/O-3.01/20100716/index.html">Official Languages Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-31.9/20100716/index.html">Public Servants Disclosure Protection Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-31.65/20100716/index.html">Public Sector Equitable Compensation Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-33.01/index.html">Public Service Employment Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-33.3/20100716/index.html">Public Service Labour Relations Act</a></em></li><li><em><a href="http://laws-lois.justice.gc.ca/eng/P-36/20100716/index.html">Public
+Service Superannuation Act</a></em></li></ul><p><strong><a href="/pubs_pol/hrpubs/coll_agre/siglist-eng.asp">Collective
+Agreements</a></strong></p><p><strong>Other
+parties</strong><em>: </em></p><ul><li><a href="http://www.chrc-ccdp.ca/default-en.asp">Canadian
+Human Right Commission </a></li><li><a href="http://www.chrt-tcdp.gc.ca/">Canadian
+Human Rights Tribunal </a></li><li><a href="http://www.ocol-clo.gc.ca/html/index_e.php">Commissioner
+of Official Languages </a></li><li><a href="http://www.rhdcc-hrsdc.gc.ca/eng/home.shtml">Department
+of Human Resources and Skills Development Canada</a></li><li><a href="http://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html">Department
+of Public Works and Government Services Canada  </a></li><li><a href="http://www.ohstc.gc.ca/index.cfm?lang=eng&amp;f=p10">Occupational
+Health and Safety Tribunal of Canada</a></li><li><a href="http://www.appointments-nominations.gc.ca/prflOrg.asp?OrgID=PRT&amp;type-typ=3&amp;lang=eng">Public
+Service Disclosure Protection Tribunal </a></li><li><a href="http://www.psic-ispc.gc.ca/menu-eng.aspx">Public
+Service Integrity Commissioner</a></li><li><a href="http://pslrb-crtfp.gc.ca/intro-eng.asp">Public
+Service Labour Relations Board </a></li><li><a href="http://psst-tdfp.gc.ca/article.asp?id=5">Public
+Service Staffing Tribunal </a></li></ul></chapter></chapters><footnotes><footnote anchor="fn1" reference="fnr1" title="1" tooltip="Return to footnote reference 1">
+Core public administration - departments as defined in Schedule I, and the other
+portions of the federal public administration named in Schedule IV of the <em>Financial
+Administration Act</em>. </footnote><footnote anchor="fn2" reference="fnr2" title="2" tooltip="Return to footnote reference 2">This is a shared responsibility
+with the TBS-Expenditure Management Sector</footnote></footnotes></doc>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><doc title="Guideline on the Payment, Recording and Rebate of the Quebec Sales Tax" space="preserve" language="en" versionID="1" documentID="27177" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\web\xml\pols\PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Effective date"><p>This guideline takes effect April 1, 2013.</p></chapter><chapter anchor="2" title="2. Purpose"><p>The purpose of this Guideline is to assist departments in
+implementing Canada's obligations with respect to the <abbr title="Quebec sales tax">QST</abbr> in accordance with the
+Comprehensive Integrated Taxation Coordination Agreement (<abbr title="Comprehensive Integrated Taxation Coordination Agreement">CITCA</abbr>) and the Reciprocal
+Taxation Agreement (<abbr title="Reciprocal Taxation Agreement">RTA</abbr>) between Canada and Quebec.</p></chapter><chapter anchor="3" title="3. Context"><p>3.1
+This guideline supports the requirements under sections 6.1 and 6.2 of
+the <em>Directive on the Payment, Collection and Remittance of Provincial Taxes and Fees</em>
+(the Directive).</p><p>3.2
+On March 28, 2012, Canada and Quebec entered into a <abbr title="Comprehensive Integrated Taxation Coordination Agreement">CITCA</abbr>. As part of
+the <abbr title="Comprehensive Integrated Taxation Coordination Agreement">CITCA</abbr>, Canada agreed to replace the current exemption mechanism from paying
+<abbr title="Quebec sales tax">QST</abbr> applicable to federal government departments with a tax payment and rebate
+mechanism starting April 1, 2013. In other words, the federal government
+departments are now required to pay the <abbr title="Quebec sales tax">QST</abbr> on their purchases of taxable
+supplies when the applicable <abbr title="Quebec sales tax">QST</abbr> is paid or payable after March 31, 2013</p><p>3.3
+A statutory, non-budgetary vote has been created, pursuant to the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-8">Federal-Provincial Fiscal
+Arrangements Act</a></em>, to make the <abbr title="Quebec sales tax">QST</abbr> payment. </p><p>3.4
+This guideline should be read in conjunction with</p><ul><li><em><a href="/pol/doc-eng.aspx?id=18929">Directive
+    on the Payment, Collection and Remittance of Provincial Taxes and Fees;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=18930">Directive
+    on the Application of the Goods and Services Tax/Harmonized Sales Tax;</a></em></li><li><em><a href="/pol/doc-eng.aspx?id=19018">Guideline
+    on the Application of Goods and Services Tax/Harmonized Sales Tax;</a> and</em></li><li><em><a href="/pol/doc-eng.aspx?id=19028">Summary
+    of Reciprocal Taxation Agreements with Provinces and Territories</a></em></li></ul><p>Additional suggested references:</p><ul><li><em><a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&amp;file=/T_0_1/T0_1_A.html">An
+    Act respecting the Québec Sales Tax</a></em></li></ul><p>3.5
+  Note that the instructions concerning the rates and the application of
+  the <abbr title="Quebec sales tax">QST</abbr> included in this guideline are provided by Revenu Québec in their role
+as the administrator of the <abbr title="Quebec sales tax">QST</abbr>.</p></chapter><chapter anchor="4" title="4. Definitions"><p>Definitions to be used in the interpretation of this
+guideline can be found in the <em>Directive on the Payment, Collection and Remittance of Provincial Taxes and Fees</em>.</p></chapter><chapter anchor="5" title="5. Transitional Rules"><p>5.1 Departments are required to pay the <abbr title="Quebec sales tax">QST</abbr> on their purchases of taxable
+supplies when the <abbr title="Quebec sales tax">QST</abbr> becomes payable after March 31, 2013.  In general, the
+<abbr title="Quebec sales tax">QST</abbr> becomes payable at the earlier of:</p><ul><li>The date the payment for a purchase becomes due<a href="#ftn1" id="ftnref1"><span class="cn-invisible"> See footnote </span><sup>[1]</sup></a>;
+    or </li><li>The date the payment for a purchase is made.</li></ul><p>Note that there are specific
+transitional rules stemming from the general rules, such as payments made in
+instalments, rental property, conditional sales and instalment sales, deposits
+and construction contracts. For details on these transitional rules, departments
+can consult the Revenu Québec website <a href="http://www.revenuquebec.ca/en/entreprise/taxes/tvq_tps/perception/moment_ou_tpstvq_exigibles.aspx">When
+the GST and <abbr title="Quebec sales tax">QST</abbr> are payable</a>, or contact Revenu Québec directly (see section
+9).</p><p>5.2
+Departments are exempt from paying the <abbr title="Quebec sales tax">QST</abbr> on their purchases of taxable
+supplies when the <abbr title="Quebec sales tax">QST</abbr> becomes payable before April 1, 2013. The exemption
+certificate is used as a proof of exemption status in these situations. Note
+that the exemption certificate is no longer valid as of April 1, 2013.</p></chapter><chapter anchor="6" title="6. Payment of the QST"><p>Starting April 1, 2013, departments are required to pay the
+  <abbr title="Quebec sales tax">QST</abbr> on their purchases of taxable supplies made in Quebec and to subsequently
+claim a rebate through the <abbr title="Quebec sales tax">QST</abbr> Federal Rebate Administrator (see section 8). In
+addition, a new financial asset reporting account, the <abbr title="Quebec sales tax">QST</abbr> Refundable Advance
+Account (<abbr title="QST refundable advance account">QST RAA</abbr>), has also been created to record the <abbr title="Quebec sales tax">QST</abbr> paid or payable that
+is eligible for a government rebate from Revenu Québec. </p><section anchor="6.1"><title>6.1 Approvals<a href="#ftn2" id="ftnref2"><span class="cn-invisible"> See footnote </span><sup>[2]</sup></a></title><p>6.1.1
+Approval limits established under legislation, regulation or Treasury
+Board policy or as defined by the Deputy Head normally include all applicable
+taxes. The application, however, depends on the wording found in the relevant legislation,
+regulation or policy. In the absence of wording specifically excluding tax from
+cost calculations, approval limits are inclusive of taxes.</p><p>6.1.2
+  For the exercise of the approval authorities, such as expenditure
+  initiation, commitment control, and transaction authorities, the <abbr title="Quebec sales tax">QST</abbr> is to be
+included in the total amount.</p><p>6.1.3
+For the exercise of project or program approvals that will take place in
+the province of Quebec, the <abbr title="Quebec sales tax">QST</abbr> is to be included in the total costs, including
+where project/program approvals are sought through the Treasury Board submission
+process. The total estimated cost (<abbr title="Total estimated cost">TEC</abbr>) of a project or program is to be
+calculated both with and without the <abbr title="Quebec sales tax">QST</abbr>. The <abbr title="Total estimated cost">TEC</abbr> exclusive of the <abbr title="Quebec sales tax">QST</abbr> is the
+amount that will be charged to the departmental appropriation. The <abbr title="Quebec sales tax">QST</abbr> portion will
+be charged to the <abbr title="QST refundable advance account">QST RAA</abbr> as applicable.</p></section><section anchor="6.2" title="6.2 Transfer payments"><p>6.2.1
+  Transfer payments are monetary payments, or transfers of goods, services
+  or assets made on the basis of an appropriation, to a third party, including a
+  Crown Corporation, that do not result in the acquisition by the Government of
+  Canada of any goods, services or assets. Transfer payments are categorized as
+  grants, contributions, and other transfer payments. Transfer payments do not
+include investments, loan or loan guarantees.</p><p>6.2.2
+Transfer payments made for a public purpose that result in no supply
+made by the recipient of transfer payments to either the department (grantor)
+or a specified third party are not treated as the payments for a supply (e.g.
+goods or services) and are therefore not subject to <abbr title="Quebec sales tax">QST</abbr>.</p><p>6.2.3
+When a department provides funding through a transfer payment agreement
+to a third party (the recipient) to undertake a project, the transfer payment
+agreement may provide that the funding can be used to reimburse all or part of
+the costs incurred by the recipient in carrying out the project. The <abbr title="Quebec sales tax">QST</abbr> paid
+by the recipient on its inputs to a transfer payment project may be considered
+to be part of the eligible project costs except for those amounts that a recipient
+is entitled to recover through an Input Tax Refund (<abbr title="Input tax refund">ITR</abbr>) or a <abbr title="Quebec sales tax">QST</abbr> rebate under
+the <a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&amp;file=/T_0_1/T0_1_A.html"><em>Act
+Respecting the Quebec Sales Tax</em></a>. The portion of the <abbr title="Quebec sales tax">QST</abbr> cost that is
+not eligible for reimbursement to the recipient through an <abbr title="Input tax refund">ITR</abbr> or a <abbr title="Quebec sales tax">QST</abbr> rebate
+may be considered as part of eligible project costs. </p><p>6.2.4
+It should be noted, however, that a transfer payment falling within
+Treasury Board's definition of a transfer payment may still be subject to <abbr title="Quebec sales tax">QST</abbr>.
+Where there is a direct link between the transfer payment and a supply to the
+department (a grantor) or a specified third party, the payment may be an amount
+payable for a supply and may be subject to <abbr title="Quebec sales tax">QST</abbr>. When in doubt as to whether <abbr title="Quebec sales tax">QST</abbr> applies to a specific transfer payment, departments are to request a ruling
+from Revenu Québec.</p></section><section anchor="6.3" title="6.3 Contracts"><p>6.3.1
+Procurement contracts for goods, services, and construction services, as
+defined by the <em><a href="/pol/doc-eng.aspx?id=14494">Contracting Policy</a></em>,
+are always subject to applicable taxes. When a contract is subject to <abbr title="Quebec sales tax">QST</abbr>,
+departments are responsible for paying the <abbr title="Quebec sales tax">QST</abbr> and charging the <abbr title="Quebec sales tax">QST</abbr> to the <abbr title="QST refundable advance account">QST RAA</abbr>.</p><p>6.3.2
+The applicability of the <abbr title="Quebec sales tax">QST</abbr> to a contract is the responsibility of the
+supplier, in accordance with Revenu Québec's place of supply rules. If there
+are questions as to the applicability of the <abbr title="Quebec sales tax">QST</abbr> to a given contract,
+contracting authorities in departments are encouraged to consult their legal
+counsel and Revenu Québec.</p><p>6.3.3
+For additional information, see <em><a href="/pubs_pol/dcgpubs/ContPolNotices/2013/01-04-eng.asp">Contracting
+Policy Notice 2013-1</a></em>.</p></section><section anchor="6.4" title="6.4 Real Property Transactions"><p>6.4.1
+Acquisitions of Real Property, as defined in the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/F-8.4">Federal Real Property and
+Federal Immovables Act</a></em>, that add to the federal inventory, are subject
+to applicable taxes. When a real property transaction is subject to QST,
+departments are responsible for paying the <abbr title="Quebec sales tax">QST</abbr> and charging the <abbr title="Quebec sales tax">QST</abbr> to the <abbr title="QST refundable advance account">QST RAA</abbr>.</p><p>6.4.2
+The applicability of the <abbr title="Quebec sales tax">QST</abbr> to a real property transaction is the
+responsibility of the owner or the lessor, in accordance with Revenu Québec's
+place of supply rules. If there are questions as to the applicability of the
+<abbr title="Quebec sales tax">QST</abbr> to a given real property transaction, departments are encouraged to consult
+their legal counsel and Revenu Québec.</p></section><section anchor="6.5" title="6.5 Allowances and Reimbursements paid to employees"><p>Departments are
+to record and report <abbr title="Quebec sales tax">QST</abbr> on allowances and reimbursements paid to employees for
+expenses they incur while on government business as follows: </p><p>6.5.1
+  <abbr title="Quebec sales tax">QST</abbr> on allowances paid to employees</p><ul><li>An allowance<a href="#ftn3" id="ftnref3"><span class="cn-invisible"> See footnote </span><sup>[3]</sup></a>
+    is a periodic payment or other payments that an employee receives from his or
+    her employer and that is used to pay expenses incurred in the course of his/her
+    employment without the employee having to provide receipts for how the amount was
+    spent. The allowance is normally paid to employees who were on travel status
+    for government business. In this way, it could include items such as meal
+    allowances, allowances for daily incidentals and pre-established kilometric
+    rates etc as set out under the <em>National Joint Council Travel Directive</em>.</li><li>The <abbr title="QST refundable advance account">QST RAA</abbr> may be charged for <abbr title="Quebec sales tax">QST</abbr> on allowances paid to
+employees to cover taxable expenses that employees incur within Quebec. </li><li>The method to be used to calculate the <abbr title="Quebec sales tax">QST</abbr> on allowances consists
+of applying 9.975/109.975ths (or 9.07%) to the total amount of allowances paid
+to employees. Note that departments may charge this amount to the QST RAA when
+all the following conditions are met as required by Revenu Québec:
+  <ul><li>The allowance is paid to an employee of the department;              </li><li>The allowance is paid either for acquiring property or services at
+least 90% of which are taxable, or for the use of a motor vehicle where the
+kilometric rate allowance is paid;            </li><li>The property (e.g., goods or meals) or services are acquired or
+take place in Quebec, including the use of motor vehicles; and            </li><li>The property (e.g., goods) or services are acquired for the use
+of the department in conducting government business.             </li></ul></li></ul><p>6.5.2
+  <abbr title="Quebec sales tax">QST</abbr> on reimbursements to employees</p><ul><li>A reimbursement is any amount that an employee receives from his
+or her employer in respect of expenses (e.g., course fees, transportation and
+office supplies) that he or she personally incurred for the purpose of
+government business. The employee is to account for how the amount was spent
+(i.e., the employee is to provide receipts or other supporting documentation to
+the employer). Note that reimbursements to employees do not include amounts paid
+on departmental acquisition cards, departmental travel expense cards and departmental
+travel expense accounts. Refer to the <em><a href="/pol/doc-eng.aspx?id=17059">Directive on
+  Acquisition Cards</a></em> and <em><a href="/pol/doc-eng.aspx?id=15783">Directive on Travel
+    Cards and Travellers Cheques</a></em> for further information. Note that
+    departmental employees are expected to apply these cards in the appropriate
+    contexts. </li><li>The <abbr title="QST refundable advance account">QST RAA</abbr> would be charged for <abbr title="Quebec sales tax">QST</abbr> on expenses reimbursed to
+employees. Because <abbr title="Quebec sales tax">QST</abbr> is not applicable outside of the province, when a claim
+includes expenses incurred both within and outside of the province, the <abbr title="Quebec sales tax">QST</abbr> to
+be charged to the <abbr title="QST refundable advance account">QST RAA</abbr> is to be calculated on the Quebec purchases only. </li><li>There are two methods to calculate the amount of QST on the
+    reimbursement:     
+    <ul class="noBullet"><li><strong>Method 1:</strong>
+        this method consists of calculating 9/109ths (or 8.26%) of the total amount of
+        reimbursable expenses when 90% or more of these expenses are subject to <abbr title="Quebec sales tax">QST</abbr>. 
+       </li><li><strong>Method 2</strong>:
+        this method involves using the actual amount of <abbr title="Quebec sales tax">QST</abbr> incurred on all expenses.
+      </li></ul></li><li>Note that departments may charge
+    this amount to the <abbr title="QST refundable advance account">QST RAA</abbr> when all the following conditions are met as
+    required by Revenu Québec:
+    <ul><li>The reimbursement is made to an employee; and            </li><li>The employee acquired, consumed or used taxable property or
+        services in the course of conducting government business.            </li></ul></li><li>Departments may select different methods of calculation for
+    different categories of reimbursed amounts (e.g., memberships, course fees,
+    hotel expenses, tolls). The method of calculation selected by a department is
+    to be used consistently within each category across the department throughout
+    the fiscal year. For example, if a department chooses method 1 to calculate the
+    tax paid in respect of expenses for one employee, the department is to use the
+    same method for such expenses reimbursed to all other employees during the
+    fiscal year.    </li></ul></section><section anchor="6.6" title="6.6 Audit trail and supporting documentation"><p>Departments are
+to keep proper records and an audit trail for six years following the year when
+the claim for the government reimbursement is submitted to enable the
+verification of amounts charged to the <abbr title="QST refundable advance account">QST RAA</abbr>. Refer to <a href="http://publiservice.tpsgc-pwgsc.gc.ca/rg/airg-rgin/2013-001/index-eng.html">Receiver
+General Notice 2013-001</a> for additional information.</p></section><section anchor="6.7" title="6.7 Self-assessment"><p>Under the <em>Act
+respecting the Quebec Sales Tax</em>, self-assessment generally refers to the obligation
+of the recipient of a taxable supply (i.e., property or a service) to calculate
+and remit the <abbr title="Quebec sales tax">QST</abbr> on that supply in situations where the supplier is not
+required to collect and remit the <abbr title="Quebec sales tax">QST</abbr>. Federal government departments are not subject
+to any self-assessment provisions of the Act.</p></section><section anchor="6.8" title="6.8 Importation of property or services"><p>When a department
+imports/brings a taxable supply from outside of Canada or from another province
+or territory into Quebec and where the supplier is not required to collect and
+remit the <abbr title="Quebec sales tax">QST</abbr>, the department will not pay <abbr title="Quebec sales tax">QST</abbr> on these importations.</p></section><section anchor="6.9" title="6.9 Disputes with suppliers of property or services over payment of QST&#xD;&#xA;invoiced"><p>Suppliers that
+are <abbr title="Quebec sales tax">QST</abbr> registrants are always liable for remitting <abbr title="Quebec sales tax">QST</abbr> to Revenu Québec even
+where the <abbr title="Quebec sales tax">QST</abbr> remains uncollected. Where <abbr title="Quebec sales tax">QST</abbr> is not remitted as required under the <em><a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&amp;file=/T_0_1/T0_1_A.html">Act
+respecting the Quebec Sales Tax</a></em>, the suppliers may also be liable for
+applicable penalties and interest. Departments are not to engage in a dispute
+with a supplier over the <abbr title="Quebec sales tax">QST</abbr> portion of an invoice. Rather, it is recommended
+that a department first pay the amount of the tax invoiced by the supplier and
+then seek resolution from Revenu Québec (see section 9). </p></section></chapter><chapter anchor="7" title="7.&#xD;&#xA;Recording of the QST"><section anchor="7.1" title="7.1 Accounting treatment – taxable purchases"><p>7.1.1
+When making purchases of taxable supplies, departments are to record the
+  <abbr title="Quebec sales tax">QST</abbr> payable to the suppliers at the same time as the related property or
+services are recorded in the departmental financial system. The <abbr title="Quebec sales tax">QST</abbr> payable is
+to be recorded in the <abbr title="QST refundable advance account">QST RAA</abbr>. The full amount of the invoice (including <abbr title="Quebec sales tax">QST</abbr>)
+is to be recorded as an account payable.</p><p>7.1.2
+For codes to be used to record the <abbr title="Quebec sales tax">QST</abbr> and the accounting treatment, refer
+to <a href="http://publiservice.tpsgc-pwgsc.gc.ca/rg/airg-rgin/2013-001/index-eng.html">Receiver
+General Notice 2013-001</a>. </p></section><section anchor="7.2" title="7.2 Charges to the QST RAA"><p>Only <abbr title="Quebec sales tax">QST</abbr> payments
+that are eligible for a government reimbursement from Revenu Québec is to be
+charged to a department's <abbr title="QST refundable advance account">QST RAA</abbr>. Generally, there are three classes of <abbr title="Quebec sales tax">QST</abbr> payments that may be charged to the <abbr title="QST refundable advance account">QST RAA</abbr>:</p><ul><li><abbr title="Quebec sales tax">QST</abbr> paid or payable on taxable supplies acquired by a department.    </li><li><abbr title="Quebec sales tax">QST</abbr> deemed paid on allowances to employees who are on travel
+status for government business (e.g., meal allowances, daily incidentals and standard
+kilometric rates).     </li><li><abbr title="Quebec sales tax">QST</abbr> deemed paid on expenses reimbursed to employees for expenses
+they personally incur while on government business (e.g. course fees,
+transportation and supplies, excluding the amounts paid by departmental
+acquisition cards, departmental travel expense cards and departmental travel
+expense accounts).     </li></ul></section></chapter><chapter anchor="8" title="8.&#xD;&#xA;Rebate of the QST"><p>The Receiver General for Canada is the <abbr title="Quebec sales tax">QST</abbr> Federal Rebate
+Administrator responsible for the rebate process. Detailed instructions can be
+found in the <a href="http://publiservice.tpsgc-pwgsc.gc.ca/rg/airg-rgin/2013-001/index-eng.html">Receiver
+General Notice 2013-001</a>. For any question concerning the rebate, the
+rebate process and recording of the <abbr title="Quebec sales tax">QST</abbr>, please contact:</p><p>Chief, Accounts of Canada</p><p>Central and Public Accounts
+Reporting Directorate<br />
+Central Accounting and Reporting Sector<br />
+Accounting, Banking and Compensation Branch<br />
+Public Works and Government Services Canada<br />
+Place du Portage, Phase III, Floor 13A1<br />
+Ottawa ON K1A 0S5<br /><br />
+Telephone: 819-956-1796 <br />
+Email: <a href="mailto:rgsacc.rgacas@tpsgc-pwgsc.gc.ca" title="mailto:rgsacc.rgacas@tpsgc-pwgsc.gc.ca">rgsacc.rgacas@tpsgc-pwgsc.gc.ca</a></p></chapter><chapter anchor="9" title="9.&#xD;&#xA;Enquiries"><p>Enquiries concerning
+the specific application of the <abbr title="Quebec sales tax">QST</abbr> should be directed to Revenu Québec:</p><ul><li>
+    By Telephone: 1-800-567-4692<br /><br /></li><li>
+    By Canada Post:<br /><strong><br />
+    For offices
+  located in Montréal, Laval, the Laurentides, Lanaudière and Montérégie</strong><br /><br />
+  Direction
+  principale des relations avec la clientèle des entreprises<br />
+  Revenu Québec<br />
+  C.P. 3000,
+  succursale Place-Desjardins<br />
+  Montréal (Québec)
+  H5B 1A4<br /><br /><strong>For offices located in Québec city
+  and other regions</strong><br /><br />
+  Direction
+  principale des relations avec la clientèle des entreprises<br />
+  Revenu Québec<br />
+  3800, rue de
+  Marly<br />
+  Québec (Québec)
+  G1X 4A5</li></ul></chapter></chapters><footnotes><footnote anchor="ftn1" reference="ftnref1" title="[1]" tooltip="Return to footnote reference 1">
+The payment for a purchase is considered to be due on the earliest of
+<ul><li>the date on which the invoice is first issued;</li><li>
+    the date indicated on the invoice;</li><li>
+    the date on which the invoice would have been issued had it not
+    been for an undue delay;</li><li>
+    the due date indicated in a written agreement.</li></ul></footnote><footnote anchor="ftn2" reference="ftnref2" title="[2]" tooltip="Return to footnote reference 2">
+Read this section in conjunction with section 5.1 of the <em>Guideline on the Application of the Goods and Services Tax/Harmonized Sales Tax</em>.
+    </footnote><footnote anchor="ftn3" reference="ftnref3" title="[3]" tooltip="Return to footnote reference 3">
+An amount constitutes an allowance when the following conditions are met:
+<ul><li>
+    the amount paid is a predetermined amount;</li><li>
+    the amount is paid for a specific purpose;</li><li>
+    the amount spent is at the complete discretion of the person
+    receiving the payment; and</li><li>
+    there is no requirement for the person receiving the payment to
+    repay or account for its use. </li></ul></footnote></footnotes></doc>

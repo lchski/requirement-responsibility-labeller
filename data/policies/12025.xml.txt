@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Common Services Policy" language="en" versionID="1" documentID="12025" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd" space="preserve"><chapters><chapter anchor="1" title="1. Preface"><section anchor="1.1" title="1.1 A more efficient and responsive public service"><p>The <em>Common Services Policy</em> sets a strategic direction and provides authority to reform administrative management 
+and the role of common service organizations (CSO) to create a more streamlined, efficient, and responsive Public Service.</p><p>The government's White Paper on Public Service 2000, "The Renewal of the Public Service of Canada" (December 1990), 
+describes the need for fundamental changes in the structure and management of the Public Service. These changes are necessary to equip 
+federal public service employees for the 21st century and to enable them to function effectively in the context of continuing 
+restraint.</p><p>The white paper sets clear directions for the provision of common services to assist program delivery:</p><div class="indent1"><p><em>The government will make optional as many common services as possible, maintaining mandatory services only where 
+  there is an overriding reason. To this end, the Treasury Board will review all mandatory common services to determine 
+  how they can become optional in a cost-effective manner.</em></p></div><p>Changes in the regimes for administrative policies and common services offer clear potential for streamlining, saving 
+time and money, and giving more choice and flexibility to line managers. The white paper states the following:</p><div class="indent1"><p><em>With respect to administrative policies, central agencies, common service agencies, and departments will be expected 
+  to:</em></p><ul><li><em>delegate authority as close as possible to the levels in the organization delivering the services to clients;</em></li><li><em>deregulate policies to ensure that managers and employees have more authority to provide services and 
+    be accountable for their performance; and</em></li><li><em>assist managers to develop the necessary knowledge and skills to use this increased authority.</em></li></ul></div></section><section anchor="1.2" title="1.2 Responding to a new environment"><p>The government has used CSOs to obtain advantages from economies of scale and to seek benefits from the 
+pooling of specialized expertise. In some instances, CSOs offer the convenience of one-stop shopping for 
+departments and a single window to the government for private contractors. In other instances, CSOs provide 
+government-wide repositories of information or offer the potential of fulfilling other government objectives.</p><p>These benefits must be weighed against other considerations in the current environment, such as the global costs of central 
+supply; the widespread use of information technology in administration, purchasing, and communications; and the existence 
+of a highly competitive and accessible marketplace.</p><p>As the demand increases for more streamlined, responsive, and cost-effective government operations, it may sometimes 
+be more efficient for clients to have access to alternative sources of supply, including dealing directly with private sector 
+suppliers.</p></section><section anchor="1.3" title="1.3 Choice and competition"><p>Optional services are based upon the dual principles of user choice and user pay. There are strong incentives 
+for managers to be fiscally responsible when they have choice over the acquisition of goods and services 
+and when costs are visible and billed directly to their operating budgets. Such an environment promotes 
+quality management practices and accountability for operating efficiently among line departments. It gives 
+them greater control and flexibility over the costs of their operation to best carry out their mission of 
+service to the public.</p><p>Giving departments and agencies increased choice in how to meet their requirements promotes innovation and successful 
+program delivery, particularly with respect to addressing unique mandates and operational requirements or to capitalizing 
+on new opportunities.</p><p>Choice for line departments creates a competitive environment for CSOs. In a competitive environment, where CSOs operate 
+on cost-recovery, market pressures cause the CSOs to focus on customer service, providing quality goods and services on 
+time, and pricing competitively. This allows them to retain market share and operate a viable service organization. The 
+CSOs have a natural interest in operating efficiently and being innovative in service delivery in order to remain viable 
+and satisfy customer requirements. Such an environment contributes to increased opportunities for commercial suppliers to 
+serve government where this provides best value and generally promotes more efficient and less costly government operations.</p><p>The philosophy promoted by this policy reflects international trends in the public and private sectors.</p><p>This policy is based on managers exercising sound judgment and authority, managing risk, and assuming clear accountability 
+for their performance and results. It provides an accountability framework consistent with these expectations. Included 
+is an accountability of departments to negotiate delegation instruments with CSOs or to seek exemptions from Treasury Board 
+policies when these would better support the achievement of policy objectives.</p></section><section anchor="1.4" title="1.4 Mandatory service reviews"><p>The Treasury Board of Canada Secretariat and CSOs will use the principles set out in this policy to conduct 
+an intensive review of the mandatory services listed in Appendix E. Departments will be consulted about 
+these reviews.</p></section></chapter><chapter anchor="2" title="2. Policy objective"><p>The objective of this policy is to ensure that departments and agencies can acquire responsive, cost-effective 
+support for their program delivery.</p></chapter><chapter anchor="3" title="3. Policy statement"><p>CSOs will offer services to client departments in a manner that is most supportive of timely, effective, 
+and economical delivery of programs to the public.</p><p>The government will make optional as many common services as possible, maintaining mandatory services only where there 
+is an overriding reason. To this end, the Treasury Board will review all mandatory common services. If there is not an overriding 
+reason to maintain their mandatory status, the Treasury Board will determine how the services can become optional in a cost-effective 
+manner.</p><p>Departments may obtain optional services from a CSO on a negotiated basis.</p></chapter><chapter anchor="4" title="4. Application"><p>This policy applies to the departments and agencies (hereinafter referred to as departments) listed in schedules 
+I, I.1, and II of the Financial Administration Act and to commissions of inquiry designated as departments for 
+purposes of the Act.</p></chapter><chapter anchor="5" title="5. Policy requirements"><section anchor="5.1" title="5.1 Use of mandatory services"><p>Departments must use mandatory services (listed in Appendix E of this policy) to meet their requirements.</p></section><section anchor="5.2" title="5.2 Flexibility and delegation of authority"><p>CSOs that offer services that are mandatory under Treasury Board policy (as opposed to legislation) must 
+deliver these services in a manner that allows and facilitates the maximum flexibility and delegation of 
+authority to the departments they serve.</p></section><section anchor="5.3" title="5.3 Compliance with policies and standards"><p>CSOs must comply with all government and Treasury Board policies and standards when providing common 
+services. Departments must comply with the same policies and standards when they exercise direct authorities 
+provided under this policy to meet their requirements for goods and services, including when they obtain 
+delegation of authority from a CSO for mandatory services.</p></section><section anchor="5.4" title="5.4 Proposals for changes in status"><p>All proposals to change the status of common services must be presented to the Treasury Board for approval. 
+Access by regional suppliers to government departments is to be included among the issues considered to 
+support such proposals.</p><p>To avoid duplication and overlap and to permit an orderly phasing out of services to be terminated, departments must 
+obtain Treasury Board approval to terminate existing mandatory or optional services, establish new services, or carry out 
+services that individual departments now undertake.</p></section><section anchor="5.5" title="5.5 Exemptions from this policy"><p>Treasury Board approval is required when a department wishes to discontinue using all or part of a service 
+that is mandatory under Treasury Board policy (as opposed to being mandatory through legislation).</p><p>In seeking exemptions from the Treasury Board respecting the use of services that are mandatory under Treasury Board 
+policy (as opposed to legislation), departments must submit a business case to the Treasury Board that presents the anticipated 
+advantages of granting an exemption.</p></section><section anchor="5.6" title="5.6 Funding of common services provided by CSOs"><p>As a guiding principle, mandatory services provided by CSOs are funded mainly through appropriation, 
+and optional services are funded mainly by full cost-recovery through a revolving fund or net-voting authority. 
+Mandatory services must not subsidize optional services.</p><p>For those mandatory services not funded by appropriation, rates charged to departments must be set to recover but not 
+exceed the full costs of providing each specific service. All appropriate measures must be taken to reduce these costs to 
+a minimum.</p><p>Unless otherwise directed by the minister responsible, where optional services are funded by a revolving fund, rates 
+charged to departments must recover the full costs of the CSO in order to break even at the level of the overall operation 
+over a reasonable period of time, such as the planning period for the CSO. Rates for a specific optional service, however, 
+may be set by the CSO at competitive market rates.</p><p>CSOs must obtain Treasury Board approval for the rates to be charged to client departments for optional services and 
+those mandatory services that are not funded by appropriation, except where the Treasury Board has authorized the CSO to 
+set its rates directly.</p></section><section anchor="5.7" title="5.7 Services to Crown corporations and non-federal organizations"><p>A CSO may negotiate special arrangements to offer services to Crown corporations or non-federal organizations, 
+provided that it is consistent with the mandate of the CSO, subject to the following conditions:</p><ol class="lower-alpha"><li>specific approval of the minister responsible for the CSO is obtained with respect to the policy rationale and the 
+  proposed scope (i.e. markets to be served) and terms (e.g. pricing, service line, and business volume) of the special 
+  arrangements;</li><li>rates charged for services will recover but not exceed the full cost of the services provided; and</li><li>providing services to Crown corporations or non-federal organizations will not interfere with the CSO's primary role, 
+  which is to provide services to federal departments.</li></ol></section><section anchor="5.8" title="5.8 Authority to compete"><p>The following CSO is authorized to engage in the competitive process to serve departments. Bids from 
+this organization, when submitted, must be considered by departments at the same time as private sector 
+bids and must be handled in the same manner:</p><ul><li>Canada School of Public Service for the provision of training consulting services.</li></ul></section></chapter><chapter anchor="6" title="6. Responsibilities"><p>The accountability framework described in Appendix A of this policy specifies the respective roles and responsibilities 
+of CSOs, departments, and the Treasury Board for implementing the <em>Common Services Policy</em>. Instead of 
+prescribing detailed central controls over how responsibilities are to be exercised, this framework emphasizes 
+the nature and scope of the responsibilities, performance expectations, and monitoring and reporting requirements 
+of these organizations.</p></chapter><chapter anchor="7" title="7. Definitions"><dl><dt><strong>Common service organization (CSO)</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>organisme de services communs</em></span>)</dt><dd>a department or organization, including a special operating agency (SOA), designated as a central supplier of particular services to support the requirements of departments. CSOs are listed in Appendix B of this policy.</dd><dt><strong>Crown corporation</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>société d'État</em></span>)</dt><dd>a parent Crown corporation or a wholly owned subsidiary, as defined in section 83(1) of the Financial Administration Act.</dd><dt><strong>Full cost</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>coût total</em></span>)</dt><dd>the sum of all costs, direct and indirect, incurred by the government in the supply of a good, service, property, or right or privilege, and includes, for example, services provided without charge by other departments (such as accommodation and employer contributions to insurance plans); costs financed by separate authorities (such as some employee benefits); the financing costs of inventories; and annualized capital costs, including financing.</dd><dt><strong>Mandatory service</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>service obligatoire</em></span>)</dt><dd>an activity of a CSO to supply goods or services that departments must obtain from the CSO. Mandatory services are mandated either in legislation or policy. See Appendix E for a list of mandatory services.</dd><dt><strong>Non-federal organizations</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>organismes non fédéraux</em></span>)</dt><dd>organizations not listed in the schedules of the Financial Administration Act, including public (e.g. provincial, municipal and foreign governments), non-profit or private sector organizations, and institutions in Canada or abroad.</dd><dt><strong>Optional service</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>service facultatif</em></span>)</dt><dd>an activity of a CSO to supply goods or services that departments may use when it makes sense to do so. An illustrative list of optional services is included in Appendix F.</dd></dl></chapter><chapter anchor="8" title="8. References"><section anchor="8.1" title="8.1 Authority"><p>This policy is issued under the authority of section 7 of the Financial Administration Act.</p></section><section anchor="8.2" title="8.2 Legislation"><p>This policy should be read in conjunction with applicable legislation, e.g. the Department of Public 
+Works and Government Services Act, Department of Justice Act, Surplus Crown Assets Act, Expropriation Act, 
+Copyright Act, and other acts or regulations that contain powers and authorities related to the provision 
+of common services, such as the <em>Government Contracts Regulations</em>.</p></section><section anchor="8.3" title="8.3 Treasury Board publications"><p>This policy should be read in conjunction with other applicable Treasury Board policies, directives, 
+and guidelines on contracting, materiel management, procurement and project management, real property, information 
+technology management, management of government information, communications, federal identity, and the like.</p></section><section anchor="8.4" title="8.4 Cancellation"><p>This chapter supersedes the version of the <em>Common Services Policy</em> dated May 2005 and is effective May 16, 2005.</p></section></chapter><chapter anchor="9" title="9. Enquiries"><p>Please direct enquiries about this policy instrument to the organizational unit in your department responsible for this subject matter. For interpretation of this policy instrument, the responsible organizational unit should contact: <a href="/contact/contactgc-eng.aspx">TBS Public Enquiries</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A – Accountability Framework"><p><strong>Note</strong>: The contents of this appendix are mandatory because they are generally related to policy requirements.</p><section anchor="A.1" title="1. Introduction"><p>This accountability framework specifies the respective roles and responsibilities of common service organizations 
+(CSO), departments, and the Treasury Board for implementing the <em>Common Services Policy</em>. Instead 
+of prescribing detailed central controls over how responsibilities are to be exercised, this framework emphasizes 
+the nature and scope of the responsibilities of these organizations, their performance expectations, and 
+their monitoring and reporting requirements.</p></section><section anchor="A.2" title="2. Common service organizations"><p>CSOs, as suppliers of common services, are accountable for the following:</p><ul><li>establishing an environment consistent with the policy, e.g. oriented toward client service, promoting choice and 
+  flexibility for departments, and adopting a way of operating that is cost-effective, business-like, and responsive to 
+  the needs of client departments;</li><li>providing quality goods and services that meet the requirements and specifications of client departments in a timely 
+  manner, while exercising a high regard for prudence, probity, and value for money;</li><li>developing, in consultation with client departments and agencies, meaningful and visible standards of service and 
+  performance for the delivery of mandatory services, for example 
+  <ol class="lower-alpha"><li>availability or accessibility (convenience to the user, response time);</li><li>service competence (quality, reliability, timeliness);</li><li>professionalism of staff (qualifications, product knowledge, service levels);</li><li>client orientation (courtesy of staff, choice, representation, complaint, and redress);</li><li>ease of administration (minimum paper burden, reporting in a manner that meets the requirements of client departments); 
+    and</li><li>avoidance of unintended side effects (negative effects on the environment, increased risk in terms of health and 
+    safety, or increased costs of program or service delivery);</li></ol></li><li>supporting the achievement of government-wide social, economic, and environmental objectives in acquiring or delivering 
+  goods and services;</li><li>monitoring business volumes, levels of performance, resource use, financial results, and the implications of providing 
+  individual common services and reporting on these factors annually in Part III of the Estimates or in annual reports;</li><li>on a periodic basis, conducting a systematic review and participating in Treasury Board reviews to assess mandatory 
+  and optional services (The purpose of these reviews is to assess whether all or part of a mandatory service should remain 
+  mandatory and, if so, determine whether increased delegation of authority and flexibility can be provided to departments. 
+  Reviews of mandatory services must take into consideration how the common service in question can become optional in a 
+  cost-effective manner. These reviews must also account for the issue of access to governmental opportunities for regional 
+  suppliers. CSOs must seek the views of client departments when reviewing mandatory services. When CSOs undertake such 
+  reviews directly and propose major changes to services, these changes must be approved by the Treasury Board); and</li><li>recommending to the Treasury Board the rates to be charged to client departments for the use of optional services 
+  and those mandatory services that are not funded by appropriation, except where the Treasury Board has authorized the 
+  CSO to set its rates directly. CSOs must consult client departments before recommending rates to the Treasury Board or 
+  setting them directly.</li></ul></section><section anchor="A.3" title="3. Federal departments"><p>Federal departments, as users of common services, are accountable for the following:</p><ul><li>establishing an operating environment consistent with the <em>Common Services Policy</em>, i.e.
+  oriented toward client service, promoting choice and flexibility for managers, and adopting a way of operating that is cost-effective, 
+  business-like, and responsive to the operational requirements of the department;</li><li>determining the goods and services they need (i.e. what, when, and where) and whether they are receiving them 
+  on time and in an efficient manner;</li><li>using mandatory services to meet their requirements when required by this policy and, whether using mandatory or optional 
+  services, doing so in a business-like manner;</li><li>developing appropriate operating policies and monitoring procedures to assure proper use of all common service authorities, 
+  including any special delegations obtained, and to ensure that departmental authorities are exercised in a manner consistent 
+  with the provisions of this policy, taking corrective action when required;</li><li>supporting the achievement of government-wide social, economic, and environmental objectives when acquiring or delivering 
+  goods and services; and</li><li>providing feedback on the implementation of this policy to central agency policy centres and CSOs.</li></ul><p>As clients of mandatory services, federal departments are accountable for the following:</p><ul><li>in the case of legislated mandatory services and services that may require ministerial delegation to exercise an authority 
+  available on an optional basis, negotiating delegation instruments with CSOs when legislation permits and when delegation 
+  would better support achieving the objectives of this policy or program objectives; and</li><li>in the case of services that are mandatory by Treasury Board policy, requesting exemptions from the policy when this 
+  would better support achieving the objectives of this policy or program objectives.</li></ul><p>As clients of optional services or alternate sources of supply, federal departments are accountable for the following:</p><ul><li>making sound business decisions as to how they acquire goods and services, whether from CSOs or other sources of supply, 
+  including internal supply, shared services with other departments, or suppliers outside of government;</li><li>acquiring services while maintaining a high regard for timeliness, efficiency, effectiveness, prudence, probity, and 
+  value for money;</li><li>considering the effect of the service on the public and accessibility by the public and developing guidelines and 
+  criteria where appropriate; and</li><li>observing applicable legislation and Treasury Board policies when contracting with the private sector.</li></ul></section><section anchor="A.4" title="4. Treasury Board of Canada Secretariat"><p>The Treasury Board, through its Secretariat, is accountable for the following:</p><ul><li>evaluating the policy, including 
+  <ol class="lower-alpha"><li>the integrity and continued relevance of the policy, and the common services provided under the policy, from the 
+    perspective of whether they meet the needs of federal departments and agencies in terms of timeliness, cost, and quality 
+    of goods and services;</li><li>the logic and practicality of policy requirements in achieving the stated objective;</li><li>the effectiveness of the policy in achieving the stated objective; and</li><li>the appropriateness of the policy in the context of overall government direction and changes in the management environment;</li></ol></li><li>reviewing and approving the fees charged by CSOs to client departments for providing mandatory (where applicable) 
+  and optional common services (where the Treasury Board has authorized the CSO to set its rates directly, examining them 
+  on a periodic basis to assure consistency with the principles established in this policy);</li><li>monitoring reviews of mandatory and optional services undertaken by CSOs and the follow-up action taken on the results 
+  of the reviews;</li><li>when necessary, reviewing mandatory and optional services with the common service provider and, when applicable, with 
+  other key departments involved (e.g. the Privy Council Office, the Public Service Commission of Canada, and policy departments, 
+  such as Industry Canada) to determine whether 
+  <ol class="lower-alpha"><li>the service is delivered in an appropriate manner;</li><li>mandatory services could become optional in a cost-effective manner or, if the service remains mandatory, whether 
+    delegation of authority and flexibility to departments could be increased (assessment criteria for this purpose are 
+    listed in Appendix D); and</li><li>the CSOs and departments are applying the principles contained in this policy;</li></ol></li><li>considering, when necessary, the resourcing implications for the CSO and departments receiving authority when a mandatory 
+  service funded by appropriation becomes optional, or when there is a delegation of authority for a mandatory service funded 
+  by appropriation;</li><li>monitoring CSOs and departments to assess the extent to which they are following policy principles and fulfilling 
+  accountabilities under this policy;</li><li>seeking the views of client departments and CSOs when evaluating the policy or conducting related reviews; and</li><li>communicating with both CSOs and other departments to ensure that the policy is well understood and interpreted in 
+  the spirit of public service renewal.</li></ul></section></appendix><appendix anchor="B" title="Appendix B – Common Service Organizations of the Government of Canada"><p>The following organizations are CSOs for purposes of the <em>Common Services Policy</em>:</p><ul><li>Canada School of Public Service</li><li>Foreign Affairs and International Trade Canada</li><li>Human Resources and Social Development Canada – Service Canada</li><li>Justice Canada</li><li>Public Service Commission of Canada</li><li>Public Works and Government Services Canada (including the following special operating agencies)<ul><li>Consulting and Audit Canada</li><li>Translation Bureau</li></ul></li><li>Statistics Canada</li><li>Treasury Board of Canada Secretariat</li></ul></appendix><appendix anchor="C" title="Appendix C – Guidelines on Implementation and Best Practices"><section anchor="C.1" title="1. Use of optional services and services made optional through delegation"><p>Departments may choose to use the optional services listed in Appendix F when those services are available. 
+They may also choose other methods to meet their requirements, including internal supply, arrangements with 
+other departments or by special agreement with common services organizations (CSO), or arrangements with 
+suppliers outside of the government.</p><p>In selecting the most suitable course of action to make an acquisition when a service is optional, departments should 
+consider the effect on service to the public (as suppliers and purchasers of service) and access by the public. It may be 
+desirable to develop operational guidelines and criteria for service levels to address these concerns.</p></section><section anchor="C.2" title="2. Delegation of authority"><p>Treasury Board encourages CSOs to delegate authority to departments to meet their special needs. Delegation 
+instruments should clearly state the authority being delegated and specify only essential conditions related 
+to exercising the delegated authority. The delegation instruments should clearly state that the minister 
+or department receiving delegation is fully accountable for its use.</p><p>When seeking delegation of authority from a CSO for the use of mandatory common services, departments may be required 
+to submit a business case to the CSO that presents the anticipated advantage of the requested delegation. The effects of 
+resourcing on the department and the CSO should also be considered.</p><p>It is good practice for CSOs to facilitate the exchange of information with client departments so that they are aware 
+of delegations of authority that have been granted as well as the essence of the business case that was accepted by the 
+CSO for specific delegations. In cases where a business case is made and refused, the reasons for the refusal should be 
+clearly communicated to all client departments that have an interest and to the Treasury Board of Canada Secretariat policy 
+centre or other sponsor of the policy.</p></section><section anchor="C.3" title="3. Costing common services"><p>To estimate the full cost of providing optional services, CSOs and departments should refer to the Guide 
+to the Costing of Outputs in the Government of Canada (Office of the Comptroller General, Treasury Board 
+of Canada Secretariat).</p></section><section anchor="C.4" title="4. Cross-subsidization"><p>In principle, there should be no cross-subsidization between or among optional services.</p></section><section anchor="C.5" title="5. Changes to common services"><p>When a CSO seeks authority to establish new services or carry out services that individual departments 
+now undertake, the Treasury Board will be guided by the principle that duplication or overlap of services 
+offered by CSOs should be avoided. Duplication and overlap among CSOs reduce opportunities to achieve economies 
+of scale, increase government overhead, and create confusion for client departments and the public.</p><p>As well CSOs involved in duplication and overlap of services as a result of past decisions should rationalize their services 
+in these areas in a timely manner. However, when there are compelling reasons for CSOs to continue offering services that 
+constitute duplication or overlap, the Treasury Board will, in reviewing its funding, be guided by the principle that they 
+should be funded on the same basis to avoid giving one an advantage over the other (e.g. services funded under cost-recovery 
+would find it very difficult to compete with those funded under appropriation).</p><p>When a CSO applies to terminate an optional service, the Treasury Board will be guided by the principles that optional 
+services should be discontinued in an orderly manner when cost-effective alternatives exist or can be developed and when 
+demand from within government cannot sustain the cost of such services being delivered by a CSO. Furthermore, Treasury Board 
+will consider the extent to which affected departments, including small departments, have been consulted and have received 
+adequate warning so that they can arrange for alternative methods of supply without disrupting their operations.</p></section><section anchor="C.6" title="6. Service to Crown corporations and non-federal organizations"><p>When CSOs are required to demonstrate a policy rationale for negotiating special arrangements to supply 
+Crown corporations or non-federal organizations, i.e. a compelling justification for providing the 
+proposed scope of service, they should take into account the interests of the public in limiting the growth 
+of federal expenditures. They should also take into account the interests of federal departments in obtaining 
+common services in a responsive manner and at a reasonable cost. An additional consideration is where increased 
+scope of service leads to economies of scale that reduce the cost of services to departments or to the government 
+overall.</p></section><section anchor="C.7" title="7. Appeal and redress"><p>CSOs should consider establishing a fair, impartial, and effective appeal and redress mechanism to deal 
+with disputes or issues that arise when they are providing services to client departments.</p></section><section anchor="C.8" title="8. Performance management"><p>When providing for a department's service requirements, CSOs and departmental service units should review 
+their practices in relation to the International Standard ISO 9004-2 (1991), <em>Quality management and 
+quality system elements — Part II: Guidelines for services</em>, developed by the International Organization 
+for Standardization.</p><p>The information note entitled Line Managers and Assessing Service to the Public (Office of the Comptroller General, April 
+1991) provides useful information on establishing performance indicators on the level and quality of service as well as 
+on client perceptions of service.</p><p>Managers of common services should ensure that they have relevant, timely, and reliable information about the performance 
+of their programs. Performance information can be obtained through regular monitoring of service delivery and costs; periodic 
+client feedback reports; quality assessments; and formal reviews, audits, and evaluations of the services provided. Performance 
+information should be used to assure the quality and cost-effectiveness of service delivery to client departments, to improve 
+policy and program decision making, and to demonstrate accountability for the efficient operation and results of the services 
+offered, particularly to the responsible minister, the Treasury Board, and Parliament.</p><p>When considering the most efficient way to organize the delivery of a common service, managers should consult the Treasury 
+Board guides entitled Stretching the Tax Dollar: Making the Organization More Efficient — which provides a methodology to 
+examine how to deliver services more economically or efficiently, either in-house or through the private sector — and Stretching 
+the Tax Dollar: Make or Buy? — which provides a method to compare the cost of in-house delivery with that of contracting 
+out an identified service.</p></section><section anchor="C.9" title="9. Competition"><p>This policy does not provide authority for CSOs to engage in the competitive process to offer services 
+to departments, Crown corporations, or non-federal organizations. CSOs that wish to compete with private 
+sector firms should request Treasury Board authority through a submission setting out the policy basis and 
+business case.</p><p>When CSOs package and broker private sector expertise on behalf of a client department, it is good practice to seek the 
+minister's concurrence that such participation represents competition between private sector firms, not competition between 
+government agencies and the private sector.</p></section><section anchor="C.10" title="10. Systems development"><p>When considering the development of computer systems to support departmental administrative requirements, 
+e.g. finance, personnel, and materiel, departments should examine how state-of-the-art systems developed 
+in other departments or jurisdictions or off-the-shelf products can be adapted to meet their needs. In other 
+instances, consideration should be given to developing shared information and support systems solutions. 
+This may save time and the expenditure of scarce human and financial resources.</p></section><section anchor="C.11" title="11. Environmental stewardship"><p>When acquiring and providing goods and services, departments and CSOs should apply environmentally responsible 
+management practices and, in other respects, comply with the provisions of the Code of Environmental Stewardship<em> 
+for the Government of Canada</em>.</p></section></appendix><appendix anchor="D" title="Appendix D – Assessment Framework for Reviews of Mandatory Services"><p>This framework is a guide for reviewing mandatory common services (listed in Appendix E of the policy) to 
+determine whether the services should remain mandatory and, if so, whether increased delegation of authority 
+and flexibility could be provided to departments. These criteria could also be adapted to help departments and 
+common service organizations (CSO) assess the delivery of optional services.</p><p>This framework does not address the management issue of whether the CSO could improve its efficiency or the benefits 
+it provides by changing the way the service is delivered. To examine this issue, CSOs and departments may wish to refer 
+to the following publications: Stretching the Tax Dollar: Making the Organization More Efficient and Stretching the Tax 
+Dollar: Make or Buy? (Treasury Board of Canada Secretariat)</p><p>The following criteria include illustrative questions to guide the review of common services.</p><section anchor="D.1" title="1. Level of service requirement"><ul><li>How well does the common service currently meet the needs and expectations of client departments and 
+  other stakeholders?</li><li>Can the required level of service be provided in a cost-effective manner by making the use of the 
+  common service optional or by increasing delegation of authority to departments? Under what conditions?</li><li>How will be increased choice and flexibility affect levels of service to the public (e.g. purchasers 
+  and suppliers)?</li></ul></section><section anchor="D.2" title="2. Service delivery arrangements"><ul><li>Is optionality expected to improve the delivery of services to the public?</li><li>Can the benefits provided by the common service be achieved by making the use of the common service 
+  optional or increasing delegation of authority to departments?</li><li>Do client departments want the service to be optional in order to better meet their requirements?</li><li>How do alternative common service delivery methods affect access and service to the public?</li></ul></section><section anchor="D.3" title="3. Quality management and innovation"><ul><li>Does the mandatory provision of the common service promote quality management and innovation in service 
+  delivery for common service providers and client departments?</li><li>Would increased choice and flexibility for client departments create incentives for cost reduction 
+  and service delivery improvements?</li></ul></section><section anchor="D.4" title="4. Economy and good management"><ul><li>Does providing this service through a CSO demonstrate good management by offering best value to client 
+  departments and maximum economy to the government?</li><li>Are the costs of service delivery visible to client departments and direct users?</li><li>Would subjecting the mandatory service to a competitive environment improve the quality and timeliness 
+  of service delivery and reduce costs?</li><li>How can the common service in question become optional in a cost-effective manner?</li></ul></section><section anchor="D.5" title="5. Costs and benefits"><ul><li>What are the costs and benefits of supplying the common service to client departments and other stakeholders?</li><li>What are the direct costs to the CSO of providing the common service?</li><li>What are the full business costs of providing services on a mandatory basis, including paper burden, 
+  additional time required, hidden costs, and increased bureaucracy?</li><li>How are the timeliness of service delivery, the cost of government overhead, and the paper burden 
+  affected if the common service is mandatory?</li><li>Is a move away from mandatory delivery in the best interests of the taxpayer?</li></ul></section><section anchor="D.6" title="6. Risk assessment"><ul><li>What risk is associated with making the use of the common service optional or increasing delegation 
+  of authority to departments?</li><li>What is the level of that risk, and how likely is it to occur?</li><li>What steps can be taken to reduce and manage the risk?</li></ul></section><section anchor="D.7" title="7. Integrity of procurement"><ul><li>How will optionality or more delegation affect the integrity of the government's procurement process 
+  and the provision of particular goods and services to client departments?</li></ul></section><section anchor="D.8" title="8. Effect on small departments"><ul><li>How will optionality or increased delegation affect small client departments?</li></ul></section><section anchor="D.9" title="9. External perspectives"><ul><li>How will greater optionality or increased delegation affect accessibility of suppliers to government, 
+  accessibility of the public in regions outside the National Capital Region, and the ability to provide 
+  standardized service to the public across the country?</li><li>How will optionality affect access to government opportunities for regional suppliers?</li></ul></section><section anchor="D.10" title="10. Business case"><ul><li>What is the business case for maintaining the mandatory status of the common service?</li></ul></section><section anchor="D.11" title="11. Legislation"><ul><li>Is the common service mandated under legislation?</li><li>Does the rationale for its legislative basis still apply?</li><li>What are the consequences, both intended and unintended, of this legislative provision?</li><li>What kind of delegation can be provided within the existing legislation?</li></ul></section><section anchor="D.12" title="12. Government-wide objectives"><ul><li>Does the common service achieve a broader government objective or purpose that would be compromised 
+  if all or part of the service were made optional, e.g. concentration of expertise or technology in government, 
+  consistency and integrity of approach, or government-wide efficiency, social, economic, or environmental 
+  objectives?</li></ul></section><section anchor="D.13" title="13. Overriding reason"><ul><li>Is there an overriding public policy reason for not making the use of the common service optional 
+  or for not increasing delegation of authority to departments?</li></ul></section></appendix><appendix anchor="E" title="Appendix E – Mandatory Services"><section anchor="E.1" title="1. Introduction"><p>Certain services provided by common service organizations (CSO) are designated as mandatory (non-discretionary) 
+when a government-wide interest or consideration prevails over, or coincides with, the interests of individual 
+departments and agencies. Such considerations can include economies of scale; access to centres of expertise 
+or specialization; the need for a high level of consistency; or attaining the government's social, economic, 
+or environmental objectives. Other factors that come to bear include access by suppliers to government; 
+access by the public, particularly outside the National Capital Region; and maintaining a standard of service 
+to the public across the country.</p><p>This chapter lists mandatory services provided by CSOs to departments and agencies in accordance with legislation or 
+Treasury Board policy. Departments must use these services for their requirements unless they are exempted by the Treasury 
+Board or granted the necessary delegation of authority from the CSO.</p><p>Some departments do have existing authority to directly manage some of the mandatory services listed here. For example, 
+National Defence manages parts of travel, legal, and removal services. This policy does not change the existing specific 
+authorities of departments.</p><p><strong>Note</strong>: This notation (+) indicates a common service that is specifically mandated under legislation, not Treasury Board policy.</p></section><section anchor="E.2" title="2. Foreign Affairs and International Trade Canada+"><h4>2.1 Procurement of goods, services, and real property in support of diplomatic and consular missions 
+outside Canada</h4><p>Foreign Affairs and International Trade Canada (FAITC) manages the procurement of goods, services, and real property 
+to meet its overseas requirements and those of other departments and agencies as a common service. These services are mandatory 
+for departments to use when required to support Canada's diplomatic and consular missions abroad. This is consistent with 
+the provisions of the Department of Foreign Affairs and International Trade Act whereby the minister is responsible for 
+managing Canada's diplomatic and consular missions.</p><p>The services described here, when required for diplomatic or consular purposes, will be provided by the missions in their 
+geographic areas.</p><h5>2.1.1 Acquisition of goods and services</h5><p>Missions abroad have been delegated purchasing authority outside Canada under the Department of Public Works and Government 
+Services Act. Delegated officers of FAITC at missions abroad may purchase goods from firms located in the mission's vicinity 
+when there is no access to offices of Public Works and Government Services Canada (PWGSC) and this is the most practical 
+and economical method of purchase.</p><p>Central supply of goods and services provides economies of scale; addresses security requirements in terms of leases, 
+services (e.g. the hiring of staff), and goods (e.g. electronic equipment); and could provide diplomatic immunity for real 
+property used for Government of Canada purposes (e.g. leases signed).</p><h5>2.1.2 Real property</h5><p>FAITC is the custodian of federal real property in support of diplomatic and consular purposes outside Canada.</p></section><section anchor="E.3" title="3. Health Canada"><h4>3.1 Public Service Health Program</h4><p>The Public Service Health Program provides occupational health and safety services to federal public service employees 
+on a direct-service basis. The staff members are professionals in the areas of occupational health nursing, employee assistance, 
+medicine, environmental health, industrial hygiene, counselling, and management of health programs. Specialist engineering, 
+scientific, and technical services are provided in support of front-line staff. Major service areas include health assessment 
+and surveillance, workplace environmental assessment, health promotion and education, response to emergency situations, 
+health counselling and advice to employees, and research and special studies. Through the Employee Assistance Program, professional 
+advice is provided to departments to help them implement effective employee assistance programs. The Public Service Health 
+Program also provides consultative advice to senior management regarding employee health and safety issues.</p></section><section anchor="E.4" title="4. Human Resources and Social Development Canada - Service Canada"><h4>4.1 Access Services (1 800 O-Canada; Canada Site; Consultation Postings; Publiservice)</h4><p>The <em>Communications Policy of the Government of Canada</em> requires departments to register and to connect 
+electronically with, and to provide up-to-date information to, various public access services managed by Human Resources 
+and Social Development Canada – Service Canada.</p><p>These services include:</p><dl><dt><em>1 800 0-Canada</em></dt><dd>the Government of Canada's toll-free telephone service;</dd><dt><em>Canada Site</em> portal</dt><dd>the Government of Canada's primary site on the Internet (<a href="http://www.canada.gc.ca/" title="Government of Canada website">www.canada.gc.ca</a>);</dd><dt><em>Consultation Postings</em></dt><dd>information on national and regional public consultation and citizen engagement activities posted on the Canada Site (linked to departmental websites);</dd><dt><em>Publiservice</em></dt><dd>the Government of Canada's primary intranet portal for the Public Service (<a href="http://publiservice.gc.ca" title="Publiservice website">http://publiservice.gc.ca</a>).</dd></dl><p>These services provide the public and public servants with general information about government organizations, programs, 
+services, events and initiatives, including public consultation and citizen engagement activities.</p><p>All <em>information provided to Canadians must adhere to key government standards as set out in policies and legislation, 
+including the Communications Policy of the Government of Canada, the Federal Identity Program, the Canadian 
+Charter of Rights and Freedoms, the Official Languages Act, the Privacy Act, the Personal Information Protection and Electronic 
+Documents Act, and the Access to Information Act</em>. The <em>Communications Policy of the Government of Canada</em> and 
+its related <em>Procedures</em> elaborate on the specific requirements with which departments must comply so as to inform 
+and serve Canadians.</p></section><section anchor="E.5" title="5. Justice Canada"><h4>5.1 Legal services to departments+</h4><p>Pursuant to the Department of Justice Act, Justice Canada is responsible for the legal affairs of the government as a 
+whole and for providing legal services to individual departments and agencies through functions related to the offices of 
+the Attorney General and the Minister of Justice. These services include providing legal advice, preparing legal documents, 
+drafting legislation, regulating or conducting litigation, and overseeing all legal mechanisms used to achieve the overall 
+objectives of the government.</p><p>In discharging these duties, the Minister of Justice weighs considerations of both law and government policy, including 
+that in government bills, regulations, or departmental directives as they may affect fundamental rights or freedoms.</p><p>As the country's most senior legal officer, the Attorney General must see that governance is in accordance with the law. 
+These services are centrally controlled in order to assure overall consistency and integrity of approach.</p><p>The <em>Government Contracts Regulations</em> require that contracts for the performance of legal services may be entered 
+into only by or under the authority of the Minister of Justice.</p></section><section anchor="E.6" title="6. Public Works and Government Services Canada"><h4>6.1 General</h4><p>PWGSC carries out certain central administrative functions on behalf of the federal government and provides optional 
+and mandatory common services to government departments and agencies in support of their program objectives.</p><p>Departments must negotiate a signed delegation instrument from the Minister of Public Works and Government Services to 
+exercise the following authorities on a delegated basis: printing, publishing, and related services.</p><p><strong>Note</strong>: PWGSC is the designated custodian of general-purpose office facilities provided on an obligatory basis to departments 
+and agencies and of other special federal facilities assigned to PWGSC under its residual responsibility for federal real 
+property. This function is considered a program of government, not a common service.</p><p>A list of mandatory services follows.</p><h4>6.2 Appraisals for land conveyances</h4><p>PWGSC has sole authority for appraisals used for land conveyances. This arrangement relates to PWGSC's expertise and 
+the management of risk in setting federal land values.</p><p>In the Yukon Territory, the Northwest Territories, and Nunavut appraisals are a mandated requirement of the Territorial 
+Lands Act and are made by Indian and Northern Affairs Canada.</p><h4>6.3 Expropriation+</h4><p>Under the Expropriation Act, only the Minister of Public Works and Government Services can authorize expropriations.</p><h4>6.4 Selection of private sector architectural and engineering professionals — SPEC</h4><p>Selection, Prequalification and Evaluation of Consultants (SPEC) is PWGSC's computer-assisted system for selecting consultants 
+in architectural, engineering, and related fields for contracts. Use of SPEC is mandatory for selecting consultants for 
+all contracts for architectural and engineering services funded by federal departments.</p><h4>6.5 Acquisitions service+</h4><p>The supply process is managed under the acquisitions service. Activities involve market research; product planning; and 
+soliciting, evaluating, selecting, negotiating, issuing, and administering contracts, other supply arrangements, and services 
+in support of acquisitions, e.g. systems support, statistics, and administrative support. The service involves acquiring 
+a wide range of commodities from commercial, off-the-shelf goods to sophisticated engineering products and services.</p><p>Where <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has put them in place, departments are required 
+to use instruments (standing offers, supply arrangements or other pre-negotiated multi-departmental instruments issued by
+<abbr title="Public Works and Government Services Canada">PWGSC</abbr>) for commodities (including Temporary Help) listed 
+in the Treasury Board Contracting Policy, Appendix C, Part 1, Basic Contracting Limits, Schedule 4. This requirement does 
+not apply to contracting authorities listed in the Schedule to the <em>Government Contracts Regulations</em> and to Commissions 
+established pursuant to the <em>Inquiries Act</em>.</p><p>Section 9 of the Department of Public Works and Government Services Act gives the Minister of Public Works and Government 
+Services exclusive responsibility for the procurement of all goods as described in the Act. Other departments may only procure 
+goods either when their legislation specifically permits it or when an appropriate delegation of authority has been made 
+by the Minister of Public Works and Government Services.</p><h5>6.5.1 Research and development contracting</h5><p>PWGSC is responsible for all contracting relating to mission-oriented science and technology requirements in the natural 
+sciences and the human science fields of urban, regional, and transportation studies.</p><h5>6.5.2 Executive vehicle acquisitions</h5><p>PWGSC is responsible for procuring executive vehicles for ministers, deputy ministers, and Federal Court justices. It 
+is responsible for adhering to Treasury Board policy related to procuring executive vehicles, including providing automobile 
+insurance required for these vehicles. Its expertise in this area provides clients with maximum value for money and a timely 
+response to requirements that are often urgent.</p><h5>6.5.3 Guard services</h5><p>In 2006, the Treasury Board reaffirmed the Canadian Corps of Commissionaires' (Corps) long-standing exemption from competition 
+and right of first refusal for Guard Services under the conditions in this policy.It is important to understand the authorities 
+under which this preferential policy is applied:</p><ol class="lower-alpha"><li>Guard Services, including commissionaire services, are excluded from NAFTA Chapter 10</li><li>Guard Services of any type were not included in Canada's services commitments in the WTO Agreement on Government Procurement;</li><li>Article 507 (d) of the Agreement on Internal Trade does not apply to procurement contracts with a non-profit organization, 
+  such as the Corps;</li><li>The Treasury Board confirmed the use of para 6 (c) of the Government Contracts Regulations in that it is not in the 
+  public interest to solicit bids when contracting with veterans through this right of first refusal.</li></ol><p>PWGSC is authorized to enter into a multi-year procurement agreement with the Corps to provide for Guard Services related 
+to safeguarding federal assets, information, persons, buildings and property owned or occupied by federal departments or 
+agencies, including the following:</p><ol class="lower-alpha"><li>intervention responsibilities such as access control/patrol of buildings and/or restricted areas using physical or 
+  technological means;</li><li>custodial duties of information and assets, including locksmith responsibilities;</li><li>clerical and administrator duties related to the performance of guard services;</li><li>receptionist and information desk duties at building or restricted area access control points;</li><li>security scanning of incoming mail, parcels and freight at central receiving areas;</li><li>fingerprinting and other identification services (traditional, biometric, etc);</li><li>classified waste disposal.</li></ol><p>While it is recognized that guard services will contain "other related duties" necessary to performing the role such 
+as reception, computer data entry, records management or chauffer services, the primary activities of guard services are 
+as stated above.</p><p>For the purposes of this policy, veteran will be defined as:</p><ol class="lower-alpha"><li>a veteran of the South African War;</li><li>a Canadian veteran of World War I or World War II;</li><li>a merchant navy veteran of World War I or World War II;</li><li>an allied veteran;</li><li>a Canadian dual service veteran;</li><li>an allied dual service veteran;</li><li>a Canadian Forces veteran;</li><li>a Canadian veteran of the Korean War;</li><li>former members of the RCMP that have been honourably discharged.</li></ol><p>A Canadian Forces veteran is an individual who was:</p><ol class="lower-alpha"><li>a former member of the Canadian Forces who was qualified in his/her military occupation;</li><li>honourably discharged.</li></ol><p>The above definition of veteran recognizes the potential risk that all Canadian Forces members are exposed to when they 
+swear the Oath of Allegiance.</p><p>The Corps will be required to provide the Contracting Authority at Public Works and Government Services Canada an annual attest audit by the end of June, validating the requirement that a minimum of 60 per cent of the hours worked nationally by the Corps on contracts awarded in each fiscal year under the right of first refusal is performed by veterans.</p><p>The failure of a Corps Division to meet the requirement that a minimum of 60 per cent of the hours worked by the Corps 
+on contracts awarded in each fiscal year under the right of first refusal is performed by veterans, will result 
+in the need for the Corps to take corrective action. Departments and agencies will not be permitted to raise new call-ups or post orders against existing standing offers for guard services, unless the Corps can attest to meeting the minimum authorized level of veteran participation. The Corps will not be offered the right of first refusal on new requirements for guard services until it achieves the 60 per cent requirement.</p><p>The Corps will be free to compete for contracts where a sufficient veterans population is unavailable.</p><p>PWGSC will conduct an annual contract cost audit to ensure that costs incurred and allocated are consistent with the 
+Corps' status as a not-for-profit organization.</p><h4>6.6 Co-ordination of, and contracting for, advertising and paid announcements</h4><p>Public Works and Government Services Canada, in co-operation with the Privy Council Office (PCO), provides departments 
+with a number of services to ensure the integrity and efficacy of government advertising. As required by the 
+<em><a href="/pol/doc-eng.aspx?id=12316">Communications Policy of the Government of Canada</a></em>, 
+departments must co-ordinate their intended advertising activities with PCO and PWGSC.</p><p>A definition of advertising is provided in the <em><a href="/pol/doc-eng.aspx?id=12316">Communications 
+Policy of the Government of Canada</a></em>.</p><p>All <em>advertising must adhere to key government standards as set out in policies and legislation, including the Communications 
+Policy of the Government of Canada, the Federal Identity Program, the Contracting Policy, and the Official 
+Languages Act</em>. The <em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate 
+on the specific requirements with which departments must comply when placing advertisements.</p><p>The <em>Contracting Policy</em> gives PWGSC responsibility for contracting advertising.</p><p><strong>Note</strong>: Paid announcements, such as public notices regarding tenders, sales, public hearings, offers of employment, and business 
+hours and addresses, may be placed directly with the media by departments and agencies.</p><h4>6.7 Co-ordination of, and contracting for, public opinion research</h4><p>Public Works and Government Services Canada provides departments with a number of services related to public opinion 
+research. As required by the <em>Communications Policy of the Government of Canada</em>, departments must co-ordinate their 
+planning and implementation of public opinion research with PWGSC.</p><p>A definition of public opinion research is provided in the <em><a href="/pol/doc-eng.aspx?id=12316">Communications Policy of 
+the Government of Canada</a></em>.</p><p><em>All public opinion research must adhere to key government standards as set out in policies and legislation, including 
+the Communications Policy of the Government of Canada, the Federal Identity Program, the Contracting 
+Policy, the Official Languages Act, the Privacy Act, and the Personal Information Protection and Electronic Documents Act</em>. 
+The <em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate on the 
+specific requirements with which departments must comply when undertaking public opinion research.</p><p>The <em>Contracting Policy</em> gives PWGSC the exclusive responsibility for contracting for public opinion research.</p><h4>6.8 Compensation+</h4><p>Compensation services offered to departments and agencies are defined by legislation, regulation, and policies, and include 
+collective agreements, pension Acts and insurance plans. Authority and responsibility for the pay and benefits function 
+for federal public service employees are shared by all government departments and agencies. Treasury Board manages the compensation 
+function, and individual departments and agencies administer day-to-day pay and benefit operations.</p><h4>6.9 Disposal of Surplus Moveable Crown Assets</h4><p>Under amendments to the Surplus Crown Assets Act, Treasury Board has established terms and conditions related to the 
+disposal function. The <em>Policy for the Disposal of Surplus Moveable Crown Assets</em> elaborates on the specific requirements 
+with which departments must comply when disposing of such assets. Crown Assets Distribution offers services to dispose of 
+surplus materiel for departments and agencies.</p><p>Changes to the <em>Surplus Crown Act</em> also provide statutory authority for departments to spend an amount equivalent 
+to the proceeds from the sale of surplus goods, subject to Treasury Board terms and conditions.</p><p>These changes do not affect the disposal authority some departments have under other legislation.</p><h4>6.10 Custody of securities</h4><p>Custody of securities is a Receiver General derivative function. Services are provided without charge under a memorandum 
+of understanding (MOU) with the Bank of Canada, in support of the responsibilities of the Minister of Finance for Canada 
+Savings Bonds and security deposits.</p><h4>6.11 Major Crown projects</h4><p>Major Crown projects involve planning and managing the procurement aspects of projects defined as "major Crown projects" 
+by Treasury Board. PWGSC manages the contracting aspects of major Crown projects not related to real property in collaboration 
+with client departments and other stakeholders, e.g. Industry Canada, Western Economic Diversification Canada, and the Atlantic 
+Canada Opportunities Agency. Responsibilities include planning for and determining procurement options and potential suppliers; 
+planning and negotiating contracts; producing contractual documents; and administering and auditing contracts.</p><h4>6.12 Shared travel services initiative</h4><p>The Shared Travel Services Initiative, which is a joint initiative by the Treasury Board Secretariat and Public Works 
+and Government Services Canada for government-wide application, offers a full complement of end-to-end travel solutions. 
+Travel AcXess Voyage, which integrates travel service for air, train, hotel and car rental reservations, includes:</p><ul><li>a new government travel card;</li><li>a Departmental Responsibility Centre Travel Card</li><li>traveller's cheques;</li><li>an on-line self-service booking tool;</li><li>a new travel agency;</li><li>an expense claims management system; and</li><li>access to business intelligence on government travel.</li></ul><p>Travel AcXess Voyage allows booking by telephone and has bilingual travel support anywhere, any time. The enhanced government 
+travel card provides improved insurance coverage while on travel status and a card loyalty program. It ensures that travellers 
+have access to the best value rates for accommodation, car rental, and airline fares.</p><p>The National Joint Council Travel Directive requires employees to use these services when travelling on government business.</p><p>For more information on the shared travel services initiative, please consult the following site:
+<a href="http://gtmo.gc.ca/" title="Shared Travel Services website">http://gtmo.gc.ca</a> (French website: http://bmsv.gc.ca).</p><h4>6.13 Central removal</h4><p>Central removal service procures removal services for all departments, except National Defence and the Royal Canadian 
+Mounted Police. It maintains a list of approved carriers for removing and storing employees' household effects, imposes 
+penalties on moving companies for non-performance, and negotiates favourable rates based on volume. It also ensures that 
+government business is fairly distributed to all approved carriers through an equalization system.</p><h5>6.13.1 Central removal insurance</h5><p>Central removal insurance service is related to the central removal service in that it administers a contract with a 
+private sector broker to provide mandatory employer-paid insurance for the household effects of employees who are relocating, 
+as well as claims settlement services.</p><h4>6.14 Film, video and multimedia production</h4><p>The <em>Communications Policy of the Government of Canada</em> requires departments to contract through Public 
+Works and Government Services Canada the production, distribution, and evaluation of motion picture films, videotapes, television 
+programs, interactive videodiscs, CD-ROMs, and audiovisual and multimedia productions.</p><p>PWGSC also oversees the related quality control, and storage services, while departments are responsible for all other 
+aspects of project management.</p><p><em>All film, video and multimedia production must adhere to key government standards as set out in policies and legislation, 
+including the Communications Policy of the Government of Canada, the Contracting Policy, the Federal 
+Identify Program, the Official Languages Act and the Library and Archives of Canada Act. The Communications Policy 
+of the Government of Canada and its related Procedures elaborate on the specific requirements with which 
+departments must comply when undertaking these productions.</em></p><h4>6.15 The Canada Gazette+</h4><p>Departments and agencies are required to comply with the statutory requirements to publish legal and regulatory notices 
+in the <em>Canada Gazette</em>, which is the official gazette of Canada. (<em>Statutory Instruments Act</em>).</p><p>Under the <em>Department of Public Works and Government Services Act</em>, as the Queen's Printer and publisher of the
+<em>Canada Gazette</em>, Public Works and Government Services Canada provides departments and agencies with a central co-ordination 
+service, including editing, text processing, publishing and distribution.</p><p>The <em>Canada Gazette</em> consists of three parts:</p><div class="indent1"><p>Part I is published every Saturday and contains all formal public notices; official appointments; proposed regulations 
+  from the federal government; and miscellaneous notices from provincial or municipal governments and the private sector 
+  that are required to be published by a federal statute or regulation.</p><p>Part II is published every second Wednesday and contains regulations as defined in the <em>Statutory Instruments Act</em> 
+  as well as certain other classes of statutory instruments.</p><p>Part III is published as soon as it is reasonably practicable after Royal Asset and contains the most recent Public 
+  Acts of Parliament and their enactment proclamations.</p></div><p>The <em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate on the specific 
+requirements with which departments must comply when publishing notices in the <em>Canada Gazette</em>.</p><h4>6.16 Crown copyright administration and licensing+</h4><p>The <em>Communications Policy of the Government of Canada</em> requires that departments manage the administration and 
+licensing of Crown copyright in co-ordination with Public Works and Government Services Canada.</p><p>Departments must comply with the <em>Copyright Act</em> and ensure that the ownership rights associated with works subject 
+to copyright are fully respected in all media applications.</p><p>Canadian government publications, both free and priced, as well as unpublished documents, are automatically protected 
+by copyright under the <em>Copyright Act</em>.</p><p>The <em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate on the specific 
+requirements with which departments must comply in order to respect Crown copyright administration and licensing.</p><h4>6.17 Publishing of statutes and revised statutes+</h4><p>Under the <em>Publication of Statutes Act</em>, the Queen's Printer publishes the statutes of Canada (i.e. acts 
+or laws) as passed by the Parliament of Canada.</p><p>Under the <em>Statute Revision Act</em>, as the Queen's Printer, Public Works and Government Services Canada publishes 
+the updated consolidation of both statutes and regulations, as submitted by the Statutes Revision Commission.</p><h4>6.18 Fairs and Exhibitions</h4><p>The <em>Communications Policy of the Government of Canada</em> requires departments to co-ordinate their participation 
+in fairs and exhibitions, especially where the Canada Pavilion is present.</p><p>Public Works and Government Services Canada is responsible for co-ordinating the participation of departments through 
+the Government of Canada's Exhibitions Program and PWGSC reviews all exhibition plans to encourage departmental co-location.</p><p>Exhibits and display materials must conform to the standards of the <em>Federal Identity Program</em> and to the requirements 
+of the <em>Official Languages Act</em>. The <em>Communications Policy of the Government of Canada</em> and its related
+<em>Procedures</em> elaborate on the specific requirements with which departments must comply when participating in fairs 
+and exhibitions.</p></section><section anchor="E.7" title="7. Treasury Board of Canada Secretariat"><h4>7.1 Treasury Board Information Technology Standards</h4><p>Under Treasury Board's <em>Management of Information Technology Policy</em>, the Treasury Board of Canada Secretariat 
+oversees the Government Information Technology Standards Program. This program includes approving standards for government; 
+formulating government positions, as a user, on proposed national and international standards; sharing information on standardization; 
+and liaising with other governments and the private sector.</p><p>The work on information technology standardization is performed in partnership with departments to ensure that standards, 
+and the criteria for their application and implementation, serve departments' requirements. All departments are invited 
+to participate on new standardization initiatives. All departments vote on every proposed standard.</p><p>Implementing standards in accordance with approved criteria is mandatory for all departments, as directed by the Treasury 
+Board's <em>Management of Information Technology Policy</em>. This ensures that only one set of standards is promulgated 
+for use in the federal government. Common government standards increase the efficiency of government operations, allow fairer 
+procurement, protect investment, support inter-working and portability among different vendors' systems, facilitate the 
+sharing of applications and information, increase programmers' productivity, reduce the cost of conversions, and support 
+Canadian industry.</p></section></appendix><appendix anchor="F" title="Appendix F – Optional Services"><section anchor="F.1" title="1. Introduction"><p>This appendix presents an illustrative list of services provided by common service organizations (CSO) 
+to supply departmental requirements on an optional basis.</p><p>Optional services are based on the dual principles of user choice and user pay. There are strong incentives for managers 
+to be fiscally responsible when they have choice over the acquisition of goods and services and when costs are visible and 
+directly billed to their operating budgets. Such an environment promotes quality management practices and accountability 
+for operating efficiently among line departments. It gives them greater control and flexibility, including over the costs 
+of their operation, to best carry out their mission of service to the public.</p><p>Choice for line departments creates a competitive environment for CSOs. In a competitive environment, where CSOs operate 
+on cost recovery, market pressures cause the CSOs to focus on customer service, the provision of quality goods and services 
+on time, and competitive pricing. This allows them to retain market share and operate a viable service organization. The 
+CSOs have a natural interest in operating efficiently and being innovative in service delivery in order to remain viable 
+and satisfy customer requirements. Such an environment contributes to increased opportunities for commercial suppliers to 
+serve government where this provides best value and generally promotes more efficient and less costly government operations.</p><p>To meet their requirements, departments may select from optional services provided by CSOs or arrange for other sources 
+of supply, including internal supply, shared services with other departments, or suppliers outside of government.</p><p><strong>Note</strong>: Where this notation (+) occurs in the text, it refers to a common service that is specifically mandated under legislation, 
+not under Treasury Board policy.</p></section><section anchor="F.2" title="2. Canada School of Public Service"><h4>2.1 General</h4><p>The Canada School of Public Service (CSPS) offers learning services to the Public Service of Canada. Detailed information 
+about CSPS is available at: http://www.myschool-monecole.gc.ca</p><h4>2.2 Public Service Learning</h4><p>CSPS was established as a centre of excellence to provide quality training and development to departments and agencies 
+in all regions of Canada. The CSPS curriculum is designed to support public service accountabilities and to respond to leadership 
+competencies and government priorities.</p><p>Courses and programs offered by CSPS may be selected from its scheduled calendar or can be customized to meet individual 
+departmental needs. All programs are offered in both French and English.</p><p>CSPS offers learning advisory services to assist departments in areas such as learning strategies, needs analyses and 
+evaluation. Language training is available through the CSPS Language Training Centre. CSPS works with functional communities 
+to establish professional development curricula for specialists in, for example, finance and internal audit, procurement, 
+materiel management and real property, policy, communications, and human resources. Research on public administration is 
+another CSPS service line.</p><h4>2.3 Training and development services</h4><h5>2.3.1 Needs analysis</h5><p>The needs analysis service is offered at many levels. At the functional group level, it could include occupational analysis 
+for the Financial Administration Group (FI), the Purchasing and Supply Group (PG), and the Personnel Administration Group 
+(PE). At the departmental level, it could involve developing or communicating a new program that affects all areas of the 
+department. At the branch or program level, it could include implementing a new policy or managing change, and at the individual 
+level, it could include determining the training requirements of a changing workforce as a result of changes in how business 
+is done.</p><h5>2.3.2 Design and development</h5><p>This service offers course designs and development specially suited to address departmental needs, e.g., implementing 
+a new informatics system in the department.</p><h5>2.3.3 Delivery</h5><p>Instructors are trained subject-matter experts in various disciplines. They can therefore either teach a departmentally 
+designed course, adapt and then present a CSPS course, or offer a standard (calendar) CSPS course within a department.</p><h5>2.3.4 Evaluation and validation</h5><p>Staff members are trained consultants as well as trainers. They can evaluate a pilot course to determine the required 
+adjustments or determine the changes required to a course that has been used but needs to be updated. The School can also 
+validate the training that has been given over a certain period of time and determine its effectiveness.</p><h4>2.4 Consulting</h4><p>Standard CSPS calendar courses can be adapted to meet specific requirements of departments, such as departmental procedures 
+or case studies. Completely new designs specific to a department's needs are also available under the consulting services; 
+these are prepared by subject-matter experts trained in course design and delivery.</p><h4>2.5 Non-statutory language training</h4><p>Second-language courses in French and English are offered in several regions across Canada for purposes of non-statutory 
+training. Courses comprise both intensive residential courses in Halifax and Quebec City (Resifax, Résibec) and specialized 
+courses, such as preparation for the second-language evaluation tests, administrative correspondence, spoken communication, 
+and telephone receptionist skills.</p></section><section anchor="F.3" title="3. Foreign Affairs and International Trade Canada"><h4>3.1 International telecommunications</h4><p>Foreign Affairs and International Trade Canada (FAITC) provides common services for international telecommunications. 
+A variety of services are in place to provide direct voice, data, and facsimile communications between the Ottawa headquarters 
+and missions abroad. The FAITC Telecommunications Division should be consulted to address particular needs. Services include 
+secure telegraph, facsimile, and voice communications to missions; data circuits to foreign countries; data service to mission 
+offices; and voice service to outside missions (international).</p><h4>3.2 Procurement of goods, services, and real property for purposes other than in support of diplomatic and consular 
+missions outside Canada</h4><p>FAITC manages the procurement of goods, services, and real property to meet its overseas requirements and those of other 
+departments and agencies as a common service. These services are optional for departments to use when required for purposes 
+other than in support of diplomatic and consular missions abroad.</p><p>Although it is not required to do so, FAITC may offer its services to Crown corporations and agencies of the government, 
+Canadian or foreign non-government organizations, or to the private sector if such action contributes to maximizing the 
+long-term economic advantage to the government.</p><p>The optional services described here, when required by departments, will be provided on request by the missions in their 
+geographic areas.</p><h5>3.2.1 Acquisition of goods and services</h5><p>Missions abroad have been delegated purchasing authority outside Canada under the Department of Public Works and Government 
+Services Act. Delegated officers of FAITC at missions abroad may purchase goods from firms located in the mission's vicinity 
+when there is no access to offices of Public Works and Government Services Canada (PWGSC) and this is the most practical 
+and economical method of purchase.</p><p>Central supply provides economies of scale; addresses security requirements in terms of leases, services (e.g. the hiring 
+of staff), and goods (e.g. electronic equipment); and could provide diplomatic immunity for real property used for Government 
+of Canada purposes (e.g. leases signed).</p><h5>3.2.2 Real property</h5><p>FAITC is the custodian of federal real property in support of diplomatic and consular purposes outside Canada. For real 
+property requirements other than in support of diplomatic and consular purposes, FAITC will, on an optional basis, act as 
+custodian or provide property-related services where departments request it.</p></section><section anchor="F.4" title="4. Public Service Commission of Canada"><p>The Public Service Commission of Canada (PSC) offers the following services on a fee-for-service basis.</p><h4>4.1 Assessment Centre</h4><p>The Assessment Centre provides assessments of middle managers for selection to developmental programs. Using trained 
+executives as assessors and the results of simulations and tests, the Centre evaluates managerial strengths, weaknesses, 
+and executive potential. The Centre provides written reports and feedback to candidates and their sponsoring organizations.</p><h4>4.2 Diagnostic and career counselling service</h4><p>This service provides executives with assessment information and counselling to assist them in dealing with a variety 
+of career challenges and opportunities. Tailored to the needs of the individual manager, the service offers diagnostic assessment 
+designed to enhance self-understanding. A number of diagnostic tools and counselling services are available from a psychologist 
+on staff. Clients also have the option of receiving individualized coaching from executive counsellors. The service also 
+refers clients to outside experts.</p><h4>4.3 Management assessment tools</h4><p>The Personnel Psychology Centre offers a number of instruments and methods to measure abilities required to perform effectively 
+as a manager (e.g. leadership, planning and organizing, delegation, and working effectively under stress), including in-basket 
+and simulation exercises.</p></section><section anchor="F.5" title="5. Public Works and Government Services Canada"><h4>5.1 Assets management of movables</h4><p>This service involves providing support to the various procurement directorates in PWGSC, to National Defence–loaned 
+equipment, to the Canadian Commercial Corporation for all US-government movable property for which the government of Canada 
+is custodian, and to Industry Canada for all capital assistance under the Defence Industrial Preparedness Program. Such 
+support also includes controlling and managing government-owned tooling and test equipment valued in excess of $1.2 billion 
+that is on loan to contractors in support of product or service contracts.</p><p>This service offers the advantage of applying a single standard of control of production assets universally and avoids 
+duplicate counting of inventory.</p><h4>5.2 Information management</h4><p>The Government Telecommunications and Informatics Services provides telecommunications services and infrastructure for 
+government, as well as internal and external information management and technology services to assist in the automation 
+of government administrative systems.</p><p>The information management responsibilities involve the following:</p><ul><li>planning and constructing an informatics infrastructure to support central (e.g. Receiver General) and other common 
+  services (e.g. procurement, realty management); and</li><li>providing business applications, computing operation, and other informatics services to PWGSC and other departments 
+  and agencies (e.g. information resource management, the common information management or repository services, the Software 
+  Exchange Service, and the institute for informatics training).</li></ul><h4>5.3 Photography</h4><p>PWGSC provides contracting services related to photographic and imaging needs. Services include helping clients define 
+their requirements, writing technical specifications, providing advice and estimates, soliciting and assessing bids, and 
+awarding and administering contracts.</p><h4>5.4 Contracting for Printing+</h4><p>Departments must negotiate a signed delegation instrument from the Minister of Public Works and Government Services to 
+exercise this authority on an optional basis. Ministers receiving delegated authority for printing must comply with the 
+conditions of delegation established by the Minister of Public Works and Government Services. PWGSC provides print contracting 
+services to client departments. Services include helping clients define their requirements, writing technical specifications, 
+providing advice and estimates, soliciting and assessing bids, and awarding and administering contracts.</p><h5>5.4.1 Publishing+</h5><p>Departments must negotiate a signed delegation instrument from the Minister of Public Works and Government Services to 
+exercise this authority on an optional basis. Ministers receiving delegated authority for publishing must comply with the 
+conditions of delegation established by the Minister of Public Works and Government Services. Some departments, however, 
+have existing authority to manage publishing directly. For example, under the Statistics Act, Statistics Canada has the 
+legal mandate to publish and therefore does not require delegation from the Minister of Public Works and Government Services.</p><p><em>All publications must adhere to key government standards as set out in policies and legislation, including the Communications 
+Policy of the Government of Canada</em> , the <em>Federal Identify Program, the Contracting Policy, the Management 
+of Government Information Policy, the Depository Services Program, the Official Languages Act and the Copyright Act</em>.</p><p>The <em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate on the specific 
+requirements with which departments must comply when planning and producing publications. </p><p><strong>Note</strong>: The Depository Services Program is not a common service, but is a Treasury Board mandated government-wide program. The
+<em>Communications Policy of the Government of Canada</em> and its related <em>Procedures</em> elaborate on the specific 
+requirements of the Program.</p><h4>5.5 Management information support systems</h4><p>This service provides a range of common financial and personnel systems designed to support the management of these functions 
+by departments and agencies, e.g. the Common Departmental Financial System (CDFS), the Departmental Personnel Management 
+System (DPMS), and other endorsed systems.</p><h4>5.6 Overseas traffic</h4><p>This service procures, manages, provides advice on, and audits overseas transportation services to client departments, 
+e.g. the Canadian International Development Agency (CIDA) and the Canadian Commercial Corporation.</p><h4>5.7 Payments file maintenance</h4><p>This service provides systems that maintain files and databases for certain socio-economic and other payments programs. 
+These services are customized to meet the requirements of the program departments, e.g. Canada Pension Plan file maintenance 
+for Social Development Canada.</p><h4>5.8 Public warehousing</h4><p>The public warehousing service is provided to customer departments to accommodate commodities requiring storage, both 
+on a long- or short-term basis. The service is provided as and when required, subject to space availability at stocked item 
+supply (SIS) warehouses in Ottawa, Edmonton, and Dartmouth. Departments are billed on a full cost-recovery basis.</p><h4>5.9 Real property — general</h4><p>PWGSC offers real property services to departments for land, buildings, and other built works, such as highways, airports, 
+historic assets, parks, bridges, dry docks, and marine structures.</p><p>PWGSC provides these services from its offices situated across Canada or directly from clients' offices when collocation 
+is appropriate. Services are tailored to meet the particular needs of clients, and PWGSC staff are available to explore 
+how their services can be used.</p><p>PWGSC is knowledgeable in applying technical codes and standards and uses leading-edge technology in its work. Its ready 
+access to the Canadian real estate, design, and construction industries allows a one-stop approach to meeting all real property 
+needs.</p><p><strong>Note</strong>: PWGSC is the designated custodian of general-purpose office facilities provided on an obligatory basis to departments 
+and agencies and of other special federal facilities assigned to PWGSC under its residual responsibility for federal real 
+property. This function is considered a program of government, not a common service.</p><p>The services listed here are not optional to departments when PWGSC is the designated custodian of the office or special 
+facilities, unless there is an instrument of delegation.</p><p>Although the use of PWGSC's professional architectural and engineering services is optional, departments must not use 
+this optional status to recreate internal architectural and engineering organizations.</p><p>Departments should refer to the real property policies for additional information and to the <em>Contracting 
+Policy</em> for information on architectural and engineering contracting authorities.</p><p>An outline of the services follows.</p><h4>5.10 Real Property — planning</h4><h5>5.10.1 Program planning support</h5><p>PWGSC helps departments become "knowledgeable clients" in carrying out their program responsibilities. It reviews programs 
+to determine real property needs; analyzes assets and develops asset management plans, long-term accommodation, and capital 
+plans; prepares Treasury Board and other submissions and presentations; and develops equipment management and technical 
+record management strategies.</p><h4>5.11 Real Property — Environmental Services</h4><h5>5.11.1 Environmental assessment</h5><p>This aspect of the service involves developing procedures pursuant to the Environmental Assessment and Review Process 
+(EARP), providing training on EARP, determining the consequences of proposed activities, recommending techniques to eliminate 
+or reduce negative effects of actions, and recommending changes to minimize effects on the environment.</p><h5>5.11.2 Environmental audits</h5><p>Environmental Services prepares guidelines for audits, manages audit teams, prepares inventories of items to be audited, 
+conducts audits or supervises consultants, prepares reports on findings, and implements recommendations.</p><h5>5.11.3 Environmental management</h5><p>Environmental Services can develop and implement strategies and action plans to satisfy the <em>Code of Environmental 
+Stewardship for the Government of Canada</em> and to manage toxic waste, CFCs, halons, PCBs, air pollution, laboratory emissions, 
+asbestos, and radon gas; to manage and maintain underground storage tanks; and to respond to environmental emergencies.</p><h5>5.11.4 Area hazard analysis and rehabilitation</h5><p>Services offered under this heading include analysis to identify major hazards, review of hazardous sites, development 
+of emergency response plans, and implementation of solutions.</p><h4>5.12 Real property — development and acquisition</h4><h5>5.12.1 Property development</h5><p>PWGSC undertakes comprehensive multi-disciplinary studies to analyze and develop alternatives and strategies for land 
+use and property decisions. Specific services include studies for project feasibility, land-use planning, site selection, 
+and highest and best use; real estate financial investment analysis; asset management plans; heritage review and management; 
+environmental screening of property acquisitions and disposals to ensure statutory compliance; and guidance on the Area 
+Screening Canada and the Federal Heritage Buildings Review Office (FHBRO).</p><h5>5.12.2 Geographical Information System</h5><p>PWGSC provides departments with a computer-based information analysis system for geological, geotechnical, demographic, 
+environmental, real property, and socio-economic information in relation to specific geographical locations.</p><h5>5.12.3 Surveys of land or real property</h5><p>PWGSC provides legal land surveys; documentation, data management and land title advisory services; fulfilment of statutory 
+requirements for plans of survey; boundary descriptions and extent of title reports and plans; pre-design topographic and 
+site plans; photogrammetric mapping and base plans; utility mapping; position control and monitoring surveys; and geodetic 
+positioning surveys.</p><h5>5.12.4 Hydrographic survey</h5><p>PWGSC provides hydrographic and advisory services to support client programs, including conducting surveys for dredging, 
+marine areas and waterways; identifying major hazards; conducting field studies; and testing and evaluating new techniques 
+and equipment.</p><h5>5.12.5 Property appraisals (other than land conveyances)</h5><p>When land conveyances are involved, PWGSC's property appraisal services are mandatory. However, PWGSC's appraisal services 
+are also available on an optional basis for other purposes, including non-financial programs.</p><h5>5.12.6 Building condition reports</h5><p>This aspect of the service includes evaluating electrical, mechanical, architectural, structural and life safety systems, 
+recommended solutions, and cost estimates.</p><h5>5.12.7 Acquisition by purchase, lease, exchange, transfer, or license</h5><p>PWGSC offers services related to the acquisition of real property, including needs analysis, site selection, negotiating 
+acquisition, securing final agreements and titles, and obtaining final authorizations and approvals from required authorities.</p><h5>5.12.8 Leasing</h5><p>This aspect of the service includes project management, market surveys and analyses, negotiating leases and fit-up contracts, 
+preparing documentation for lease tender calls, selecting the best offer, obtaining required approvals, and executing lease 
+and fit-up contracts.</p><h4>5.13 Real property — design, construction, and refit</h4><h5>5.13.1 Project management</h5><p>PWGSC performs needs analysis and front-end planning; articulates requirements; develops an implementation strategy (including 
+commissioning); selects the design team and consultants (SPEC); appoints the project team; obtains necessary approvals; 
+implements the project; oversees commissioning and post-construction activities; and undertakes evaluations of completed 
+projects.</p><h5>5.13.2 Design and construction</h5><p>For new and refit buildings, transportation and other built works projects, the services offered include preliminary 
+feasibility studies; developing conceptual, preliminary, and final designs with cost estimates and schedules; preparing 
+detailed working drawings, specifications, and tender documents; providing advice during the bid review and award of contract; 
+and inspecting and supervising work, including the environmental effect, the warranty review, quality control, and commissioning 
+of the work.</p><h5>5.13.3 Commissioning</h5><p>Commissioning involves placing a newly constructed facility into operation, including reviewing contract documentation; 
+preparing commissioning briefs, budgets, and schedules; preparing training and operating manuals; co-ordinating the phased 
+completion of systems; reviewing systems installation; evaluating and verifying systems; providing training to operators; 
+and assuring compliance with services related to warranties.</p><h5>5.13.4 Urban design</h5><p>Urban design includes site planning; analysis of massing and building character (colour, texture, layout); consideration 
+of height restrictions; preservation of views; traffic circulation patterns; access and exits; snow accumulation; and wind 
+forces. Feasibility studies are undertaken, and presentations are prepared for public and government reviews.</p><h5>5.13.5 Landscape design and site development</h5><p>The landscape design and site development service helps clients select sites; undertakes visual analysis; reviews climatic, 
+geological and hydrographic conditions, utilities and services; designs outdoor space to harmonize built works with nature 
+and the neighbourhood, taking into account pedestrian and vehicular circulation; prepares working drawings and specifications; 
+inspects and supervises work; and develops maintenance procedures.</p><h5>5.13.6 Interior design</h5><p>PWGSC provides interior design services for buildings, including lighting, space planning and circulation, wayfinding, 
+ergonomics, office plantings, acoustics, colour psychology, interior finishes, thermal conditions, ventilation, workstation 
+design, and security.</p><h5>5.13.7 Refit (repair and rehabilitation)</h5><p>PWGSC undertakes repair, rehabilitation, and modernization services, including assessing existing built works, building 
+components and systems; prepares feasibility studies and options analysis (to renovate or restore); studies the heritage 
+implications (buildings older than forty years need FHBRO analysis); harmonizes the old and new; develops preliminary and 
+final designs, cost estimates, and an implementation schedule; prepares detailed working drawings, specifications, and tender 
+documents; supervises and inspects work; and oversees commissioning activities.</p><h5>5.13.8 Contract dispute resolution</h5><p>PWGSC provides an independent dispute resolution service to departments and contractors through a Contract Disputes Advisory 
+Board.</p><h4>5.14 Real property — property management</h4><h5>5.14.1 Building performance reviews</h5><p>PWGSC provides real property custodians with an assessment of the performance of existing assets in terms of their physical 
+condition, financial performance, occupant satisfaction, and conformance to special government initiatives, such as accessibility 
+and federal identity.</p><h5>5.14.2 Asset management strategies</h5><p>PWGSC develops individual asset strategies that support program delivery priorities while maintaining the investment 
+value of the asset.</p><h5>5.14.3 Building management plans and budgets</h5><p>PWGSC prepares comprehensive plans and budgets for managing a building's operation and maintenance, including identifying 
+recommended repair and capital projects in order of priority and investment opportunities.</p><h5>5.14.4 Energy and utilities management</h5><p>PWGSC purchases utilities at the most economical cost and manages the use of energy in buildings to assure a productive 
+work environment. This includes bulk purchasing of some utilities through PWGSC; analyzing energy use and identifying opportunities 
+for savings; and implementing measures to achieve savings without jeopardizing comfort or air quality.</p><h5>5.14.5 Operation and maintenance of building systems</h5><p>PWGSC provides a safe, healthy, and comfortable working environment for clients and tenants by properly operating and 
+maintaining all building systems, e.g. heating, ventilation, air conditioning, electrical, elevator, domestic water supply, 
+including those involving safety, such as sprinklers, fire alarms, emergency generators, lighting, and fire pumps.</p><h5>5.14.6 Safety and security</h5><p>PWGSC assists custodians and tenants in developing and implementing building emergency plans and in effecting control-of-access 
+measures to secure areas of buildings.</p><h5>5.14.7 Preventive maintenance</h5><p>PWGSC inspects, tests, and maintains building and structural elements as well as mechanical, electrical, and plumbing 
+systems and equipment to prolong their useful lives at optimum cost. It detects deficiencies and performs preventive maintenance 
+routines to reduce equipment failure, disruption of tenant operations, and costly repairs.</p><h5>5.14.8 Tenant alterations</h5><p>PWGSC undertakes space alterations and improvements requested by tenants. These include, for example, changes to partitioning 
+screens, electrical outlets, and finishes; installation of special security, communication, or environmental systems; and 
+general redecorating.</p><h5>5.14.9 Cleaning</h5><p>PWGSC assures compliance with sanitation requirements of the Canada Labour Code and Occupational Safety and Health Regulations 
+by directing cleaning operations using proven specifications, close supervision, and regular inspection.</p><h5>5.14.10 Lease administration</h5><p>PWGSC ensures that the landlord's operation of the building is in accordance with the lease covenants and that tenants 
+are satisfied with the services being provided. It ensures that all landlord claims for payment conform with the terms and 
+conditions of the lease contract. It provides tenant liaison, project management, and other advisory services to the custodian 
+and tenants in leased buildings.</p><h4>5.15 Real property — disposal</h4><p>This aspect of the service includes negotiations related to disposal; public tender calls or engaging brokers or auctioneers; 
+canvassing all levels of government to ensure that any public requirement for the property is satisfied prior to making 
+a private sector offering; analyzing and evaluating offers; obtaining required approvals and authorizations; preparing all 
+documentation to effect property transfer; and co-ordinating related activities, such as property development, appraisal, 
+land survey, and legal services.</p><h4>5.16 Real property — special technical services</h4><h5>5.16.1 Specialized professional and technical studies</h5><p>PWGSC provides special studies of building performance, air quality, energy conservation, access for persons with disabilities, 
+acoustics, lighting, thermal comfort, materials and systems selection, hydraulic modelling, computer applications and modelling, 
+three-dimensional computer visualization, research and development, technology assessment and transfer, computer-aided design 
+training, and claims management.</p><h5>5.16.2 Specialized services related to real property</h5><p>Included under this heading are services related to parking; moving; setting up conferences; training; food services; 
+arranging ceremonial events; organizing national and international events; managing conferences; and operating and managing 
+dredge plants, boats, and equipment.</p><h5>5.16.3 Signage</h5><p>This service includes activities related to designing signage to comply with the <em>Federal Identity Program (FIP)</em>, 
+as well as co-ordinating the fabrication and installation of all types of signage, from simple nameplates to complex custom 
+illuminated work.</p><p>The Government of Canada signage system is an important element of the government's corporate identity. Institutions 
+subject to the Treasury Board <em>FIP Policy</em> are required to comply with the policy as it relates to signage. When 
+procuring signs and signage services, institutions must ensure that these signs and signage services meet the design standards 
+and material specifications set out in the <em>Federal Identity Program Manual</em>, no matter where they were procured.</p><h4>5.17 Telecommunications (within Canada and the US)</h4><p>The Government Telecommunications and Informatics Service of PWGSC provides telecommunications services and infrastructure 
+for government, as well as internal and external information management and technology services to assist in the automation 
+of government administrative systems.</p><p>The department provides two broad groups of services to departments: common services, which are shared and used by client 
+departments and agencies; and customized services, which are unique to a specific organization.</p><p>The department provides telecommunications services on request to the federal government on a cost-recovery basis. In 
+providing services, PWGSC's responsibilities include the following:</p><ul><li>developing the government-wide telecommunications architecture and identifying requirements for interfaces with departmental 
+  architectures;</li><li>planning and managing the common government telecommunications infrastructure and co-ordinating the use of shared 
+  telecommunications facilities and services; and</li><li>identifying opportunities for strategic, operational, and economic benefits for the federal government.</li></ul><h4>5.18 Transportation advisory and freight audit</h4><p>This service audits and pays freight accounts of its clients to ensure that the lowest costs are paid for the services 
+requested. It also advises, guides, assists, and provides direction needed by client departments to make informed transportation 
+decisions.</p><h4>5.19 Transportation contracting and analysis</h4><p>This service analyzes the transportation costs of government purchases and contracts for transportation and related services 
+on behalf of client departments; and advises, guides, and assists client departments in all transportation matters.</p><h4>5.20 Electronic Media Monitoring</h4><p>The <em>Communications Policy of the Government of Canada</em> requires departments to identify and track current and 
+emerging public issues and trends reported by the media as an element of effective environment analysis pertaining to their 
+policies, programs, services and initiatives.</p><p>Public Works and Government Services Canada offers departments a centrally appropriated electronic media monitoring service. 
+Departments wishing to use this service must register with PWGSC for right to access.</p><p>The <em>Communications Policy of the Government of Canada: Procedures</em> elaborates on the specific requirements with 
+which departments must comply when wishing to access PWGSC's electronic media monitoring service. </p></section><section anchor="F.6" title="6. Canadian General Standards Board"><p>The Canadian General Standards Board (CGSB) offers services to the government and private sector. The 
+CGSB has been accredited by the Standards Council of Canada as a standards-writing organization with the 
+National Standards System. It also provides other services as determined by the Standards Council of Canada 
+or as requested by government departments.</p><p>Services include developing standards; operating Qualification and Certification Listing programs; identifying manufacturers 
+whose products or services meet the approved standards; as well as certifying to the internationally recognized ISO 9000 
+series of quality assurance standards (CGSB will recognize the Canadian Standards Association's certification of suppliers 
+for quality assurance). The CGSB provides both government and private sector users with the quality management mechanisms 
+they will need to assure quality.</p></section><section anchor="F.7" title="7. Consulting and Audit Canada"><p>Consulting and Audit Canada (CAC) became a special operating agency under PWGSC in 1991. It offers a 
+full range of services in the management consulting and audit fields focussed solely on meeting the needs 
+of public sector management and programs in Canada and abroad. Specific services are as follows.</p><h4>7.1 Management consulting and audit services</h4><h5>7.1.1 Human resource management</h5><p>CAC offers services in developing and reviewing human resources policies, strategies, and programs; designing and developing 
+systems; diagnosing and designing organizations; developing skills; and assisting in strategic and culture change endeavours.</p><h5>7.1.2 Information management</h5><p>Information management includes planning, designing, developing, implementing, and evaluating strategies, plans, policies, 
+programs, activities, and practices involved with information management systems, technology, artificial intelligence, automation, 
+and related issues. It also provides full spectrum audits of the information management function and information technology 
+planning, development, implementation, and use.</p><h5>7.1.3 Environmental management</h5><p>CAC designs, develops, implements, and evaluates policies and programs; carries out environmental assessments and reviews; 
+prepares environmental policy, legislation, and regulations; assesses environmental economics; and plans emergency responses. 
+In addition, CAC is involved in enforcement of environmental measures; energy conservation; sustainable development; environmental 
+science and technology; industry studies; environmental stewardship; as well as waste management, environmental management, 
+and other management evaluations.</p><h5>7.1.4 Business planning and operating agencies</h5><p>This aspect of the service focusses on strategic and business planning and establishing innovative organizational structures 
+and approaches, including accountability contracts; action plans; business plans; developing charters; working on authorities 
+and delegations; developing performance measures; planning negotiations and communications; and preparing formal submissions.</p><h5>7.1.5 Program management</h5><p>CAC provides incorporation policy and program planning, analysis, design, development, delivery, and review activities.</p><h5>7.1.6 Financial management</h5><p>CAC designs and develops financial and accounting systems; advises on comptrollership activities, including financial 
+policies, authorities, controls, delegations, and processes; develops financial management infrastructures (systems, technology, 
+and software); offers financial analysis, business evaluation, and commercialization work, including valuation, costing 
+and pricing, forecasting, make-or-buy analysis, modelling, and preparation of financial submissions and documents; and designs 
+and delivers professional development services in financial management areas.</p><h5>7.1.7 Project management</h5><p>CAC offers management of all types of projects — real property, construction, acquisition, equipment, and others — and 
+covers all phases of the project life cycle: planning; definition and design; organization; infrastructure development; 
+implementation; government approval; and evaluation.</p><h5>7.1.8 Quantitative analysis</h5><p>Quantitative analysis includes designing and analyzing surveys; forecasting; analyzing statistical inference; mathematical 
+modelling and simulation; analyzing risk, costs and benefits, as well as regulation versus deregulation; performing industry 
+studies; specifying and designing statistical systems; and carrying out general economic analyses.</p><h5>7.1.9 Innovative government management services</h5><p>CAC provides unique services related to major government initiatives, such as PS2000, and its components, including managing 
+service quality and delivering innovative organizational responses.</p><h5>7.1.10 Audit services</h5><p>This aspect of the service encompasses the range of comprehensive audit components (compliance, attest, and value-for-money 
+audits) tailored to the particular demands of each type of program — financial, contract, contribution, internal audit, 
+information management, human resources management, environmental management, and other management evaluations.</p><h5>7.1.11 Audit-related services</h5><p>CAC designs and develops public sector audit policies, programs, and methodologies; provides auditor development and 
+training programs and services; and offers special advisory services to management, such as investigations of suspected 
+fraud; audits management reviews; and develops audit infrastructure and service organization plans and proposals.</p></section><section anchor="F.8" title="8. Translation Bureau"><h4>8.1 Translation — official languages</h4><p>This service involves written transposition of a text from French to English and vice versa. The service is provided 
+to Parliament, including the Senate and its committees, the House of Commons and its parliamentary committees, the Parliamentary 
+Associations Secretariat, and the Parliamentary Exchanges and Protocol Directorate, and to the departments and agencies 
+subject to the Financial Administration Act. The service is also provided to all departments and agencies that receive an 
+appropriation from Treasury Board for translation.</p><h4>8.2 Translation — multilingual</h4><p>This service involves written transposition of a text from all languages other than English or French into English or 
+French. The service is provided to Parliament and to departments and agencies subject to the Financial Administration Act.</p><h4>8.3 Interpretation — official languages</h4><p>This service involves oral translation from French to English or vice versa. The service is provided to Parliament, departments 
+and other government agencies, the Supreme Court of Canada, the Federal Court of Canada, administrative commissions, commissions 
+of inquiry, and national conferences.</p><h4>8.4 Interpretation — multilingual</h4><p>This service involves oral translation from all languages other than English or French into English or French. The service 
+is provided to Parliament, government departments and agencies, all government commissions, Government of Canada ministers 
+travelling abroad, and foreign delegates on official visits to Canada.</p><h4>8.5 Sign language interpretation</h4><p>This service involves translation of spoken language into sign language and vice versa. The service is provided to Parliament 
+and to government departments and agencies.</p><h4>8.6 Terminology</h4><p>This service involves standardizing terminology used in the federal government. This terminology is made available to 
+clients through a linguistic data bank called TERMIUM, which is accessible on-line or by using optical disks.</p></section><section anchor="F.9" title="9. Statistics Canada"><h4>9.1 Statistical services to departments</h4><p>Statistical services to departments cover developing statistical information through surveys or the use of administrative 
+records, including design, organization, statistical evaluation, interpretation and analysis, and dissemination. Statistics 
+Canada will provide advice or assistance, or will undertake projects, as required. Services are provided on a contractual 
+cost-recovery basis.</p><p><strong>Note</strong>: Under the Treasury Board policy entitled <em>Management of Government Information</em>, departments and agencies are 
+required to describe and register all government information collection activities in the Federal Register of Collected 
+Information, whether or not they make use of common services supplied by Statistics Canada in designing or undertaking the 
+collection.</p></section></appendix></appendices></doc>
