@@ -11,3 +11,21 @@ Don't show up in the policy hierarchy:
 18309,"Directive on Privacy Practices"
 18308,"Directive on Privacy Impact Assessment"
 ```
+
+---
+
+Sometimes you make responsibility signals that are really just for one policy, like this:
+
+```
+"designated senior executive",8,singular,
+```
+
+Written for the IM Roles Directive, this could accidentally cast too wide a net elsewhere. Options:
+
+- Leave it as-is, looking to see the impact (does this IM actor show up where it shouldn't?)
+- Point it away from the “Departmental Information Management Senior Official” actor, instead at a more generic senior official actor
+- Refactor the responsibles code to account for policy-specific signals (cool, but more work!)
+
+---
+
+Check for hidden responsible actors, i.e., has “responsible” in `text` and `row` != `responsible_clause`
