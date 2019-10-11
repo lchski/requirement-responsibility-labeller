@@ -8,3 +8,8 @@ delivery_policy_reqs <- requirements_tagged_with_responsibles %>%
 ### Review for requirements without responsibles (some may remain, that's okay!)
 delivery_policy_reqs %>% filter(is.na(responsible_clause)) %>% View()
 delivery_policy_reqs %>% filter(is.na(responsible_clause)) %>% filter(str_detect(text, "responsible")) %>% View()
+
+### How many requirements involve plans?
+delivery_policy_reqs %>%
+  filter(str_detect(text, "\\bplan(ned|ning)?\\b")) %>%
+  View()
