@@ -6,6 +6,8 @@ library(tidytext)
 responsible_actors <- read_csv("data/responsible_actors.csv")
 
 policies_raw <- readtext("data/policies/*")
+policies_raw <- tibble(id = policies_raw$doc_id, text = policies_raw$text) %>%
+  mutate(id = as.integer(str_remove(id, ".xml.txt")))
 
 policy_titles <- read_csv("data/policies.csv")
 
@@ -14,7 +16,7 @@ requirements_chapter_titles <- tibble(
   ) %>%
   mutate(title = paste0("title=\"", title, "\""))
 
-requirements_with_tokens <- tibble(id = policies_raw$doc_id, text = policies_raw$text) %>%
+requirements_with_tokens <- policies_raw %>%
   mutate(text = str_split(text, "</chapter>")) %>%
   unnest() %>%
   filter(str_detect(text, regex(paste(collapse = "|", requirements_chapter_titles %>% pull(title)), ignore_case = TRUE))) %>%
@@ -33,7 +35,6 @@ requirements_with_tokens <- tibble(id = policies_raw$doc_id, text = policies_raw
   mutate(text = str_replace_all(text, "\n", " ")) %>%
   mutate(text = str_replace_all(text, "\r\n", " ")) %>%
   mutate(text = str_replace_all(text, "  ", " ")) %>%
-  mutate(id = as.integer(str_remove(id, ".xml.txt"))) %>%
   left_join(policy_titles) %>%
   group_by(id) %>%
   mutate(row = row_number()) %>%
