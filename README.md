@@ -1,3 +1,7 @@
+Needs R to run. `source("assign_responsibility.R")` will load the corpus and break it apart (`load.R`), then you can access the `requirements_tagged_with_responsibles` object to run analysis on the requirements.
+
+---
+
 Unhandled edge cases:
 
 - 23601 (Standard on Web Accessibility): Responsible description isn’t in its own clause, but in the `title` attribute of a `section`: `<section anchor="6.1" title="6.1 Managers, functional specialists, and equivalents responsible for Web content or Web pages &#xA;&#xA;are responsible for:">` (also a problem in 25875, Standard on Web Interoperability)
