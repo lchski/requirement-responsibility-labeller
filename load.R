@@ -24,6 +24,7 @@ requirements_with_tokens <- policies_raw %>%
   mutate(text = str_replace_all(text, pattern = "<li", "030SEP070<li")) %>%
   mutate(text = str_replace_all(text, pattern = "<clause", "030SEP070<clause")) %>%
   mutate(text = replace_html(text)) %>%
+  mutate(text = replace_white(text)) %>%
   mutate(text = str_split(text, "030SEP070")) %>%
   unnest(cols = c(text)) %>%
   unnest_tokens(sentence, text, token = "sentences", to_lower = FALSE) %>%
