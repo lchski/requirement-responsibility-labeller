@@ -41,3 +41,5 @@ requirements_with_tokens <- policies_raw %>%
   select(id, row, title, text)
 
 requirements_with_tokens %>% write_csv("data/out/requirements_with_tokens.csv")
+
+source("scripts/assign_responsibility.R")

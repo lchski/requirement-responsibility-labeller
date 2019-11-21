@@ -1,5 +1,3 @@
-source("load.R")
-
 ## Pull in `data/responsible_signals.csv`:
 ##   - actor: a form of an actor name
 ##   - actor_id: the ID of that actor's standardized name
