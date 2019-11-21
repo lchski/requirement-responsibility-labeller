@@ -1,5 +1,3 @@
-source("assign_responsibility.R")
-
 ## Just look at requirements from "delivery" policies
 delivery_policies <- read_csv("data/indices/delivery-policies.csv")
 delivery_policy_reqs <- requirements_tagged_with_responsibles %>%
