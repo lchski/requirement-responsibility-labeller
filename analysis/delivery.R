@@ -2,6 +2,7 @@
 delivery_policies <- read_csv("data/indices/delivery-policies.csv")
 delivery_policy_reqs <- requirements_tagged_with_responsibles %>%
   filter(id %in% delivery_policies$id)
+delivery_policy_reqs %>% write_csv("data/out/delivery.csv")
 
 ### How many requirements involve plans?
 delivery_policy_reqs %>%
