@@ -6,6 +6,8 @@ _Way cooler than it sounds._
 
 Needs R to run. `source("load.R")` will load the corpus and break it apart, then you can access the `requirements_tagged_with_responsibles` object to run analysis on the requirements.
 
+You can also [browse the output in a handy table visualization](https://tbs-policy-requirements.glitch.me).
+
 ## How it works
 
 1. Policies were downloaded from TBS’s site as XML. ([Inspired by @sleepycat’s work.](https://github.com/sleepycat/policy_graph)) [They’re now stored in this repo directly](https://github.com/lchski/requirement-responsibility-labeller/tree/master/data/policies), for easy reproducing. (Ignore the `.xml.txt`—that’s so my R script would cooperate.)
