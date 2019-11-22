@@ -8,3 +8,9 @@ requirements_tagged_with_responsibles %>%
   filter(str_detect(text, "responsible")) %>%
   filter(is.na(responsible_actor_standardized)) %>%
   write_csv("data/out/potential_responsible_clauses.csv")
+
+requirements_tagged_with_responsibles %>%
+  filter(str_detect(text, "responsible")) %>%
+  filter(! clause_assigns_responsiblity) %>%
+  filter(! is.na(responsible_actor_standardized)) %>%
+  View()

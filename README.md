@@ -17,7 +17,7 @@ You can also [browse the output in a handy table visualization](https://tbs-poli
     3. Checks for the name of each policy, and assigns each row a number.
     4. Manually adds in a few policy requirements/lines that exist only as attributes on `<section>` elements. (Weird stuff.)
     5. Runs `scripts/assign_responsibility.R`.
-3. `scripts/assign_responsibility.R`
+3. [`scripts/assign_responsibility.R`](https://github.com/lchski/requirement-responsibility-labeller/blob/master/scripts/assign_responsibility.R)
     1. Pulls together the list of ["responsible actors"](https://github.com/lchski/requirement-responsibility-labeller/blob/master/data/responsible_actors.csv) and ["responsible signals"](https://github.com/lchski/requirement-responsibility-labeller/blob/master/data/responsible_signals.csv). Does some pluralizing and concatenating to create our search strings.
     2. Working policy by policy, rolls through the requirements. If a requirement has a string that matches one of the "responsible signals", it marks that requirement as "describing responsibility" (`is_clause_describing_responsibility`). Then, it assigns a "responsible actor" based on the signal/actor combos (`responsible_actor_standardized`).
     3. Notes which clause was the source of the responsible actor for each clause. (Each time we assign responsibility, i.e. where `is_clause_describing_responsibility` is true, we set that clause’s row number as `responsible_clause`. Then we fill down the empty spaces.)
