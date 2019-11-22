@@ -1,19 +1,32 @@
-# Generating JSON:
-#
-# console.log(JSON.stringify(Array.from(document.querySelectorAll('.tv-in')).map(a => {
-# return {
-# 	id: new URL(a.href).search.split('=')[1],
-# 	title: a.innerHTML
-# };
-# })))
+## Find columns that are "empty" (only one unique variable)
+identify_empty_columns <- function(dataset) {
+  dataset %>%
+    gather() %>%
+    group_by(key) %>%
+    unique() %>%
+    summarize(count = n()) %>%
+    filter(count == 1) %>%
+    select(key) %>%
+    pull()
+}
 
-as_tibble(fromJSON("data/policies.json", flatten = TRUE)) %>%
-  write_csv("data/policies.csv")
+### Remove those columns!
+remove_extra_columns <- function(dataset) {
+  dataset %>%
+    select(-one_of(identify_empty_columns(.)))
+}
 
 
 
-# Find unassigned responsible clauses
-requirements_tagged_with_responsibles %>%
-  filter(str_detect(text, "responsible")) %>%
-  filter(is.na(responsible_actor_standardized)) %>%
-  write_csv("data/out/potential_responsible_clauses.csv")
+count_group <- function(dataset, ...) {
+  dataset %>%
+    group_by(...) %>%
+    summarize(count = n()) %>%
+    arrange(-count)
+}
+
+pull_count <- function(dataset) {
+  dataset %>%
+    summarize(count = n()) %>%
+    pull(count)
+}

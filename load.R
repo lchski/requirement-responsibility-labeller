@@ -3,6 +3,8 @@ library(readtext)
 library(textclean)
 library(tidytext)
 
+source("scripts/helpers.R")
+
 responsible_actors <- read_csv("data/responsible_actors.csv")
 
 policies_raw <- readtext("data/policies/*")
