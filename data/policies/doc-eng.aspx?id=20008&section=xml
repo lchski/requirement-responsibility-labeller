@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guideline on the Management of Public Key Infrastructure in the Government of Canada" documentID="20008" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1.&#xA;Context"><p>On July 1, 2009, the <a href="/pol/doc-eng.aspx?id=12616&amp;section=text">Policy
+for Public Key Infrastructure Management in the Government of Canada</a> (PKI
+Policy) was rescinded.   This guideline is intended to help
+departments and program managers understand how the responsibilities and
+practices which were established by the PKI Policy are governed under the
+requirements of the <a href="/pol/doc-eng.aspx?id=16578">Policy on
+Government Security</a> (PGS).  </p><p>The guideline describes recommended practices for the
+governance and management of Public Key Infrastructure (PKI) within the
+Government of Canada (GC) and provides operational guidance.  This
+guideline does not include technical advice, guidance or requirements on the
+implementation of public key technology by GC departments and agencies.</p><p>The PKI Policy was established to implement the position of
+the GC that public key technology would be the preferred means by which the GC
+would electronically authenticate the identity of entities or persons and
+enhance the integrity and confidentiality of documents.  </p><p>As part of the renewed policy suite initiative, the PKI
+Policy was rescinded to align responsibilities and accountabilities for secure
+electronic transactions under the PGS and its supporting instruments. 
+This will ensure a consistent approach to supporting the secure electronic
+business of government.  It enables options for electronic authentication,
+which should permit the GC to achieve security and identity outcomes while also
+providing the flexibility for departments and agencies to utilise technologies
+best suited to their specific business requirements.  </p></chapter><chapter anchor="2" title="2.&#xA;Governance of PKI in the Government of Canada"><p>Whereas the PKI Policy previously promoted the use of public
+key technology, the PGS and its supporting instruments are intended to be
+technology neutral.  In order to achieve the GC's desired security
+outcomes of assuring that information, assets, services and interactions are
+protected against compromise, the PGS, the <a href="/pol/doc-eng.aspx?id=16579">Directive on Departmental Security
+Management</a> (DDSM) and the <a href="/pol/doc-eng.aspx?id=16577&amp;section=text">Directive on Identity Management</a> (DIDM) outline the
+GC-wide requirements for establishing risk management-based processes by which
+departments and agencies can effectively address their security and identity
+risks. </p><p>Standards and guidelines that support the PGS and its
+directives serve to promote common and/or best practices across the GC, but do
+not seek to prescribe the specific method, solution, tool or technology that
+departments and agencies are required to employ in order to meet security
+control objectives.  As a result, <strong>departments now have greater
+discretion in selecting technologies that best meet their needs; PKI is one of
+the available options.</strong></p><section anchor="2.1" title="2.1 Applicable Legislation and Regulations"><p>This section identifies, at a high level, the federal
+electronic signature and electronic documents legislation.  This is a
+non-exhaustive list.  <strong><em>Departments should consult their departmental
+legal services unit to determine which, if any, legislation applies to their
+specific uses.</em></strong></p><p>Part 2 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/p-8.6/">Personal
+Information Protection and Electronic Documents Act</a> (PIPEDA) provides an
+opt-in framework that describes electronic alternatives to the use of paper to
+record or communicate information or transactions, where the use of paper is
+contemplated by statutes or regulations (e.g. when a federal law refers to
+"originals", "statements under oath", "solemn
+affirmation",  "declarations of truth, or accuracy or
+completeness", "documents under seal" and "witnessed
+documents").  </p><p>Section 31.4 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/C-5/20090818/en?page=1">Canada
+Evidence Act</a> (CEA) provides the Governor in Council with a power
+to make regulations establishing evidentiary presumptions in relation to
+electronic documents signed with secure electronic signatures.</p><p>The <a href="http://laws-lois.justice.gc.ca/en/showdoc/cr/SOR-2005-30/20090818/en?page=1">Secure
+Electronic Signature Regulations</a> (SES Regulations) adopted
+pursuant to PIPEDA and the CEA prescribe the technology and process required
+for the implementation of secure electronic signatures and establish the
+evidentiary presumptions applicable when the prescribed technology and process
+were used in respect of data contained in an electronic document.</p><p>Additional information on secure electronic signatures can
+be found under the "Recognition" section of these guidelines.</p></section><section anchor="2.2" title="2.2&#xA;Applicable Policies, Directives and Standards"><p>This section identifies and describes applicable policies,
+directives and standards that should be consulted by departments in deciding
+whether to implement a PKI to meet their needs.  Relevant sections of
+these documents have been quoted for ease of reference; however it is
+recommended that readers consult the original documents for full context.</p><p>The <a href="/pol/doc-eng.aspx?id=16578&amp;section=text">PGS</a>
+identifies, at a high level, the need for establishing trust in interactions
+for government services and programs without prescribing the mechanisms for
+doing so:</p><div class="indent1"><p><em>Security begins by establishing trust in
+interactions between government and Canadians and within government.</em><a href="#fn1" title="See Footnote 1" id="fnr1" name="fnr1"><strong><em>[1]</em></strong></a></p></div><p><a href="/pol/doc-eng.aspx?id=16579&amp;section=text#appC">Appendix
+C of the DDSM</a> provides the direction that departments have the
+responsibility for selecting appropriate security controls to meet their needs:</p><div class="indent1"><p><em>Departments are responsible for selecting,
+implementing, monitoring and maintaining sustainable security controls to
+achieve the security control objectives. Security controls may be
+administrative, managerial, operational, technical or procedural. Mandatory and
+recommended security controls are specified in standards and guidelines that
+support the Policy on Government Security. Additional security controls and
+control objectives are selected and implemented by departments based on the results
+of risk assessments.</em><a href="#fn2" title="See Footnote 2" id="fnr2" name="fnr2"><strong><em>[2]</em></strong></a></p></div><p>The DDSM goes into greater specificity on the
+responsibilities for selecting security controls and assessing and accepting
+residual risk levels for programs and services.  The DDSM states that
+departmental security practitioners are responsible for:</p><div class="indent1"><p><em>Selecting, implementing and maintaining security
+controls related to their area of responsibility to ensure that control
+objectives are achieved.</em><a href="#fn3" title="See Footnote 3" id="fnr3" name="fnr3"><strong><em>[3]</em></strong></a></p></div><p>Additionally, according to the DDSM, managers at all levels are responsible
+for: </p><div class="indent1"><p><em>Assessing security risks, formally accepting
+residual risks or recommending acceptance of residual risks as defined in the
+Departmental Security Plan and periodically reassessing and re-evaluating risks
+in light of changes to programs, activities or services and taking corrective
+action to address identified deficiencies;</em><a href="#fn4" title="See Footnote 4" id="fnr4" name="fnr4"><strong><em>[4]</em></strong></a></p></div><p>The <a href="/pol/doc-eng.aspx?id=12328">Operational Security
+Standard: Management of IT Security</a> (MITS) expands on this
+responsibility for program and service delivery managers within the realm of IT
+security: </p><div class="indent1"><p><em>In designing programs and services, managers will
+work with departmental security specialists to risk manage their programs or
+services.  Relying on the advice and support of the IT Security
+Coordinator, managers must determine the IT security requirements of their
+programs and services, have them accredited, and accept the associated residual
+risk.<a href="#fn5" title="See Footnote 5" id="fnr5" name="fnr5"><strong>[5]</strong></a></em></p></div><p>MITS further specifies responsibilities for certification
+and accreditation of IT systems in the GC:  </p><div class="indent1"><p><em>For common systems or services, the Government of
+Canada Chief Information Officer is the accreditation authority.  For
+systems or services that are specific to a department, the program or service
+delivery manager is responsible for accreditation.  For systems or
+services shared by two or more organizations, the manager of the program or service
+is the accreditation authority.</em><a href="#fn6" title="See Footnote 6" id="fnr6" name="fnr6"><strong><em>[6]</em></strong></a></p></div><p>These responsibilities are applicable to the certification
+and accreditation of PKI systems in the GC.  As a result, the responsible
+program or service delivery manager should ensure (with the assistance of the
+department's security practitioners) that any policies, processes, or
+technologies implemented to provide assurance in the PKI system are appropriate
+and sufficient when making their decision to accredit the system.</p><p>While previously the governance and management of PKI within
+the GC was specifically defined by the mechanisms prescribed within the PKI
+Policy, PKI is managed in accordance with the requirements of the PGS and
+supporting GC security directives and standards (particularly MITS).  As a
+result of rescinding the PKI Policy, departments who select PKI as an
+appropriate security control should find that they have more flexibility in how
+they manage their PKI.</p></section></chapter><chapter anchor="3" title="3.&#xA;Management of PKI in the Government of Canada"><section anchor="3.1" title="3.1&#xA;Classes of Certification Authority in the Government of Canada"><h4>3.1.1 Common CA</h4><p>Within the GC, a common CA issues public key certificates
+(PKC) on behalf of other departments or external users.  The <strong>Internal
+Credential Management (ICM) Common Services CA</strong>, operated by PWGSC on behalf
+of Treasury Board Secretariat (TBS), is the approved common CA for departments
+requiring PKI certificates for internal-to-government systems which contain
+information up to and including the "Protected B" level.  Departments
+should consult the <a href="/pol/doc-eng.aspx?id=12025">Common Services
+Policy</a> and the Departmental
+Guide to Adoption of Secure Channel Mandatory Services to identify
+mandatory uses of this service.  The ICM Common Services CA has been
+recognized by the President of the Treasury Board in accordance with the SES
+Regulations.</p><p>PWGSC also operates the <strong>Government On-Line (GOL) CA</strong>
+service on behalf of TBS, for the issuance of certificates to
+external-to-government users.  The GOL CA is approved for uses up to and
+including the "Protected B" level of information.</p><p>Departments should contact their PWGSC client-services
+representative to discuss their objectives and to identify whether these common
+CAs can help to address the department's needs.  Where a departmental
+requirement exists for a common CA that cannot be met by the ICM Common
+Services CA, TBS should be contacted at the earliest possible opportunity to
+identify the requirement and to specify why the ICM Common Services CA is not
+sufficient.  Based on this information, a way forward will be identified,
+as will roles and responsibilities for certification and accreditation of the
+system.  A common CA should cross-certify through the Canadian Federal PKI
+Bridge where practicable (see sections 3.1.3 and 3.2 below).</p><p>Departments or program managers wishing to establish a
+common CA should:</p><ul><li>
+    Contact the <a href="/pol/doc-eng.aspx?id=20008&amp;section=text#cha6">Security and Identity Management Division</a>(SIDM)
+    of the Chief Information Officer Branch (CIOB) at TBS to identify the
+    department's requirement.</li><li>
+    Ensure certification and accreditation plans are developed and forwarded
+    to TBS for review prior to final accreditation.</li></ul><h4>3.1.2 Departmental
+CA</h4><p>A <strong>Departmental CA</strong> is
+used by a department to meet an internal requirement for which the GC ICM Common
+Services CA is not mandatory (see the previous section on <strong>Common CA</strong>) and
+for which the ICM Common Services CA cannot adequately meet the department's
+needs. </p><p>For a Departmental CA, the department should ensure that
+proper risk management has been performed on the system.  As per MITS, the
+program or service delivery manager at that department is responsible for
+accrediting the system.  Departments have the flexibility to develop
+security requirements for Departmental CAs within their risk tolerances.
+ It is recommended that industry best practices be followed in the
+definition of security requirements.  It is also recommended that
+departments align their Certificate Policies (CP) and practices with those used
+by the Canadian Federal PKI Bridge where practicable and appropriate (see
+section 3.1.3 below).</p><p>Examples of a Departmental CA may include:</p><ul><li>
+    A CA intended for the issuance of Transport Layer Security (TLS)
+    certificates solely for internal departmental use (i.e. not for issuance to
+    other departments or for public consumption);</li><li>A CA with specific trust requirements that precludes the use of a common
+    CA; and,</li><li>A CA intended for the issuance of internal high-assurance certificates
+    or for use within a closed (e.g. classified) system.</li></ul><p>It is recommended that departments or program managers
+establishing a Departmental CA:</p><ul><li>
+    Ensure that their requirements cannot be met by the GC Common CA by
+    discussing with the department's PWGSC IT-SSO Client Relationship Manager;</li><li>
+    Request an exemption for the CA from the Common Services Policy;</li><li>
+    Contact Communications Security Establishment Canada (CSEC) for guidance
+    on cryptographic measures and key management, if needed;</li><li>
+    Ensure that system certification and accreditation plans are developed
+    and followed; and</li><li>
+    Ensure that the CA is accredited in accordance with their departmental
+    standard prior to being put into operation.</li></ul><h4>3.1.3 Bridge CA</h4><p>A Bridge CA (or PKI Bridge) is a CA which is used to
+establish a relationship of trust between separate and distinct PKI
+systems.  The trust relationship is created through a process of
+cross-certification between different CAs.</p><p>Within the GC, the <strong>Canadian Federal PKI Bridge</strong> (CFPB)
+is the approved Bridge CA.  It is operated by CSEC on behalf of TBS. </p></section><section anchor="3.2" title="3.2 Cross-Certification"><p>Cross-certification is a process undertaken by CAs to
+establish a trust relationship. It involves one CA issuing a certificate to
+another CA. Cross-certifications can also be combined, with the issuer and
+subject or user roles of CAs being reversed (i.e. mutual
+cross-certification).  When two CAs are mutually cross-certified, they agree
+to trust and rely upon each other's PKC and keys as if they had issued the
+certificates themselves.  GC departments with a requirement to
+cross-certify their CA with another CA outside of their organization should do
+so through the Canadian Federal PKI Bridge; this includes cross-certifications
+between GC CAs and external to GC CAs.</p><p>The President of the Treasury Board, pursuant to authority
+provided by Order in Council, may enter into or terminate an agreement for cross-certification
+or recognition of a CA including those outside of the GC. The President of the
+Treasury Board has delegated this authority to the Government of Canada Chief
+Information Officer. </p><p>Overview of the Cross-Certification Process:</p><ul><li>
+    The requestor should determine the business requirement for
+    cross-certifying with the CFPB.</li><li>
+    The requestor submits a request to CIOB.</li><li>
+    If the organization is external to the GC, a GC department will be required
+    as a sponsor.</li><li>
+    Certificate Policies of the requesting CA will be examined to ensure
+    alignment with those of the CFPB.</li><li>
+    Test-bed trials will be performed.</li><li>
+    A formal arrangement will be negotiated and signed.</li><li>
+    Cross-certificates will be exchanged between the requesting CA and the
+    CFPB.</li></ul><p>Please contact
+  the <a href="/pol/doc-eng.aspx?id=20008&amp;section=text#cha6">Security and Identity Management Division</a> of CIOB
+  at the coordinates indicated in the "Enquiries" section of this Guideline for
+  more detailed information on the cross-certification process or to identify a
+requirement for cross-certification.</p></section><section anchor="3.3" title="3.3&#xA;Recognition of a CA"><h4>3.3.1 Applicability</h4><p>Recognition of a CA relates to the formal requirements to
+satisfy the need for a secure electronic signature as identified within Part 2
+of PIPEDA.  Pursuant to the SES Regulations, the President of the Treasury
+Board has the authority to recognize an entity or person as a CA.  In
+accordance with the SES Regulations, prior to recognizing a CA, the President
+of the Treasury Board must be satisfied that the person or entity has the
+capacity to issue digital signature certificates in a secure and reliable
+manner, as set out by paragraphs 48(2)(a) to (d) of PIPEDA.  Specifically,
+these provisions require that: </p><ul><li>
+    the electronic signature resulting from the use by a person of the
+    technology or process is unique to the person;</li><li>
+    the use of the technology or process by a person to incorporate, attach
+    or associate the person's electronic signature to an electronic document is
+    under the sole control of the person;</li><li>
+    the technology or process can be used to identify the person using the
+    technology or process; and</li><li>
+    the electronic signature can be linked with an electronic document in
+    such a way that it can be used to determine whether the electronic document has
+    been changed since the electronic signature was incorporated in, attached to or
+    associated with the electronic document. </li></ul><p>The circumstances in which departments will require
+  recognition of their CA by the President of the Treasury Board are very
+  limited. <strong><em> </em></strong>Prior to initiating a request with TBS for
+  recognition of their CA, departments should ascertain their needs with regard
+  to a program or transaction. <strong><em>Departments should also consult with their
+    departmental legal services unit to determine whether there are impediments to
+    proceeding electronically and, if there are not, whether a secure electronic
+    signature under PIPEDA and the SES Regulations is required or whether another
+form of electronic signature may suffice</em></strong>.</p><p>In general, PIPEDA allows a department that is bound under
+its legislation to process signed paper documents, but that wishes to implement
+electronic documents in their place, to use secure electronic signatures. 
+A secure electronic signature also allows certain evidentiary presumptions
+established by the SES Regulations under the CEA.  In order to use secure
+electronic signatures and benefit from the associated presumptions, the
+department must first have its legislation added to the list in Schedule 2 or 3
+of PIPEDAand must then comply with the SES Regulations which includes having
+the President of the Treasury Board recognize the CA issuing the signing keys<strong>.</strong>  The
+regulations specify that CAs recognized as being capable of creating secure
+electronic signatures are to be listed on the TBS website.  At this time,
+only federal government CAs that have cross-certified with the Canadian Federal
+PKI Bridge are eligible to be recognized.</p><p>Where a department has opted into the PIPEDA scheme
+described above, secure electronic signatures will have to be used for
+electronic documents where:</p><ul><li>
+    A certificate or other document signed by a minister or public officer
+    serves as proof or evidence – PIPEDA, sect. 36; </li><li>
+    A person's seal is required – PIPEDA, sect. 39;</li><li>
+    An original document is required – PIPEDA, sect. 42;</li><li>
+    A statement under oath is required – PIPEDA, sect. 44;</li><li>
+    A statement declaring or certifying that any information given by a
+    person making the statement is true, accurate or complete is required  –
+    PIPEDA, sect. 45;</li><li>
+    A witnessed signature is required – PIPEDA sect. 46.</li></ul><h4>3.3.2 Overview of the Recognition Process</h4><p>The following
+high-level steps are performed in order to recognize a CA in the context of the
+SES Regulations:</p><ul><li>    Identify the business requirement for recognition;</li><li>    If not already done, the requesting CA will need to cross-certify with
+    the CFPB (see section 3.2);</li><li>    The GC CIO will approve the recognition request of the CA once satisfied
+    that the CA has the capacity to issue digital signature certificates in a
+    secure and reliable manner (within the context of the SES Regulations &amp;
+    PIPEDA);</li><li>
+    Once approved, the CA's details will be listed on the TBS <a href="http://www.tbs-sct.gc.ca/sim-gsi/sesrca-sesac/sesr-sesa-eng.asp">website</a>.</li><li>
+    On an annual basis the recognition status will be reviewed. In order for
+    renewal of the CA's recognition status to occur, the CA will need to remain in
+    good standing with the CFPB (with regard to cross-certification) and the
+    operational authority for the CA will need  to send a letter to CIOB
+    indicating that the CA remains in compliance with its certificate policies. </li></ul><p>Please contact the <a href="/pol/doc-eng.aspx?id=20008&amp;section=text#cha6">Security and Identity Management Division</a> of CIOB at the coordinates indicated in the "Enquiries" section of this Guideline for details on having a CA recognized.</p></section></chapter><chapter anchor="4" title="4. Operational Guidance"><p>Departments or program managers choosing to use public key
+technology as a means of protecting the confidentiality of information or
+electronically authenticating the identity of individuals and/or documents should:</p><section anchor="4.1" title="4.1 Align with applicable GC policies, legislation and Orders in Council, by:"><ul><li>
+    Using the ICM Common Services CA provided by PWGSC for the purpose of
+    issuing medium assurance  digital certificates to users or obtaining the
+    appropriate exemptions in order to establish their own departmental certificate
+    authority;  </li><li>
+    Using the CFPB operated by CSEC when cross-certification is required
+    between common and Departmental CAs, or for cross-certification with CAs
+    outside the GC; and</li><li>
+    Ensuring the use and management of PKI is aligned with GC goals for
+    security and identity management as established by the Treasury Board through
+    the PGS and its supporting instruments. </li></ul></section><section anchor="4.2" title="4.2 Develop and Maintain Certificate Policies and Certification Practice&#xA;Statements by:"><ul><li>
+    Ensuring the CA manages the PKC and certificate revocation lists (CRLs)
+    it issues by implementing one or more certificate policies and a certification practice
+    statement with respect to the operation of that Certification Authority;</li><li>
+    Ensuring compliance with certificate policies and certification practice
+    statements by any individual or entity acting on its behalf; and</li><li>
+    Where practicable and appropriate, aligning certificate policies and
+    certification practice statements with those in use by the CFPB.</li></ul></section><section anchor="4.3" title="4.3 Document and Communicate to Users and relying parties any Rights,&#xA;Requirements, Conditions and Limitations, by:"><ul><li>
+    Ensuring users are advised of their respective rights and obligations as
+    well as those of the CA;</li><li>
+    Developing, implementing, and communicating to users the terms and
+    conditions for the appropriate use of and reliance on their PKC and obtaining
+    their signed agreement to these terms and conditions;</li><li>
+    Developing, implementing, and communicating to users, the policies and
+    procedures concerning the use of their PKC; and </li><li>
+    Establishing and communicating, or causing to be communicated, to
+    relevant parties, including users and relying parties, any limits for any
+    judgement, award or settlement made against it by reason of the use of such
+    PKC.</li></ul></section><section anchor="4.4" title="4.4&#xA;Ensure Repositories are Up-to-Date and Interoperable, by: "><ul><li>
+    Ensuring that PKC and CRLs are published in a repository that is
+    appropriately accessible for the purposes of verifying the validity of the
+    lists;</li><li>
+    Ensuring that any information concerning the CAs PKC and CRLs in the
+    repository is current and accurate; and</li><li>
+    For a common CA, ensuring that their repository is interoperable with
+    other departmental and common CA repositories and that it is registered with
+    the Registrar of Repositories.</li></ul></section><section anchor="4.5" title="4.5 Implement Appropriate Information and Key Management Practices, by:"><ul><li>
+    Developing policies and procedures to manage information appropriately
+    where encryption is in use.  This information should be managed in
+    accordance with the Privacy Act, the Access to Information Act, the Library and
+    Archives of Canada Act and other relevant government legislation and
+    policies.  In particular, consideration should be given to how the
+    department will ensure access to encrypted information in the event of Access
+    to Information or eDiscovery requests;</li><li>
+    Where applicable, retaining a copy of users' private confidentiality
+    keys for data recovery purposes; notifying users that their private
+    confidentiality keys are backed up; and, notifying users when the department
+    accesses their private confidentiality keys;</li><li>
+    Ensuring that they obtain the consent of users before the backup of
+    their private confidentiality keys;</li><li>
+    Ensuring that the private confidentiality keys of users are not accessed
+    or disclosed except with the prior consent of users, or where required or
+    authorized by law or with judicial authorization;</li><li>
+    Ensuring that they do not retain or have retained, under any
+    circumstances, a copy of private digital signature keys. (Note: storage of
+    private digital signature keys on departmental servers but under the control of
+    the user is not retention by a department.)</li></ul></section></chapter><chapter anchor="5" title="5. Responsibilities and Services of Lead Agencies for PKI"><p>This section discusses the roles, responsibilities and
+services of lead agencies in support PKI management.</p><section anchor="5.1" title="5.1 Treasury Board Secretariat"><p>TBS sets government-wide direction, prioritizing and
+formalizing security and identity management requirements.  This includes:</p><ul><li>
+    Establishing and maintaining interdepartmental security governance to
+    exercise strategic oversight, provide leadership and recommend priorities
+    related to the establishment of standards and the designation of the necessary
+    authorities for identifying and authenticating individuals internal and
+    external to the GC;</li><li>
+    Accreditation of GC common services;</li><li>
+    Recognition of CAs for the purposes described within SES 
+    Regulations; and</li><li>
+    Issuing guidelines supporting the PGS and its directives.</li></ul></section><section anchor="5.2" title="5.2 Communications Security Establishment Canada"><p>CSEC provides leadership and coordination for departmental
+activities that help ensure the protection of electronic information. 
+This includes:</p><ul><li>
+    Operating and maintaining the CFPB for the purposes of
+    cross-certification of GC CAs with other GC CAs and with CAs external to the
+    GC;</li><li>
+    Providing advice and guidance on the certification of shared and common
+    IT services, emerging IT security technologies, ITS architecture design, common
+    ITS solutions, including secure use of commercial-off-the-shelf products,
+    system and network security design, and security posture and vulnerability
+    assessments;</li><li>
+    Providing advice and guidance on certification of GC shared, common, or
+    federated services;</li><li>
+    Providing advice and guidance to departments on the use and application
+    of IT security products, COMSEC devices, cryptographic measures and key
+    management. </li></ul></section><section anchor="5.3" title="5.3&#xA;Public Works and Government Services Canada"><p>PWGSC delivers common IT services and other solutions that
+enable departments to exchange information with citizens, businesses and
+employees.  This includes:</p><ul><li>
+    Operating and maintaining the ICM Common Services CA for the purposes of
+    issuing digital certificates to users; and</li><li>
+    Operating and maintaining the GOL CA for the purposes of issuing digital
+    certificates for external-to-government users.</li><li>
+    Operating and maintaining the ICM Public Border Directory Service that
+    acts as a hub to facilitate access to certificates and revocation lists of GC
+    cross-certified CAs.</li></ul></section></chapter><chapter anchor="6" title="6. Enquiries"><p>For enquiries regarding this policy instrument, please contact the <a href="/cioscripts/cu-cn/contact-eng.asp?who=/sim-gsi/">Security and Identity Management Division</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A – Definitions"><dl><dt><strong>Certification Authority</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Autorité de certification</em></span>)</dt><dd>means an entity that is responsible for the operation of one or more servers used for the issuance and management of Public Key Certificates and Certificate Revocation Lists.</dd><dt><strong>Certificate Policy</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Politique de certification</em></span>)</dt><dd>is a named set of rules that indicates the applicability of a public key certificate to a particular community and/or class of application with common security requirements.  It indicates whether or not the public key certificate is suitable for a particular application or purpose.  A Certification Authority may adopt more than one Certificate Policy.</dd><dt><strong>Certification Practice Statement</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Énoncé de pratiques de certification</em></span>)</dt><dd>means a comprehensive statement of the mechanisms and procedures that a Certification Authority employs in issuing and managing Public Key Certificates in compliance with one or more Certificate Policies.  If a Certification Authority adopts more than one Certificate Policy, the Certification Practice Statement must either contain, or point to other sources that contain, sufficient information to demonstrate how the requirements contained within the Certificate Policies are being met.</dd><dt><strong>Certificate Revocation List</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Liste de certificats révoqués</em></span>)</dt><dd>means a list of Public Key Certificates issued but revoked by a Certification Authority before their natural expiration time.</dd><dt><strong>Digital Signature</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Signature numérique</em></span>)</dt><dd>means a result of a transformation of data by means of a cryptographic key system such that an individual or entity who receives the initial data can determine whether the transformation was created using the key that corresponds to the key of the individual or entity that performed the transformation; and whether the data has been altered since the transformation was made.</dd><dt><strong>Entity</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Entité</em></span>)</dt><dd>means an association of two or more individuals, a corporation, partnership, trust, joint venture or other form of organization.</dd><dt><strong>Individual</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Individu</em></span>)</dt><dd>means a single, natural person as distinguished from a group or class of individuals or entity.</dd><dt><strong>Key</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Clé</em></span>)</dt><dd>means a sequence of symbols that control digital signature and encryption processes.</dd><dt><strong>Public Key Certificate</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Certificat de clé publique</em></span>)</dt><dd>means the public key of a user, together with other information, digitally signed with the private key of the Certification Authority that issued it. The certificate format is in accordance with the <a href="http://www.itu.int/net/home/index.aspx">International Telecommunications Union</a> - <a href="http://www.itu.int/ITU-T/">Telecommunications Standard Sector</a> (ITU-T) Recommendation X.509.</dd><dt><strong>Public Key Infrastructure</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Infrastructure à clé publique</em></span>)</dt><dd>means a set of policies, processes, server platforms, software and workstations used for the purpose of issuing and managing certificates and keys.</dd><dt><strong>Registrar of Repositories</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Registraire des dépôts</em></span>)</dt><dd>means, for federal government repositories, Public Works and Government Services Canada or any other entity appointed by the Standards Council of Canada for the performance of the functions of <a href="http://www.pwgsc.gc.ca/cosira/text/index-e.html">Canadian Open Systems Interconnection Registration Authority</a>.</dd><dt><strong>Repository</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Dépôt</em></span>)</dt><dd>means a system for storing and accessing certificates or other information relevant to certificates. An X.500 directory is an example of a repository.</dd><dt><strong>Secure Electronic Signature</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Signature électronique sécurisée</em></span>)</dt><dd>means a signature resulting from the application of the process prescribed by the SES Regulations.</dd><dt><strong>Service Provider</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Fournisseur de services</em></span>)</dt><dd>means an individual or entity that offers services in connection with one or more aspects of the operation of a Certification Authority.  A Service Provider may be a department or a private sector entity.</dd><dt><strong>User</strong> (<span xml:lang="fr-CA" lang="fr-CA"><em>Utilisateur</em></span>)</dt><dd>means an authorized individual or entity to whom a certificate is issued.</dd></dl></appendix><appendix anchor="B" title="Appendix B - References"><ul><li><a href="http://laws-lois.justice.gc.ca/eng/acts/C-5/20090818/en?page=1">Canada
+Evidence Act</a> (CEA)</li><li><a href="/pol/doc-eng.aspx?id=12025">GC
+Common Services Policy</a>. Treasury Board of Canada, Secretariat. Oct 2006.</li><li>Departmental
+Guide to Adoption of Secure Channel Mandatory Services. Chief Information Officer Branch, Treasury
+Board of Canada, Secretariat. Oct 2007.</li><li><a href="/pol/doc-eng.aspx?id=16579">Directive on
+Departmental Security Management (DDSM)</a>, Treasury Board of Canada, Secretariat, July
+2009,</li><li><a href="/pol/doc-eng.aspx?id=16577&amp;section=text">Directive
+on Identity Management (DIDM)</a>, Treasury Board of Canada, Secretariat, July 2009,</li><li><a href="http://www.tpsgc-pwgsc.gc.ca/gji-icm/documents/politiques-policies/13850-eng.pdf">GoC
+Digital signature and Confidentiality Certificate Policies (PDF 535 KB)</a>, version
+4.0, April 2006.</li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/L-7.7/">Library and Archives of
+Canada Act</a></li><li><a href="/pol/doc-eng.aspx?id=12328">Operational Security
+Standard: Management of IT Security</a> (MITS), Treasury Board of Canada, Secretariat, May
+2004. </li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/p-8.6/">Personal
+Information Protection and Electronic Documents Act</a> (PIPEDA)</li><li><a href="/pol/doc-eng.aspx?id=16578">Policy on Government
+Security</a> (PGS), Treasury Board of Canada, Secretariat, July 2009, </li><li><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/">Privacy Act</a></li><li><a href="http://laws-lois.justice.gc.ca/en/showdoc/cr/SOR-2005-30/20090818/en?page=1">Secure
+Electronic Signature Regulations</a> (SES Regulations)</li></ul></appendix><appendix anchor="C" title="Appendix C – Acronyms"><dl><dt><strong><abbr title="Certification Authority">CA</abbr></strong></dt><dd>Certification Authority</dd><dt><strong><abbr title="Canada Evidence Act">CEA</abbr></strong></dt><dd>Canada Evidence Act</dd><dt><strong><abbr title="Canadian Federal PKI Bridge">CFPB</abbr></strong></dt><dd>Canadian Federal PKI Bridge</dd><dt><strong><abbr title="Certificate Revocation List">CRL</abbr></strong></dt><dd>Certificate Revocation List</dd><dt><strong><abbr title="Directive on Departmental Security Management">DDSM</abbr></strong></dt><dd>Directive on Departmental Security Management</dd><dt><strong><abbr title="Directive on Identity Management">DIDM</abbr></strong></dt><dd>Directive on Identity Management</dd><dt><strong><abbr title="Entrust Enterprise License Management (Shared infrastructure components)">EELM</abbr></strong></dt><dd>Entrust Enterprise License Management (Shared infrastructure components)</dd><dt><strong><abbr title="Federated Infrastructure National Directory Service">FINDS</abbr></strong></dt><dd>Federated Infrastructure National Directory Service</dd><dt><strong><abbr title="Government of Canada">GC</abbr></strong></dt><dd>Government of Canada</dd><dt><strong><abbr title="Government On-Line">GOL</abbr></strong></dt><dd>Government On-Line</dd><dt><strong><abbr title="Internal Credential Management">ICM</abbr></strong></dt><dd>Internal Credential Management</dd><dt><strong><abbr title="Management of IT Security">MITS</abbr></strong></dt><dd>Management of IT Security</dd><dt><strong><abbr title="Personal Information Protection and Electronic Documents Act">PIPEDA</abbr></strong></dt><dd>Personal Information Protection and Electronic Documents Act</dd><dt><strong><abbr title="Policy on Government Security">PGS</abbr></strong></dt><dd>Policy on Government Security</dd><dt><strong><abbr title="Public Key Certificate">PKC</abbr></strong></dt><dd>Public Key Certificate</dd><dt><strong><abbr title="Public Key Infrastructure">PKI</abbr></strong></dt><dd>Public Key Infrastructure</dd><dt><strong><abbr title="Secure Electronic Signature">SES</abbr></strong></dt><dd>Secure Electronic Signature</dd><dt><strong><abbr title="Transport Layer Security">TLS</abbr></strong></dt><dd>Transport Layer Security</dd></dl></appendix></appendices><footnotes><footnote anchor="fn1" reference="fnr1" title="[1]" tooltip="Back to Footnote Reference 1">PGS, section 3.2.</footnote><footnote anchor="fn2" reference="fnr2" title="[2]" tooltip="Back to Footnote Reference 2">DDSM, Appendix C.</footnote><footnote anchor="fn3" reference="fnr3" title="[3]" tooltip="Back to Footnote Reference 3">DDSM, section 6.1.7</footnote><footnote anchor="fn4" reference="fnr4" title="[4]" tooltip="Back to Footnote Reference 4">DDSM, section 6.1.23.</footnote><footnote anchor="fn5" reference="fnr5" title="[5]" tooltip="Back to Footnote Reference 5">MITS, section 9.6</footnote><footnote anchor="fn6" reference="fnr6" title="[6]" tooltip="Back to Footnote Reference 6">MITS, section 12.3.3.</footnote></footnotes></doc>

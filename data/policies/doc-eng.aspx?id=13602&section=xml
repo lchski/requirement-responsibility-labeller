@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Guide to the Review of Management of Government Information Holdings" documentID="13602" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicySchema.xsd"><chapters><chapter anchor="1" title="Executive Summary"><p>This Guide was prepared in 1992-1993 and first released as an exposure draft 
+			in January 1994. It was written to help managers and staff assess the management 
+			of government information holdings (MGIH) in their own institutions. The Guide 
+			will also help auditors and evaluators conduct formal reviews of the management 
+			of government information. Throughout the Review Guide, the emphasis is on good 
+			practices for managing information. Although the Guide excludes the main part 
+			of the Management of Information Technology policy, it promotes the need to 
+			establish linkages between information technology and information holdings.</p><p>The Review Guide was developed by the National Archives under the guidance of 
+		an interdepartmental work group. Nearly forty officials in central agencies, lead 
+		agencies and line departments commented on earlier drafts of the Review Guide. These 
+		officials represented corporate policy planning, information collection, records 
+		management, data management and library services functions, as well as audit and 
+		evaluation and information management programs.</p><p>The management of information involves many information-based functions, including 
+		corporate policy and planning, data management, telecommunications, office systems 
+		and computer support, records management, library services, information collection, 
+		forms management, access to information, and privacy. The management of information 
+		also involves such media as paper, maps, photos, films, plans, videos, microfilms, 
+		and tapes. Within an institution, therefore, a review could potentially cover a 
+		broad range of functions and media.</p><p>Chapters four through eight of the Review Guide are based on the information 
+		life cycle model: planning; collection, creation, and receipt; organization, transmission, 
+		use and retrieval; storage, protection and retention; and disposition through transfer 
+		or destruction. A review can cover any or all aspects of the information life cycle.</p><p>The Guide presents useful information to help institutions assess the effectiveness 
+		of their implementation of the MGIH policy.</p></chapter><chapter anchor="2" title="Acknowledgments"><p>The Guide was prepared by the National Archives of Canada under the direction 
+		of the Interdepartmental Work Group on the Evaluation of Information Management 
+		Policies. Work group participants were from Finance, Industry Science and Technology, 
+		National Archives, National Defence, National Library, Office of the Comptroller 
+		General, Revenue Canada, Taxation, Government Services Canada (formerly Supply 
+		and Services) and Treasury Board. The Treasury Board Secretariat has an overall 
+		interest in policy implementation and audit and evaluation. The National Library 
+		of Canada has an interest in published material, and the Public Opinion Research 
+		Group of Government Services Canada is concerned about information collection. 
+		Groups from line departments contributed to a number of areas, including corporate 
+		policy planning, information collection, records management, data administration, 
+		library services, and audit and program evaluation.</p><p>The Guide also draws on the experience and ideas of individuals in the following 
+		organizations:</p><ul><li>Communications Canada</li><li>Energy, Mines and Resources Canada</li><li>Environment Canada</li><li>Finance Canada</li><li>Health and Welfare Canada</li><li>Industry, Science and Technology Canada</li><li>National Archives of Canada</li><li>National Defence</li><li>National Library of Canada</li><li>National Research Council Canada</li><li>Office of the Comptroller General</li><li>Public Service Commission of Canada</li><li>Public Works Canada</li><li>Revenue Canada, Taxation</li><li>Secretary of State of Canada</li><li>Statistics Canada</li><li>Government Services Canada</li><li>Transport Canada</li><li>Treasury Board Secretariat</li><li>Veterans Affairs Canada</li></ul></chapter><chapter anchor="3" title="Introduction"><section anchor="3.1" title="Background"><p>Treasury Board Secretariat has consolidated the following policies under 
+			the concept of information management: Records Management, Government Information 
+			Collection and Public Opinion Research, Micrographics, EDP Records Management, 
+			and Forms Management. This focuses attention on the importance of information 
+			in supporting decision making and the delivery of programs and services. Information 
+			also permits institutions to hold themselves accountable pursuant to legislative 
+			and policy requirements. Information management is the coordinated management 
+			of both information holdings and investments in information technology.</p><p>Information is a valuable resource and a critical factor in the achievement of 
+			corporate objectives. Treasury Board Secretariat has recognized this in its publication 
+			Enhancing Services: Through the Innovative Use of Information and Technology - Strategic 
+			Direction for the 90s. Information management, including the planning, directing 
+			and controlling of information holdings and investments in information technology, 
+			is therefore important to help achieve corporate goals and to deliver programs and 
+			services. The review of this important area, through self-assessment, or audit and 
+			evaluation, is a good management practice.</p></section><section anchor="3.2" title="Purpose and Scope of the Guide"><p>As a concept, information management has many interpretations. For purposes 
+			of this Guide, we will use the description of information management as discussed 
+			in the Background section. The Treasury Board policies on the Management of 
+			Government Information Holdings (MGIH) and Management of Information Technology 
+			(MIT) are components of information management. The Treasury Board Foreword 
+			on Information Management states that linkages between information technology 
+			and information holdings should be established to the extent that they are useful 
+			and meaningful. In this context, the Review Guide addresses the MGIH component 
+			of information management, as well as the linkages to information technology. 
+			(See Appendix C for an explanation of linkages to technology.) However, the 
+			main part of the MIT policy is not addressed by the Guide.</p><p>The Guide was written to help government institutions review their management 
+			of information practices. Specifically, it is intended to assist institutions in 
+			self-assessment. Managers or staff may wish to review their own practices regarding 
+			the management of information on a periodic basis. In addition, the Guide is intended 
+			to assist auditors, evaluators and reviewers by serving as a tool for the planning 
+			and conduct of reviews of the management of information.</p><p>The emphasis of the Guide is on good practices for the management of information. 
+			This is reflected by the structure of the review chapters of the Guide which are 
+			based on two key themes: management issues (chapter 3) and service to user issues 
+			(chapters 4 through 8). Although references are made in the review chapters to the 
+			MGIH policy, the Guide is not a compliance checklist. Reviewers will have to assess 
+			the substance of their findings in order to draw conclusions about policy compliance 
+			and performance (i.e., is the intent being achieved as well as the letter being 
+			adhered to?).</p><p>The word information can have many meanings. For purposes of the Guide, the terms 
+			"information" and "information holdings" are synonymous. (Appendix B provides a 
+			glossary of definitions used for purposes of this Guide.) The emphasis of this Guide 
+			is to promote the cost-effective and coordinated management of federal information 
+			holdings. Throughout the Guide, the appropriate term is used in the context of the 
+			particular law, policy or activity being discussed.</p><p>Note: This document is not intended to serve as a definitive guide to the review 
+			of the management of information. Rather, it presents a basis for the review of 
+			a broad area. Readers should supplement their review procedures according to the 
+			nature and extent of the review planned. Appendix A provides many additional references 
+			that a reviewer might use to supplement this Guide.</p><p>If readers have any questions regarding the content or use of this Guide, they 
+			should contact the Information Management Standards and Practices Division, Archives 
+			and Government Records Branch, National Archives.</p></section><section anchor="3.3" title="Roles and Responsibilities"><p>The information management policies refer to many stakeholders. A reviewer 
+			should be cognizant of the roles and responsibilities of these stakeholders 
+			in terms of their relationship to, and impact on, the institution. Stakeholders 
+			include the following:</p><p>The institution is responsible and accountable for implementation of the MGIH 
+			policy. Management must designate a senior official to represent the institution 
+			for purposes of the MGIH policy. The infrastructure of institutional policies and 
+			procedures for the management of information should establish operating requirements 
+			that reflect the MGIH policy. The operating requirements should give direction to 
+			program managers and functional specialists, and provide guidance concerning the 
+			organization, description, use and retrieval, as well as the storage, protection, 
+			retention and disposal of the institution's information holdings. Everybody in the 
+			institution has some responsibility for the management of its information holdings.</p><p>Treasury Board Secretariat, Administrative Policy Branch, is accountable for 
+			the development and general interpretation of the MGIH policy, and for evaluating 
+			the policy to ensure its integrity and continued relevance, its effectiveness in 
+			achieving the stated objectives, and the policy's appropriateness in the context 
+			of overall government direction and changes in the management environment. The Branch 
+			is also responsible for leadership and support of federal internal audit and program 
+			evaluation groups. It provides advice and assistance to institutions, assesses audit 
+			and evaluation practices, fosters a professional community for auditors and evaluators, 
+			and oversees selected audits as well as central evaluations.</p><p>The Chief Informatics Officer for the federal government and the supporting Office 
+			of Information Management, Systems and Technology have the responsibility to provide 
+			a government-wide focus for the effective management of information technology. 
+			This mandate includes the responsibility for directing the re-engineering of government 
+			administrative processes and leading their cross-functional integration; establishing 
+			the framework and actively supporting the re-engineering of the government's program 
+			delivery mechanism; and developing policy and standards related to information management 
+			and technology and related telecommunications activities.</p><p>National Archives has specific evaluation responsibilities on behalf of Treasury 
+			Board Secretariat in regard to the MGIH policy. In addition, it may report on significant 
+			problems or issues in the state of management of information holdings relevant to 
+			their identification, organization, storage, conservation, retention and disposal. 
+			It also has authority, under the National Archives of Canada Act, to control the 
+			destruction and disposal of the information holdings of government institutions 
+			(excluding published material), and the transfer of information of historic or archival 
+			importance to the National Archives. Within the context of its mandate to facilitate 
+			the management of government records and its leadership role in the management of 
+			government information holdings, the National Archives leads the implementation 
+			of the framework for evaluating the management of government information holdings. 
+			The Archives performs this function in collaboration with Treasury Board Secretariat, 
+			National Library, Public Opinion Research Group of Government Services, Canadian 
+			Centre for Management Development, internal audit and program evaluation groups, 
+			and information management groups of government institutions.</p><p>National Library is responsible for identifying, acquiring, recording and making 
+			available Canada's published heritage, regardless of format. The major tool for 
+			this responsibility is the national bibliography, Canadiana. Federal government 
+			publications are an important part of Canada's heritage. The National Library also 
+			acts as the central point for facilitating resource sharing among Canadian libraries. 
+			The National Library fulfils this responsibility through union catalogues and lists 
+			used to identify and locate library holdings for interlibrary loan. A number of 
+			articles within the National Library Act refer directly to the coordination of federal 
+			library activities including the disposal of surplus published materials. In addition, 
+			the National Library has specific evaluation responsibilities related to published 
+			material.</p><p>Internal Audit Groups are responsible for including in their audit of information 
+			management an assessment of the degree of compliance with the MGIH Policy. This 
+			is in addition to the customary responsibility of internal audit to assess the effectiveness 
+			of the management framework in ensuring the achievement of operating objectives, 
+			the economical and efficient use and protection of resources, and the integrity 
+			of information.</p><p>Program Evaluation Groups are responsible for evaluating the continued relevance, 
+			success and cost-effectiveness of federal programs. Where institutions provide information 
+			to the public, or to groups outside the institution, program evaluation may look 
+			at the provision of this information in terms of its relevance, success and cost-effectiveness.</p><p>Public Opinion Research Group, Government Services Canada, is the central reporting 
+			agency to which all proposals regarding information collection and public opinion 
+			research must be sent. The POR Group is responsible for assessing the public opinion 
+			content of the proposal, determining if approval by the Cabinet Committee on Operations 
+			is required, and issuing authorization numbers allowing institutions to initiate 
+			contracting procedures for approved projects.</p><p>Canadian Centre for Management Development provides advice and guidance to institutions 
+			in developing institutional histories, case studies and profiles.</p></section></chapter><chapter anchor="4" title="Chapter One"><section anchor="4.1" title="Management of Information"><p><strong>Overview Description</strong></p><p>Government by its very nature is an information-intensive service provider. 
+			Good information management practices can enhance government productivity 
+			and service quality, and decrease the cost of administration. Information 
+			is increasingly recognized as an important primary resource - along with 
+			finance, personnel and assets - that needs to be effectively managed. Hence, 
+			awareness of the need for good practices in the management of information 
+			is rising.</p><p>The other primary resources, i.e. finance, personnel and assets, usually have 
+			a recognizable functional identity within an institution. If you have questions 
+			regarding the management of finance or personnel or assets, you can usually find 
+			someone - or some group - in the institution to deal with. In contrast, the management 
+			of information is much more multidisciplinary. Information-based functions within 
+			institutions include obvious groups such as records management, data management 
+			and library services, as well as perhaps less obvious functions such as public opinion 
+			research.</p><p>The multidisciplinary nature of the management of information leads to some challenging 
+			planning and scoping issues, which are elaborated on later in the Guide. For purposes 
+			of the Guide, information-based functions will be used as a generic term to include 
+			the information management disciplines or functions involved. Another perspective 
+			on the complex, multidisciplinary nature of the management of information is provided 
+			by the variety of laws and policies that affect information. Figure 1 lists many 
+			of them. In addition, some institutions have information-related legal and policy 
+			requirements that relate to their particular missions. Reviewers should note that 
+			some policies and regulations may take precedence over others, and they should look 
+			to the particular circumstances of their institution before deciding on the hierarchy 
+			of applicable authorities.</p><p><strong>Figure 1 - Managing Information in Canadian Government Institutions:</strong></p><p><strong>Legislation and Policy</strong></p><p><strong>Legislation</strong></p><p><em>Access to Information Act</em> and Regulations</p><p>Acts specific to each institution</p><p><em>Canada Evidence Act</em></p><p><em>Copyright Act</em></p><p><em>Emergency Preparedness Act</em> and the <em>Emergencies Act</em></p><p><em>National Archives of Canada Act</em></p><p><em>National Library Act</em></p><p><em>Official Languages Act</em></p><p><em>Privacy Act</em> and Regulations</p><p><strong>Treasury Board Policy</strong></p><p>Information Management volume of the Treasury BoardManual:</p><p>(a) Foreword</p><p>(b) Management of Government Information Holdings (MGIH)policy</p><p>(c) Management of Information Technology (MIT) policy</p><p>Government Security policy</p><p>Government Communications policy</p><p>Access to Information policy</p><p>Privacy policy</p></section><section anchor="4.2" title="Information Life Cycle Model"><p>Figure 2 provides a model to assist in the review of the management of information. 
+			The model shows the stages information holdings pass through during their life 
+			cycle.</p><p><strong>Figure 2 - Information Life Cycle Model</strong></p><ol><li>Planning</li><li>Collection, creation, receipt</li><li>Organization, transmission, use and retrieval</li><li>Storage, protection and retention</li><li>Disposition through transfer or destruction</li></ol><p>Each stage of the life cycle can be used as a basis to review an integral part 
+			of the management of information holdings (see Chapters 4 through 8). In addition, 
+			a review can look at the overall management framework, i.e. the management of the 
+			entire life cycle and the context in which it operates (see Chapter 3).</p><p>Whether at the corporate or program level, an organization uses the information 
+			life cycle as a framework within which to manage its information. Increasingly, 
+			organizations are considering their requirements for information along with their 
+			requirements for people, accommodation and financial resources.</p><p><strong>1. Planning</strong></p><p>The planning stage involves assessing how to meet the needs of the institution 
+			for operational, legislative and policy purposes. The MGIH policy states that 
+			institutions should identify their information needs as early as possible in 
+			the project or management cycle. In keeping with that concept, institutions 
+			should collect, create or generate only what information they require. They 
+			should also make sure the information does not already exist in the institution 
+			or that it is readily accessible to the institution. Information should be kept 
+			only as long as it is of value. In addition, when planning information systems, 
+			or making enhancements to existing information systems, institutions should 
+			identify and include all the important parameters related to MGIH.</p><p>In the planning stage, institutions should identify their own information needs 
+			for each of the stages in the information life cycle. The subsequent collection, 
+			creation and/or generation of information should be directly linked to the needs 
+			that have been identified. The information holdings that result should be organized, 
+			stored and protected. Finally, information of no further use or value to the institution 
+			should be disposed of pursuant to provisions of <em>the National Archives of Canada 
+			Act</em> and the <em>National Library Act</em>.</p><p><strong>2. Collection, creation, receipt</strong></p><p>As stated above, planning should determine what information should be collected, 
+			created or received, based on operational needs and legislative or policy requirements. 
+			This suggests that generating or gathering of information should be articulated 
+			in terms of the nature of information needed (what), its operational, legislative 
+			or policy purpose (why), which persons or groups of the institution will have 
+			custody and use of the information (who), the frequency of need (when), and 
+			whether it is to be generated internally or gathered from other sources (where 
+			and how).</p><p>Treasury Board's MGIH policy states some additional requirements concerning the 
+			collection of information. Government institutions are required to avoid collecting 
+			information that is already available, minimize the response burden and costs associated 
+			with collection, and collect personal information in accordance with the Privacy 
+			Act. In addition, in the case of public opinion research, institutions must seek 
+			approval of the Cabinet Committee on Operations through the Public Opinion Research 
+			Group of Government Services Canada.</p><p><strong>3. Organization, transmission, use and retrieval</strong></p><p>In order to maximize the value of information holdings, they should relate 
+			to the needs of the institution. Consequently, institutions should identify 
+			and describe their information holdings to meet their operational requirements 
+			(decision making and program delivery) and to meet legislative or policy requirements. 
+			Description provides context and meaning. Information holdings also should be 
+			organized or arranged in a logical manner that facilitates access by users. 
+			In this regard, access includes transmission, use and retrieval.</p><p>In the transmission, use and retrieval of information, users should respect the 
+			applicable legal and policy constraints, including the access to information and 
+			privacy legislation, and the Government Security policy. In addition, the MGIH policy 
+			requires that information holdings of government institutions be identified in appropriate 
+			government public reference sources and that information holdings be available to 
+			the public and for use within the government - subject to legal and policy constraints.</p><p>In addition, institutions must recognize the importance of having qualified people 
+			and the right equipment to facilitate the transmission, use and retrieval of information. 
+			These two factors - the human and physical resources - can greatly affect the value 
+			of information holdings, particularly in rendering information available to users.</p><p><strong>4. Storage, protection and retention</strong></p><p>Information of continuing relevance to the business of the institution should 
+			be stored in media appropriate to the characteristics of the information. That 
+			is, the media chosen (paper, books, microfilm, computer diskettes, magnetic 
+			computer tape, etc.) should be selected to facilitate user accountability, the 
+			length of time required to satisfy business needs, and archival or historical 
+			requirements. To preserve the corporate memory, information holdings need to 
+			be protected against unauthorized loss, access, use, alteration, destruction 
+			or alienation (i.e., transfer outside the control of the government).</p><p>Institutions keep information holdings as long as they are useful for decision 
+			making, program operations and service delivery. As well, the requirement under 
+			MGIH to retain information holdings that serve to reconstruct the evolution of policy 
+			and program decisions should guide institutions in this matter.</p><p><strong>5. Disposition through transfer or destruction</strong></p><p>The corporate memory of the Government of Canada includes all government 
+			information holdings which are created, collected or received by government 
+			institutions to meet their operational needs and the requirements of legislation 
+			and policy. These information holdings should be disposed of through destruction 
+			or by transfer to the control of the National Archives or National Library when 
+			institutions have no further operational need or legislative or policy requirement 
+			for keeping the information holdings, and when authority for disposal has been 
+			granted by the National Archives or the National Library.</p></section><section anchor="4.3" title="Key Attributes of Information"><p>Six attributes relating to the quality of information which are useful as 
+			a basis to review and assess the management of information within institutions 
+			are listed in Figure 3. While these attributes are presented as separate items 
+			for descriptive and analytic purposes, they are interrelated.</p><ol><li>Available</li><li>Understandable</li><li>Useable</li><li>Complete</li><li>Accurate</li><li>Up-to-date</li></ol><p><strong>1. Available</strong></p><p>Throughout their life cycle, information holdings should be available to those 
+			who require them. This means that information - regardless of the medium used - 
+			must be accessible to users, for retrieval and use when they need it. In short, 
+			information must be accessible on a timely basis. Where information technology is 
+			used for storage or transmission, the technology should be available to users in 
+			order to facilitate retrieval and use of information.</p><p><strong>2. Understandable</strong></p><p>To be of any use, information holdings need to be understandable. This means 
+			that identification and description of information holdings must be meaningful to 
+			users. For example, technical information described in abbreviated terms understood 
+			by technical experts may not be understood by other users.</p><p><strong>3. Useable</strong></p><p>Information needs to be useable by those who require it. This means that the 
+			information must relate to the purposes for which it was created, collected or received. 
+			In other words, the content must be applicable or relevant to users. In addition, 
+			the information must be in a form that can be used by the persons who need to use 
+			it. Both the content and form of information should provide for efficient and effective 
+			use of information holdings.</p><p><strong>4. Complete</strong></p><p>Users may need a variety of information in support of decision making or program 
+			delivery. Information holdings should be able to meet the needs of every program 
+			within the institution.</p><p><strong>5. Accurate</strong></p><p>Information needs to be correct. The accuracy of information can affect decision 
+			making and program delivery.</p><p><strong>6. Up-to-date</strong></p><p>Another attribute of the quality of information is whether or not it is up-to-date. 
+			Information holdings need to contain the most current information relevant to user 
+			needs. A lack of up-to-date information can impair decision making and program delivery. 
+			Anyone planning to collect or create information should take into consideration 
+			the requirements for keeping the information up-to-date.</p></section></chapter><chapter anchor="5" title="Chapter Two"><section anchor="5.1" title="Planning a Review of Management of Information"><p><strong>General Issues</strong></p><p>A review of the management of information may include any or all of the following 
+		components: management and coordination (Chapter 3); information planning (Chapter 
+		4); collection, creation, receipt (Chapter 5); organization, transmission, use and 
+		retrieval (Chapter 6); storage, protection and retention (Chapter 7); and disposition 
+		through transfer or destruction (Chapter 8). A review of the management of information 
+		could also be part of a larger review, where it is a subset of a review of many 
+		other management issues.</p><p>In addition to the components covered in Chapters 3 through 8, it is important 
+		that a review of the management of information also consider the quality of people 
+		(human resources) and the adequacy of equipment (physical resources) involved. Further, 
+		the attributes of information (discussed in Chapter 1) can be used as a basis to 
+		analyze and comment on the management of information.</p><p>Some of the general issues and questions that can be addressed in a review are 
+		listed below, along with a reference to the relevant chapter of the Guide.</p><table border="1" cellspacing="1" cellpadding="3" class="widthFull"><tr><th scope="col" class="alignTop"><p><strong>Issue</strong></p></th><th scope="col" class="alignTop"><p><strong>Question</strong></p></th><th scope="col" class="alignTop"><p><strong>Reference</strong></p></th></tr><tr><td class="alignTop"><p>1. Assessing overall corporate management of information holdings</p></td><td class="alignTop"><p>Is the corporate framework for the management and coordination of information 
+				adequate in terms of the economic, efficient and effective management of 
+				information?</p></td><td class="alignTop"><p>Chapter 3</p></td></tr><tr><td class="alignTop"><p>2. Assessing information planning</p></td><td class="alignTop"><p>Have information needs been analyzed and do information holdings relate 
+				to information needs?</p></td><td class="alignTop"><p>Chapter 4</p></td></tr><tr><td class="alignTop"><p>3. Assessing the generation and gathering of information</p></td><td class="alignTop"><p>Does the information collected, created or received relate only to user 
+				needs, and is unnecessary collection avoided and response burden minimized?</p></td><td class="alignTop"><p>Chapter 5</p></td></tr><tr><td class="alignTop"><p>4. Assessing the identification, description, access and use of information</p></td><td class="alignTop"><p>To what extent are information holdings organized and distributed such 
+				that information is easily retrieved and used?</p></td><td class="alignTop"><p>Chapter 6</p></td></tr><tr><td class="alignTop"><p>5. Assessment of protection and preservation of corporate memory</p></td><td class="alignTop"><p>Is information stored, protected and retained as long as it is required 
+				to support operational needs and accountability requirements?</p></td><td class="alignTop"><p>Chapter 7</p></td></tr><tr><td class="alignTop"><p>6. Assessing the disposition of information holdings</p></td><td class="alignTop"><p>Are information holdings of permanent value transferred to the control 
+				of the National Library as required, and are other holdings destroyed when 
+				there is no further operational need or accountability requirement?</p></td><td class="alignTop"><p>Chapter 8</p></td></tr></table></section><section anchor="5.2" title="Planning and Scoping Issues"><p><strong>Terminology</strong></p><p>The terminology used in this Guide is consistent with that of the Treasury Board 
+		information management policies. However, this terminology may differ from that 
+		used within individual government institutions. Therefore, users of this Guide are 
+		reminded that titles, activity descriptions and other terms within their institutions 
+		may be defined differently. For example, the terms "computer support," "informatics" 
+		and "information systems management" may be used by different organizations to mean 
+		the same thing. Clarity in the meaning of titles and terms will be important when 
+		planning a review of the management of information.</p><p><strong>Diversity of Information-Based Functions and Information Media</strong></p><p>Management of information involves many functions as well as various media. Each 
+			information-based function has its own detailed practices and procedures. Also, 
+			characteristics of the storage media are quite different. For example, practices 
+			for storage, protection and transmission of microfilm are quite different from those 
+			for electronic media.</p><p>The issues to be examined and the level of detail required, depend upon the context 
+			of the review. A review might look at some issues in the context of the MGIH policy 
+			across various functions and media. For example, information retrieval could be 
+			reviewed across all information-based functions and media. Alternatively, a review 
+			might look at detailed issues pertaining to a particular function or to a particular 
+			medium. For example, a review of the library function might look at specific aspects 
+			of the handling of books and periodicals. This may require a much more detailed 
+			and specific set of review objectives, criteria and questions/practices in order 
+			to supplement those set out in this Guide.</p><p>It will be useful to identify which functions and which media will be included 
+			in the scope of a review. A review of MGIH might cover some or all of the following:</p><ul><li>Corporate policy and planning</li><li>Data management</li><li>Telecommunications</li><li>Office systems and computer support</li><li>Records management</li><li>Library services</li><li>Information collection</li><li>Public opinion research</li><li>Forms management</li><li>Access to information</li><li>Privacy</li><li>Security</li><li>Ministers' offices (refer to MGIH Guideline 9 and the National Archives 
+				Act)</li></ul><p>If managed outside the above-mentioned functions, a review of MGIH will include 
+			the management of records or published material in the following media:</p><ul><li>paper</li><li>maps</li><li>photos</li><li>films</li><li>plans</li><li>videos</li><li>microfilms</li><li>tapes</li></ul><p><strong>Type of Review Performed</strong></p><p>The Guide does not differentiate between "self assessment," "internal audit" 
+			or "program evaluation" issues. It is left to reviewers to decide whether or not 
+			to cover specific issues and in what context this will be done. The review of some 
+			issues will, however, be viewed as critical by National Archives for purposes of 
+			its evaluation and reporting responsibilities under the MGIH policy. Specifically, 
+			National Archives is concerned with the identification, organization, storage, conservation, 
+			retention and disposal of information holdings. Hence, institutions should discuss 
+			the scope of their reviews with National Archives before undertaking them. Likewise, 
+			where reviews will cover published materials, institutions should discuss the scope 
+			of reviews with National Library before undertaking them.</p><p><strong>Magnitude of Information-Based Functions</strong></p><p>Particularly in large departments, a review of the management of information 
+			may or may not include all components of the functions under review. A review should 
+			examine those components of a function, or issues, which are important to the institution 
+			as indicated by the reviewer's risk assessment or analysis. Consequently, reviewers 
+			may choose to include only certain aspects in a particular review.</p><p>Thus it is important to identify the scope of the review so that readers of the 
+			review report will understand what is included and excluded. Presumably, other major 
+			components of the function which are excluded from a current review would be included 
+			in some other review(s).</p><p><strong>Level of Focus</strong></p><p>A review can be conducted at different levels within an institution. It might 
+			examine only centralized functions (at headquarters), or only decentralized functions 
+			(in the regions), or both. Similarly, a review might cover only the corporate level 
+			or the branch level, or both. An additional dimension is whether a review would 
+			be performed on the basis of an institution's organization chart or whether the 
+			review would be conducted on a functional basis (i.e., functions which cut across 
+			the organization chart). The scope of a review should be clear as to the level of 
+			focus, so that users of the review report will understand the review results.</p></section></chapter><chapter anchor="6" title="Chapter Three - Management and Coordination"><section anchor="6.1" title="Framework for the Management of Information: Objective 1"><p>The institution's management structure facilitates effective coordination of 
+			all information-based functions.</p><p><strong>Criterion</strong></p><p>1.1 Accountability and responsibility for the management of information are assigned 
+			across the organization to senior management, information-based function specialists, 
+			line managers and staff.</p><p><strong>Questions/Practices</strong></p><p>1.1.1 Have responsibilities for the management of information been included in 
+			formal organizational documentation such as policies, procedure manuals, position 
+			descriptions, etc? Are responsibilities clearly described? Are accountabilities 
+			clearly explained?</p><p>1.1.2 Do managers, information specialists, and staff take into account the mission 
+			and strategic priorities of their institution in establishing responsibilities for 
+			the management of information? Are they aware of, and do they understand, their 
+			respective responsibilities for the management of information holdings, i.e. can 
+			they explain their responsibilities in discussions or in response to questions?</p><p>1.1.3 Are users at all levels aware of their own responsibilities regarding information 
+			holdings? Do they have the knowledge, skills and tools to exercise these responsibilities? 
+			For example, is information management an element of the orientation for new employees? 
+			Do users have printed or on-line guides to institutional holdings and do they know 
+			how to retrieve information from them?</p><p>1.1.4 Does the delegation of responsibilities, and the related reporting relationships 
+			in the organization provide avenues for senior management to resolve conflicts or 
+			overlaps between information-based functions? For example, if the security group 
+			of an institution is in a different branch than the office systems and computer 
+			support group and a conflict arises between these groups on an information security 
+			matter, is it clear which senior managers will be involved - and have the authority 
+			to resolve the conflict?</p><p>1.1.5 Are reports on the progress of information-based functions towards achievement 
+			of their plans forwarded to senior management or to the senior official responsible 
+			for the management of information holdings?</p><p><strong>Criterion</strong></p><p>1.2 A senior official is designated to represent the institution to Treasury 
+			Board Secretariat and other central agencies for the management of information holdings. 
+			(MGIH policy, requirement 1.)</p><p><strong>Questions/Practices</strong></p><p>1.2.1 Is a senior official clearly identified and recognized across the institution 
+			as the person who is designated for purposes of the MGIH policy? Are the role and 
+			responsibilities of the senior "designated official" clearly articulated and communicated 
+			throughout the organization?</p><p>1.2.2 Does the delegation of responsibilities, and related reporting relationships 
+			within the institution permit the designated official to speak for all the relevant 
+			information-based functions? If some information-based functions do not have an 
+			organizational link or reporting relationship to the designated official, how does 
+			the designated official represent them to central agencies? Also, how, for the purposes 
+			of the Information Management Plan and related activities, does the designated official 
+			for information holdings coordinate actions with the designated official for information 
+			technology?</p></section><section anchor="6.2" title="Framework for the Management of Information: Objective 2"><p>The institution ensures coordinated management of all of its information-based 
+		functions - leading to improved services and better program delivery.</p><p><strong>Criterion</strong></p><p>2.1 Linkages and common goals/needs among information-based functions are identified.</p><p><strong>Questions/Practices</strong></p><p>2.1.1 Have corporate information managers developed an infrastructure of policy, 
+			systems and procedures for managing information effectively? Does the infrastructure 
+			link separate information management functions in order to provide for coordination 
+			of goals and services?</p><p>2.1.2 To what extent does the institution's Information Management Plan (IMP) 
+			cover its various information holdings, including non-electronic media? If some 
+			information holdings are not included in the IMP, what are the reasons?</p><p>2.1.3 To what extent are opportunities for sharing information, services, etc. 
+			identified among information-based functions? Are common information requirements, 
+			services provided, user audiences, etc. identified in order to avoid possible duplication 
+			or overlap?</p><p>2.1.4 Are all stages of the information life cycle considered in exploring linkages 
+			and common goals/needs among information-based functions?</p><p><strong>Criterion</strong></p><p>2.2 Plans are established for the support requirements of information holdings 
+			in all media.</p><p><strong>Questions/Practices</strong></p><p>2.2.1 How do plans for the management of information link with support requirements 
+			for corporate and operational information holdings? For example, do plans incorporate 
+			requirements to ensure the widest possible access and use of information by users?</p><p>2.2.2 Do information plans address restrictions on the use and disclosure of 
+			information in recognition of privacy and security considerations?</p><p>2.2.3 Do information plans include retention and disposal provisions relevant 
+			to the nature of the holdings?</p><p><strong>Criterion</strong></p><p>2.3 A corporate inventory is maintained for managing the institution's information 
+			holdings. (MGIH policy, requirement 1.)</p><p><strong>Questions/Practices</strong></p><p>2.3.1 Does the institution maintain a current, comprehensive and structured identification 
+			or classification system or systems which provide an effective means for organizing 
+			and locating information and, in composite form, comprise a corporate inventory 
+			for managing information holdings? When developing the corporate inventory, it may 
+			be useful for institutions to consult Management of Government Information Holdings: 
+			Technical Specifications for an Automated Corporate Inventory of Holdings.</p><p>2.3.2 Are the criteria that dictate what is in the inventory clearly defined? 
+			Is the corporate inventory kept up-to-date? How is this done? How often is it done? 
+			Does the inventory reflect the actual, current holdings of the institution?</p><p>2.3.3 Where the corporate inventory is a combination of systems, has the institution 
+			considered using a thesaurus function as a means to establish a more complete and 
+			effective linkage between the component systems? In some institutions, the implementation 
+			of a good thesaurus function has avoided the need to create a new corporate inventory. 
+			A good thesaurus function can link previously separate "islands of information."</p><p>2.3.4 Is there a periodic review of the relevance of the components of the corporate 
+			inventory? Who appraises the adequacy and need for particular information holdings 
+			and the related information technology? Are actions taken to eliminate unnecessary 
+			holdings and avoid duplication of holdings? Has the institution made information 
+			easier to share by encouraging greater compatibility among supporting technologies?</p><p>2.3.5 Does the corporate inventory include all information holdings under the 
+			control of the institution, including those held by individual managers and staff 
+			members? Where information is held by individuals, are the responsibilities and 
+			accountabilities for this information integrated with those for corporate information 
+			holdings - including the maintenance of the corporate inventory? In other words, 
+			does everyone understand what "under the control of the institution" means when 
+			applied to information held by individuals?</p><p>2.3.6 Do users find the corporate inventory helpful when they are looking for 
+			information? In other words, do they actually use the corporate inventory? Is there 
+			a system in place to measure user satisfaction?</p><p>2.3.7 How is information captured in order to maintain the inventory of information 
+			holdings? Does the system keep the inventory complete and up-to-date? Is information 
+			in all media captured, including electronic forms?</p></section></chapter><chapter anchor="7" title="Chapter Four - Information Planning"><section anchor="7.1" title="Service to Users: Objective 3"><p>Information holdings meet the operational needs of the institution and satisfy 
+			legislative and policy requirements.</p><p><strong>Criterion</strong></p><p>3.1 The information requirements for operational, legislative and policy purposes 
+			are identified and analyzed.</p><p><strong>Questions/Practices</strong></p><p>3.1.1 Has the institution identified and categorized information users within 
+			and outside of the organization? Have the information needs of users been identified? 
+			Have information holdings been analyzed to determine if the information needs of 
+			users can be satisfied by existing holdings?</p><p>3.1.2 Is dissemination of information to the public considered when planning 
+			new databases and information systems?</p><p>3.1.3 Has the value of information to users been assessed and balanced against 
+			the costs of providing the information?</p><p>3.1.4 Does the annual planning process for short- and long-term operational needs 
+			include analysis and planning of requirements for information holdings? Where program 
+			or subject matter representatives have planned substantive changes in their operations, 
+			have the related information needs been analyzed? Is information treated as a resource 
+			for planning purposes on the same basis as finance, personnel and assets?</p><p>3.1.5 For any new operational, legislative or policy requirements, are information 
+			needs identified, together with related information system requirements? (MGIH policy, 
+			requirement 2.) When was this done, and by whom?</p><p>3.1.6 Is duplication of holdings and technology applications avoided? Are the 
+			new information needs compared to existing holdings and information systems, both 
+			within the institution and those available outside the institution?</p><p><strong>Criterion</strong></p><p>3.2 Information management plans are coordinated with the support requirements 
+			for corporate and operational information holdings.</p><p><strong>Questions/Practices</strong></p><p>3.2.1 Do information management plans respond to program and management requirements 
+			for information, including the technological tools required to access, retrieve 
+			and use information?</p><p>3.2.2 To what extent are information holdings specialists (e.g. records managers, 
+			librarians, etc.) involved in information management planning, including the technology 
+			planning aspects? Often the responsibility for technology planning and acquisition 
+			is delegated to programs, branches and regions in order to better meet operational 
+			needs. The question becomes to what extent the need of information holdings for 
+			technological support is coordinated with the planning and acquisition of information 
+			technology? For example, is a reasonable proportion of the time spent on technology 
+			planning and the money spent on technology acquisition devoted to ensuring that 
+			the institution's information technologies are compatible?</p><p>3.2.3 Prior to proposing or developing new information systems, have existing 
+			information systems been assessed for their efficiency and effectiveness? (For further 
+			reference to the review of new computer systems, see the OCG's Guide to the Audit 
+			of Systems Under Development.)</p><p>3.2.4 Has the institution looked at ways of decreasing costs or providing more 
+			productivity or value with existing systems, either by combining systems, using 
+			new technologies, or using standardized applications? Does this assessment cover 
+			all stages of the information life cycle?</p><p><strong>Criterion</strong></p><p>3.3 Opportunities for information technology applications are assessed in relation 
+			to information holdings requirements.</p><p><strong>Questions/Practices</strong></p><p>3.3.1 How are potential technology applications identified and analyzed for information 
+			holdings which are not in electronic form? (For example, in some government departments, 
+			maps and blueprints are now created in digital form, but how far should these departments 
+			go to convert existing hard copy blueprints to digital form?) How is this analysis 
+			linked with corporate information technology planning and preparation of the institutions' 
+			Information Management Plan?</p><p>3.3.2 To what extent are information technology purchases based on the need to 
+			support information holdings? Are technology acquisitions made because they are 
+			needed to meet the functional requirements of both the institution and users?</p><p>3.3.3 To what extent are information technology alternatives considered and related 
+			to information holding support requirements as well as to user needs for such things 
+			as information transmission, retrieval and use? How do these information technology 
+			choices compare to alternatives in terms of costs, benefits, etc? (For further reference, 
+			see the OCG's Guide to the Audit of End-User Computing.)</p><p>3.3.4 Does the methodology for developing automated information systems take 
+			the need to support information holdings into account? When new automated information 
+			systems are planned and implemented, are the MGIH requirements identified?</p></section></chapter><chapter anchor="8" title="Chapter Five - Collection, Creation, Receipt"><section anchor="8.1" title="Service to Users: Objective 4"><p>The institution collects, creates and receives only the information that is necessary 
+				to meet its operational, legislative and policy requirements.</p><p><strong>Criterion</strong></p><p>4.1 The information collected or generated meets the identified needs.</p><p><strong>Questions/Practices</strong></p><p>4.1.1 Are holdings periodically reviewed in order to determine if the information 
+				continues to meet identified needs? (MGIH policy, guideline 4.1.) Are users periodically 
+				consulted to determine if information collected, created and received continues 
+				to meet their needs? How is this done? How often is this done?</p><p>4.1.2 Where users are also information providers (i.e., they are partly self 
+				sufficient in the collection, creation and receipt of information), is the information 
+				which they gather or generate reviewed periodically to determine if it is relevant 
+				and meets identified needs? Do the holdings meet the key attributes of information 
+				(see page 10 of Guide)?</p><p>4.1.3 Does the institution periodically review the use to which information is 
+				put? Where information holdings are available to users, do they actually use them? 
+				A lot of information may be collected because a need was identified years ago. If 
+				the institution stopped collecting the information now, would any person or program 
+				be affected?</p><p>4.1.4 Legislation or policies may demand that certain information be maintained 
+				by an institution. Are legislative and institution-specific policy requirements 
+				met as to information content?</p><p>4.1.5 Is unsolicited information received from outside the institution assessed 
+				for its relevance to the institution? Is the information transmitted quickly to 
+				the part of the institution responsible for dealing with that particular subject?</p><p><strong>Criterion</strong></p><p>4.2 Information collection is coordinated and meets with applicable requirements.</p><p><strong>Questions/Practices</strong></p><p>4.2.1 Does the institution have policies and plans for information collection, 
+				creation and receipt? Are these policies and plans linked to present and future 
+				user needs and/or legislative and policy requirements?</p><p>4.2.2 Is the coordination comprehensive? Are all information collection activities 
+				planned and accounted for, including those in the regions and various organizational 
+				units? Is information collection by agents (e.g. consultants) included? Are there 
+				controls in place to ensure that information collection policies are known throughout 
+				the institution and that collection plans are reported and coordinated at an early 
+				stage?</p><p>4.2.3 Has the institution ensured that information collection conforms to the 
+				applicable standards? For example, does the institution consult the Public Opinion 
+				Research Group (Government Services Canada) regarding information collection which 
+				qualifies as, or contains a component of, public opinion research?</p><p>4.2.4 Is information periodically reviewed in order to ensure that the requirements 
+				of the Privacy Act are respected? This might be done during the annual update of 
+				personal information banks required by Section 11 of the Privacy Act. (MGIH policy, 
+				guideline 4.1.)</p></section><section anchor="8.2" title="Service to Users: Objective 5"><p>The institution avoids collecting, creating and receiving information that is 
+				already available in order to minimize costs and response burden. (MGIH policy, 
+				requirement 3.)</p><p><strong>Criterion</strong></p><p>5.1 The costs of collecting, creating and receiving information are minimized. 
+				(MGIH policy, requirement 3.)</p><p><strong>Questions/Practices</strong></p><p>5.1.1 Does the institution know the costs of collecting, creating and receiving 
+				the information it uses? Given that users frequently collect, create and receive 
+				information themselves, are their costs (mainly time/salaries) identified, justified 
+				and kept to a minimum?</p><p>5.1.2 Are the costs of collecting, creating and receiving information commensurate 
+				with its value to the institution and users?</p><p>5.l.3 Where the same or similar information is collected, created and received 
+				for more than one user or one group of users, have opportunities been taken to meet 
+				common information needs through joint collection, joint creation or joint receipt 
+				of information? Where duplicate collection, creation and receipt of information 
+				exists, is it operationally and cost-justified?</p><p>5.1.4 Before information is collected, created or received, are existing information 
+				holdings reviewed to determine if the information needs can be satisfied by existing 
+				holdings or readily accessible external information sources? Would the costs of 
+				acquiring new information be justified? Is the information collected, created or 
+				received by the institution actually used?</p><p><strong>Criterion</strong></p><p>5.2 Response burden is minimized in the collection of information. (MGIH policy, 
+				requirement 3.)</p><p><strong>Questions/Practices</strong></p><p>5.2.1 Have respondents been identified and profiled in terms of the detail and 
+				frequency of the information being collected from them? (i.e., does the institution 
+				know what response burden it is currently placing on respondents?)</p><p>5.2.2 Have opportunities been taken to undertake joint collection or information 
+				sharing with other institutions where feasible? (MGIH policy, requirement 3.) Where 
+				information collection does duplicate or overlap with that of other institutions, 
+				is the continuing collection of this information justified, either by the need for 
+				more detail, or the need for more up-to-date information?</p><p><strong>Criterion</strong></p><p>5.3 Forms meet all statutory and policy requirements (MGIH policy, requirement 
+				4).</p><p><strong>Questions/Practices</strong></p><p>5.3.1 Are forms, in both paper and electronic media, reviewed before they are 
+				put into use to ensure that applicable requirements are met? By whom? Are all forms 
+				used by the institution reviewed? If not, why not?</p></section></chapter><chapter anchor="9" title="Chapter Six - Organization, Transmission, Use and Retrieval"><section anchor="9.1" title="Service to Users: Objective 6"><p>Holdings are organized in order to make the widest possible use of information. 
+			(MGIH policy statement.)</p><p><strong>Criterion</strong></p><p>6.1 Information holdings are organized in order to facilitate efficient access 
+			and retrieval by users, subject to legal and policy constraints.</p><p><strong>Questions/Practices</strong></p><p>6.1.1 Are users - both internal and external to the institution - satisfied with 
+			their access to and retrieval of information holdings? Is the information that users 
+			need available? Is it easy for them to retrieve? How is user satisfaction measured?</p><p>6.1.2 Do custodians of information holdings, e.g. Records Management, Library 
+			Services, Data Management, know the information needs of users? Do custodians tailor 
+			their services to better meet the needs of users for quick and easy access, e.g. 
+			retrieval response time, efficient and effective technology for transmission, friendly 
+			formats for use, etc? Do they tailor their services to meet user needs economically, 
+			efficiently and effectively? Do they use standards-based technology?</p><p>6.1.3 Are information holdings available for public dissemination? Are they sold 
+			to the public where appropriate and where there is significant demand? (MGIH policy, 
+			requirement 5.) Is the Depository Library System used to make information more widely 
+			available to the public?</p><p>6.1.4 Are information holdings available for use by other institutions within 
+			the government, subject to any legal or policy constraints, e.g. the Privacy Act 
+			and the Government Security policy? (MGIH policy, requirement 5.)</p><p>6.1.5 Does the institution have an up-to-date publications catalogue? Are all 
+			publications deposited in the institution's library? Is published material catalogued 
+			according to established standards? Is the resulting bibliographic information reported 
+			to the National Library's Union Catalogue or made available to other libraries by 
+			other means?</p><p>6.1.6 Is all material published by the institution easily accessible to decision 
+			makers within the institution and available to the public on request? (MGIH policy, 
+			requirement 5.) Does this include "grey literature"? (MGIH policy, guideline 11)</p><p>6.1.7 Are all confidences of the Queen's Privy Council managed in accordance 
+			with government-wide standards established by the Privy Council Office. (MGIH policy, 
+			requirement 1.)</p><p><strong>Criterion</strong></p><p>6.2 Information holdings are identified and described in a manner that is meaningful 
+			to users.</p><p><strong>Questions/Practices</strong></p><p>6.2.1 Are users satisfied that the organization and description of information 
+			holdings are such that information holdings are rendered understandable and useable? 
+			Are information holdings identified and described such that users can easily and 
+			quickly find the information they need? Are the classification and thesaurus functions 
+			effective in helping users to identify and locate the information they need? Do 
+			the classification and thesaurus functions, as well as other means of identification 
+			and description, cross all media boundaries? Is grey literature identified and described 
+			so that users can have access to individual documents?</p><p>6.2.2 Does the institution keep track of electronic information on a basis consistent 
+			with other forms of media? Information stored on different media may be located 
+			in different places, under the custody and control of different information specialists. 
+			Therefore a common identification function such as a common classification system 
+			is needed.</p><p>6.2.3 Are information holdings identified and described in the appropriate public 
+			reference sources for use by the public (e.g. InfoSource)? Is information effectively 
+			disseminated where there is a duty to inform the public? (MGIH policy, requirement 
+			5.)</p></section><section anchor="9.2" title="Service to Users: Objective 7"><p>Systems for information transmission, use and retrieval respond efficiently and 
+			effectively to the needs of users.</p><p><strong>Criterion</strong></p><p>7.1 Levels of service - in terms of getting information to users - are identified 
+			and meet operational needs and user requirements.</p><p><strong>Questions/Practices</strong></p><p>7.1.1 Does the institution attempt, on a periodic basis, to determine the level 
+			of user satisfaction with information products and services? Is formal feedback 
+			from users requested and received through mechanisms such as:</p><ul><li>user surveys?</li><li>questionnaires distributed at the completion of major service cycles, or 
+				selected intervals?</li><li>participation of user representatives on information management committees 
+				designed to solicit input and feedback?</li></ul><p>7.1.2 Are the services of information specialists tailored to volume or demand 
+			requirements? Are resources shifted to meet changing user needs? Are considerations 
+			such as the following used:</p><ul><li>volume of activity, e.g. responses or information requests satisfied, on 
+				an annual basis?</li><li>response times for various types of requests?</li><li>number of user complaints or problems?</li></ul><p><strong>Criterion</strong></p><p>7.2 Responsiveness to users is balanced against cost effectiveness.</p><p><strong>Questions/Practices</strong></p><p>7.2.1 Has the institution determined the full costs of existing information systems 
+			and services? Has the institution compared the cost of the existing systems and 
+			services to possible alternatives? Has the institution looked for ways of decreasing 
+			costs, e.g. by combining systems or dropping little used services or features?</p><p>7.2.2 Where new systems are developed, is there a requirement to integrate them 
+			with existing systems and/or to justify costs?</p></section></chapter><chapter anchor="10" title="Chapter Seven - Storage, Protection and Retention"><section anchor="10.1" title="Service to Users: Objective 8"><p>The institution maintains information while it has operational value in terms 
+			of supporting decision making, program operations and service delivery and while 
+			it is required to meet legislative and policy requirements.</p><p><strong>Criterion</strong></p><p>8.1 The institution has identified and is protecting and retaining information 
+			on its projects, programs and policies to ensure continuity in the management of 
+			the organization. (MGIH policy, requirement 6.)</p><p><strong>Questions/Practices</strong></p><p>8.1.1 Does the institution identify and protect its essential information holdings 
+			(as defined in the Guide to the Preservation of Essential Records published by Emergency 
+			Preparedness Canada)? (MGIH policy, requirement 4.)</p><p>8.1.2 Is the way that information is stored and protected appropriate to the 
+			institution's operational needs and legislative and policy requirements? For example, 
+			do the storage media and location permit quick and easy access and retrieval by 
+			users?</p><p>8.1.3 Do protection measures prevent unauthorized access, retrieval, use, alteration, 
+			inadvertent loss or unauthorized destruction? Do protection measures provide for 
+			the survival of the environment in which information is held? Can important information 
+			be recovered in the event of a disaster?</p><p><strong>Criterion</strong></p><p>8.2 Storage and protection methods balance operational, legal and user requirements.</p><p><strong>Questions/Practices</strong></p><p>8.2.1 Are users satisfied that information holdings are useable, i.e. the holdings 
+			are in a form that can be used by the persons who need the information? Where holdings 
+			are stored on a medium other than paper, do users have the tools to gain access 
+			to the information? For example, if information is held in microform (microfilm 
+			or microfiche) is it immediately useable by those who need it or must it be transferred 
+			to another medium first? If a transfer of medium is necessary, can the information 
+			still be provided to users in a timely fashion?</p><p>8.2.2 Do protection measures satisfy legal and policy requirements without undue 
+			interference to users? For example, access to holdings should not be unnecessarily 
+			restricted because they have been over-classified (e.g. as "Confidential" or "Secret").</p><p>8.2.3 Is the level of protection commensurate with the level of risk and does 
+			it take into consideration user requirements for access and use?</p><p><strong>Criterion</strong></p><p>8.3 Information storage, protection and retention methods and costs are justified.</p><p><strong>Questions/Practices</strong></p><p>8.3.1 Is there an institution policy to permit individuals to hold information? 
+			Where individuals hold information, (e.g. on paper files, computer memory and diskettes) 
+			is this in fact consistent with the institution's policy for the custody of information 
+			holdings?</p><p>8.3.2 Do managers and staff understand that their files and computer workspace 
+			are included in the scope of legislative and policy requirements applicable to information 
+			holdings, e.g. the Privacy Act, Access to Information Act, National Archives of 
+			Canada Act, National Library Act, Government Security policy, Management of Government 
+			Information Holdings policy, Management of Information Technology policy, etc? In 
+			practice, the institution's information holdings specialists, records managers, 
+			librarians, data administrators, etc., cannot know what information each individual 
+			manager and staff member is holding. It is the responsibility of all employees to 
+			ensure the proper management of information holdings in accordance with applicable 
+			requirements.</p><p>8.3.3 Where individuals hold information, are all the associated costs recognized 
+			and justified? What is the cost of the storage area and computer memory? What is 
+			the cost of sorting and searching through additional quantities of information trying 
+			to locate specific information? How do these costs compare to using a corporate 
+			system to hold the same information? Obviously users will always prefer to hold 
+			some of their information. The question is to what extent is it operationally and 
+			cost-justified?</p><p>8.3.4 Do information storage and protection methods conform to government-wide 
+			standards for the transmission, maintenance and protection of information holdings 
+			(MGIH policy, requirement 4)?</p><p>8.3.5 Does the institution balance frequency and convenience of retrieval against 
+			storage costs regarding information not frequently or urgently required? For example, 
+			is older electronic information down-loaded from main memory? Are less active records 
+			moved from main office areas to specialized, lower-cost storage facilities?</p></section><section anchor="10.2" title="Service to Users: Objective 9"><p>Information holdings that serve to reconstruct the evolution of policy and program 
+			decisions are retained. (MGIH policy statement.)</p><p><strong>Criterion&gt;</strong></p><p>9.1 The institution has a systematic process to ensure that information of enduring 
+			value which documents the evolution of the institution's policies, programs and 
+			major decisions is identified and retained. (MGIH policy, requirement 6.)</p><p><strong>Questions/Practices</strong></p><p>9.1.1 Has the institution identified what information should be retained in order 
+			to preserve the corporate memory?</p><p>9.1.2 Is this information stored and protected for long-term preservation? For 
+			example, will the storage media permit retrieval and use of this information for 
+			many years into the future?</p><p>9.1.3 Are institutional publications stored and protected in the institution's 
+			library?</p><p>9.1.4 Have migration strategies been implemented in order to convert information 
+			held in media with a short-term life to media with a long-term life? For example, 
+			compact discs have an estimated ten-year life before oxidation causes decay of the 
+			recorded information. New copies will have to be made periodically.</p><p>9.1.5 Are storage and retention practices for this information designed to protect 
+			against loss or destruction? Are originals kept secure, and copies made available 
+			for use?</p><p>9.1.6 Has the institution developed any documentation of its history, case studies 
+			or profiles in conjunction with the Canadian Centre for Management Development? 
+			(MGIH policy, guideline 10.)</p></section></chapter><chapter anchor="11" title="Chapter Eight - Disposition Through Transfer or Destruction"><section anchor="11.1" title="Service to Users: Objective 10"><p>Information holdings are disposed of through destruction or by transfer to the 
+			control of the National Archives or National Library, or to organizations outside 
+			the control of the Government of Canada, in accordance with the requirements of 
+			the National Archives of Canada Act and the National Library Act.</p><p><strong>Criterion</strong></p><p>10.1 All information holdings which are records (i.e. except published material) 
+			are scheduled for retention and disposal. (MGIH policy, requirement 6.)</p><p><strong>Questions/Practices</strong></p><p>10.1.1 Have all such information holdings in all media and in all locations been 
+			assigned retention periods? In the setting of retention periods, has duplication 
+			of holdings in different media and/or in different locations been considered?</p><p>10.1.2 Do the retention periods reflect the operational, fiscal and legal values 
+			that the information holdings have?</p><p>10.1.3 In the setting of retention periods, have the following costs been considered:</p><ul><li>computer and non-computer storage costs for both active and inactive information 
+				holdings?</li><li>costs connected with the retrieval and/or manipulation of information?</li><li>costs connected with the migration of information to different technologies 
+				to ensure its continued availability?</li></ul><p><strong>Criterion</strong></p><p>10.2 The disposition of records occurs in accordance with the requirements of 
+			subsections 5(1), 6(1) and 6(3) of the National Archives of Canada Act.</p><p><strong>Questions/Practices</strong></p><p>10.2.1 Has the consent of the National Archivist been obtained for the disposition 
+			(including alienation) of all records in all media and in all locations? If not, 
+			has the institution made plans with the National Archives to obtain this consent?</p><p>10.2.2 Where the consent of the National Archivist for the disposition of records 
+			has not yet been obtained, are records, in the meantime, protected from destruction, 
+			deterioration or loss?</p><p>10.2.3 Has a Plan covering records disposition activities been signed with the 
+			National Archives? If not, when is a Plan to be signed?</p><p>10.2.4 If a Plan has been signed, is the institution meeting its commitments 
+			under the Plan?</p><p>10.2.5 Is the institution transferring archival and historical records to the 
+			National Archives in accordance with the terms and conditions agreed upon for their 
+			transfer?</p><p>10.2.6 Where the National Archivist has consented to the destruction of records, 
+			is the institution destroying such records in accordance with the records retention 
+			schedule the institution has established for the records?</p><p>10.2.7 Where the National Archivist has consented to the alienation of records, 
+			has the institution transferred the records to the jurisdiction concerned?</p><p>10.2.8 Have the records of agencies or programs which have ceased been transferred 
+			to the care and control of the National Archivist (where these records are not required 
+			by the institution or by any other federal institution)?</p><p><strong>Criterion</strong></p><p>10.3 Published material is disposed of in accordance with the requirements of 
+			the National Library Act.</p><p><strong>Questions/Practices</strong></p><p>10.3.1 Does the institution have a library collection policy which includes the 
+			requirement for periodic inventory reviews (weeding)?</p><p>10.3.2 Does the library collection policy include criteria for identifying surplus 
+			material?</p><p>10.3.3 Does the institution's library coordinate the disposal of all surplus 
+			published material belonging to the institution, both government publications and 
+			other published material?</p><p>10.3.4 Does the institution consult the Canadian Book Exchange Centre (CBEC) 
+			of the National Library regarding disposal of surplus published material, including 
+			surplus stocks of institutional publications?</p><p>10.3.5 Does the institution follow the direction of the CBEC when disposing of 
+			surplus publications?</p></section></chapter></chapters><appendices><appendix anchor="A" title="Appendix A: Glossary"><p>The following list does not attempt to include all terms applicable to the management 
+		of information. The intent is to present a glossary of the most frequently used 
+		terms. Definitions taken from the MGIH policy are marked with an asterisk (*).</p><p><strong>Alienation:</strong> The transfer of information holdings outside of 
+		the control of the Government of Canada.</p><p><strong>Classification system:</strong> A logical and systematic arrangement 
+		of information holdings into subject groups or categories. The arrangement is based 
+		on schematic relationships among information. Numbers, letters or key words are 
+		used for identification.</p><p><strong>Corporate memory:</strong> Information holdings which meet operational 
+		needs as well as the requirements of legislation and policy.</p><p><strong>Government institution:</strong> Any department or ministry of state 
+		of the Government of Canada listed in the Financial Administration Act.</p><p><strong>Grey literature:</strong> Documents distributed by their authors (individuals 
+		or organizational units) but not distributed through official government channels, 
+		e.g., Canada Communication Group (CCG), or departmental distribution services. Copies 
+		of grey literature are usually distributed in limited numbers.</p><p><strong>Information collection:</strong> The planned gathering by or for an institution 
+		of any information (including personal information as defined in the Privacy Act) 
+		that is intended to be used for any government purpose. This definition includes, 
+		but is not restricted to, the collection of information for direct or indirect use 
+		in program planning, operation or policy development, or the provision of benefits, 
+		grants or services, whether that information is collected from persons (including 
+		employees of government institutions) businesses, institutions or other entities 
+		through surveys, interviews, reports, forms, questionnaires or any other formal 
+		or informal method.(*)</p><p>Some information collection is specifically exempt from selected requirements 
+		as they relate to government information collection and public opinion research.(*) 
+		This definition can be further clarified in the Management of Government Information 
+		Holdings (MGIH) policy. (Treasury Board Manual, Information Management, Chapter 
+		2.)</p><p><strong>Information holdings:</strong> All information under the control of a 
+		government institution, regardless of physical mode or medium in which such information 
+		may be stored. Without restricting the generality of the foregoing, this may include 
+		correspondence, memoranda, books, plans, maps, drawings, diagrams, pictorial or 
+		graphic works, photographs, films, microforms, sound recordings, videotapes, machine 
+		readable records, published material, and any other documentary material. Excluded 
+		from the definition are materials held by federal libraries which were not prepared 
+		or produced by or for the government.(*)</p><p><strong>Information management:</strong> The coordinated management of both information 
+		holdings and investments in information technology.</p><p><strong>Information needs:</strong> Those requirements for collecting data and 
+		creating information which are relevant and essential to the effective and efficient 
+		operation of a program or activity. Normally, they will derive from a statutory 
+		or other type of officially declared mandate (e.g. set out in Estimates).(*)</p><p><strong>Information of historic or archival importance:</strong> Information 
+		which, in the opinion of the National Archivist, is of historic or archival importance 
+		and is to be transferred to the care and control of the Archivist in accordance 
+		with such agreements for the transfer of records as may be agreed on between the 
+		Archivist and a government institution.</p><p><strong>Integration:</strong> The extent to which institutions have ensured that 
+		management of information holdings is included and coordinated as an integral part 
+		of the corporate management process.</p><p><strong>Life cycle of information holdings:</strong> The stages of planning, 
+		collection, creation or receipt of information; its organization, retrieval, use, 
+		accessibility, and transmission; its storage, protection and retention; and, finally, 
+		its disposition through transfer to National <strong>Archives or National Library, 
+		or destruction.</strong></p><p><strong>Management framework:</strong> The framework of interrelated systems 
+		and practices adopted by management to achieve established objectives. The management 
+		framework includes built-in control systems that provide reasonable assurance to 
+		management that the specified objectives will be achieved.</p><p><strong>Management of information holdings:</strong> Ensuring the planning, needs 
+		assessment, collection, creation, organization, maintenance and transmission of 
+		information which has quality, relevance, integrity, accessibility and currency, 
+		and includes its protection, retention, and proper disposal or archival preservation.(*)</p><p><strong>Published material:</strong> An information product which has been created 
+		and edited for the purpose of distribution or sale. Material published by or for 
+		government institutions is deposited in federal library collections.(*)</p><p><strong>Public opinion research:</strong> Any research that solicits the views 
+		of any segment of the public, including advertising research.(*)</p><p><strong>Record:</strong> Any correspondence, memorandum, book, plan, map, drawing, 
+		diagram, pictorial or graphic work, photograph, film, microform, sound recording, 
+		videotape, machine readable records, and any other documentary material, regardless 
+		of physical form or characteristics and any copy thereof. (National Archives of 
+		Canada Act.)</p><p>Thesaurus function: An arrangement of classification terms or identifiers that 
+		can be used for indexing, searching and information retrieval. A thesaurus function 
+		brings classification terms or identifiers together based on logical relationships, 
+		e.g. synonymous words, related subject matters and hierarchical relationships.</p></appendix><appendix anchor="B" title="Appendix B: References"><p>In a review of the management of information holdings, reference must be made 
+		to related policies, guides and documents. Specific references will depend upon 
+		the issues and areas to be reviewed. The following list of references is not, therefore, 
+		definitive. The intent is to present a list of frequently used references which 
+		can be used to supplement and expand upon the details of this Guide.</p><ul><li>Tre<em>asury Board Manual</em> on <em>Information and Administrative Management,</em> 
+			volume on <em>Information Management</em></li><li><em>National Archives of Canada Act</em></li><li><em>National Library Act</em></li><li><em>Privacy Act</em></li><li>Privacy Regulations </li><li><em>Access to Information Act</em></li><li>Access to Information Regulations</li><li>Access to Information and Privacy policies</li><li><em>Copyright Act</em></li><li>Government Security policy</li><li>Government Communications policy</li><li>Operational Guidelines for Information Collection and Public Opinion Research 
+			(Public Opinion Research Group, Supply and Services Canada)</li><li>Handbook of Managerial Practices for Federal Libraries (National Library 
+			of Canada)</li><li>Guide to the Audit of Security (Office of the Comptroller General, 1990)</li><li>Guide to an Audit of the Management Process (Office of the Comptroller General, 
+			1987)</li><li>Guide to the Audit of Systems Under Development (Office of the Comptroller 
+			General, 1991)</li><li>Guide to the Audit of End-User Computing (Office of the Comptroller General, 
+			1991)</li><li>Management of Government Information Holdings, Implementation Report No. 
+			5: Corporate Inventory of Information Holdings - Guide to the Structure, Data 
+			Model, Data Dictionary (Treasury Board Secretariat, February 7, 1991)</li><li>Enhancing Services: Through the Innovative Use of Information and Technology, 
+			Strategic Direction for the 90s (Treasury Board Secretariat, 1992)</li><li>General Records Disposal Schedules of the Government of Canada</li><li>Disseminating Electronic Information: A Primer on Databases for Managers 
+			(Treasury Board Secretariat, 1992)</li><li>Responsibilities and Good Practices (Treasury Board Secretariat, 1992)</li><li>Management of Government Information Holdings: Technical Specifications 
+			for an Automated Corporate Inventory of Holdings (Treasury Board Secretariat, 
+			1992)</li></ul></appendix><appendix anchor="C" title="Appendix C: Linkages to Information Technology"><p>As mentioned in the Introduction, the Treasury Board Foreword on Information 
+		Management says that linkages between information technology and information holdings 
+		should be established to the extent that they are useful and meaningful.</p><p>For purposes of the MGIH policy, linkages between information technology and 
+		information holdings can be made where technology is used for information management 
+		in an operational sense or to meet legislative or policy requirements. Consequently, 
+		some institutions may have to distinguish between information technology for such 
+		purposes and information technology for other purposes.</p><p>An obvious example would be a major office automation system which processes, 
+		stores and transmits information to users. In this case, the technology should be 
+		linked to the support requirements of the information holdings to ensure that all 
+		key attributes of information are met (i.e., the information is available, understandable, 
+		useable, complete, accurate and up-to-date). In addition, the technology should 
+		assist in meeting all applicable legislative and policy requirements such as privacy 
+		and protection. For example, the technology used may have to ensure that access 
+		to and retrieval of some information can be restricted to certain authorized users.</p><p>In many institutions, most of the information technology acquired and used is 
+		related to the processing, storage, communication and use of information for management, 
+		program delivery and accountability purposes. In these cases, the information technology 
+		is linked to the management of information holdings.</p><p>In some institutions, however, much of the information technology acquired and 
+		used has little or no such application. Instead, the technology is used for other 
+		purposes, such as controlling and guiding machinery and equipment. For example, 
+		the heating, cooling, elevator and security systems of most major buildings are 
+		computer controlled. In fact, a great proportion of electric and mechanized equipment 
+		is computer assisted, ranging from smaller things like wood lathes and gas chromatographs 
+		to larger items like wind tunnels, ships and aircraft. In maintaining, refitting 
+		or upgrading such equipment, some institutions make substantial expenditures on 
+		information technology.</p><p>It can be argued that a "number-crunching" computer used for scientific research 
+		and the navigational control system of a vessel are in fact processing information, 
+		and thus the term information technology is appropriate to them. While the purpose 
+		of this technology is quite different than that of an office automation system, 
+		both are described as information technologies for the purposes of Treasury Board 
+		policies.</p><p>It should also be noted that some technology purchases related to the management 
+		of information may not be categorized as information technology, because they are 
+		not computer related. For example, a microfilm reader and photocopier can also be 
+		called information technology, but they might be procured under an office equipment 
+		budget, not the information technology budget. This kind of equipment should also 
+		be linked to information holdings in terms of ensuring that all key attributes of 
+		information are met.</p><p>Linkages between information technology and information holdings should be made 
+		when technology is used to support information holdings. The linkages should identify 
+		how technology is contributing to the economic, efficient and effective management 
+		of information holdings.</p><p></p></appendix></appendices></doc>

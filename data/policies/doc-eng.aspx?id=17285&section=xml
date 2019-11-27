@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="TBITS 30: Business Number - Implementation Criteria" documentID="17285" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Reference"><section anchor="1.1" title="1.1 Name"><ul><li>Business Number</li></ul></section><section anchor="1.2" title="1.2 Identifier"><ul><li><acronym title="Treasury Board Information and Technology Standards">TBITS</acronym> 
+	-30</li></ul></section><section anchor="1.3" title="1.3 Category"><ul><li>Standard</li></ul></section><section anchor="1.4" title="1.4 Effective date"><ul><li>June 1996</li></ul></section><section anchor="1.5" title="1.5 Approving authority"><ul><li>Treasury Board of Canada</li></ul></section><section anchor="1.6" title="1.6 Maintenance agency"><ul><li>Systems and Technology</li><li>Treasury Board Secretariat in conjunction with Materiel and Risk Management, 
+	Bureau of Real Property and Materiel, Treasury Board Secretariat </li></ul></section><section anchor="1.7" title="1.7 Cross index"><ul><li>TBITS-11, Codes for the Representation Names of Countries</li><li>CAN/<acronym title="Canadian Standards Association">CSA</acronym> Z243.177-6:1991 
+	(<acronym title="International Organization for Standardization/International Electrotechnical Commission">ISO/IEC</acronym> 
+	9594-6:1990) Information Technology B Open Systems Interconnection B The Directory: 
+	Selected Attribute Types </li><li>CAN/CSA Z243.177-7:1991 (ISO/IEC 9594-7:1990) Information Technology B Open 
+	Systems Interconnection B The Directory: Selected Object Classes</li></ul></section><section anchor="1.8" title="1.8 Related documents"><ul><li>RC2(E) Rev. 94 B The Business Number and your Revenue Canada Accounts
+	</li><li>RC5(E) Rev. 94 B Converting to the Business Number </li></ul></section></chapter><chapter anchor="2" title="2. Purpose"><p>2.1 Subject to any statutory limitations, this Treasury Board Information Technology 
+Standard endorses the use of a Business Number (BN) to uniquely identify private 
+and public sector entities (i.e. registrants), government programs, and operating 
+entity(ies).</p><p>2.2 To support BN implementation, this standard designates Revenue Canada as 
+the Issuing Organization and describes the procedures and identifying information 
+which is required to support <acronym title="Business Number">BN</acronym> assignment 
+and service delivery.</p><p>2.3 This standard requires that the BN be used in applicable transactions and 
+provides opportunities to reduce costs while streamlining and expediting government 
+services.</p></chapter><chapter anchor="3" title="3. Application"><p>3.1 This standard applies to all transactions, between private and public sector 
+entities, as prescribed by policy or regulations issued persuant to applicable legislation, 
+and Government of Canada organizations defined as departments in Schedules 1 &amp; 2 
+of the <em><strong>Financial Administration Act</strong></em>.</p><p>3.2 A BN must be used in all transactions with the Government of Canada that 
+are undertaken to meet the obligations associated with the programs identified in 
+section 5.3 below.</p><p>3.3 This standard applies to all the systems which create and transmit transactions 
+related to the programs identified in section 5.3 below.</p></chapter><chapter anchor="4" title="4. Specification"><p>4.1 The BN includes a nine digit registration number and a six character account 
+identifier as specified in Appendix A. The account identifier uses two letters to 
+uniquely identify a program and four digits to uniquely identify an operating entity(ies) 
+
+for that program.</p><p>4.2 Appendix B defines the registrant identifying information that is needed 
+to support registration and communications between the Government of Canada and 
+the registrant or its operating entity(ies).</p><p>4.3 To acquire a BN, all applicants must follow assignment and maintenance procedures 
+established by the Issuing Organization or Issuing Agent.</p></chapter><chapter anchor="5" title="5. Qualifications"><p>5.1 Further information on applicable private and public sector entities, legal 
+obligations and reporting criteria is given in documents provided by the Issuing 
+Organization or Issuing Agent for each program.</p><p>5.2 Information used to identify a registrant must be accurate and current to 
+ensure timely service delivery. All BN registrants must notify the Issuing Organization 
+or applicable Issuing Agent of changes in the registrant's identifying information 
+or program participation. (See Appendix A for BN maintenance and Appendix B for 
+identifying information).</p><p>5.3 The initial implementation of this standard is limited to the following programs: 
+Goods and Services Tax (GST); import/export; corporate income tax, and; payroll 
+source deductions. Other programs will be added as requirements evolve and resources 
+permit. Appendix A.1.2.1 identifies candidate programs for addition to this list 
+in accordance with an implementation strategy being developed by the Issuing Organization 
+for the propagation of the BN to other transactions.</p></chapter><chapter anchor="6" title="6. Implementation"><p>6.1 Commencing January 1995, a phased in implementation will occur. All existing 
+registrants who have an "old style" account number will be invited to convert to 
+the BN. Beginning January 1, 1997, the BN will be mandatory for all transactions 
+covered by the four programs specified in section 5.3.</p><p>6.2 All systems under development or modification, as of the date of adoption 
+of this standard, must be capable of providing the BN in transactions with the Government 
+of Canada.</p><p>6.3 All information technology plans prepared after the date of adoption of this 
+standard must reflect a suitable BN migration and/or implementation strategy.</p><p>6.4 The Issuing Organization has the exclusive responsibility for all facets 
+of BN assignment, promotion, administration, dissemination, extension to new programs 
+and safeguarding the integrity of the BN information, including the registration, 
+promulgation and maintenance of program identifiers that have been assigned.</p><p>6.5 The Issuing Organization may designate other organizations as Issuing Agents 
+to assist it in discharging the responsibilities under 6.4</p></chapter><chapter anchor="7" title="7. Government standards working group"><ul><li>Graham Chambers (Chairperson), <acronym title="Treasury Board Secretariat">TBS</acronym></li><li>Des Beckstead, <acronym title="Statistics Canada">SC</acronym></li><li>Ed Buchinski (secretary), TBS</li><li>Paul Drolet, NatResources</li><li>Ronald Fauvel, TBS</li><li>Robert Graham, <acronym title="Environment Canada">EC</acronym></li><li>John Horsley, <acronym title="Public Works and Government Services">PWGSC</acronym></li><li>Douglas Kirk, EC</li><li>Mark Lalonde, <acronym title="Revenue Canada">RC</acronym></li><li>Audrey Nicholson, RC</li><li>William Penner, SC</li><li>Robert Porteous, PWGSC</li><li>Rod Quiney, RC</li><li>Pierre Raby, <acronym title="Indian and Northern Affairs Canada">INAC</acronym></li><li>Major Yves Rioux, <acronym title="Department of National Defense">DND</acronym></li><li>Bruce Shepley, PWGSC</li><li>Wayne Stanton, <acronym title="Human Resources Development Canada">HRDC</acronym></li><li>Jo Ellen Welsford, <acronym title="Industry Canada">IC</acronym></li></ul></chapter><chapter anchor="8" title="8. Where to obtain copies"><p>Information documents may be obtained from the Issuing Organization and from 
+the applicable Issuing Agents. Initially the information will be be available only 
+from: </p><p>Business Number<br />
+Revenue Canada<br />
+7th Floor, Tower C<br />
+Place Vanier<br />
+25 McArthur Avenue<br />
+Ottawa, Ontario&gt;<br />
+K1A 0L5</p><p>For service in English, call 1-800-959-5525<br />
+For service in French, call 1-800-959-7775</p><p>Copies of CAN/CSA Z243.177:1991 (ISO/IEC 9594:1990) may be obtained from:</p><p>Canadian Standards Association<br />
+178 Rexdale Blvd<br />
+Rexdale (Toronto), Ontario<br />
+M9W 1R3</p><p>Telephone: 1 (416) 747-4000<br />
+Facsimile: 1 (416) 747-4149</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - BN Description, Assignment and Maintenance"><p>This appendix is informative.</p><section anchor="A.1" title="A.1 BN Description"><p>The BN is a numbering system that identifies a registrant, a program and one 
+or more operating entities that deal with the Government of Canada on the registrant's 
+behalf. Figure A.1 illustrates the two parts (i.e. registration number and account 
+identifier) which make up the BN and what these parts identify.</p><p>Figure A.1 - BN and its components -- Not available</p><h4>A.1.1 Registration number</h4><p>A registration number consists of a 9 digit number that uniquely identifies a 
+private sector entity (e.g. sole proprietor, corporation, partnership, trust, etc.) 
+or a public sector entity (e.g. charity, non-profit organization, educational institution, 
+government department, municipality, etc.). Public and private sector entities, 
+which are required to use the BN in program specific dealings with the Government 
+of Canada, are defined by government statutes and regulations which created the 
+applicable government programs.</p><p>The same registration number shall be used to identify a registrant for every 
+designated Government of Canada program (i.e. accounts identified by one of the 
+program identifiers given in A.1.2 or as updated by subsequent amendments).</p><h4>A.1.2 Account Identifier</h4><p><strong>A.1.2.1 Program Identifier</strong></p><p>To facilitate user consultation the BN is displayed as three components, separated 
+by a space, as shown below:</p><p>Figure A.2 B Formatted Display of BN -- Not available</p><p>A program identifier consists of a 2 character alphabetic code which uniquely 
+identifies a government program. The following two letter <em>codes</em> have been 
+assigned to identify the initial four programs under the BN initiative:</p><ul class="noBullet"><li>RC B corporate income tax</li><li>RM B import/export duties</li><li>RP B payroll source deductions</li><li>RT B goods and services tax</li></ul><p>Program identifiers which have been earmarked for near term activation include 
+the following:</p><ul class="noBullet"><li>VS B vendor/supplier of goods and services to government</li><li>VC B consignee (government destination/accounting point)</li></ul><p><strong>A.1.2.2 Reference Number</strong></p><p>A reference number is a 4 digit number that uniquely identifies one operating 
+entity, designated by the registrant, to undertake program-specific dealings with 
+the Government on the registrant's behalf. A registrant may choose to designate 
+separate or numerous operating entities for each program. Each such operating entity 
+will be identified by a reference number that is program-specific. </p></section><section anchor="A.2" title="A.2 BN Assignment"><h4>A.2.1 Registration Number Assignment</h4><p>The Issuing Organization is the only agency that may assign a registration number 
+to a registrant.</p><p>To ensure that every registrant is provided with one number only, the request 
+for a registration number must include the registrant's name, address and related 
+information (defined in Appendix B) that describes the registrant accurately and 
+sufficiently. The name of a designated officer or contact person may also be included 
+to facilitate communications between the registrant and the Issuing Organization.</p><p>Figure A.3 shows the identifying information that is associated with its corresponding 
+registration number. This information is required to support BN assignment and database 
+RM maintenance.</p><p>Figure A.3 B Relationship between Registration Number and Registrant Identifying 
+Information -- Not available</p><h4>A.2.2 Program Identifer Assignment</h4><p>Public and private sector bodies must not define and extend the program identifier 
+values. Any departmentally devised program identifiers are a separate data type 
+and must remain distinct from any values associated with the BN. Unassigned BN program 
+identifier values are reserved for exclusive administration by the BN Issuing Organization.</p><h4>A.2.3 Reference Number Assignment</h4><p>As required by the registrant, one or more operating entities may be the contact 
+point for specific programs. Each operating entity will be identified by a reference 
+number that is associated with a specific program identifier. A business or a mailing 
+address, specified by the registrant, is used to distinguish among operating entities 
+with identical names. </p><p>Reference numbers will be assigned sequentially beginning with 0001. The Issuing 
+Organization or Issuing Agent will keep track of the next unassigned number for 
+each program for each registrant. The default value will be 0001.</p><p>As illustrated in Figure A.4 below, a reference number has no inherent significance. 
+For example, reference number 0001 for an operating entity in the RT program can 
+not be assumed to represent the same operating entity as reference number 0001 in 
+the RM program.</p><p>Figure A.4 B Relationship between Registrant, Program Identifiers, Operating 
+Entities and Reference Numbers -- Not available</p><p>Note: This approach was adopted in response to registrant community requests 
+for flexibility and to avoid costly tracking of reference numbers across program 
+identifiers as registrants shift delegated responsibilities to different operating 
+entities to satisfy changing service needs.</p></section><section anchor="A.3" title="A.3 BN Maintenance"><p>The Issuing Organization and Issuing Agent(s) will define procedures to ensure 
+that public and private sector entities which have obtained a BN and their operating 
+entities which have an associated reference number will notify the Issuing Organization 
+or the designated Issuing Agent of address and other identification information 
+changes or termination of operations as soon as such changes occur.</p><p>If a private or public sector entity changes its legal status (i.e. becomes a 
+new legal entity), it must obtain a new BN.</p><p>A registration number will not be reassigned to another registrant in the event 
+that a current owner terminates its activities or applicable transactions with the 
+federal government. The Issuing Organization or the applicable Issuing Agent must 
+be notified of such terminations or change of status.</p><p>Only certain programs qualify for BN registration. Additional program identifiers 
+will be defined by the Issuing Organization through consultation with private and 
+public sector entities taking into consideration: realistic implementation timeframes; 
+legislative requirements; business rules; costs and benefits to registration agencies 
+and registrants alike.</p></section></appendix><appendix anchor="B" title="Appendix B - Registrant Identifying Information"><p>This appendix is normative.</p><section anchor="B.1" title="B.1 Transaction and registration needs"><p>A BN registrant, its operating entities, and/or their representatives must be 
+precisely and adequately identified so that every transaction may be correctly addressed 
+to its intended recipient. The registrants must also be properly identified to support 
+BN registration.</p></section><section anchor="B" title="B.2 Required and Shareable Identifying Information"><p>Table B.1 illustrates the information that is needed to identify a registrant 
+or to address a party in a transaction. Columns 1, 2 and 5 specify the identifying 
+information which will be requested or generated during the registration phase. 
+Columns 3, 4 and 5 represent the kind of information that is required to address 
+a party to a transaction.</p><p>Since name and address information is shareable, an electronic directory project 
+is being planned to manage this type of information on a government-wide basis. 
+Columns 3, 4 and 5 provide a representative sample of the identifying information 
+that has been standardized for electronic directory services by ISO 9594 parts 6 
+and 7 plus associated OSI implementers agreements. Although ISO 9594 was designed 
+specifically to provide directory services, the standards bodies responsible for 
+this specification recognize that this information and associated services could 
+be used by other applications.</p><p>Although certain identifying information is shareable and could be shared, TBITS-30 
+gives no specifications concerning the data, the format, nor the interchange mechanisms 
+for shareable data. Column 4 illustrates the registration data that could be shared 
+if consensus is reached to use ISO 9594 as an exchange and maintenance mechanism. 
+If this data is shared, its contents will comply with conventions defined in column 
+2 and summarized in Appendix C instead of the corresponding constraints specified 
+in ISO 9594-6 (i.e. columns 4 and 5).</p><table border="1" cellspacing="0" cellpadding="3" class="widthFull"><tr><th scope="col" class="alignTop">Identifying Information</th><th scope="col" class="alignTop">Issuing Organization Attribute Type &amp; Size</th><th scope="col" class="alignTop">Equivalent ISO 9594-6 Attribute</th><th scope="col" class="alignTop">ISO 9594-6 Attribute Type &amp; Size</th><th scope="col" class="width30 alignTop">Description /Explanation of Identifying Information 
+		(ISO 9594 related qualifications enclosed in brackets)</th></tr><tr><th scope="row" class="alignTop">Name of registrant (Legal)</th><td class="alignTop">X(60)</td><td class="alignTop">organization name</td><td class="alignTop">X(64)</td><td class="width30 alignTop">For qualifying information see paragraph C.1.1</td></tr><tr><th scope="row" class="alignTop">Legal status code</th><td class="alignTop">9(2)</td><td class="alignTop"> </td><td class="alignTop"> </td><td class="width30 alignTop">Identifies type of organization (e.g. sole 
+		proprietorship). For applicable codes see paragraph C.2 </td></tr><tr><th scope="row" class="alignTop">Operating, trade or partnership name</th><td class="alignTop">X(60)</td><td class="alignTop">alias</td><td class="alignTop">X(64)</td><td class="width30 alignTop">Variant form of registrant's name</td></tr><tr><th scope="row" class="alignTop">Name of operating entity</th><td class="alignTop">X(60)</td><td class="alignTop">organization unit name</td><td class="alignTop">X(64)</td><td class="width30 alignTop">Known to BN as an account name based on Business 
+		decision</td></tr><tr><th scope="row" class="alignTop">Program Identifier</th><td class="alignTop">X(2)</td><td class="alignTop"> </td><td class="alignTop"> </td><td class="width30 alignTop">For applicable codes see paragraph C.3</td></tr><tr><th scope="row" class="alignTop">Address type</th><td class="alignTop">9(2)</td><td class="alignTop"> </td><td class="alignTop"> </td><td class="width30 alignTop">Type of address (e.g. physical location of 
+		business). For applicable codes see paragraph C.4</td></tr><tr><th scope="row" class="alignTop">Care of Line</th><td class="alignTop">X(30)</td><td class="alignTop">organizational person &amp; role occupant</td><td class="alignTop">X(64)</td><td class="width30 alignTop">name of individual that is an intermediary 
+		for the registrant organization</td></tr><tr><th scope="row" class="alignTop">Address</th><td class="alignTop">2 lines of X(30) each</td><td class="alignTop">street address or<p>postal address</p></td><td class="alignTop">X(128)<p>or</p><p>6 lines @ X(60)</p></td><td class="width30 alignTop">2 lines of street address. For qualifying information 
+		see paragraph C.1.3 [ISO 9594 postal address is typically composed of selected 
+		attributes from the MHS Unformatted Postal O/R Address version 1 CCITT Rec. 
+		F.401] </td></tr><tr><td class="alignTop"> </td><td class="alignTop"> </td><td class="alignTop">post office box</td><td class="alignTop">X(40)</td><td class="width30 alignTop">Included as part of the address but isn't separately 
+		tagged</td></tr><tr><th scope="row" class="alignTop">City</th><td class="alignTop">X(30)</td><td class="alignTop">locality name</td><td class="alignTop">X(128)</td><td class="width30 alignTop">City or country address. For qualifying information 
+		see paragraph C.1.4</td></tr><tr><th scope="row" class="alignTop">Province/State</th><td class="alignTop">X(2) abbreviation</td><td class="alignTop">state or province name</td><td class="alignTop">X(128)</td><td class="width30 alignTop">Canadian province and U.S.A. state abbreviations.</td></tr><tr><th scope="row" class="alignTop">Country code</th><td class="alignTop">X(2)</td><td class="alignTop">country</td><td class="alignTop">X(2)</td><td class="width30 alignTop">ISO 3166 codes only</td></tr><tr><th scope="row" class="alignTop">Postal/zip code</th><td class="alignTop">X(10)</td><td class="alignTop">postal code</td><td class="alignTop">X(40)</td><td class="width30 alignTop">Canadian/U.S.A. postal/zip codes and foreign 
+		postal codes</td></tr><tr><th scope="row" class="alignTop">Individual's status in organization</th><td class="alignTop">X(2)</td><td class="alignTop">role occupant</td><td class="alignTop">X(64)</td><td class="width30 alignTop">A code listed in paragraph C. 5 which is used 
+		to indicate an individual's role (e.g. sole proprietor, contact, etc.)
+		</td></tr><tr><th scope="row" class="alignTop">First name</th><td class="alignTop">X(30)</td><td class="alignTop">given name or initials</td><td class="alignTop">X(64)</td><td class="width30 alignTop">Given name of an individual. For qualifying 
+		information see paragraph C.1.2 </td></tr><tr><th scope="row" class="alignTop">Last name</th><td class="alignTop">X(30)</td><td class="alignTop">surname</td><td class="alignTop">X(64)</td><td class="width30 alignTop">Family name of an individual with a specific 
+		role in the registrant organization. See paragraph C.1.2 for qualifying 
+		information</td></tr><tr><th scope="row" class="alignTop">Title</th><td class="alignTop">X(10)</td><td class="alignTop">title</td><td class="alignTop"> </td><td class="width30 alignTop">Title of an individual</td></tr><tr><th scope="row" class="alignTop">Telephone number</th><td class="alignTop">Area code 9(3) Phone # 9(7).</td><td class="alignTop">telephone number</td><td class="alignTop">9(32)</td><td class="width30 alignTop">Telephone # of an individual within the registrant's 
+		organization</td></tr><tr><th scope="row" class="alignTop">Fax number</th><td class="alignTop">Area code 9(3) Phone # 9(7)</td><td class="alignTop">fax number</td><td class="alignTop">9(32)</td><td class="width30 alignTop">Fax # of an individual within the registrant's 
+		organization</td></tr></table><p>Table B.1 B Required and Shareable Identifying Information</p><p>Note: The first character in columns 2 and 4 designates the data type for the 
+attribute. An X indicates that the data is encoded as an alpha-numeric string and 
+a 9 means that the data is exclusively numeric. Values enclosed in parenthesis following 
+the X or 9 symbols, in columns 2 and 4, indicate the maximum length or field size 
+that has been allocated for that identifying information by the Issuing Organization 
+and ISO 9594-6, respectively.</p><p>Note: The above table includes only the identifying information that is generally 
+required for addressing a message or transaction to its intended recipient. Column 
+one includes identifying information which has been specified by the Issuing Organization 
+for the initial four account types. Other attributes may be added as the BN program 
+matures.</p><p>Note: The values given in column 4 are not an integral part of the ISO 9594 standard 
+and therefore are not mandatory for compliant implementations unless adopted or 
+amended by OSI implementers agreements (e.g. TBITS 6.2, Section 3.2.7 B Directory 
+Services and Appendix 6 B Directory Services Conformance Specifications). Furthermore, 
+these upper bounds will not constrain extensions and modifications which may be 
+needed to maintain or improve the directory service in the future. </p></section></appendix><appendix anchor="C" title="Appendix C - Attribute Values &amp; Transcription Guidelines"><p>This appendix is informative</p><p>Specific transcription guidelines and attribute values have been devised for 
+recording the registrant's identifying information. These rules include coded values 
+and length constraints on textual data which will be enforced by the Issuing Organization 
+as indicated in the following paragraphs.</p><p>The transcription guidelines and attribute values may be updated periodically, 
+as necessary. Clarifications and details concerning these guidelines and coded values 
+are available on a need to know basis from the Issuing Organization or applicable 
+Issuing Agent.</p><section anchor="C.1" title="C.1 Name Abbreviation or Truncation"><p>C.1.1 Names of public and private sector <em><strong>entities</strong></em> (i.e. 
+name of registrant; operating, trade or partnership name, or; name of operating 
+entity) which exceed 60 characters in length will be abbreviated or truncated.</p><p>C.1.2 Names for individuals which exceed 30 characters will be abbreviated or 
+truncated.</p><p>C.1.3 The address information will be structured to display within 2 lines of 
+30 characters each. Since constituent parts of the address such as street name, 
+box number, etc. are not coded as separate attributes, this information will be 
+structured so as to produce the required print image.</p><p>C.1.4 The name of a city (which is intended to mean a geographic area including 
+village, county, etc.) will be abbreviated to 30 characters or less, if necessary. 
+Full names may be matched to the <em><strong>Canada Post Corporation</strong></em> 
+standard to generate an abbreviation for a length of 13 characters or abbreviations 
+may be used for parts of the name (e.g. "Rural municipality of ...." could be abbreviated 
+to "R.M. of ....", if necessary.</p></section><section anchor="C.2" title="C.2 Code Values for Legal Status"><p>The following codes are used to designate the legal status of private and public 
+sector <em>entities</em>:</p><ul class="noBullet"><li>01 sole proprietorship</li><li>02 partnership</li><li>03 corporation</li><li>04 other (description required)</li></ul></section><section anchor="C.3" title="C.3 Code Values for Program Identifiers"><p>The initial set of coded values for programs include:</p><ul class="noBullet"><li>RC corporate income tax</li><li>RM import/export duties</li><li>RP payroll source deductions</li><li>RT goods and services tax</li></ul><p>Additional program identifiers will be defined by the Issuing Organization through 
+consultation with private and public sector entities and taking into consideration: 
+realistic implementation timeframes; legislative requirements; business rules; costs 
+and benefits to registration agencies and registrants alike. Additional program 
+identifiers which have been earmarked for near term activation include the following:</p><ul class="noBullet"><li>VS vendor/supplier of goods and services to government</li><li>VC consignee (government destination/accounting point)</li></ul></section><section anchor="C.4" title="C.4 Code Values for Address Type"><ul class="noBullet"><li>01 business</li><li>02 mailing</li></ul></section><section anchor="C.5" title="C.5 Code Values for Individual's Status in Organization"><ul class="noBullet"><li>01 sole proprietor</li><li>02 contact</li><li>03 representative</li><li>04 confirmation contact</li></ul></section></appendix></appendices></doc>
