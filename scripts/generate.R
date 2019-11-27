@@ -16,8 +16,6 @@
 # };
 # })))
 
-## TODO: Combine alphabetical with hierarchical index?
-
 library(jsonlite)
 
 as_tibble(fromJSON("data/policies-hierarch.json", flatten = TRUE)) %>%
