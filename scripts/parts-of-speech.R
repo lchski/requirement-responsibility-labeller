@@ -23,29 +23,3 @@ requirements_by_word_pos %>%
   select(id, row) %>%
   unique() %>%
   left_join(requirements_tagged_with_responsibles)
-
-
-
-string = 'Colorless green ideas sleep furiously' 
-
-baby_string = requirements_with_tokens %>% ungroup() %>% slice(1:2) %>% pull(text)
-
-initial_result = string %>% 
-  NLP::annotate(list(Maxent_Sent_Token_Annotator(),
-                Maxent_Word_Token_Annotator())) %>% 
-  NLP::annotate(string, Maxent_POS_Tag_Annotator(), .) %>% 
-  subset(type=='word')
-
-init_s_w = NLP::annotate(baby_string, list(Maxent_Sent_Token_Annotator(),
-                                      Maxent_Word_Token_Annotator()))
-pos_res = NLP::annotate(baby_string, Maxent_POS_Tag_Annotator(), init_s_w)
-word_subset = subset(pos_res, type=='word')
-tags = sapply(word_subset$features , '[[', "POS")
-
-baby_pos = tibble(word=baby_string[word_subset], pos=tags) %>% 
-  filter(!str_detect(pos, pattern='[[:punct:]]'))
-
-
-
-
-
