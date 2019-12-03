@@ -1,5 +1,20 @@
 requirements_chapter_titles <- tibble(
-  title = c("Requirements", "Policy requirements", "6 Requirements", "6. Requirements")
+  title = c(
+    "Requirements",
+    "Policy requirements",
+    "6 Requirements",
+    "6. Requirements",
+    "4. Roles, responsibilities, and accountabilities",
+    "7. Policy requirement",
+    "6. Policy requirements",
+    "5. Policy requirements",
+    "5. Requirements",
+    "4. Requirements",
+    "6. Directive requirements",
+    "6.  Requirements",
+    "Directive requirements",
+    "Procedures"
+  )
 ) %>%
   mutate(title = paste0("title=\"", title, "\""))
 
