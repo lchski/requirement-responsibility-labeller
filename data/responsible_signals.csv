@@ -15,6 +15,8 @@ TBS \(CIOB\),5,singular,
 TBS (CIOB),5,singular,
 Treasury Board of Canada Secretariat,6,,will monitor
 Treasury Board of Canada Secretariat,6,,will review
+Treasury Board Secretariat,6,,will monitor
+Treasury Board Secretariat,6,,will review
 Treasury Board of Canada Secretariat (TBS),6,,will review
 Treasury Board of Canada Secretariat \(TBS\),6,,will review
 TBS \(CIOB\),5,,will review
@@ -143,3 +145,5 @@ Departmental leads for classification grievances,63,plural,
 Classification Grievance Committee chairpersons,64,plural,
 Classification Grievance Committees,65,plural,
 Delegates for classification grievances,66,plural,
+"departmental IM Senior Official designated by the deputy head and CIO or equivalent,",8,plural,
+"IM Senior Officials and CIO or equivalent,",8,plural,

@@ -22,4 +22,5 @@ requirements_by_word_pos %>%
   filter(upos != "VERB") %>%
   select(id, row) %>%
   unique() %>%
-  left_join(requirements_tagged_with_responsibles)
+  left_join(requirements_tagged_with_responsibles) %>%
+  filter(id %in% delivery_policies$id)

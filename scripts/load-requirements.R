@@ -52,7 +52,12 @@ missing_reqs <- tribble(
   25875, 4.5, "Web Interoperability, Standard on", "6.2 The senior departmental official, designated by the deputy head, is responsible for:",
   25875, 6.5, "Web Interoperability, Standard on", "6.3 The departmental Chief Information Officer (CIO) or equivalent is responsible for:",
   25875, 8.5, "Web Interoperability, Standard on", "6.4 Centres of Expertise are responsible for:",
-  16553, 0, "Geospatial Data, Standard on", "6.1 Managers and functional specialists responsible for creating or using geospatial data or for systems that use geospatial data are responsible for:"
+  16553, 0, "Geospatial Data, Standard on", "6.1 Managers and functional specialists responsible for creating or using geospatial data or for systems that use geospatial data are responsible for:",
+  26761, 0, "Privacy and Web Analytics, Standard on", "6.1 Heads of government institutions or their delegates are responsible for the following:",
+  26761, 1.5,"Privacy and Web Analytics, Standard on", "6.2 Executives and senior officials who manage programs or activities involving the creation, collection or handling of personal information are responsible for:",
+  26761, 2.5,"Privacy and Web Analytics, Standard on", "6.3 Web managers, functional specialists, Web content owners and equivalents are responsible for:",
+  26761, 3.5,"Privacy and Web Analytics, Standard on", "6.4 The Treasury Board of Canada Secretariat, Chief Information Officer Branch, is responsible for:",
+  26761, 6.5,"Privacy and Web Analytics, Standard on", "6.5 Monitoring and reporting requirements"
 )
 
 requirements_with_tokens <- requirements_with_tokens %>%
