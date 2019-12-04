@@ -1,8 +1,3 @@
-library(NLP)
-library(tm)
-library(openNLP)
-library(openNLPmodels.en)
-
 library(cleanNLP)
 
 cnlp_init_udpipe(model_name="english")
