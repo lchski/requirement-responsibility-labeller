@@ -8,3 +8,9 @@ delivery_policy_reqs %>% write_csv("data/out/delivery.csv")
 delivery_policy_reqs %>%
   filter(str_detect(text, "\\bplan(ned|ning)?\\b")) %>%
   View()
+
+delivery_policy_reqs %>%
+  ungroup() %>%
+  count_group(responsible_actor_standardized) %>%
+  mutate(prop = round(count / sum(count) * 100, 2)) %>%
+  write_csv("data/out/delivery-resp-summary.csv")

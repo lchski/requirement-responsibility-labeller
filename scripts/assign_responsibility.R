@@ -42,7 +42,10 @@ requirements_tagged_with_responsibles <- requirements_with_tokens %>%
       TRUE ~ NA_integer_
     ),
     responsible_actor = case_when(
-      is_clause_describing_responsibility(text) ~ str_extract(text, paste(collapse = "|", responsible_signals %>% pull(actor_suffixed))),
+      is_clause_describing_responsibility(text) ~ str_extract(text, regex(
+        paste(collapse = "|", responsible_signals %>% pull(actor_suffixed)),
+        ignore_case = TRUE
+      )),
       TRUE ~ NA_character_
     )
   ) %>%
