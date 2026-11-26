@@ -48,3 +48,27 @@ def test_role_accuracy(scored):
     print(f"\nrole accuracy {correct.mean():.1%} on {len(resp)} sampled responsibilities")
     print(misses.to_string(max_colwidth=60))
     assert correct.mean() >= MIN_ROLE_ACCURACY
+
+
+MIN_TYPE_ACCURACY = 0.85  # share of sampled items whose responsibility / not-responsibility call matches the hand label
+
+
+def test_llm_item_type_accuracy():
+    """Only runs once the LLM pass has added llm_item_type (python -m labeller.llm)."""
+    path = OUTPUT / "responsibilities.csv"
+    if not path.exists():
+        pytest.skip("no pipeline output")
+    out = pd.read_csv(path, dtype=str).fillna("")
+    if "llm_item_type" not in out:
+        pytest.skip("LLM pass has not run")
+    out["key"] = out.text.map(_key)
+    gold = pd.read_csv(HERE / "gold_sample.csv", dtype=str).fillna("")
+    gold["key"] = gold.text.map(_key)
+    m = gold.merge(out[["id", "key", "llm_item_type"]].drop_duplicates(["id", "key"]), on=["id", "key"])
+    m = m[m.llm_item_type != ""]
+    if len(m) < 20:
+        pytest.skip(f"only {len(m)} sampled items classified so far")
+    agree = (m.llm_item_type == "responsibility") == (m.is_responsibility == "yes")
+    print(f"\nresponsibility classification accuracy {agree.mean():.1%} on {len(m)} sampled items")
+    print(m.loc[~agree, ["id", "is_responsibility", "llm_item_type", "text"]].to_string(max_colwidth=60))
+    assert agree.mean() >= MIN_TYPE_ACCURACY

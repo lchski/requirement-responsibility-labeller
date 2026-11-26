@@ -46,9 +46,23 @@ Key columns in `responsibilities.csv`:
 
 When `output/role_review_queue.csv` shows a phrase that should map to a role, add a row to `data/role_aliases.csv` (`alias,role_id`). Add the shortest form that identifies the role: anything after it becomes the qualifier. If it is a new role, add it to `data/roles.csv` first, with `parent_role_id` if it is a subset of an existing role.
 
+### Optional LLM pass
+
+`python -m labeller.llm` (needs `ANTHROPIC_API_KEY`) runs after the rules pipeline and only fills gaps. It has three jobs:
+
+- **Classify** each item as `responsibility`, `entitlement`, `definition`, `criterion` or `context` (`llm_item_type`). Filter on `llm_item_type == "responsibility"` to drop pay entitlements and descriptive text.
+- **Fill actors** for items the rules left without one (`llm_actor`, `llm_actor_evidence`, mapped to `llm_role`). It may only choose an actor that the same instrument names in an actor statement, and it has to quote its evidence.
+- **Suggest roles** for unmatched actor phrases. These go to `output/role_suggestions.csv` for you to review and copy into `data/role_aliases.csv` or `data/roles.csv`. Nothing is applied automatically.
+
+`role_final` is the rules role where there is one, otherwise the LLM's. `role_source` says which (`rules` or `llm`).
+
+Answers are cached in `data/llm_cache.jsonl`, keyed on a hash of the model, prompt version and item content, and the cache is committed. A scheduled run therefore only sends items that are new or changed. `--max-requests` (default 400, or `LABELLER_LLM_MAX_REQUESTS`) caps each run, and anything over the cap waits for the next run. The model defaults to `claude-opus-5-5` (`LABELLER_MODEL` to change it). Requests turn on the API's server-side fallback, so a safety decline is retried on a fallback model. A request that still ends in a refusal is not cached and is tried again next run.
+
+In GitHub Actions the step runs when the `ANTHROPIC_API_KEY` repository secret is set. Without the secret it still re-applies cached answers, so the `llm_*` columns stay in the output.
+
 ### Known limits
 
-- Items that aren't responsibilities (pay entitlements, definitions, descriptive text in appendices and in some guidelines) are still included. On the hand-labelled sample about 30% of items are of this kind. A classifier for this is planned as a follow-up.
+- The rules keep items that aren't responsibilities (pay entitlements, definitions, descriptive text in appendices and in some guidelines). On the hand-labelled sample about 30% of items are of this kind. The LLM pass labels them in `llm_item_type`.
 - About 17% of items have no actor, mostly appendices written as bare instructions that more than one actor cites.
 - The 31 Directive on Accounting Standards chapters state accounting rules with no actor, so they produce no items.
 
