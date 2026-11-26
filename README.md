@@ -33,11 +33,12 @@ A GitHub Actions workflow (`.github/workflows/refresh.yml`) does the same every 
 | `output/clauses.csv` | clause, including the parent clauses and headings | for rebuilding context |
 | `output/instruments.csv` | instrument in Hawk | capture used, hierarchy path, item counts |
 | `output/role_review_queue.csv` | actor phrase that didn't match a canonical role | work list for `data/role_aliases.csv` |
+| `output/coverage.csv` | instrument TBS lists | newest capture we have vs. the feed date; `is_behind` marks what's missing or out of date |
 | `output/summary.json` | run | headline counts |
 
 Key columns in `responsibilities.csv`:
 
-- `id`, `instrument`, `type`, `version`, `captured`: which instrument and which Hawk capture.
+- `id`, `instrument`, `type`, `version`, `version_date`, `source`: which instrument and which capture. `version_date` is the instrument version's date (TBS's "date modified" for HTML captures). `source` is `xml`, `html` (a page in Hawk's archive) or `snapshot` (a per-change capture folder).
 - `container`, `container_title`, `anchor`, `parent_anchor`, `topic`: where the item sits. `anchor` is TBS's own clause number (e.g. `4.1.2.1`) when the XML has one, so it is stable across versions; unnumbered legacy items get a positional key like `c6#12`.
 - `stem`, `text`: the item, plus the parent clause text it completes ("Ensuring that all communications products are:" + "non-partisan;").
 - `actor_raw`: the responsible actor as written. `actor_how`: `self`, `ancestor`, `fill-down` (older layouts only), or `appendix-reference` (an appendix of bare instructions takes the actor of the clause that cites it). `actor_clause`: the anchor the actor came from.
@@ -46,7 +47,8 @@ Key columns in `responsibilities.csv`:
 
 ## How the Python pipeline works
 
-1. **Index** (`labeller/index.py`): pick the newest capture of each `documentID` in Hawk that is real policy XML (Hawk occasionally saves TBS firewall pages), and join Hawk's hierarchy CSV.
+1. **Index** (`labeller/index.py`): find every usable capture in `data/hawk` and `data/local` (both shaped like Hawk's `data/` folder) and keep the newest version of each instrument. Hawk saved real XML until August 2025. Since then it has mostly saved the HTML page (under `.xml` names) or, when TBS's firewall refused it, a "Request Rejected" page, plus per-change snapshot folders (`<Category>/<id>_<date>/<stamp>.html`). Files are sniffed, not trusted by extension; firewall pages are skipped. For the same version, XML wins over HTML. Only instruments TBS currently lists (Hawk's feed `items.csv`, Hawk's hierarchy CSV, or a scraped `listing.csv` in either root) are kept.
+   **Sources** (`labeller/sources.py`): the HTML page is TBS's rendering of the same XML, with every clause number kept as an element id, so it is mapped back onto the XML element names and parsed by the same code. On 162 instruments with both an XML and an HTML capture of the same version, 99.6% of extracted items are identical (key, text and actor); the rest are encoding glitches in the XML or captures that differ in content.
 2. **Parse** (`labeller/parse.py`): flatten each chapter and appendix into clauses with parent links. Handles both schema generations: nested `<clause>` elements, and the older `<section>` / `<p>` / `<ul>` / `<h4>` layout. Requirements chapters are found by a title pattern (requirement, responsibilit, procedure, standards), not a fixed list. Appendices are kept when their title says mandatory, standard, requirement or procedure, or when they name an actor.
 3. **Actors** (`labeller/actors.py`): an actor statement is recognized by sentence shape ("X is/are responsible for", "X is to", "X must", "X ensures that") and kept only if the subject is a role (its head noun is from a general list: head, officer, manager, secretariat...). Each clause inherits the actor of its nearest ancestor that names one.
 4. **Roles** (`labeller/roles.py`): map the actor phrase onto `data/roles.csv` through `data/role_aliases.csv`, by longest alias that is a prefix of the phrase after normalizing case, plurals, parentheticals and "or their delegates". Role ids 1 to 74 are the 2019 actors; later ids were added in 2026.
@@ -74,6 +76,7 @@ In GitHub Actions the step runs when the `ANTHROPIC_API_KEY` repository secret i
 
 - The rules keep items that aren't responsibilities (pay entitlements, definitions, descriptive text in appendices and in some guidelines). On the hand-labelled sample about 30% of items are of this kind. The LLM pass labels them in `llm_item_type`.
 - About 17% of items have no actor, mostly appendices written as bare instructions that more than one actor cites.
+- `output/coverage.csv` lists instruments TBS lists that have no capture (many are listed only in the hierarchy, so Hawk doesn't watch them) or whose capture is older than the feed date. Fetching those into `data/local` fills the gaps.
 - The 31 Directive on Accounting Standards chapters state accounting rules with no actor, so they produce no items.
 
 ## Original R version (2019)

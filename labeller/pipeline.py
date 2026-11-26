@@ -1,23 +1,21 @@
-"""Run every stage: Hawk XML -> clauses, responsibilities, instruments and a role review queue."""
+"""Run every stage: captured XML/HTML -> clauses, responsibilities, instruments and a role review queue."""
 import json
 from pathlib import Path
 
 import pandas as pd
-from lxml import etree
-
-from . import actors, enrich, parse
-from .index import build_index
+from . import actors, enrich, parse, sources
+from .index import build_index, coverage
 from .roles import RoleMap, norm_key
 
 CLAUSE_COLUMNS = [
-    "id", "instrument", "type", "version", "captured", "container", "container_title", "anchor", "parent_anchor",
+    "id", "instrument", "type", "version", "version_date", "source", "container", "container_title", "anchor", "parent_anchor",
     "depth", "kind", "topic", "is_item", "actor_raw", "actor_how", "actor_clause", "role_id", "role", "role_parent",
     "role_qualifier", "modality", "frequency", "other_actors", "links", "stem", "text",
 ]
 
 
 def extract_instrument(inst):
-    doc = etree.parse(inst["path"]).getroot()
+    doc = sources.load_doc(inst["path"], "xml" if inst["source"] == "xml" else "html", inst["id"])
     rows = []
     for kind, el, title, title_match in parse.containers(doc):
         nodes = parse.parse_container(el, f"{kind[0]}{el.get('anchor') or ''}")
@@ -27,9 +25,11 @@ def extract_instrument(inst):
         if not (title_match or (kind == "appendix" and any(n["actor_here"] for n in nodes))):
             continue
         for n in nodes:
+            if n["topic"] and parse.NON_REQUIREMENT_TOPIC.match(n["topic"]):
+                continue
             rows.append(dict(
                 id=inst["id"], instrument=inst["title"], type=inst["folder"], version=inst["version"],
-                captured=inst["captured"], container=kind, container_title=title, anchor=n["key"],
+                version_date=inst["version_date"], source=inst["source"], container=kind, container_title=title, anchor=n["key"],
                 parent_anchor=n["parent_key"], depth=n["depth"], kind=n["kind"], topic=n["topic"] or None,
                 is_item=not n["has_children"] and n["kind"] != "heading", actor_raw=n["actor_raw"],
                 actor_how=n["actor_how"], actor_clause=n["actor_clause"], links=" ".join(n["links"]) or None,
@@ -38,10 +38,10 @@ def extract_instrument(inst):
     return rows
 
 
-def run(hawk_dir, out_dir, roles_csv="data/roles.csv", aliases_csv="data/role_aliases.csv"):
+def run(roots, out_dir, roles_csv="data/roles.csv", aliases_csv="data/role_aliases.csv"):
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
-    idx = build_index(hawk_dir)
+    idx = build_index(roots)
     rows = []
     for inst in idx.to_dict("records"):
         rows.extend(extract_instrument(inst))
@@ -84,6 +84,11 @@ def run(hawk_dir, out_dir, roles_csv="data/roles.csv", aliases_csv="data/role_al
         items_with_actor=int(items.actor_raw.notna().sum()), items_with_role=int(items.role.notna().sum()),
         distinct_roles=int(items.role.nunique()), unmatched_phrases=len(queue),
     )
-    summary["hawk_latest_capture"] = str(idx.captured.max()) if len(idx) else None
+    summary["latest_version_date"] = str(idx.version_date.max()) if len(idx) else None
+    summary["instruments_by_source"] = {k: int(v) for k, v in idx.source.value_counts().sort_index().items()}
+    cov = coverage(roots)
+    summary["listed_instruments"] = len(cov)
+    summary["listed_behind_or_missing"] = int(cov.is_behind.sum())
+    cov.to_csv(out / "coverage.csv", index=False)
     (out / "summary.json").write_text(json.dumps(summary, indent=2) + "\n")
     return summary

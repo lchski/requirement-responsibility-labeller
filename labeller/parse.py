@@ -16,6 +16,11 @@ REQUIREMENT_CHAPTER = re.compile(r"requirement|responsibilit|procedure|^\W*[\d.]
 # "Roles of other government organizations" describes other bodies' mandates, not this instrument's requirements.
 OTHER_ORGS_CHAPTER = re.compile(r"roles (and responsibilities )?of (other )?government organi", re.I)
 REQUIREMENT_APPENDIX = re.compile(r"mandatory|standard|requirement|procedure", re.I)
+# A standard published on its own: "Appendix I. Standard on Security Event Reporting" in the HTML, "Standard on
+# Security Event Reporting" in the XML. Judged like an appendix title.
+APPENDIX_TITLE = re.compile(r"^\W*(appendix|standard)\b", re.I)
+# Sub-sections of a requirements container that hold no requirements ("I.1 Effective date" in a standard).
+NON_REQUIREMENT_TOPIC = re.compile(r"^\W*[A-Z]?[\d.]*\W*(effective date|application|authorit(y|ies)|definitions|references|enquiries|context|objectives? and expected results)\W*$", re.I)
 LEADING_NUMBER = re.compile(r"^\(?(\d+(?:\.\d+)+)\.?\)?\s+")
 
 
@@ -23,8 +28,11 @@ def _heading_text(section):
     title = fix_text(section.get("title", ""))
     if title:
         return title
-    header = section.find("header")
-    return fix_text(etree.tostring(header, method="text", encoding="unicode")) if header is not None else ""
+    for name in ("header", "title"):  # <title> is used by nested appendices ("A.1 Effective date")
+        child = section.find(name)
+        if child is not None:
+            return fix_text(etree.tostring(child, method="text", encoding="unicode", with_tail=False))
+    return ""
 
 
 def _links(el):
@@ -62,7 +70,7 @@ class _Builder:
                     node = self.add(child, text, base_parent, base_depth, topic, "heading")
                     parent, depth, last_p = node["idx"], base_depth + 1, None
                 continue
-            if tag == "section":
+            if tag in ("section", "appendix", "chapter"):  # nested <chapter>/<appendix> elements are sub-sections
                 heading = _heading_text(child)
                 if heading:
                     node = self.add(child, heading, parent, depth, topic, "heading", child.get("anchor"))
@@ -98,10 +106,18 @@ class _Builder:
 def containers(doc):
     """Yield (kind, element, title, title_says_requirements) for every chapter and appendix."""
     for ch in doc.iter("chapter"):
-        title = fix_text(ch.get("title", ""))
-        yield "chapter", ch, title, bool(REQUIREMENT_CHAPTER.search(title)) and not OTHER_ORGS_CHAPTER.search(title)
+        if ch.getparent() is not None and ch.getparent().tag == "chapter":
+            continue  # nested chapters ("5.1 Objective" inside "5. Directive statement") are walked with their parent
+        title = _heading_text(ch)
+        if APPENDIX_TITLE.match(title):
+            match = bool(REQUIREMENT_APPENDIX.search(title))
+        else:
+            match = bool(REQUIREMENT_CHAPTER.search(title)) and not OTHER_ORGS_CHAPTER.search(title)
+        yield "chapter", ch, title, match
     for ap in doc.iter("appendix"):
-        title = fix_text(ap.get("title", ""))
+        if ap.getparent() is not None and ap.getparent().tag == "appendix":
+            continue  # nested appendices are sub-sections of their parent, walked with it
+        title = _heading_text(ap)
         yield "appendix", ap, title, bool(REQUIREMENT_APPENDIX.search(title))
 
 
@@ -112,7 +128,7 @@ def parse_container(el, prefix):
     nodes = b.nodes
     used = set()
     for n in nodes:
-        key = n["anchor"] or f"{prefix}#{n['idx']}"
+        key = fix_text(n["anchor"]) or f"{prefix}#{n['idx']}"
         if key in used:
             key = f"{key}~{n['idx']}"
         used.add(key)
