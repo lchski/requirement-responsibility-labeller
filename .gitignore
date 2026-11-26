@@ -8,3 +8,6 @@ data/hawk
 __pycache__/
 .pytest_cache/
 .venv/
+
+# Built by explorer/build.py
+explorer/site/data/
