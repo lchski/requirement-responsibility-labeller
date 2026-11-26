@@ -26,7 +26,9 @@ from pydantic import BaseModel
 
 from .roles import RoleMap
 
-MODEL = os.environ.get("LABELLER_MODEL", "claude-opus-5-5")
+MODEL = os.environ.get("LABELLER_MODEL", "claude-haiku-5-5")
+# Models that accept the server-side refusal fallback (Haiku has none; a refusal is simply not cached).
+FALLBACK_MODELS = ("claude-opus-5-5", "claude-opus-5", "claude-sonnet-5-5", "claude-fable-5-2", "claude-fable-5-1")
 PROMPT_VERSION = "1"
 CLASSIFY_BATCH = 40   # items per request
 ACTOR_BATCH = 25
@@ -146,15 +148,20 @@ class Cache:
 
 
 def anthropic_caller(effort):
-    """Return call(system, user, schema) -> parsed model or None (refusal). Imported lazily so the
-    rules pipeline and tests don't need the SDK or an API key."""
+    """Return call(system, user, schema) -> parsed model or None (refusal). The SDK is imported and the
+    client created on first use, so the rules pipeline, tests and cache-only runs need neither.
+    call.usage accumulates the tokens reported by the API."""
     client = None
+    usage = {"input_tokens": 0, "output_tokens": 0}
 
     def call(system, user, schema):
         nonlocal client
-        if client is None:  # created on first use, so a run served entirely from cache needs no key
+        if client is None:
             import anthropic
             client = anthropic.Anthropic()
+        extra = {}
+        if MODEL in FALLBACK_MODELS:
+            extra = dict(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
         response = client.beta.messages.parse(
             model=MODEL,
             max_tokens=16000,
@@ -162,13 +169,15 @@ def anthropic_caller(effort):
             messages=[{"role": "user", "content": user}],
             output_format=schema,
             output_config={"effort": effort},
-            betas=["server-side-fallback-2026-07-01"],
-            fallbacks="default",  # on a policy decline, the API retries on a fallback model
+            **extra,
         )
+        usage["input_tokens"] += response.usage.input_tokens or 0
+        usage["output_tokens"] += response.usage.output_tokens or 0
         if response.stop_reason == "refusal":
             return None
         return response.parsed_output
 
+    call.usage = usage
     return call
 
 
@@ -231,7 +240,7 @@ def classify(items, cache, call, budget, workers):
             pending.append(p)
     batches = []
     for chunk in _chunks(pending, CLASSIFY_BATCH):
-        user = "Label these items:\n" + json.dumps(chunk, ensure_ascii=False, indent=1)
+        user = "Label these items:\n" + json.dumps(chunk, ensure_ascii=False, separators=(",", ":"))
         batches.append((tuple(p["key"] for p in chunk), CLASSIFY_SYSTEM, user, ClassifyOut))
     results = _run_batches([(json.dumps(k), s, u, sc) for k, s, u, sc in batches], call, budget, workers)
     for kjson, out in results.items():
@@ -272,8 +281,8 @@ def fill_actors(items, clauses, cache, call, budget, workers):
         by_inst.setdefault(iid, (candidates, names, []))[2].append((p, ck))
     for iid, (candidates, names, rows) in by_inst.items():
         for chunk in _chunks(rows, ACTOR_BATCH):
-            user = ("Candidate actors named in this instrument:\n" + json.dumps(candidates, ensure_ascii=False, indent=1)
-                    + "\n\nItems:\n" + json.dumps([p for p, _ in chunk], ensure_ascii=False, indent=1))
+            user = ("Candidate actors named in this instrument:\n" + json.dumps(candidates, ensure_ascii=False, separators=(",", ":"))
+                    + "\n\nItems:\n" + json.dumps([p for p, _ in chunk], ensure_ascii=False, separators=(",", ":")))
             bk = Cache.key("actors-batch", [ck for _, ck in chunk])
             meta[bk] = (names, {p["key"]: ck for p, ck in chunk})
             batches.append((bk, ACTOR_SYSTEM, user, ActorOut))
@@ -305,7 +314,7 @@ def suggest_roles(phrases, roles, cache, call, budget, workers):
     batches, meta = [], {}
     for chunk in _chunks(pending, ROLE_BATCH):
         user = ("Existing roles:\n" + role_json + "\n\nUnmatched phrases:\n"
-                + json.dumps([p for p, _ in chunk], ensure_ascii=False, indent=1))
+                + json.dumps([p for p, _ in chunk], ensure_ascii=False, separators=(",", ":")))
         bk = Cache.key("roles-batch", [ck for _, ck in chunk])
         meta[bk] = dict(chunk)
         batches.append((bk, ROLE_SYSTEM, user, RoleOut))
@@ -381,6 +390,12 @@ def run(out_dir="output", cache_path="data/llm_cache.jsonl", roles_csv="data/rol
     if "llm_actor" in items:
         llm["actors_filled"] = int(items.llm_actor.notna().sum())
         llm["items_with_role_final"] = int(items.role_final.notna().sum())
+    usage = {}
+    for c in {id(c): c for c in call.values()}.values():
+        for k, v in getattr(c, "usage", {}).items():
+            usage[k] = usage.get(k, 0) + v
+    if usage:
+        llm["usage"] = usage
     summary["llm"] = llm
     summary_path.write_text(json.dumps(summary, indent=2) + "\n")
     return llm
