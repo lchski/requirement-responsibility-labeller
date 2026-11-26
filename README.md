@@ -100,7 +100,7 @@ In GitHub Actions the step runs when the `ANTHROPIC_API_KEY` repository secret i
 
 - The rules keep items that aren't responsibilities (pay entitlements, definitions, descriptive text in appendices and in some guidelines). On the hand-labelled sample about 30% of items are of this kind. The LLM pass labels them in `llm_item_type`.
 - About 17% of items have no actor, mostly appendices written as bare instructions that more than one actor cites.
-- `output/coverage.csv` lists instruments TBS lists that have no capture (many are listed only in the hierarchy, so Hawk doesn't watch them) or whose capture is older than the feed date. Fetching those into `data/local` fills the gaps.
+- `output/coverage.csv` lists instruments TBS lists that have no capture (many are listed only in the hierarchy, so Hawk doesn't watch them) or whose capture is older than the feed date. Fetching those into `data/local` fills the gaps; `uv run python -m labeller.gaps` does that from your own machine (see above).
 - The 31 Directive on Accounting Standards chapters state accounting rules with no actor, so they produce no items.
 
 ## Original R version (2019)

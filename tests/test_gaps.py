@@ -115,3 +115,8 @@ def test_main_fetches_gaps_then_falls_back_to_browser(tmp_path, monkeypatch, cap
     assert "2 instrument(s) to fetch" in out and "missing" in out and "behind: have 2026-01-01" in out
     assert (tmp_path / "Directive" / "111_2026-09-04").is_dir()
     assert "Fetch the rest in your browser" in out and gaps.doc_url(222) in out and gaps.doc_url(111) not in out.split("browser")[1]
+
+
+def test_fetch_instrument_non_instrument_page_is_skippable(tmp_path):
+    with pytest.raises(gaps.NotAnInstrument):
+        gaps.fetch_instrument(111, tmp_path, fetch=lambda url: "<html><body>Moved</body></html>", delay=0)

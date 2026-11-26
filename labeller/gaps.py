@@ -51,6 +51,10 @@ class Blocked(Exception):
     """TBS answered with its firewall page (or an error) instead of the page we asked for."""
 
 
+class NotAnInstrument(Exception):
+    """TBS answered, but not with an instrument page (e.g. an id that redirects elsewhere)."""
+
+
 def doc_url(doc_id, section="html"):
     return f"{BASE}doc-eng.aspx?id={doc_id}&section={section}"
 
@@ -161,9 +165,11 @@ def fetch_instrument(doc_id, local_dir, category="", fetch=None, delay=3.0, newe
     page isn't newer than `newer_than`."""
     fetch = fetch or get
     html = fetch(doc_url(doc_id, "html"))
+    if "Request Rejected" in html[:500]:
+        raise Blocked(f"id {doc_id}: TBS firewall rejected the request")
     info = inspect_page(html)
     if info is None or info["id"] != str(doc_id):
-        raise Blocked(f"id {doc_id}: TBS returned something that isn't the instrument's page")
+        raise NotAnInstrument(f"id {doc_id}: TBS's page isn't a policy instrument page; skipped")
     info["category"] = category or info["category"]  # Hawk's feed knows types that titles don't show
     if newer_than and info["date"] <= newer_than:
         return info, []
@@ -250,7 +256,7 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     hawk = Path(args.hawk)
-    roots = [hawk / "data" if (hawk / "data").is_dir() else hawk, Path(args.local)]
+    roots = [hawk, Path(args.local)]
     if args.imports:
         cov = find_gaps(roots, check_all=True)
         cats = {str(i): c for i, c in zip(cov["id"], cov["category"].fillna("")) if c}
@@ -262,7 +268,8 @@ def main(argv=None):
         refresh_listing(args.local)
     cov = find_gaps(roots, check_all=args.check_all)
     rows = cov.fillna("").astype(str).to_dict("records")
-    rows = [dict(r, best_date=r.get("best_date", ""), feed_date=r.get("feed_date", "")) for r in rows]
+    rows = [dict(r, title=strip_tags(r.get("title", "")), category=r.get("category") or category_for(r.get("title")),
+                 best_date=r.get("best_date", ""), feed_date=r.get("feed_date", "")) for r in rows]
     if args.check_all:
         print(f"Checking all {len(rows)} instruments against TBS ({args.delay:.0f}s apart).")
     else:
@@ -275,6 +282,9 @@ def main(argv=None):
         try:
             info, paths = fetch_instrument(r["id"], args.local, category=r.get("category", ""), delay=args.delay,
                                            newer_than=r["best_date"] if args.check_all else "")
+        except NotAnInstrument as e:
+            print(f"! {e}", file=sys.stderr)
+            continue
         except Blocked as e:
             print(f"! {e}", file=sys.stderr)
             print_browser_fallback(rows[i:], args.local)
