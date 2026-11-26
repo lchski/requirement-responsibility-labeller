@@ -4,14 +4,24 @@ _Way cooler than it sounds._
 
 ## Quick start
 
-The current pipeline is Python (3.10+). It reads policy XML archived by [TBS Policy Hawk](https://github.com/PatLittle/TBS-Policy-Hawk) and writes CSVs to `output/`.
+The current pipeline is Python (3.10+). It reads policy XML archived by [TBS Policy Hawk](https://github.com/PatLittle/TBS-Policy-Hawk) and writes CSVs to `output/`. Dependencies are managed with [uv](https://docs.astral.sh/uv/) (`pyproject.toml`, pinned in `uv.lock`).
 
 ```sh
-pip install -r requirements.txt
-scripts/fetch-hawk.sh            # sparse checkout of Hawk's XML into data/hawk (run again to refresh)
-python -m labeller               # writes output/*.csv and output/summary.json
-python -m pytest -q tests        # unit tests + accuracy on a hand-labelled sample
+uv sync                                   # creates .venv with the pinned dependencies (and a Python, if needed)
+scripts/fetch-hawk.sh                     # sparse checkout of Hawk's XML into data/hawk (run again to refresh)
+uv run python -m labeller                 # writes output/*.csv and output/summary.json
+uv run pytest                             # unit tests + accuracy on a hand-labelled sample
 ```
+
+To run the optional LLM pass locally (see below), set your key first:
+
+```sh
+export ANTHROPIC_API_KEY=...
+uv run python -m labeller.llm             # fills gaps; uses the committed cache, so only new items cost anything
+uv run python -m labeller.llm --max-requests 0   # re-apply cached answers only, no API calls
+```
+
+To add or upgrade a dependency, use `uv add <package>` or `uv lock --upgrade` and commit both `pyproject.toml` and `uv.lock`.
 
 A GitHub Actions workflow (`.github/workflows/refresh.yml`) does the same every day and commits `output/` when it changes, so the git history of `output/responsibilities.csv` doubles as a record of how responsibilities change.
 
@@ -48,7 +58,7 @@ When `output/role_review_queue.csv` shows a phrase that should map to a role, ad
 
 ### Optional LLM pass
 
-`python -m labeller.llm` (needs `ANTHROPIC_API_KEY`) runs after the rules pipeline and only fills gaps. It has three jobs:
+`uv run python -m labeller.llm` (needs `ANTHROPIC_API_KEY`) runs after the rules pipeline and only fills gaps. It has three jobs:
 
 - **Classify** each item as `responsibility`, `entitlement`, `definition`, `criterion` or `context` (`llm_item_type`). Filter on `llm_item_type == "responsibility"` to drop pay entitlements and descriptive text.
 - **Fill actors** for items the rules left without one (`llm_actor`, `llm_actor_evidence`, mapped to `llm_role`). It may only choose an actor that the same instrument names in an actor statement, and it has to quote its evidence.
