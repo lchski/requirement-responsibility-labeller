@@ -5,3 +5,5 @@ data/out
 .Ruserdata
 .ipynb_checkpoints
 data/hawk
+__pycache__/
+.pytest_cache/
