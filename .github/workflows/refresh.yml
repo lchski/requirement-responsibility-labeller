@@ -6,11 +6,14 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["labeller/**", "data/roles.csv", "data/role_aliases.csv", "scripts/fetch-hawk.sh", ".github/workflows/refresh.yml"]
+    paths: ["labeller/**", "data/roles.csv", "data/role_aliases.csv", "tests/**", "scripts/fetch-hawk.sh", "pyproject.toml", "uv.lock", ".github/workflows/refresh.yml"]
   pull_request:
 
 permissions:
   contents: write
+
+env:
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
 concurrency:
   group: refresh-${{ github.ref }}
@@ -22,31 +25,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.12"
-          cache: pip
+          enable-cache: true
 
-      - run: pip install -r requirements.txt
+      - run: uv sync --locked
 
       - name: Fetch policy XML from TBS Policy Hawk
         run: scripts/fetch-hawk.sh data/hawk
 
       - name: Extract responsibilities
-        run: python -m labeller --hawk data/hawk --out output
+        run: uv run python -m labeller --hawk data/hawk --out output
+
+      # With the secret set, new or changed items go to the API (capped per run). Without it, the step
+      # still re-applies cached answers so the llm_* columns don't drop out of the committed output.
+      - name: LLM pass
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ] && [ "${{ github.event_name }}" != "pull_request" ]; then
+            uv run python -m labeller.llm --out output
+          else
+            uv run python -m labeller.llm --out output --max-requests 0
+          fi
 
       - name: Test (unit tests and accuracy on the hand-labelled sample)
-        run: python -m pytest -q -s tests
+        run: uv run python -m pytest -q -s tests
 
       - name: Commit refreshed output
         if: github.event_name != 'pull_request'
         run: |
-          if git diff --quiet -- output; then
+          git add output
+          if [ -f data/llm_cache.jsonl ]; then git add data/llm_cache.jsonl; fi
+          if git diff --cached --quiet; then
             echo "No changes to output."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898281+github-actions[bot]@users.noreply.github.com"
-          git add output
           git commit -m "Refresh responsibilities from Hawk ($(date -u +%Y-%m-%d))"
           git push
