@@ -1,0 +1,52 @@
+name: Refresh responsibilities
+
+on:
+  schedule:
+    - cron: "17 11 * * *"  # daily, about 6 AM Eastern; Hawk itself updates three times a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["labeller/**", "data/roles.csv", "data/role_aliases.csv", "scripts/fetch-hawk.sh", ".github/workflows/refresh.yml"]
+  pull_request:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch policy XML from TBS Policy Hawk
+        run: scripts/fetch-hawk.sh data/hawk
+
+      - name: Extract responsibilities
+        run: python -m labeller --hawk data/hawk --out output
+
+      - name: Test (unit tests and accuracy on the hand-labelled sample)
+        run: python -m pytest -q -s tests
+
+      - name: Commit refreshed output
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- output; then
+            echo "No changes to output."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898281+github-actions[bot]@users.noreply.github.com"
+          git add output
+          git commit -m "Refresh responsibilities from Hawk ($(date -u +%Y-%m-%d))"
+          git push

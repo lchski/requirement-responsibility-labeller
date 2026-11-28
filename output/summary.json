@@ -1,0 +1,10 @@
+{
+  "instruments": 184,
+  "instruments_with_items": 125,
+  "items": 7248,
+  "items_with_actor": 5982,
+  "items_with_role": 5433,
+  "distinct_roles": 79,
+  "unmatched_phrases": 93,
+  "hawk_latest_capture": "2025-08-29"
+}

@@ -1,0 +1,104 @@
+role_id,role,parent_role_id
+1,Secretary of the Treasury Board,
+2,Deputy heads,
+3,Chief Information Officer of the Government of Canada,
+4,Departmental Chief Information Officers,
+5,TBS-OCIO,
+6,TBS,
+7,Deputy heads with national or policy responsibilities related to information technology,
+8,Departmental Information Management Senior Official,
+9,Departmental Email Administrator,
+10,Departmental Head of Human Resources,
+11,Departmental Delegated Email Administrator,
+12,Managers,
+13,Employees,
+14,"Web managers, functional specialists, Web content owners and equivalents",
+15,Senior departmental officials,
+16,Departmental Head of Communications,
+17,Centres of Expertise,
+18,Deputy heads of lead security agencies,
+19,Deputy head of SSC,
+20,Departmental designated official for cyber security,
+21,Departmental designated official for service,
+22,Heads of government institutions,
+23,FSCI authorized official,
+24,Comptroller General of Canada,
+25,Departmental Audit Committees,
+26,Program and service delivery managers,12
+27,Departmental Chief Financial Officer,
+28,Managers of designated offices,12
+29,"Employees with the respective authorities to initiate, sign or confirm fulfillment of contracts",13
+30,Managers in central and common services agencies,12
+31,Deputy heads of departments that have an internal audit function,2
+32,Deputy heads of departments that do not have an internal audit function,2
+33,Employees who participate in telework,13
+34,Project sponsor,
+35,Designated security individuals,
+36,Security functional specialists,
+37,Designated security senior officials,
+38,Departmental chief security officer,
+39,Departmental senior designated official for the management of projects and programmes,
+40,Assistant deputy ministers,
+41,Departmental senior officials and executives,
+42,Managers and functional specialists responsible for creating or using geospatial data or for systems that use geospatial data,
+43,Ministers,22
+44,Receiver General,
+45,Departmental heads of evaluation,
+46,Program officials,
+47,Departmental heads of performance measurement,
+48,Departmental Performance Measurement and Evaluation Committee,
+49,Departmental Fire Protection Coordinator,
+50,Employees with sub-delegated classification authority,
+51,Departmental chief audit executive,
+52,Technical authorities (contracting),54
+53,Contracting authorities,54
+54,"Business owners [contracting technical authorities], contracting authorities, and designated real property officials",
+55,Designated real property officials,
+56,Departmental managers with delegated authority to administer imprest bank accounts,12
+57,Deputy heads with national or policy responsibilities related to information management,2
+58,Information management functional specialists,
+59,TBS-OCHRO,
+60,Office and facility planners and managers,12
+61,Human Resources Advisors,
+62,Individuals designated by deputy heads of internal enterprise service organizations to oversee their internal enterprise service activities,
+63,Departmental leads for classification grievances,
+64,Classification Grievance Committee chairpersons,
+65,Classification Grievance Committees,
+66,Delegates for classification grievances,
+67,Departments,
+68,Canada School of Public Service,
+69,Required Training Coordinator,
+70,TB,
+71,TB President,
+72,Chief Human Resources Officer,
+73,President of the Canada School of Public Service,
+74,Heads of government institutions or authorized delegate(s),22
+75,Materiel management practitioners,
+76,Departmental managers,12
+77,Executives,
+78,Persons with delegated authority,
+79,Senior departmental managers,12
+80,Individuals,
+81,Real property practitioners,
+82,Approval authorities,
+83,Senior designated officials,
+84,Senior designated official for the management of procurement,83
+85,Senior designated official for the management of materiel,83
+86,Senior designated official for the management of real property,83
+87,Senior designated official for the management of financial management systems,83
+88,Responsible ministers,43
+89,Sponsoring ministers,43
+90,Delegated managers,12
+91,Employing organizations,67
+92,Cardholders,
+93,Compensation advisors,
+94,Departmental travel card coordinators,
+95,Departmental acquisition card coordinators,
+96,Responsibility centre managers,12
+97,Shared Services Canada,
+98,Public Services and Procurement Canada,
+99,Indigenous Services Canada,
+100,Common service providers,
+101,Functional specialists,
+102,Travellers,13
+103,Subject-matter experts,
