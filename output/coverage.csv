@@ -1,239 +1,245 @@
 id,title,category,feed_date,best_date,best_source,best_path,is_behind,listed_in
-32691,Directive on the Management of Real Property,Directive,2026-09-29,2026-07-24,snapshot,data/hawk/data/Directive/32691_2026-07-24/20260725T014912Z.html,True,feed hierarchy
-32692,Directive on the Management of Procurement,Directive,2026-09-04,2026-07-27,snapshot,data/hawk/data/Directive/32692_2026-07-27/20260731T012803Z.html,True,feed hierarchy
-32838,"Section 91 of the <em>Official Languages Act</em>: How to Determine the Linguistic Identification and Linguistic Profile of Positions, Guidelines on",Guidelines,2026-08-18,,,,True,feed
-32785,Guidelines on Making Communications Products and Activities Diverse and Inclusive,Guidelines,2026-06-19,2023-12-20,xml,data/hawk/data/Guideline/Making_Communications_Products_and_Activities_Diverse_and_Inclusive__Guidelines_on_32785_2023-12-20.xml,True,feed hierarchy
-27088,Standard on Optimizing Websites and Applications for Mobile Devices,Standard,2026-03-02,2013-04-01,xml,data/hawk/data/Standard/Optimizing_Websites_and_Applications_for_Mobile_Devices__Standard_on_27088_2013-04-01.xml,True,feed hierarchy
-32825,"Exceptional Contracting Limit for Sustained Emergencies of National Importance, Guide on the",Guide,2026-01-15,,,,True,feed hierarchy
-12133,Salary Administration  – University Teachers (UT) (Employer/Union Agreement) (#658),,,,,,True,hierarchy
-12135,"Travel Authorities, Special",,,,,,True,hierarchy
-12169,Review of Memorandum to Cabinet - Expenditure Management System (EMS) - SFO sign-off - Information Notice,,,,,,True,hierarchy
-12182,Financial Information Strategy Accounting Manual,,,,,,True,hierarchy
-12315,Federal Identity Program Manual,,,,,,True,hierarchy
-12358,Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996,,,,,,True,hierarchy
-12360,"Treatment of Access to Information Requests for Audit Information (PIN) - July 1, 1984",,,,,,True,hierarchy
-12364,Manager's Guide to Operating Budgets,,,,,,True,hierarchy
-12522,Bilingualism Bonus Directive,,,,,,True,hierarchy
-13593,Work Force Adjustment Directive,,,,,,True,hierarchy
-13605,Uniforms Directive,,,,,,True,hierarchy
-13607,"Ministers' Offices, Policies for",,,,,,True,hierarchy
-13608,Motor Vehicle Operations Directive,,,,,,True,hierarchy
-13856,Travel Directive,,,,,,True,hierarchy
-15771,"Terms and Conditions of Employment, Policy on",,,,,,True,hierarchy
-25049,Values and Ethics Code for the Public Sector,,,,,,True,hierarchy
-28305,"Classification of Procurement Items, Data Standard on",,,,,,True,hierarchy
-28698,"Classification Grievances, Directive on",,,,,,True,hierarchy
-32556,"Rapid Impact Evaluation, Guide to",,,,,,True,hierarchy
-32581,"Claims, Guide to",,,,,,True,hierarchy
-32582,"Interest and Administrative Charges, Guide to",,,,,,True,hierarchy
-32583,"Administering Low-Value Amounts,Guide to",,,,,,True,hierarchy
-32612,"Standard on Identity and Credential Assurance, Directive on Identity Management  - Appendix A",,,,,,True,hierarchy
-32623,"Performance Pay Administration for Certain Senior Excluded and Unrepresented Groups and Levels, Directive on",,,,,,True,hierarchy
-32627,"Conflict of Interest, Directive on",,,,,,True,hierarchy
-32629,"Term Employment, Directive on",,,,,,True,hierarchy
-32630,"Building Emergency and Evacuation Teams, Directive on",,,,,,True,hierarchy
-32632,"Occupational Health Evaluations, Directive on",,,,,,True,hierarchy
-32635,"Employment Equity, Diversity and Inclusion, Directive on",,,,,,True,hierarchy
-32637,"Performance and Talent Management for Executives, Directive on",,,,,,True,hierarchy
-32638,"Student Employment, Directive on",,,,,,True,hierarchy
-32639,"Employee Assistance Programs, Directive on",,,,,,True,hierarchy
-32648,"Internal Charging and Special Financial Authorities, Guide to",,,,,,True,hierarchy
-32666,Respectful Workplace Policy—Office of the Prime Minister and Ministers’ Offices,,,,,,True,hierarchy
-32668,"Service and Digital, Guideline on",,,,,,True,hierarchy
-32673,"Debt Deletion, Guide to",,,,,,True,hierarchy
-32701,Design Standard for the Federal Identity Program,,,,,,True,hierarchy
-32733,Principles for Assisting Requesters,,,,,,True,hierarchy
-32774,Algorithmic Impact Assessment tool,,,,,,True,hierarchy
-32776,GC Enterprise Data Reference Standards,,,,,,True,hierarchy
-32789,"Scope of the Directive on Automated Decision-Making, Guide on the",,,,,,True,hierarchy
-32827,Real Property Policy Notices,,,,,,True,hierarchy
-32594,Directive on the Management of Projects and Programmes,Directive,2026-11-19,2026-11-19,snapshot,data/hawk/data/Directive/32594_2026-11-19/20261120T033541Z.html,False,feed hierarchy
-32593,Policy on the Planning and Management of Investments,Policy,2026-07-24,2026-07-24,snapshot,data/hawk/data/Policy/32593_2026-07-24/20260725T014727Z.html,False,feed hierarchy
-14208,Directive on Transfer Payments,Directive,2026-07-13,2026-07-13,snapshot,data/hawk/data/Directive/14208_2026-07-13/20260713T235223Z.html,False,feed hierarchy
-32749,Directive on Digital Talent,Directive,2026-07-06,2026-07-06,snapshot,data/hawk/data/Directive/32749_2026-07-06/20260707T163905Z.html,False,feed hierarchy
-12553,Directive on Build Canada Exchange,Directive,2026-06-19,2026-06-19,snapshot,data/hawk/data/Directive/12553_2026-06-19/20260623T164610Z.html,False,feed hierarchy
+12133,Salary Administration  – University Teachers (UT) (Employer/Union Agreement) (#658),,,,,,True,hierarchy listing:hierarchy
+12135,"Travel Authorities, Special",,,,,,True,hierarchy listing:hierarchy
+12169,Review of Memorandum to Cabinet - Expenditure Management System (EMS) - SFO sign-off - Information Notice,,,,,,True,hierarchy listing:hierarchy
+12315,Federal Identity Program Manual,,,,,,True,hierarchy listing:hierarchy
+12358,Official Languages Program in Organizations Subject to the Act: Appendix (Audit Guide) - March 1996,Guide,,,,,True,hierarchy listing:hierarchy
+12360,"Treatment of Access to Information Requests for Audit Information (PIN) - July 1, 1984",,,,,,True,hierarchy listing:hierarchy
+12364,Manager's Guide to Operating Budgets,Guide,,,,,True,hierarchy listing:hierarchy
+13605,Uniforms Directive,Directive,,,,,True,hierarchy listing:hierarchy
+13607,"Ministers' Offices, Policies for",,,,,,True,hierarchy listing:hierarchy
+13608,Motor Vehicle Operations Directive,Directive,,,,,True,hierarchy listing:hierarchy
+13856,Travel Directive,Directive,,,,,True,hierarchy listing:hierarchy
+32556,"Rapid Impact Evaluation, Guide to",Guide,,,,,True,hierarchy listing:hierarchy
+32666,Respectful Workplace Policy—Office of the Prime Minister and Ministers’ Offices,Policy,,,,,True,hierarchy listing:hierarchy
+32668,"Service and Digital, Guideline on",Guideline,,,,,True,hierarchy listing:hierarchy
+32701,Design Standard for the Federal Identity Program,Standard,,,,,True,hierarchy listing:hierarchy
+32733,Principles for Assisting Requesters,,,,,,True,hierarchy listing:hierarchy
+32774,Algorithmic Impact Assessment tool,,,,,,True,hierarchy listing:hierarchy
+32776,GC Enterprise Data Reference Standards,Standard,,,,,True,hierarchy listing:hierarchy
+32789,"Scope of the Directive on Automated Decision-Making, Guide on the",Directive,,,,,True,hierarchy listing:hierarchy
+32827,Real Property Policy Notices,Policy,,,,,True,hierarchy listing:hierarchy
+32594,Directive on the Management of Projects and Programmes,Directive,2026-11-19,2026-11-19,snapshot,data/hawk/data/Directive/32594_2026-11-19/20261120T033541Z.html,False,feed hierarchy listing:both
+32691,Directive on the Management of Real Property,Directive,2026-09-29,2026-09-29,xml,data/local/Directive/32691_2026-09-29/20261128T134555Z.xml,False,feed hierarchy listing:both
+32692,Directive on the Management of Procurement,Directive,2026-09-04,2026-09-04,xml,data/local/Directive/32692_2026-09-04/20261128T134602Z.xml,False,feed hierarchy listing:both
+32838,Guidelines on Section 91 of the <em>Official Languages Act</em>: How to Determine the Linguistic Identification and Linguistic Profile of Positions,Guidelines,2026-08-18,2026-08-18,xml,data/local/Guidelines/32838_2026-08-18/20261128T134609Z.xml,False,feed listing:az
+32593,Policy on the Planning and Management of Investments,Policy,2026-07-24,2026-07-24,snapshot,data/hawk/data/Policy/32593_2026-07-24/20260725T014727Z.html,False,feed hierarchy listing:both
+14208,Directive on Transfer Payments,Directive,2026-07-13,2026-07-13,snapshot,data/hawk/data/Directive/14208_2026-07-13/20260713T235223Z.html,False,feed hierarchy listing:both
+32749,Directive on Digital Talent,Directive,2026-07-06,2026-07-06,snapshot,data/hawk/data/Directive/32749_2026-07-06/20260707T163905Z.html,False,feed hierarchy listing:both
+12553,Directive on Build Canada Exchange,Directive,2026-06-19,2026-06-19,snapshot,data/hawk/data/Directive/12553_2026-06-19/20260623T164610Z.html,False,feed hierarchy listing:both
+32785,Guidelines on Making Communications Products and Activities Diverse and Inclusive,Guidelines,2026-06-19,2026-06-19,xml,data/local/Guidelines/32785_2026-06-19/20261128T134616Z.xml,False,feed hierarchy listing:both
 32831,Directive on Build Canada Exchange,Directive,2026-06-09,2026-06-09,snapshot,data/hawk/data/Directive/32831_2026-06-09/20260621T035819Z.html,False,feed
-32621,Policy on People Management,Policy,2026-06-08,2026-06-08,snapshot,data/hawk/data/Policy/32621_2026-06-08/20260608T192247Z.html,False,feed hierarchy
-32690,Directive on the Management of Materiel,Directive,2026-04-30,2026-04-30,snapshot,data/hawk/data/Directive/32690_2026-04-30/20260502T131928Z.html,False,feed hierarchy
-32728,Guidelines on Making Communications Products and Activities Accessible,Guidelines,2026-04-27,2026-04-27,snapshot,data/hawk/data/Guidelines/32728_2026-04-27/20260429T171555Z.html,False,feed hierarchy
-13954,Staff engaged locally outside Canada,Policy,2026-03-11,2026-03-11,html,data/hawk/data/Policy/Staff engaged locally outside Canada Policy on_2026-03-14.xml,False,feed hierarchy
-31300,Policy on Results,Policy,2026-01-19,2026-01-19,snapshot,data/hawk/data/Policy/31300_2026-01-19/20260124T114851Z.html,False,feed hierarchy
-32824,Appendix K: Data and metadata reference standards,Guidelines,2026-01-07,2026-01-07,html,data/hawk/data/Guidelines/Data and metadata reference standards_2026-03-14.xml,False,feed hierarchy
-25583,Policy on the Management of Executives,Policy,2025-11-03,2025-11-03,html,data/hawk/data/Policy/Management of Executives Policy on the_2025-11-04.xml,False,feed hierarchy
-32625,Directive on Terms and Conditions of Employment for Executives,Directive,2025-11-03,2025-11-03,html,data/hawk/data/Directive/Terms and Conditions of Employment for Executives Directive on_2025-11-08.xml,False,feed
-30682,Directive on the Management of Communications and Federal Identity,Directive,2025-10-30,2025-10-30,html,data/hawk/data/Directive/Communications and Federal Identity Directive on the Management of_2025-10-31.xml,False,feed hierarchy
-30683,Policy on Communications and Federal Identity,Policy,2025-10-30,2025-10-30,html,data/hawk/data/Policy/Communications and Federal Identity Policy on_2025-10-31.xml,False,feed hierarchy
-31306,Directive on Results,Directive,2025-10-30,2025-10-30,html,data/hawk/data/Directive/Results Directive on_2025-10-30.xml,False,feed hierarchy
-21104,Directive on Union Dues,Directive,2025-09-01,2025-09-01,html,data/hawk/data/Directive/Union Dues Directive on_2025-09-03.xml,False,feed
-32601,Directive on Service and Digital,Directive,2025-08-29,2025-08-29,xml,data/hawk/data/Directive/Service_and_Digital__Directive_on_32601_2025-08-29.xml,False,feed hierarchy
-32603,Policy on Service and Digital,Policy,2025-08-29,2025-08-29,xml,data/hawk/data/Policy/Service_and_Digital__Policy_on_32603_2025-08-29.xml,False,feed hierarchy
-32818,Guide to Assessing Cost Estimates,Guide,2025-07-24,2025-07-24,html,data/hawk/data/Guide/Assessing Cost Estimates Guide to_2025-08-31.xml,False,feed hierarchy
-32736,Guide to portfolio management and the real property portfolio strategy,Guide,2025-07-23,2025-07-23,html,data/hawk/data/Guide/Portfolio management and the real property portfolio strategy Guide to_2025-08-31.xml,False,feed hierarchy
-32592,Directive on Automated Decision-Making,Directive,2025-06-24,2025-06-24,xml,data/hawk/data/Directive/Automated_Decision-Making__Directive_on_32592_2025-06-24.xml,False,feed hierarchy
-26168,Directive on Official Languages for People Management,Directive,2025-06-20,2025-06-20,xml,data/hawk/data/Directive/Official_Languages_for_People_Management__Directive_on_26168_2025-06-20.xml,False,feed hierarchy
-32636,Directive on Telework,Directive,2025-04-01,2025-04-01,html,data/hawk/data/Directive/Telework Directive on_2025-08-31.xml,False,feed hierarchy
-32814,Standard on Embodied Carbon in Construction,Standard,2025-03-20,2025-03-20,xml,data/hawk/data/Standard/Embodied_Carbon_in_Construction__Standard_on_32814_2025-03-20.xml,False,feed hierarchy
-32660,Guide to the Proactive Publication of Travel and Hospitality Expenses,Guide,2025-03-18,2025-03-18,html,data/hawk/data/Guide/Proactive Publication of Travel and Hospitality Expenses Guide to the_2025-08-31.xml,False,feed hierarchy
-32810,Guide to Mitigating Conflicts of Interest in Procurement,Guide,2025-02-28,2025-02-28,html,data/hawk/data/Guide/Mitigating Conflicts of Interest in Procurement Guide to_2025-08-31.xml,False,feed hierarchy
-32808,"Data Linking for Program Monitoring, Evaluation and Reporting",Guidelines,2025-02-21,2025-02-21,xml,data/hawk/data/Guideline/Data_Linking_for_Program_Monitoring__Evaluation_and_Reporting_32808_2025-02-21.xml,False,feed hierarchy
-32646,Guide to Advance Payments,Guide,2025-02-07,2025-02-07,html,data/hawk/data/Guide/Advance Payments Guide to_2025-08-31.xml,False,feed hierarchy
-12588,Self-Funded Leave Policy,Policy,2025-01-07,2025-01-07,html,data/hawk/data/Policy/Self-Funded Leave Policy_2025-08-31.xml,False,feed hierarchy
-32805,Directive on Security Screening,Directive,2025-01-07,2025-01-07,xml,data/hawk/data/Directive/Security_Screening__Directive_on_32805_2025-01-07.xml,False,feed hierarchy
-13525,Policy on Transfer Payments,Policy,2024-12-20,2024-12-20,xml,data/hawk/data/Policy/Transfer_Payments__Policy_on_13525_2024-12-20.xml,False,feed hierarchy
-32650,Guide to Managing Receivables,Guide,2024-11-27,2024-11-27,html,data/hawk/data/Guide/Managing Receivables Guide to_2025-08-31.xml,False,feed hierarchy
-12510,Policy on Privacy Protection,Policy,2024-11-08,2024-11-08,xml,data/hawk/data/Policy/Privacy_Protection__Policy_on_12510_2024-11-08.xml,False,feed hierarchy
-18309,Directive on Privacy Practices,Directive,2024-11-08,2024-11-08,xml,data/hawk/data/Directive/Privacy_Practices__Directive_on_18309_2024-11-08.xml,False,feed hierarchy
-19061,Guideline on Recipient Audits Under the Policy on Transfer Payments and the Directive on Transfer Payments,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Recipient_Audits_Under_the_Policy_on_Transfer_Payments_and_the_Directive_on_Transfer_Payments__Guideline_on_19061_2024-10-03.xml,False,feed hierarchy
-19421,Guideline on the Directive on Transfer Payments,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Transfer_Payments__Guideline_on_the_Directive_on_19421_2024-10-03.xml,False,feed hierarchy
-32563,Guidelines on the Reporting of Grants and Contributions Awards,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Reporting_of_Grants_and_Contributions_Awards__Guidelines_on_the_32563_2024-10-03.xml,False,feed hierarchy
-32616,Guide to Departmental Collaboration with Recipients of Grants and Contributions,Guide,2024-10-03,2024-10-03,html,data/hawk/data/Guide/Departmental Collaboration with Recipients of Grants and Contributions Guide to_2025-08-31.xml,False,feed hierarchy
-14265,Guidelines on Streamlining - Statutory Reports to Parliament,Guidelines,2024-09-26,2024-09-26,xml,data/hawk/data/Guideline/Streamlining_-_Statutory_Reports_to_Parliament__Guidelines_on_14265_2024-09-26.xml,False,feed hierarchy
-16553,Standard on Geospatial Data,Standard,2024-09-10,2024-09-10,xml,data/hawk/data/Standard/Geospatial_Data__Standard_on_16553_2024-09-10.xml,False,feed hierarchy
-16557,Guidance for Employees of the Government of Canada: Information Management Basics,Guide,2024-07-26,2024-07-26,html,data/hawk/data/Guide/Information Management IM Basics  Guideline for Employees of the Government of Canada_2025-08-31.xml,False,feed hierarchy
-32802,Directive on the Stewardship of Human Resources Management Systems,Directive,2024-07-25,2024-07-25,xml,data/hawk/data/Directive/the_Stewardship_of_Human_Resources_Management_Systems__Directive_on_32802_2024-07-25.xml,False,feed hierarchy
-32647,"Guide to Ex Gratia Payments, Honorariums and Gifts",Guide,2024-07-16,2024-07-16,html,data/hawk/data/Guide/Ex Gratia Payments Honorariums and Gifts Guide to_2025-08-31.xml,False,feed hierarchy
+32621,Policy on People Management,Policy,2026-06-08,2026-06-08,snapshot,data/hawk/data/Policy/32621_2026-06-08/20260608T192247Z.html,False,feed hierarchy listing:both
+32690,Directive on the Management of Materiel,Directive,2026-04-30,2026-04-30,snapshot,data/hawk/data/Directive/32690_2026-04-30/20260502T131928Z.html,False,feed hierarchy listing:both
+32728,Guidelines on Making Communications Products and Activities Accessible,Guidelines,2026-04-27,2026-04-27,snapshot,data/hawk/data/Guidelines/32728_2026-04-27/20260429T171555Z.html,False,feed hierarchy listing:both
+13954,Staff engaged locally outside Canada,Policy,2026-03-11,2026-03-11,html,data/hawk/data/Policy/Staff engaged locally outside Canada Policy on_2026-03-14.xml,False,feed hierarchy listing:both
+27088,Standard on Optimizing Websites and Applications for Mobile Devices,Standard,2026-03-02,2026-03-02,xml,data/local/Standard/27088_2026-03-02/20261128T134623Z.xml,False,feed hierarchy listing:both
+31300,Policy on Results,Policy,2026-01-19,2026-01-19,snapshot,data/hawk/data/Policy/31300_2026-01-19/20260124T114851Z.html,False,feed hierarchy listing:both
+32825,Guide on the Exceptional Contracting Limit for Sustained Emergencies of National Importance,Guide,2026-01-15,2026-01-15,xml,data/local/Guide/32825_2026-01-15/20261128T134629Z.xml,False,feed hierarchy listing:both
+32824,Appendix K: Data and metadata reference standards,Guidelines,2026-01-07,2026-01-07,html,data/hawk/data/Guidelines/Data and metadata reference standards_2026-03-14.xml,False,feed hierarchy listing:both
+25583,Policy on the Management of Executives,Policy,2025-11-03,2025-11-03,html,data/hawk/data/Policy/Management of Executives Policy on the_2025-11-04.xml,False,feed hierarchy listing:both
+32625,Directive on Terms and Conditions of Employment for Executives,Directive,2025-11-03,2025-11-03,html,data/hawk/data/Directive/Terms and Conditions of Employment for Executives Directive on_2025-11-08.xml,False,feed listing:az
+30682,Directive on the Management of Communications and Federal Identity,Directive,2025-10-30,2025-10-30,html,data/hawk/data/Directive/Communications and Federal Identity Directive on the Management of_2025-10-31.xml,False,feed hierarchy listing:both
+30683,Policy on Communications and Federal Identity,Policy,2025-10-30,2025-10-30,html,data/hawk/data/Policy/Communications and Federal Identity Policy on_2025-10-31.xml,False,feed hierarchy listing:both
+31306,Directive on Results,Directive,2025-10-30,2025-10-30,html,data/hawk/data/Directive/Results Directive on_2025-10-30.xml,False,feed hierarchy listing:both
+21104,Directive on Union Dues,Directive,2025-09-01,2025-09-01,html,data/hawk/data/Directive/Union Dues Directive on_2025-09-03.xml,False,feed listing:az
+32601,Directive on Service and Digital,Directive,2025-08-29,2025-08-29,xml,data/hawk/data/Directive/Service_and_Digital__Directive_on_32601_2025-08-29.xml,False,feed hierarchy listing:both
+32603,Policy on Service and Digital,Policy,2025-08-29,2025-08-29,xml,data/hawk/data/Policy/Service_and_Digital__Policy_on_32603_2025-08-29.xml,False,feed hierarchy listing:both
+32818,Guide to Assessing Cost Estimates,Guide,2025-07-24,2025-07-24,html,data/hawk/data/Guide/Assessing Cost Estimates Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+32736,Guide to portfolio management and the real property portfolio strategy,Guide,2025-07-23,2025-07-23,html,data/hawk/data/Guide/Portfolio management and the real property portfolio strategy Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+32592,Directive on Automated Decision-Making,Directive,2025-06-24,2025-06-24,xml,data/hawk/data/Directive/Automated_Decision-Making__Directive_on_32592_2025-06-24.xml,False,feed hierarchy listing:both
+26168,Directive on Official Languages for People Management,Directive,2025-06-20,2025-06-20,xml,data/hawk/data/Directive/Official_Languages_for_People_Management__Directive_on_26168_2025-06-20.xml,False,feed hierarchy listing:both
+32636,Directive on Telework,Directive,2025-04-01,2025-04-01,html,data/hawk/data/Directive/Telework Directive on_2025-08-31.xml,False,feed hierarchy listing:both
+32814,Standard on Embodied Carbon in Construction,Standard,2025-03-20,2025-03-20,xml,data/hawk/data/Standard/Embodied_Carbon_in_Construction__Standard_on_32814_2025-03-20.xml,False,feed hierarchy listing:both
+32660,Guide to the Proactive Publication of Travel and Hospitality Expenses,Guide,2025-03-18,2025-03-18,html,data/hawk/data/Guide/Proactive Publication of Travel and Hospitality Expenses Guide to the_2025-08-31.xml,False,feed hierarchy listing:both
+32810,Guide to Mitigating Conflicts of Interest in Procurement,Guide,2025-02-28,2025-02-28,html,data/hawk/data/Guide/Mitigating Conflicts of Interest in Procurement Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+32808,"Data Linking for Program Monitoring, Evaluation and Reporting",Guidelines,2025-02-21,2025-02-21,xml,data/hawk/data/Guideline/Data_Linking_for_Program_Monitoring__Evaluation_and_Reporting_32808_2025-02-21.xml,False,feed hierarchy listing:both
+32646,Guide to Advance Payments,Guide,2025-02-07,2025-02-07,html,data/hawk/data/Guide/Advance Payments Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+12588,Self-Funded Leave Policy,Policy,2025-01-07,2025-01-07,html,data/hawk/data/Policy/Self-Funded Leave Policy_2025-08-31.xml,False,feed hierarchy listing:both
+32805,Directive on Security Screening,Directive,2025-01-07,2025-01-07,xml,data/hawk/data/Directive/Security_Screening__Directive_on_32805_2025-01-07.xml,False,feed hierarchy listing:both
+13525,Policy on Transfer Payments,Policy,2024-12-20,2024-12-20,xml,data/hawk/data/Policy/Transfer_Payments__Policy_on_13525_2024-12-20.xml,False,feed hierarchy listing:both
+32650,Guide to Managing Receivables,Guide,2024-11-27,2024-11-27,html,data/hawk/data/Guide/Managing Receivables Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+12510,Policy on Privacy Protection,Policy,2024-11-08,2024-11-08,xml,data/hawk/data/Policy/Privacy_Protection__Policy_on_12510_2024-11-08.xml,False,feed hierarchy listing:both
+18309,Directive on Privacy Practices,Directive,2024-11-08,2024-11-08,xml,data/hawk/data/Directive/Privacy_Practices__Directive_on_18309_2024-11-08.xml,False,feed hierarchy listing:both
+19061,Guideline on Recipient Audits Under the Policy on Transfer Payments and the Directive on Transfer Payments,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Recipient_Audits_Under_the_Policy_on_Transfer_Payments_and_the_Directive_on_Transfer_Payments__Guideline_on_19061_2024-10-03.xml,False,feed hierarchy listing:both
+19421,Guideline on the Directive on Transfer Payments,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Transfer_Payments__Guideline_on_the_Directive_on_19421_2024-10-03.xml,False,feed hierarchy listing:both
+32563,Guidelines on the Reporting of Grants and Contributions Awards,Guidelines,2024-10-03,2024-10-03,xml,data/hawk/data/Guideline/Reporting_of_Grants_and_Contributions_Awards__Guidelines_on_the_32563_2024-10-03.xml,False,feed hierarchy listing:both
+32616,Guide to Departmental Collaboration with Recipients of Grants and Contributions,Guide,2024-10-03,2024-10-03,html,data/hawk/data/Guide/Departmental Collaboration with Recipients of Grants and Contributions Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+14265,Guidelines on Streamlining - Statutory Reports to Parliament,Guidelines,2024-09-26,2024-09-26,xml,data/hawk/data/Guideline/Streamlining_-_Statutory_Reports_to_Parliament__Guidelines_on_14265_2024-09-26.xml,False,feed hierarchy listing:both
+16553,Standard on Geospatial Data,Standard,2024-09-10,2024-09-10,xml,data/hawk/data/Standard/Geospatial_Data__Standard_on_16553_2024-09-10.xml,False,feed hierarchy listing:both
+16557,Guidance for Employees of the Government of Canada: Information Management Basics,Guide,2024-07-26,2024-07-26,html,data/hawk/data/Guide/Information Management IM Basics  Guideline for Employees of the Government of Canada_2025-08-31.xml,False,feed hierarchy listing:both
+32802,Directive on the Stewardship of Human Resources Management Systems,Directive,2024-07-25,2024-07-25,xml,data/hawk/data/Directive/the_Stewardship_of_Human_Resources_Management_Systems__Directive_on_32802_2024-07-25.xml,False,feed hierarchy listing:both
+32647,"Guide to Ex Gratia Payments, Honorariums and Gifts",Guide,2024-07-16,2024-07-16,html,data/hawk/data/Guide/Ex Gratia Payments Honorariums and Gifts Guide to_2025-08-31.xml,False,feed hierarchy listing:both
 32798,Directive on Accounting Standards: GC 3400 Revenue,Standard,2024-07-11,2024-07-11,xml,data/hawk/data/Standard/GC_3400_Revenue_32798_2024-07-11.xml,False,feed
 32799,Directive on Accounting Standards: GCG-8 Purchased Intangibles,Standard,2024-07-11,2024-07-11,xml,data/hawk/data/Standard/GCG-8_Purchased_Intangibles_32799_2024-07-11.xml,False,feed
-32495,Policy on Financial Management,Policy,2024-06-27,2024-06-27,xml,data/hawk/data/Policy/Financial_Management__Policy_on_32495_2024-06-27.xml,False,feed hierarchy
-32504,Directive on Payments,Directive,2024-06-27,2024-06-27,xml,data/hawk/data/Directive/Payments__Directive_on_32504_2024-06-27.xml,False,feed hierarchy
+32495,Policy on Financial Management,Policy,2024-06-27,2024-06-27,xml,data/hawk/data/Policy/Financial_Management__Policy_on_32495_2024-06-27.xml,False,feed hierarchy listing:both
+32504,Directive on Payments,Directive,2024-06-27,2024-06-27,xml,data/hawk/data/Directive/Payments__Directive_on_32504_2024-06-27.xml,False,feed hierarchy listing:both
 32788,Guidelines on Second Official Language Training,Guidelines,2024-05-29,2024-05-29,xml,data/hawk/data/Guideline/Second_Official_Language_Training__Guidelines_on_32788_2024-05-29.xml,False,feed
-27256,Guideline on Chief Financial Officer Attestation for Cabinet Submissions,Guidelines,2024-03-28,2024-03-28,xml,data/hawk/data/Guideline/Chief_Financial_Officer_Attestation_for_Cabinet_Submissions__Guideline_on_27256_2024-03-28.xml,False,feed hierarchy
-12583,Directive on Terms and Conditions of Employment for Students,Policy,2024-03-21,2024-03-21,xml,data/hawk/data/Policy/Terms_and_Conditions_of_Employment_for_Students__Directive_on_12583_2024-03-21.xml,False,feed
-32502,Directive on Charging and Special Financial Authorities,Directive,2024-03-20,2024-03-20,xml,data/hawk/data/Directive/Charging_and_Special_Financial_Authorities__Directive_on_32502_2024-03-20.xml,False,feed hierarchy
-32775,Manager’s Guide: Key Considerations When Procuring Professional Services,Guide,2024-03-19,2024-03-19,html,data/hawk/data/Guide/Key Considerations When Procuring Professional Services Guide_2025-08-31.xml,False,feed hierarchy
-32613,Directive on Security Management - Appendix I: Standard on Security Event Reporting,Standard,2024-03-15,2024-03-15,xml,data/hawk/data/Standard/Standard_on_Security_Event_Reporting__Directive_on_Security_Management_-_Appendix_I_32613_2024-03-15.xml,False,feed
-32787,Government of Canada Cloud Guardrails,Guidelines,2024-01-31,2024-01-31,xml,data/hawk/data/Guideline/Guardrails__Government_of_Canada_Cloud_32787_2024-01-31.xml,False,feed
-32786,Appendix L: Standard for Managing Metadata,Standard,2024-01-10,2024-01-10,xml,data/hawk/data/Standard/Managing_Metadata__Standard_for_32786_2024-01-10.xml,False,feed hierarchy
-32499,Directive on Accounting Standards,Directive,2023-11-28,2023-11-28,xml,data/hawk/data/Directive/Accounting_Standards__Directive_on_32499_2023-11-28.xml,False,feed hierarchy
-32509,Directive on Accounting Standards: Introduction – Government of Canada Accounting Handbook,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/Government_of_Canada_Accounting_Handbook__Introduction_32509_2023-11-28.xml,False,feed hierarchy
-32517,Directive on Accounting Standards: GC 3050 Loans Receivable,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3050_Loans_Receivable_32517_2023-11-28.xml,False,feed hierarchy
-32518,Directive on Accounting Standards: GC 3150 Tangible Capital Assets,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3150_Tangible_Capital_Assets_32518_2023-11-28.xml,False,feed hierarchy
-32528,Directive on Accounting Standards: GC 4500 Departmental Financial Statements,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_4500_Departmental_Financial_Statements_32528_2023-11-28.xml,False,feed hierarchy
-32663,Directive on Accounting Standards: GC 3420 Inter-entity transactions,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3420_Inter-entity_transactions_32663_2023-11-28.xml,False,feed
-13342,Directive on Social Insurance Number,Directive,2023-11-15,2023-11-15,xml,data/hawk/data/Directive/Social_Insurance_Number__Directive_on_13342_2023-11-15.xml,False,feed hierarchy
+27256,Guideline on Chief Financial Officer Attestation for Cabinet Submissions,Guidelines,2024-03-28,2024-03-28,xml,data/hawk/data/Guideline/Chief_Financial_Officer_Attestation_for_Cabinet_Submissions__Guideline_on_27256_2024-03-28.xml,False,feed hierarchy listing:both
+12583,Directive on Terms and Conditions of Employment for Students,Policy,2024-03-21,2024-03-21,xml,data/hawk/data/Policy/Terms_and_Conditions_of_Employment_for_Students__Directive_on_12583_2024-03-21.xml,False,feed listing:az
+32502,Directive on Charging and Special Financial Authorities,Directive,2024-03-20,2024-03-20,xml,data/hawk/data/Directive/Charging_and_Special_Financial_Authorities__Directive_on_32502_2024-03-20.xml,False,feed hierarchy listing:both
+32775,Manager’s Guide: Key Considerations When Procuring Professional Services,Guide,2024-03-19,2024-03-19,html,data/hawk/data/Guide/Key Considerations When Procuring Professional Services Guide_2025-08-31.xml,False,feed hierarchy listing:both
+32613,Directive on Security Management - Appendix I: Standard on Security Event Reporting,Standard,2024-03-15,2024-03-15,xml,data/hawk/data/Standard/Standard_on_Security_Event_Reporting__Directive_on_Security_Management_-_Appendix_I_32613_2024-03-15.xml,False,feed listing:az
+32787,Government of Canada Cloud Guardrails,Guidelines,2024-01-31,2024-01-31,xml,data/hawk/data/Guideline/Guardrails__Government_of_Canada_Cloud_32787_2024-01-31.xml,False,feed listing:az
+32786,Appendix L: Standard for Managing Metadata,Standard,2024-01-10,2024-01-10,xml,data/hawk/data/Standard/Managing_Metadata__Standard_for_32786_2024-01-10.xml,False,feed hierarchy listing:both
+32499,Directive on Accounting Standards,Directive,2023-11-28,2023-11-28,xml,data/hawk/data/Directive/Accounting_Standards__Directive_on_32499_2023-11-28.xml,False,feed hierarchy listing:both
+32509,Directive on Accounting Standards: Introduction – Government of Canada Accounting Handbook,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/Government_of_Canada_Accounting_Handbook__Introduction_32509_2023-11-28.xml,False,feed hierarchy listing:both
+32517,Directive on Accounting Standards: GC 3050 Loans Receivable,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3050_Loans_Receivable_32517_2023-11-28.xml,False,feed hierarchy listing:both
+32518,Directive on Accounting Standards: GC 3150 Tangible Capital Assets,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3150_Tangible_Capital_Assets_32518_2023-11-28.xml,False,feed hierarchy listing:both
+32528,Directive on Accounting Standards: GC 4500 Departmental Financial Statements,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_4500_Departmental_Financial_Statements_32528_2023-11-28.xml,False,feed hierarchy listing:both
+32663,Directive on Accounting Standards: GC 3420 Inter-entity transactions,Standard,2023-11-28,2023-11-28,xml,data/hawk/data/Standard/GC_3420_Inter-entity_transactions_32663_2023-11-28.xml,False,feed listing:az
+13342,Directive on Social Insurance Number,Directive,2023-11-15,2023-11-15,xml,data/hawk/data/Directive/Social_Insurance_Number__Directive_on_13342_2023-11-15.xml,False,feed hierarchy listing:both
 32782,Directive on Accounting Standards: GC 3260 Liability for Contaminated Sites,Standard,2023-11-02,2023-11-02,xml,data/hawk/data/Standard/GC_3260_Liability_for_Contaminated_Sites_32782_2023-11-02.xml,False,feed
 32783,Directive on Accounting Standards: GC 3280 Asset Retirement Obligations,Standard,2023-11-02,2023-11-02,xml,data/hawk/data/Standard/GC_3280_Asset_Retirement_Obligations_32783_2023-11-02.xml,False,feed
-32784,Directive on Accounting Standards: GC 3450 Financial Instruments,Standard,2023-11-02,2023-11-02,xml,data/hawk/data/Standard/GC_3450_Financial_Instruments_32784_2023-11-02.xml,False,feed hierarchy
+32784,Directive on Accounting Standards: GC 3450 Financial Instruments,Standard,2023-11-02,2023-11-02,xml,data/hawk/data/Standard/GC_3450_Financial_Instruments_32784_2023-11-02.xml,False,feed hierarchy listing:both
 32781,Directive on Accounting Standards: GC 2601 Foreign Currency Translation,Standard,2023-11-01,2023-11-01,xml,data/hawk/data/Standard/GC_2601_Foreign_Currency_Translation_32781_2023-11-01.xml,False,feed
-32780,GC 3450 Guideline: Embedded Derivatives,Guidelines,2023-10-31,2023-10-31,xml,data/hawk/data/Guideline/GC_3450_Guideline__Embedded_Derivatives_32780_2023-10-31.xml,False,feed hierarchy
-16484,Policy on Internal Audit,Policy,2023-10-24,2023-10-24,xml,data/hawk/data/Policy/Internal_Audit__Policy_on_16484_2023-10-24.xml,False,feed hierarchy
-32533,Directive on Internal Audit,Directive,2023-10-24,2023-10-24,xml,data/hawk/data/Directive/Internal_Audit__Directive_on_32533_2023-10-24.xml,False,feed hierarchy
+32780,GC 3450 Guideline: Embedded Derivatives,Guidelines,2023-10-31,2023-10-31,xml,data/hawk/data/Guideline/GC_3450_Guideline__Embedded_Derivatives_32780_2023-10-31.xml,False,feed hierarchy listing:both
+16484,Policy on Internal Audit,Policy,2023-10-24,2023-10-24,xml,data/hawk/data/Policy/Internal_Audit__Policy_on_16484_2023-10-24.xml,False,feed hierarchy listing:both
+32533,Directive on Internal Audit,Directive,2023-10-24,2023-10-24,xml,data/hawk/data/Directive/Internal_Audit__Directive_on_32533_2023-10-24.xml,False,feed hierarchy listing:both
 32708,Appendix B: Examples of Unacceptable Network and Device Use (Non-Exhaustive List of Examples),Guidelines,2023-08-18,2023-08-18,xml,data/hawk/data/Guideline/Examples_of_Unacceptable_Network_and_Device_Use__Non-Exhaustive_List_of_Examples___Appendix_B_32708_2023-08-18.xml,False,feed
-32590,Directive on Personal Information Requests and Correction of Personal Information,Directive,2023-08-17,2023-08-17,xml,data/hawk/data/Directive/Personal_Information_Requests_and_Correction_of_Personal_Information__Directive_on_32590_2023-08-17.xml,False,feed hierarchy
-32649,Guide to Internal Control Over Financial Management,Guide,2023-07-27,2023-07-27,html,data/hawk/data/Guide/Internal Control Over Financial Management Guide to_2025-08-31.xml,False,feed hierarchy
-14219,Directive on Executive (EX) Group Organization and Classification,Directive,2023-07-08,2023-07-08,xml,data/hawk/data/Directive/Executive__EX__Group_Organization_and_Classification__Directive_on_14219_2023-07-08.xml,False,feed
-12453,Policy on Access to Information,Policy,2023-06-28,2023-06-28,xml,data/hawk/data/Policy/Access_to_Information__Policy_on_12453_2023-06-28.xml,False,feed hierarchy
-32756,Directive on Proactive Publication under the Access to Information Act,Directive,2023-06-28,2023-06-28,xml,data/hawk/data/Directive/Proactive_Publication_under_the_Access_to_Information_Act__Directive_on_32756_2023-06-28.xml,False,feed hierarchy
-32744,Guide to Official Languages in Federal Procurement,Guide,2023-06-22,2023-06-22,html,data/hawk/data/Guide/Official Languages in Federal Procurement Guide to_2025-08-31.xml,False,feed hierarchy
-32763,Guide to the Proactive Publication of Contracts,Guide,2023-06-21,2023-06-21,html,data/hawk/data/Guide/Proactive Publication of Contracts Guide to the_2025-10-09.xml,False,feed hierarchy
-32600,Guide to Costing,Guide,2023-05-10,2023-05-10,html,data/hawk/data/Guide/Costing Guide to_2025-08-31.xml,False,feed hierarchy
-32510,Directive on Accounting Standards: GC 1010 Financial Statement Concepts (Materiality),Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1010_Financial_Statement_Concepts__Materiality__32510_2023-05-01.xml,False,feed hierarchy
-32512,Directive on Accounting Standards: GC 1150 Generally Accepted Accounting Principles,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1150_Generally_Accepted_Accounting_Principles_32512_2023-05-01.xml,False,feed hierarchy
-32513,Directive on Accounting Standards: GC 1201 Financial Statement Presentation,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1201_Financial_Statement_Presentation_32513_2023-05-01.xml,False,feed hierarchy
-32514,Directive on Accounting Standards: GC 1300 Government Reporting Entity,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1300_Government_Reporting_Entity_32514_2023-05-01.xml,False,feed hierarchy
-32515,Directive on Accounting Standards: GC 2400 Subsequent Events,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2400_Subsequent_Events_32515_2023-05-01.xml,False,feed hierarchy
-32516,Directive on Accounting Standards: GC 2700 Segment Disclosures,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2700_Segment_Disclosures_32516_2023-05-01.xml,False,feed hierarchy
-32519,Directive on Accounting Standards: GC 3250-3255 Retirement and Post-Employment Benefits,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3250-3255_Retirement_and_Post-Employment_Benefits_32519_2023-05-01.xml,False,feed hierarchy
-32520,Directive on Accounting Standards: GC 3300-3310 Contingent Liabilities and Loan Guarantees,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3300-3310_Contingent_Liabilities_and_Loan_Guarantees_32520_2023-05-01.xml,False,feed hierarchy
-32521,Directive on Accounting Standards: GC 3320 Contingent Assets,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3320_Contingent_Assets_32521_2023-05-01.xml,False,feed hierarchy
-32522,Directive on Accounting Standards: GC 3390 Contractual Obligations,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3390_Contractual_Obligations_32522_2023-05-01.xml,False,feed hierarchy
-32523,Directive on Accounting Standards: GC 3410 Government Transfers,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3410_Government_Transfers_32523_2023-05-01.xml,False,feed hierarchy
-32524,Directive on Accounting Standards: GC 4100 Specified Purpose Accounts,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4100_Specified_Purpose_Accounts_32524_2023-05-01.xml,False,feed hierarchy
-32525,Directive on Accounting Standards: GC 4200 Inventories,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4200_Inventories_32525_2023-05-01.xml,False,feed hierarchy
-32527,Directive on Accounting Standards: GC 4400 Departmental Quarterly Financial Report,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4400_Departmental_Quarterly_Financial_Report_32527_2023-05-01.xml,False,feed hierarchy
-32529,Directive on Accounting Standards: GC 5000 Recording Financial Transactions in the Accounts of Canada,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5000_Recording_Financial_Transactions_in_the_Accounts_of_Canada_32529_2023-05-01.xml,False,feed hierarchy
-32530,Directive on Accounting Standards: GC 5100 Payables at Year-End,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5100_Payables_at_Year-End_32530_2023-05-01.xml,False,feed hierarchy
-32662,Directive on Accounting Standards: GC 2200 Related party disclosures,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2200_Related_party_disclosures_32662_2023-05-01.xml,False,feed hierarchy
-32664,Directive on Accounting Standards: GC 3430 Restructuring transactions,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3430_Restructuring_transactions_32664_2023-05-01.xml,False,feed hierarchy
-32665,Directive on Accounting Standards: GC 5200 Crown Corporations Quarterly Financial Report,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5200_Crown_Corporations_Quarterly_Financial_Report_32665_2023-05-01.xml,False,feed hierarchy
-17590,Directive on the Stewardship of Financial Management Systems,Directive,2023-04-18,2023-04-18,xml,data/hawk/data/Directive/Financial_Management_Systems__Directive_on_the_Stewardship_of_17590_2023-04-18.xml,False,feed hierarchy
-13583,Public Service Income Benefit Plan for Survivors of Employees Slain on Duty,Policy,2023-04-14,2023-04-14,xml,data/hawk/data/Policy/Public_Service_Income_Benefit_Plan_for_Survivors_of_Employees_Slain_on_Duty_13583_2023-04-14.xml,False,feed hierarchy
-32511,Directive on Accounting Standards: GC 1100 Financial Statement Objectives,Standard,2023-04-01,2023-04-01,xml,data/hawk/data/Standard/GC_1100_Financial_Statement_Objectives_32511_2023-04-01.xml,False,feed hierarchy
-13937,Policy on Legal Assistance and Indemnification,Policy,2023-01-30,2023-01-30,xml,data/hawk/data/Policy/Legal_Assistance_and_Indemnification__Policy_on_13937_2023-01-30.xml,False,feed hierarchy
-32610,"Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area",Directive,2022-12-21,2022-12-21,xml,data/hawk/data/Directive/Government_Contracts__Including_Real_Property_Leases__in_the_Nunavut_Settlement_Area__Directive_32610_2022-12-21.xml,False,feed hierarchy
-32573,Policy on Green Procurement,Policy,2022-11-14,2022-11-14,xml,data/hawk/data/Policy/Green_Procurement__Policy_on_32573_2022-11-14.xml,False,feed hierarchy
-32743,Standard on the Disclosure of Greenhouse Gas Emissions and the Setting of Reduction Targets,Standard,2022-11-14,2022-11-14,xml,data/hawk/data/Standard/Disclosure_of_Greenhouse_Gas_Emissions_and_the_Setting_of_Reduction_Targets__Standard_on_the_32743_2022-11-14.xml,False,feed hierarchy
-13697,Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts,Policy,2022-09-14,2022-09-14,xml,data/hawk/data/Policy/Title_to_Intellectual_Property_Arising_Under_Crown_Procurement_Contracts__Policy_on_13697_2022-09-14.xml,False,feed
-26163,Directive on the Implementation of the Official Languages (Communications with and Services to the Public) Regulations,Directive,2022-09-08,2022-09-08,xml,data/hawk/data/Directive/Official_Languages__Communications_with_and_Services_to_the_Public__Regulations__Directive_on_the_Implementation_of_the_26163_2022-09-08.xml,False,feed hierarchy
-18310,Directive on Access to Information Requests,Directive,2022-07-22,2022-07-22,xml,data/hawk/data/Directive/Access_to_Information_Requests__Directive_on_18310_2022-07-22.xml,False,feed hierarchy
-32709,Appendix C: Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information Notices,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Privacy_and_Monitoring_of_Network_and_Device_Use_Information_Notices__Mandatory_Procedures_for_32709_2022-05-06.xml,False,feed hierarchy
-32710,Appendix D: Standard on Information Technology User and Workpoint Profiles,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Information_Technology_User_and_Workpoint_Profiles__Standard_on_32710_2022-05-06.xml,False,feed hierarchy
-32711,Appendix E: Standard on Information Technology Provisions,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Information_Technology_Provisions__Standard_on_32711_2022-05-06.xml,False,feed hierarchy
-32712,Appendix F: Standard on Enterprise Information Technology Service Usage Restrictions,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Enterprise_Information_Technology_Service_Usage_Restrictions__Standard_on_32712_2022-05-06.xml,False,feed hierarchy
-32713,Appendix G: Standard on Enterprise Information Technology Service Common Configurations,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Enterprise_Information_Technology_Service_Common_Configurations__Standard_on_32713_2022-05-06.xml,False,feed hierarchy
-32714,Appendix H: Standard on At-Risk Information Technology,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/At-Risk_Information_Technology__Standard_on_32714_2022-05-06.xml,False,feed hierarchy
-32715,Appendix I: Interim Standard on Enterprise Resource Planning Solutions,Guidelines,2022-05-06,2022-05-06,html,data/hawk/data/Guidelines/Enterprise Resource Planning Solutions Interim Standard on_2026-03-14.xml,False,feed hierarchy
-32716,Appendix J: Standard on Systems that Manage Information and Data,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Systems_that_Manage_Information_and_Data__Standard_on_32716_2022-05-06.xml,False,feed hierarchy
+32590,Directive on Personal Information Requests and Correction of Personal Information,Directive,2023-08-17,2023-08-17,xml,data/hawk/data/Directive/Personal_Information_Requests_and_Correction_of_Personal_Information__Directive_on_32590_2023-08-17.xml,False,feed hierarchy listing:both
+32649,Guide to Internal Control Over Financial Management,Guide,2023-07-27,2023-07-27,html,data/hawk/data/Guide/Internal Control Over Financial Management Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+14219,Directive on Executive (EX) Group Organization and Classification,Directive,2023-07-08,2023-07-08,xml,data/hawk/data/Directive/Executive__EX__Group_Organization_and_Classification__Directive_on_14219_2023-07-08.xml,False,feed listing:az
+12453,Policy on Access to Information,Policy,2023-06-28,2023-06-28,xml,data/hawk/data/Policy/Access_to_Information__Policy_on_12453_2023-06-28.xml,False,feed hierarchy listing:both
+32756,Directive on Proactive Publication under the Access to Information Act,Directive,2023-06-28,2023-06-28,xml,data/hawk/data/Directive/Proactive_Publication_under_the_Access_to_Information_Act__Directive_on_32756_2023-06-28.xml,False,feed hierarchy listing:both
+32744,Guide to Official Languages in Federal Procurement,Guide,2023-06-22,2023-06-22,html,data/hawk/data/Guide/Official Languages in Federal Procurement Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+32763,Guide to the Proactive Publication of Contracts,Guide,2023-06-21,2023-06-21,html,data/hawk/data/Guide/Proactive Publication of Contracts Guide to the_2025-10-09.xml,False,feed hierarchy listing:both
+32600,Guide to Costing,Guide,2023-05-10,2023-05-10,html,data/hawk/data/Guide/Costing Guide to_2025-08-31.xml,False,feed hierarchy listing:both
+32510,Directive on Accounting Standards: GC 1010 Financial Statement Concepts (Materiality),Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1010_Financial_Statement_Concepts__Materiality__32510_2023-05-01.xml,False,feed hierarchy listing:both
+32512,Directive on Accounting Standards: GC 1150 Generally Accepted Accounting Principles,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1150_Generally_Accepted_Accounting_Principles_32512_2023-05-01.xml,False,feed hierarchy listing:both
+32513,Directive on Accounting Standards: GC 1201 Financial Statement Presentation,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1201_Financial_Statement_Presentation_32513_2023-05-01.xml,False,feed hierarchy listing:both
+32514,Directive on Accounting Standards: GC 1300 Government Reporting Entity,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_1300_Government_Reporting_Entity_32514_2023-05-01.xml,False,feed hierarchy listing:both
+32515,Directive on Accounting Standards: GC 2400 Subsequent Events,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2400_Subsequent_Events_32515_2023-05-01.xml,False,feed hierarchy listing:both
+32516,Directive on Accounting Standards: GC 2700 Segment Disclosures,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2700_Segment_Disclosures_32516_2023-05-01.xml,False,feed hierarchy listing:both
+32519,Directive on Accounting Standards: GC 3250-3255 Retirement and Post-Employment Benefits,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3250-3255_Retirement_and_Post-Employment_Benefits_32519_2023-05-01.xml,False,feed hierarchy listing:both
+32520,Directive on Accounting Standards: GC 3300-3310 Contingent Liabilities and Loan Guarantees,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3300-3310_Contingent_Liabilities_and_Loan_Guarantees_32520_2023-05-01.xml,False,feed hierarchy listing:both
+32521,Directive on Accounting Standards: GC 3320 Contingent Assets,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3320_Contingent_Assets_32521_2023-05-01.xml,False,feed hierarchy listing:both
+32522,Directive on Accounting Standards: GC 3390 Contractual Obligations,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3390_Contractual_Obligations_32522_2023-05-01.xml,False,feed hierarchy listing:both
+32523,Directive on Accounting Standards: GC 3410 Government Transfers,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3410_Government_Transfers_32523_2023-05-01.xml,False,feed hierarchy listing:both
+32524,Directive on Accounting Standards: GC 4100 Specified Purpose Accounts,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4100_Specified_Purpose_Accounts_32524_2023-05-01.xml,False,feed hierarchy listing:both
+32525,Directive on Accounting Standards: GC 4200 Inventories,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4200_Inventories_32525_2023-05-01.xml,False,feed hierarchy listing:both
+32527,Directive on Accounting Standards: GC 4400 Departmental Quarterly Financial Report,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_4400_Departmental_Quarterly_Financial_Report_32527_2023-05-01.xml,False,feed hierarchy listing:both
+32529,Directive on Accounting Standards: GC 5000 Recording Financial Transactions in the Accounts of Canada,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5000_Recording_Financial_Transactions_in_the_Accounts_of_Canada_32529_2023-05-01.xml,False,feed hierarchy listing:both
+32530,Directive on Accounting Standards: GC 5100 Payables at Year-End,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5100_Payables_at_Year-End_32530_2023-05-01.xml,False,feed hierarchy listing:both
+32662,Directive on Accounting Standards: GC 2200 Related party disclosures,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_2200_Related_party_disclosures_32662_2023-05-01.xml,False,feed hierarchy listing:both
+32664,Directive on Accounting Standards: GC 3430 Restructuring transactions,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_3430_Restructuring_transactions_32664_2023-05-01.xml,False,feed hierarchy listing:both
+32665,Directive on Accounting Standards: GC 5200 Crown Corporations Quarterly Financial Report,Standard,2023-05-01,2023-05-01,xml,data/hawk/data/Standard/GC_5200_Crown_Corporations_Quarterly_Financial_Report_32665_2023-05-01.xml,False,feed hierarchy listing:both
+17590,Directive on the Stewardship of Financial Management Systems,Directive,2023-04-18,2023-04-18,xml,data/hawk/data/Directive/Financial_Management_Systems__Directive_on_the_Stewardship_of_17590_2023-04-18.xml,False,feed hierarchy listing:both
+13583,Public Service Income Benefit Plan for Survivors of Employees Slain on Duty,Policy,2023-04-14,2023-04-14,xml,data/hawk/data/Policy/Public_Service_Income_Benefit_Plan_for_Survivors_of_Employees_Slain_on_Duty_13583_2023-04-14.xml,False,feed hierarchy listing:both
+32511,Directive on Accounting Standards: GC 1100 Financial Statement Objectives,Standard,2023-04-01,2023-04-01,xml,data/hawk/data/Standard/GC_1100_Financial_Statement_Objectives_32511_2023-04-01.xml,False,feed hierarchy listing:both
+13937,Policy on Legal Assistance and Indemnification,Policy,2023-01-30,2023-01-30,xml,data/hawk/data/Policy/Legal_Assistance_and_Indemnification__Policy_on_13937_2023-01-30.xml,False,feed hierarchy listing:both
+32610,"Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area",Directive,2022-12-21,2022-12-21,xml,data/hawk/data/Directive/Government_Contracts__Including_Real_Property_Leases__in_the_Nunavut_Settlement_Area__Directive_32610_2022-12-21.xml,False,feed hierarchy listing:both
+32573,Policy on Green Procurement,Policy,2022-11-14,2022-11-14,xml,data/hawk/data/Policy/Green_Procurement__Policy_on_32573_2022-11-14.xml,False,feed hierarchy listing:both
+32743,Standard on the Disclosure of Greenhouse Gas Emissions and the Setting of Reduction Targets,Standard,2022-11-14,2022-11-14,xml,data/hawk/data/Standard/Disclosure_of_Greenhouse_Gas_Emissions_and_the_Setting_of_Reduction_Targets__Standard_on_the_32743_2022-11-14.xml,False,feed hierarchy listing:both
+13697,Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts,Policy,2022-09-14,2022-09-14,xml,data/hawk/data/Policy/Title_to_Intellectual_Property_Arising_Under_Crown_Procurement_Contracts__Policy_on_13697_2022-09-14.xml,False,feed listing:az
+26163,Directive on the Implementation of the Official Languages (Communications with and Services to the Public) Regulations,Directive,2022-09-08,2022-09-08,xml,data/hawk/data/Directive/Official_Languages__Communications_with_and_Services_to_the_Public__Regulations__Directive_on_the_Implementation_of_the_26163_2022-09-08.xml,False,feed hierarchy listing:both
+18310,Directive on Access to Information Requests,Directive,2022-07-22,2022-07-22,xml,data/hawk/data/Directive/Access_to_Information_Requests__Directive_on_18310_2022-07-22.xml,False,feed hierarchy listing:both
+32709,Appendix C: Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information Notices,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Privacy_and_Monitoring_of_Network_and_Device_Use_Information_Notices__Mandatory_Procedures_for_32709_2022-05-06.xml,False,feed hierarchy listing:both
+32710,Appendix D: Standard on Information Technology User and Workpoint Profiles,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Information_Technology_User_and_Workpoint_Profiles__Standard_on_32710_2022-05-06.xml,False,feed hierarchy listing:both
+32711,Appendix E: Standard on Information Technology Provisions,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Information_Technology_Provisions__Standard_on_32711_2022-05-06.xml,False,feed hierarchy listing:both
+32712,Appendix F: Standard on Enterprise Information Technology Service Usage Restrictions,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Enterprise_Information_Technology_Service_Usage_Restrictions__Standard_on_32712_2022-05-06.xml,False,feed hierarchy listing:both
+32713,Appendix G: Standard on Enterprise Information Technology Service Common Configurations,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Enterprise_Information_Technology_Service_Common_Configurations__Standard_on_32713_2022-05-06.xml,False,feed hierarchy listing:both
+32714,Appendix H: Standard on At-Risk Information Technology,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/At-Risk_Information_Technology__Standard_on_32714_2022-05-06.xml,False,feed hierarchy listing:both
+32715,Appendix I: Interim Standard on Enterprise Resource Planning Solutions,Guidelines,2022-05-06,2022-05-06,html,data/hawk/data/Guidelines/Enterprise Resource Planning Solutions Interim Standard on_2026-03-14.xml,False,feed hierarchy listing:both
+32716,Appendix J: Standard on Systems that Manage Information and Data,Guidelines,2022-05-06,2022-05-06,xml,data/hawk/data/Guideline/Systems_that_Manage_Information_and_Data__Standard_on_32716_2022-05-06.xml,False,feed hierarchy listing:both
 32707,Appendix A: Examples of Acceptable Network and Device Use (Non-Exhaustive List),Guidelines,2022-05-03,2022-05-03,xml,data/hawk/data/Guideline/Examples_of_Acceptable_Network_and_Device_Use__Non-Exhaustive_List___Appendix_A_32707_2022-05-03.xml,False,feed
-15773,Directive on Terms and Conditions of Employment for Certain Excluded and Unrepresented Groups and Levels,Directive,2021-11-15,2021-11-15,xml,data/hawk/data/Directive/Terms_and_Conditions_of_Employment_for_Certain_Excluded_and_Unrepresented_Groups_and_Levels__Directive_on_15773_2021-11-15.xml,False,feed hierarchy
-32634,Directive on the Duty to Accommodate,Directive,2021-07-16,2021-07-16,xml,data/hawk/data/Directive/Duty_to_Accommodate__Directive_on_the_32634_2021-07-16.xml,False,feed hierarchy
-32687,Directive on Accounting Standards: GC 5200 Guideline: Illustrative Crown Corporations Quarterly Financial Report,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_5200_Guideline__Illustrative_Crown_Corporations_Quarterly_Financial_Report_32687_2021-05-25.xml,False,feed hierarchy
-32688,Directive on Accounting Standards: GC 4400 Guideline: Illustrative Quarterly Financial Report,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_4400_Guideline__Illustrative_Quarterly_Financial_Report_32688_2021-05-25.xml,False,feed hierarchy
-32689,Directive on Accounting Standards: GC 4500 Guideline: Illustrative Departmental Financial Statements,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_4500_Guideline__Illustrative_Departmental_Financial_Statements_32689_2021-05-25.xml,False,feed hierarchy
-28700,Directive on Classification,Directive,2021-04-01,2021-04-01,xml,data/hawk/data/Directive/Classification__Directive_on_28700_2021-04-01.xml,False,feed hierarchy
-32503,Directive on Delegation of Spending and Financial Authorities,Directive,2021-01-18,2021-01-18,xml,data/hawk/data/Directive/Delegation_of_Spending_and_Financial_Authorities__Directive_on_32503_2021-01-18.xml,False,feed hierarchy
-32671,Directive on the Prevention and Resolution of Workplace Harassment and Violence,Directive,2021-01-01,2021-01-01,xml,data/hawk/data/Directive/Prevention_and_Resolution_of_Workplace_Harassment_and_Violence__Directive_on_the_32671_2021-01-01.xml,False,feed hierarchy
-17065,Guideline on Financial Management of Pay Administration,Guidelines,2020-12-02,2020-12-02,xml,data/hawk/data/Guideline/Financial_Management_of_Pay_Administration__Guideline_on_17065_2020-12-02.xml,False,feed hierarchy
-32628,Directive on Mandatory Training,Directive,2020-10-28,2020-10-28,xml,data/hawk/data/Directive/Mandatory_Training__Directive_on_32628_2020-10-28.xml,False,feed hierarchy
-27228,"Directive on Travel, Hospitality, Conference and Event Expenditures",Directive,2020-07-31,2020-07-31,xml,data/hawk/data/Directive/Travel__Hospitality__Conference_and_Event_Expenditures__Directive_on_27228_2020-07-31.xml,False,feed hierarchy
-27146,Directive on Performance Management,Directive,2020-04-01,2020-04-01,xml,data/hawk/data/Directive/Performance_Management__Directive_on_27146_2020-04-01.xml,False,feed hierarchy
-28699,Directive on Classification Oversight,Directive,2020-04-01,2020-04-01,xml,data/hawk/data/Directive/Classification_Oversight__Directive_on_28699_2020-04-01.xml,False,feed hierarchy
-15772,Directive on Terms and Conditions of Employment,Directive,2020-01-23,2020-01-23,xml,data/hawk/data/Directive/Terms_and_Conditions_of_Employment__Directive_on_15772_2020-01-23.xml,False,feed
-16577,Directive on Identity Management,Directive,2019-07-01,2019-07-01,html,data/hawk/data/Directive/Identity Management Directive on_2026-03-14.xml,False,feed hierarchy
-16578,Policy on Government Security,Policy,2019-07-01,2019-07-01,html,data/hawk/data/Policy/Government Security Policy on_2026-03-14.xml,False,feed hierarchy
-32611,Directive on Security Management,Directive,2019-07-01,2019-07-01,xml,data/hawk/data/Directive/Security_Management__Directive_on_32611_2019-07-01.xml,False,feed hierarchy
+15773,Directive on Terms and Conditions of Employment for Certain Excluded and Unrepresented Groups and Levels,Directive,2021-11-15,2021-11-15,xml,data/hawk/data/Directive/Terms_and_Conditions_of_Employment_for_Certain_Excluded_and_Unrepresented_Groups_and_Levels__Directive_on_15773_2021-11-15.xml,False,feed hierarchy listing:both
+32634,Directive on the Duty to Accommodate,Directive,2021-07-16,2021-07-16,xml,data/hawk/data/Directive/Duty_to_Accommodate__Directive_on_the_32634_2021-07-16.xml,False,feed hierarchy listing:both
+32687,Directive on Accounting Standards: GC 5200 Guideline: Illustrative Crown Corporations Quarterly Financial Report,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_5200_Guideline__Illustrative_Crown_Corporations_Quarterly_Financial_Report_32687_2021-05-25.xml,False,feed hierarchy listing:both
+32688,Directive on Accounting Standards: GC 4400 Guideline: Illustrative Quarterly Financial Report,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_4400_Guideline__Illustrative_Quarterly_Financial_Report_32688_2021-05-25.xml,False,feed hierarchy listing:both
+32689,Directive on Accounting Standards: GC 4500 Guideline: Illustrative Departmental Financial Statements,Guidelines,2021-05-25,2021-05-25,xml,data/hawk/data/Guideline/GC_4500_Guideline__Illustrative_Departmental_Financial_Statements_32689_2021-05-25.xml,False,feed hierarchy listing:both
+28700,Directive on Classification,Directive,2021-04-01,2021-04-01,xml,data/hawk/data/Directive/Classification__Directive_on_28700_2021-04-01.xml,False,feed hierarchy listing:both
+32503,Directive on Delegation of Spending and Financial Authorities,Directive,2021-01-18,2021-01-18,xml,data/hawk/data/Directive/Delegation_of_Spending_and_Financial_Authorities__Directive_on_32503_2021-01-18.xml,False,feed hierarchy listing:both
+32671,Directive on the Prevention and Resolution of Workplace Harassment and Violence,Directive,2021-01-01,2021-01-01,xml,data/hawk/data/Directive/Prevention_and_Resolution_of_Workplace_Harassment_and_Violence__Directive_on_the_32671_2021-01-01.xml,False,feed hierarchy listing:both
+17065,Guideline on Financial Management of Pay Administration,Guidelines,2020-12-02,2020-12-02,xml,data/hawk/data/Guideline/Financial_Management_of_Pay_Administration__Guideline_on_17065_2020-12-02.xml,False,feed hierarchy listing:both
+32628,Directive on Mandatory Training,Directive,2020-10-28,2020-10-28,xml,data/hawk/data/Directive/Mandatory_Training__Directive_on_32628_2020-10-28.xml,False,feed hierarchy listing:both
+27228,"Directive on Travel, Hospitality, Conference and Event Expenditures",Directive,2020-07-31,2020-07-31,xml,data/hawk/data/Directive/Travel__Hospitality__Conference_and_Event_Expenditures__Directive_on_27228_2020-07-31.xml,False,feed hierarchy listing:both
+27146,Directive on Performance Management,Directive,2020-04-01,2020-04-01,xml,data/hawk/data/Directive/Performance_Management__Directive_on_27146_2020-04-01.xml,False,feed hierarchy listing:both
+28699,Directive on Classification Oversight,Directive,2020-04-01,2020-04-01,xml,data/hawk/data/Directive/Classification_Oversight__Directive_on_28699_2020-04-01.xml,False,feed hierarchy listing:both
+15772,Directive on Terms and Conditions of Employment,Directive,2020-01-23,2020-01-23,xml,data/hawk/data/Directive/Terms_and_Conditions_of_Employment__Directive_on_15772_2020-01-23.xml,False,feed listing:az
+16577,Directive on Identity Management,Directive,2019-07-01,2019-07-01,html,data/hawk/data/Directive/Identity Management Directive on_2026-03-14.xml,False,feed hierarchy listing:both
+16578,Policy on Government Security,Policy,2019-07-01,2019-07-01,html,data/hawk/data/Policy/Government Security Policy on_2026-03-14.xml,False,feed hierarchy listing:both
+32611,Directive on Security Management,Directive,2019-07-01,2019-07-01,xml,data/hawk/data/Directive/Security_Management__Directive_on_32611_2019-07-01.xml,False,feed hierarchy listing:both
 32574,Guidance for Crown Corporations on Preparing Corporate Plans and Budgets,Guidelines,2019-05-09,2019-05-09,xml,data/hawk/data/Guideline/Crown_Corporations_on_Preparing_Corporate_Plans_and_Budgets__Guidance_for_32574_2019-05-09.xml,False,feed
-32505,Directive on Public Money and Receivables,Directive,2017-04-01,2017-04-01,xml,data/hawk/data/Directive/Public_Money_and_Receivables__Directive_on_32505_2017-04-01.xml,False,feed hierarchy
+32505,Directive on Public Money and Receivables,Directive,2017-04-01,2017-04-01,xml,data/hawk/data/Directive/Public_Money_and_Receivables__Directive_on_32505_2017-04-01.xml,False,feed hierarchy listing:both
 27907,Guideline on Acceptable Network and Device Use,Guidelines,2016-05-30,2016-05-30,xml,data/hawk/data/Guideline/Acceptable_Network_and_Device_Use__Guideline_on_27907_2016-05-30.xml,False,feed
-30656,Guideline on the Attribution of Internal Services,Guidelines,2016-03-21,2016-03-21,xml,data/hawk/data/Guideline/Attribution_of_Internal_Services__Guideline_on_the_30656_2016-03-21.xml,False,feed
-30678,Guideline on Identity Assurance,Guidelines,2016-03-04,2016-03-04,xml,data/hawk/data/Guideline/Identity_Assurance__Guideline_on_30678_2016-03-04.xml,False,feed hierarchy
-12143,Workers' Compensation,Guidelines,2015-08-13,2015-08-13,xml,data/hawk/data/Guideline/Workers__Compensation_12143_2015-08-13.xml,False,feed hierarchy
-28203,Governance and Expenditure Management Policy Area,Policy framework,2014-11-26,2014-11-26,xml,data/hawk/data/Framework/Governance_and_Expenditure_Management_Policy_Area_28203_2014-11-26.xml,False,feed hierarchy
-28108,Directive on Open Government,Directive,2014-10-09,2014-10-09,xml,data/hawk/data/Directive/Open_Government__Directive_on_28108_2014-10-09.xml,False,feed hierarchy
+30656,Guideline on the Attribution of Internal Services,Guidelines,2016-03-21,2016-03-21,xml,data/hawk/data/Guideline/Attribution_of_Internal_Services__Guideline_on_the_30656_2016-03-21.xml,False,feed listing:az
+30678,Guideline on Identity Assurance,Guidelines,2016-03-04,2016-03-04,xml,data/hawk/data/Guideline/Identity_Assurance__Guideline_on_30678_2016-03-04.xml,False,feed hierarchy listing:both
+12143,Workers' Compensation,Guidelines,2015-08-13,2015-08-13,xml,data/hawk/data/Guideline/Workers__Compensation_12143_2015-08-13.xml,False,feed hierarchy listing:both
+28203,Governance and Expenditure Management Policy Area,Policy framework,2014-11-26,2014-11-26,xml,data/hawk/data/Framework/Governance_and_Expenditure_Management_Policy_Area_28203_2014-11-26.xml,False,feed hierarchy listing:both
+28108,Directive on Open Government,Directive,2014-10-09,2014-10-09,xml,data/hawk/data/Directive/Open_Government__Directive_on_28108_2014-10-09.xml,False,feed hierarchy listing:both
 27807,Guide to a Project Brief,Guidelines,2014-03-31,2014-03-31,xml,data/hawk/data/Guideline/Project_Brief__Guide_to_a_27807_2014-03-31.xml,False,feed
-15774,Directive on Leave and Special Working Arrangements,Directive,2013-11-28,2013-11-28,xml,data/hawk/data/Directive/Leave_and_Special_Working_Arrangements__Directive_on_15774_2013-11-28.xml,False,feed
-26952,Guideline on Common Financial Management Business Process 3.2 – Manage Travel,Guidelines,2013-05-15,2013-05-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_2___Manage_Travel__Guideline_on_26952_2013-05-15.xml,False,feed
-26953,Guideline on Common Financial Management Business Process 1.1 – Manage Planning And Budgeting,Guidelines,2013-05-15,2013-05-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_1_1___Manage_Planning_And_Budgeting__Guideline_on_26953_2013-05-15.xml,False,feed
-26332,Guideline on Common Financial Management Business Process 4.1 - Manage Other Capital Assets,Guidelines,2013-01-15,2013-01-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_4_1_-_Manage_Other_Capital_Assets__Guideline_on_26332_2013-01-15.xml,False,feed
-26262,Guideline on Defining Authentication Requirements,Guidelines,2012-11-30,2012-11-30,xml,data/hawk/data/Guideline/Authentication_Requirements__Guideline_on_Defining_26262_2012-11-30.xml,False,feed hierarchy
-26295,Internet Protocol Version 6 (IPv6) Network Equipment Procurement Guideline,Guidelines,2012-11-30,2012-11-30,xml,data/hawk/data/Guideline/Internet_Protocol_Version_6__IPv6__Network_Equipment_Procurement_Guideline_26295_2012-11-30.xml,False,feed
-26160,Policy on Official Languages,Policy,2012-10-15,2012-10-15,xml,data/hawk/data/Policy/Official_Languages__Policy_on_26160_2012-10-15.xml,False,feed hierarchy
-26164,Directive on Official Languages for Communications and Services,Directive,2012-10-15,2012-10-15,xml,data/hawk/data/Directive/Official_Languages_for_Communications_and_Services__Directive_on_26164_2012-10-15.xml,False,feed hierarchy
-25748,Guideline on Service Agreements: An Overview,Guidelines,2012-07-04,2012-07-04,xml,data/hawk/data/Guideline/Service_Agreements__An_Overview__Guideline_on_25748_2012-07-04.xml,False,feed
-25761,Guideline on Service Agreements: Essential Elements,Guidelines,2012-07-04,2012-07-04,xml,data/hawk/data/Guideline/Service_Agreements__Essential_Elements__Guideline_on_25761_2012-07-04.xml,False,feed
-25593,Guideline on Departmental Chart of Accounts Line Object Codes,Guidelines,2012-04-26,2012-04-26,xml,data/hawk/data/Guideline/Chart_of_Accounts_Line_Object_Codes__Guideline_on_Departmental_25593_2012-04-26.xml,False,feed hierarchy
-25600,Guidelines for the Processing of Garnishments,Guidelines,2012-03-30,2012-03-30,xml,data/hawk/data/Guideline/Processing_of_Garnishments__Guidelines_for_the_25600_2012-03-30.xml,False,feed hierarchy
-24970,Guideline on Common Financial Management Business Process 3.1 - Manage Procure to Payment,Guidelines,2012-01-10,2012-01-10,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_1_-_Manage_Procure_to_Payment__Guideline_on_24970_2012-01-10.xml,False,feed
-22379,Guidelines for Termination or Demotion for Unsatisfactory Performance; Termination or Demotion for Reasons Other than Breaches of Discipline or Misconduct; and Termination of Employment During Probation,Guidelines,2011-06-09,2011-06-09,xml,data/hawk/data/Guideline/Termination_or_Demotion_for_Unsatisfactory_Performance__Termination_or_Demotion_for_Reasons_Other_than_Breaches_of_Discipline_or_Misconduct__and_Termination_of_Employment_During_Probation__Guidelines_for_22379_2011-06-09.xml,False,feed
-22370,Guidelines for Discipline,Guidelines,2011-06-08,2011-06-08,xml,data/hawk/data/Guideline/Discipline__Guidelines_for_22370_2011-06-08.xml,False,feed hierarchy
-20930,Guideline on Self-Insurance,Guidelines,2011-02-04,2011-02-04,xml,data/hawk/data/Guideline/Self-Insurance__Guideline_on_20930_2011-02-04.xml,False,feed hierarchy
-20008,Guideline on the Management of Public Key Infrastructure in the Government of Canada,Guidelines,2011-01-07,2011-01-07,xml,data/hawk/data/Guideline/Public_Key_Infrastructure_in_the_Government_of_Canada__Guideline_on_the_Management_of_20008_2011-01-07.xml,False,feed
-19420,Guideline on Performance Measurement Strategy under the Policy on Transfer Payments,Guidelines,2010-09-02,2010-09-02,xml,data/hawk/data/Guideline/Performance_Measurement_Strategy_under_the_Policy_on_Transfer_Payments__Guideline_on_19420_2010-09-02.xml,False,feed hierarchy
-17151,Framework for the Management of Compliance,Policy framework,2010-08-27,2010-08-27,xml,data/hawk/data/Framework/Compliance__Framework_for_the_Management_of_17151_2010-08-27.xml,False,feed hierarchy
-19422,Framework for the Management of Risk,Policy framework,2010-08-19,2010-08-19,xml,data/hawk/data/Framework/Risk__Framework_for_the_Management_of_19422_2010-08-19.xml,False,feed hierarchy
-26954,Guideline on Common Financial Management Business Process 3.3 - Manage Other Payments,Guidelines,2010-05-30,2010-05-30,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_3_-_Manage_Other_Payments__Guideline_on_26954_2010-05-30.xml,False,feed
-15796,Guideline on Security for Debts,Guidelines,2009-10-01,2009-10-01,xml,data/hawk/data/Guideline/Security_for_Debts__Guideline_on_15796_2009-10-01.xml,False,feed hierarchy
-17067,Guideline on Accountable Advances,Guidelines,2009-10-01,2009-10-01,xml,data/hawk/data/Guideline/Accountable_Advances__Guideline_on_17067_2009-10-01.xml,False,feed hierarchy
-13616,Foundation Framework for Treasury Board Policies,Policy framework,2008-06-24,2008-06-24,xml,data/hawk/data/Framework/Foundation_Framework_for_Treasury_Board_Policies_13616_2008-06-24.xml,False,feed hierarchy
-12084,Policy Framework for the Management of Compensation,Policy framework,2007-05-23,2007-05-23,xml,data/hawk/data/Framework/Compensation__Policy_Framework_for_the_Management_of_12084_2007-05-23.xml,False,feed hierarchy
-12602,Guidelines on Managerial or Confidential Exclusions,Guidelines,2005-04-11,2005-04-11,xml,data/hawk/data/Guideline/Managerial_or_Confidential_Exclusions__Guidelines_on_12602_2005-04-11.xml,False,feed
-12141,Guidelines for Two-Tier Bargaining,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Two-Tier_Bargaining__Guidelines_for_12141_2005-04-01.xml,False,feed hierarchy
-12595,Co-development Guidelines,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Co-development_Guidelines_12595_2005-04-01.xml,False,feed
-12601,Guidelines for Labour-Management Consultation Committees,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Labour-Management_Consultation_Committees__Guidelines_for_12601_2005-04-01.xml,False,feed
-12610,Guidelines for Use of Employer Facilities,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Use_of_Employer_Facilities__Guidelines_for_12610_2005-04-01.xml,False,feed
-12614,Workplace Day Care Centres,Policy,2001-10-11,2001-10-11,xml,data/hawk/data/Policy/Workplace_Day_Care_Centres_12614_2001-10-11.xml,False,feed hierarchy
-13890,Termination of Employment of Public Service Employees Due to Alternative Delivery Situations,Policy,1996-07-16,1996-07-16,xml,data/hawk/data/Policy/Termination_of_Employment_of_Public_Service_Employees_Due_to_Alternative_Delivery_Situations__Policy__13890_1996-07-16.xml,False,feed hierarchy
-12111,Policy on Educational Assistance for Children of Employees - Chapter 7-3,Policy,1995-07-07,1995-07-07,xml,data/hawk/data/Policy/Educational_Assistance_for_Children_of_Employees__Policy_on_12111_1995-07-07.xml,False,feed hierarchy
-12607,Strikes - Chapter 9,Policy,1995-05-01,1995-05-01,xml,data/hawk/data/Policy/Strikes__Policy_on_12607_1995-05-01.xml,False,feed hierarchy
-12139,Injury-on-Duty Leave,Guidelines,1992-10-01,1992-10-01,xml,data/hawk/data/Guideline/Injury_on_Duty_Leave_12139_1992-10-01.xml,False,feed hierarchy
-13589,Flying Accidents Compensation,Policy,1992-10-01,1992-10-01,xml,data/hawk/data/Policy/Flying_Accidents_Compensation_13589_1992-10-01.xml,False,feed hierarchy
-13848,Long-Term Disability Insurance - Chapter 3-4,Policy,1992-10-01,1992-10-01,xml,data/hawk/data/Policy/Long-Term_Disability_Insurance_13848_1992-10-01.xml,False,feed hierarchy
-12563,Procedures for Liaison with Private Contractors,Guidelines,1992-02-01,1992-02-01,xml,data/hawk/data/Guideline/Liaison_with_Private_Contractors__Procedures_for_12563_1992-02-01.xml,False,feed
-12129,Performance pay for represented employees in the Administrative and Foreign Service Category,Directive,1991-11-01,1991-11-01,xml,data/hawk/data/Directive/Performance_pay_for_represented_employees_in_the_Administrative_and_Foreign_Service_Category_12129_1991-11-01.xml,False,feed hierarchy
-13953,Service outside Canada,Policy,1991-11-01,1991-11-01,xml,data/hawk/data/Policy/Service_outside_Canada__Policy_on_13953_1991-11-01.xml,False,feed hierarchy
-17280,TBITS 12: Codes for the Representation of Currencies and Funds - Implementation Criteria,Standard,,1991-12-01,xml,data/hawk/data/Standard/TBITS_12__Codes_for_the_Representation_of_Currencies_and_Funds_-_Implementation_Criteria_17280_1991-12-01.xml,False,hierarchy
-24227,Standard on Web Usability,Standard,,2013-11-27,xml,data/hawk/data/Standard/Web_Usability__Standard_on_24227_2013-11-27.xml,False,hierarchy
-25845,Standard on Vendor Record,Standard,,2012-07-01,xml,data/hawk/data/Standard/Vendor_Record__Standard_on_25845_2012-07-01.xml,False,hierarchy
-25857,Standard on Customer Record,Standard,,2012-07-01,xml,data/hawk/data/Standard/Customer_Record__Standard_on_25857_2012-07-01.xml,False,hierarchy
-25875,Standard on Web Interoperability,Standard,,2012-07-01,xml,data/hawk/data/Standard/Web_Interoperability__Standard_on_25875_2012-07-01.xml,False,hierarchy
-32526,Directive on Accounting Standards: GC 4300 Non-Monetary Transactions,Standard,,2017-04-01,xml,data/hawk/data/Standard/GC_4300_Non-Monetary_Transactions_32526_2017-04-01.xml,False,hierarchy
+15774,Directive on Leave and Special Working Arrangements,Directive,2013-11-28,2013-11-28,xml,data/hawk/data/Directive/Leave_and_Special_Working_Arrangements__Directive_on_15774_2013-11-28.xml,False,feed listing:az
+26952,Guideline on Common Financial Management Business Process 3.2 – Manage Travel,Guidelines,2013-05-15,2013-05-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_2___Manage_Travel__Guideline_on_26952_2013-05-15.xml,False,feed listing:az
+26953,Guideline on Common Financial Management Business Process 1.1 – Manage Planning And Budgeting,Guidelines,2013-05-15,2013-05-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_1_1___Manage_Planning_And_Budgeting__Guideline_on_26953_2013-05-15.xml,False,feed listing:az
+26332,Guideline on Common Financial Management Business Process 4.1 - Manage Other Capital Assets,Guidelines,2013-01-15,2013-01-15,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_4_1_-_Manage_Other_Capital_Assets__Guideline_on_26332_2013-01-15.xml,False,feed listing:az
+26262,Guideline on Defining Authentication Requirements,Guidelines,2012-11-30,2012-11-30,xml,data/hawk/data/Guideline/Authentication_Requirements__Guideline_on_Defining_26262_2012-11-30.xml,False,feed hierarchy listing:both
+26295,Internet Protocol Version 6 (IPv6) Network Equipment Procurement Guideline,Guidelines,2012-11-30,2012-11-30,xml,data/hawk/data/Guideline/Internet_Protocol_Version_6__IPv6__Network_Equipment_Procurement_Guideline_26295_2012-11-30.xml,False,feed listing:az
+26160,Policy on Official Languages,Policy,2012-10-15,2012-10-15,xml,data/hawk/data/Policy/Official_Languages__Policy_on_26160_2012-10-15.xml,False,feed hierarchy listing:both
+26164,Directive on Official Languages for Communications and Services,Directive,2012-10-15,2012-10-15,xml,data/hawk/data/Directive/Official_Languages_for_Communications_and_Services__Directive_on_26164_2012-10-15.xml,False,feed hierarchy listing:both
+25748,Guideline on Service Agreements: An Overview,Guidelines,2012-07-04,2012-07-04,xml,data/hawk/data/Guideline/Service_Agreements__An_Overview__Guideline_on_25748_2012-07-04.xml,False,feed listing:az
+25761,Guideline on Service Agreements: Essential Elements,Guidelines,2012-07-04,2012-07-04,xml,data/hawk/data/Guideline/Service_Agreements__Essential_Elements__Guideline_on_25761_2012-07-04.xml,False,feed listing:az
+25593,Guideline on Departmental Chart of Accounts Line Object Codes,Guidelines,2012-04-26,2012-04-26,xml,data/hawk/data/Guideline/Chart_of_Accounts_Line_Object_Codes__Guideline_on_Departmental_25593_2012-04-26.xml,False,feed hierarchy listing:both
+25600,Guidelines for the Processing of Garnishments,Guidelines,2012-03-30,2012-03-30,xml,data/hawk/data/Guideline/Processing_of_Garnishments__Guidelines_for_the_25600_2012-03-30.xml,False,feed hierarchy listing:both
+24970,Guideline on Common Financial Management Business Process 3.1 - Manage Procure to Payment,Guidelines,2012-01-10,2012-01-10,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_1_-_Manage_Procure_to_Payment__Guideline_on_24970_2012-01-10.xml,False,feed listing:az
+22379,Guidelines for Termination or Demotion for Unsatisfactory Performance; Termination or Demotion for Reasons Other than Breaches of Discipline or Misconduct; and Termination of Employment During Probation,Guidelines,2011-06-09,2011-06-09,xml,data/hawk/data/Guideline/Termination_or_Demotion_for_Unsatisfactory_Performance__Termination_or_Demotion_for_Reasons_Other_than_Breaches_of_Discipline_or_Misconduct__and_Termination_of_Employment_During_Probation__Guidelines_for_22379_2011-06-09.xml,False,feed listing:az
+22370,Guidelines for Discipline,Guidelines,2011-06-08,2011-06-08,xml,data/hawk/data/Guideline/Discipline__Guidelines_for_22370_2011-06-08.xml,False,feed hierarchy listing:both
+20930,Guideline on Self-Insurance,Guidelines,2011-02-04,2011-02-04,xml,data/hawk/data/Guideline/Self-Insurance__Guideline_on_20930_2011-02-04.xml,False,feed hierarchy listing:both
+20008,Guideline on the Management of Public Key Infrastructure in the Government of Canada,Guidelines,2011-01-07,2011-01-07,xml,data/hawk/data/Guideline/Public_Key_Infrastructure_in_the_Government_of_Canada__Guideline_on_the_Management_of_20008_2011-01-07.xml,False,feed listing:az
+19420,Guideline on Performance Measurement Strategy under the Policy on Transfer Payments,Guidelines,2010-09-02,2010-09-02,xml,data/hawk/data/Guideline/Performance_Measurement_Strategy_under_the_Policy_on_Transfer_Payments__Guideline_on_19420_2010-09-02.xml,False,feed hierarchy listing:both
+17151,Framework for the Management of Compliance,Policy framework,2010-08-27,2010-08-27,xml,data/hawk/data/Framework/Compliance__Framework_for_the_Management_of_17151_2010-08-27.xml,False,feed hierarchy listing:both
+19422,Framework for the Management of Risk,Policy framework,2010-08-19,2010-08-19,xml,data/hawk/data/Framework/Risk__Framework_for_the_Management_of_19422_2010-08-19.xml,False,feed hierarchy listing:both
+26954,Guideline on Common Financial Management Business Process 3.3 - Manage Other Payments,Guidelines,2010-05-30,2010-05-30,xml,data/hawk/data/Guideline/Common_Financial_Management_Business_Process_3_3_-_Manage_Other_Payments__Guideline_on_26954_2010-05-30.xml,False,feed listing:az
+15796,Guideline on Security for Debts,Guidelines,2009-10-01,2009-10-01,xml,data/hawk/data/Guideline/Security_for_Debts__Guideline_on_15796_2009-10-01.xml,False,feed hierarchy listing:both
+17067,Guideline on Accountable Advances,Guidelines,2009-10-01,2009-10-01,xml,data/hawk/data/Guideline/Accountable_Advances__Guideline_on_17067_2009-10-01.xml,False,feed hierarchy listing:both
+13616,Foundation Framework for Treasury Board Policies,Policy framework,2008-06-24,2008-06-24,xml,data/hawk/data/Framework/Foundation_Framework_for_Treasury_Board_Policies_13616_2008-06-24.xml,False,feed hierarchy listing:both
+12084,Policy Framework for the Management of Compensation,Policy framework,2007-05-23,2007-05-23,xml,data/hawk/data/Framework/Compensation__Policy_Framework_for_the_Management_of_12084_2007-05-23.xml,False,feed hierarchy listing:both
+12602,Guidelines on Managerial or Confidential Exclusions,Guidelines,2005-04-11,2005-04-11,xml,data/hawk/data/Guideline/Managerial_or_Confidential_Exclusions__Guidelines_on_12602_2005-04-11.xml,False,feed listing:az
+12141,Guidelines for Two-Tier Bargaining,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Two-Tier_Bargaining__Guidelines_for_12141_2005-04-01.xml,False,feed hierarchy listing:both
+12595,Co-development Guidelines,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Co-development_Guidelines_12595_2005-04-01.xml,False,feed listing:az
+12601,Guidelines for Labour-Management Consultation Committees,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Labour-Management_Consultation_Committees__Guidelines_for_12601_2005-04-01.xml,False,feed listing:az
+12610,Guidelines for Use of Employer Facilities,Guidelines,2005-04-01,2005-04-01,xml,data/hawk/data/Guideline/Use_of_Employer_Facilities__Guidelines_for_12610_2005-04-01.xml,False,feed listing:az
+12614,Workplace Day Care Centres,Policy,2001-10-11,2001-10-11,xml,data/hawk/data/Policy/Workplace_Day_Care_Centres_12614_2001-10-11.xml,False,feed hierarchy listing:both
+13890,Termination of Employment of Public Service Employees Due to Alternative Delivery Situations,Policy,1996-07-16,1996-07-16,xml,data/hawk/data/Policy/Termination_of_Employment_of_Public_Service_Employees_Due_to_Alternative_Delivery_Situations__Policy__13890_1996-07-16.xml,False,feed hierarchy listing:both
+12111,Policy on Educational Assistance for Children of Employees - Chapter 7-3,Policy,1995-07-07,1995-07-07,xml,data/hawk/data/Policy/Educational_Assistance_for_Children_of_Employees__Policy_on_12111_1995-07-07.xml,False,feed hierarchy listing:both
+12607,Strikes - Chapter 9,Policy,1995-05-01,1995-05-01,xml,data/hawk/data/Policy/Strikes__Policy_on_12607_1995-05-01.xml,False,feed hierarchy listing:both
+12139,Injury-on-Duty Leave,Guidelines,1992-10-01,1992-10-01,xml,data/hawk/data/Guideline/Injury_on_Duty_Leave_12139_1992-10-01.xml,False,feed hierarchy listing:both
+13589,Flying Accidents Compensation,Policy,1992-10-01,1992-10-01,xml,data/hawk/data/Policy/Flying_Accidents_Compensation_13589_1992-10-01.xml,False,feed hierarchy listing:both
+13848,Long-Term Disability Insurance - Chapter 3-4,Policy,1992-10-01,1992-10-01,xml,data/hawk/data/Policy/Long-Term_Disability_Insurance_13848_1992-10-01.xml,False,feed hierarchy listing:both
+12563,Procedures for Liaison with Private Contractors,Guidelines,1992-02-01,1992-02-01,xml,data/hawk/data/Guideline/Liaison_with_Private_Contractors__Procedures_for_12563_1992-02-01.xml,False,feed listing:az
+12129,Performance pay for represented employees in the Administrative and Foreign Service Category,Directive,1991-11-01,1991-11-01,xml,data/hawk/data/Directive/Performance_pay_for_represented_employees_in_the_Administrative_and_Foreign_Service_Category_12129_1991-11-01.xml,False,feed hierarchy listing:both
+13953,Service outside Canada,Policy,1991-11-01,1991-11-01,xml,data/hawk/data/Policy/Service_outside_Canada__Policy_on_13953_1991-11-01.xml,False,feed hierarchy listing:both
+12160,Carry-Forward of Capital Funds - TB Circular 1987-53,Uncategorized,,1996-07-29,xml,data/local/Uncategorized/12160_1996-07-29/20261128T134636Z.xml,False,listing:az
+12182,Financial Information Strategy Accounting Manual,Uncategorized,,2001-07-01,xml,data/local/Uncategorized/12182_2001-07-01/20261128T134644Z.xml,False,hierarchy listing:both
+12522,Bilingualism Bonus Directive,Directive,,2007-04-27,xml,data/local/Directive/12522_2007-04-27/20261128T134651Z.xml,False,hierarchy listing:both
+13593,Work Force Adjustment Directive,Directive,,2006-05-26,snapshot,data/local/Directive/13593_2006-05-26/20261128T134658Z.html,False,hierarchy listing:both
+13603,Reducing Paper Burden on Small Business - A Progress Report for 1995 by the President of the Treasury Board,Uncategorized,,1996-04-11,snapshot,data/local/Uncategorized/13603_1996-04-11/20261128T134705Z.html,False,listing:az
+13663,"Public Service Health Care Plan Directive - April 1, 2006",Directive,,2009-03-05,xml,data/local/Directive/13663_2009-03-05/20261128T134712Z.xml,False,listing:az
+13685,Acquisition Cards Program - Transfer of operational responsibility for the Government of Canada,Uncategorized,,2006-08-11,xml,data/local/Uncategorized/13685_2006-08-11/20261128T134719Z.xml,False,listing:az
+15771,Policy on Terms and Conditions of Employment,Policy,,2020-04-01,xml,data/local/Policy/15771_2020-04-01/20261128T134725Z.xml,False,hierarchy listing:hierarchy
+17280,TBITS 12: Codes for the Representation of Currencies and Funds - Implementation Criteria,Standard,,1991-12-01,xml,data/hawk/data/Standard/TBITS_12__Codes_for_the_Representation_of_Currencies_and_Funds_-_Implementation_Criteria_17280_1991-12-01.xml,False,hierarchy listing:both
+24227,Standard on Web Usability,Standard,,2013-11-27,xml,data/hawk/data/Standard/Web_Usability__Standard_on_24227_2013-11-27.xml,False,hierarchy listing:both
+25049,Values and Ethics Code for the Public Sector,Uncategorized,,2011-12-15,xml,data/local/Uncategorized/25049_2011-12-15/20261128T134732Z.xml,False,hierarchy listing:both
+25845,Standard on Vendor Record,Standard,,2012-07-01,xml,data/hawk/data/Standard/Vendor_Record__Standard_on_25845_2012-07-01.xml,False,hierarchy listing:both
+25857,Standard on Customer Record,Standard,,2012-07-01,xml,data/hawk/data/Standard/Customer_Record__Standard_on_25857_2012-07-01.xml,False,hierarchy listing:both
+25868,Guide to Requesting Capacity-Based Real Property Transaction Approval Limits,Guide,,2012-07-09,xml,data/local/Guide/25868_2012-07-09/20261128T134739Z.xml,False,listing:az
+25875,Standard on Web Interoperability,Standard,,2012-07-01,xml,data/hawk/data/Standard/Web_Interoperability__Standard_on_25875_2012-07-01.xml,False,hierarchy listing:both
+28305,Data Standard on Classification of Procurement Items,Standard,,2021-08-18,snapshot,data/local/Standard/28305_2021-08-18/20261128T134745Z.html,False,hierarchy listing:both
+28698,Directive on Classification Grievances,Directive,,2020-05-06,xml,data/local/Directive/28698_2020-05-06/20261128T134752Z.xml,False,hierarchy listing:hierarchy
+32526,Directive on Accounting Standards: GC 4300 Non-Monetary Transactions,Standard,,2017-04-01,xml,data/hawk/data/Standard/GC_4300_Non-Monetary_Transactions_32526_2017-04-01.xml,False,hierarchy listing:both
+32581,Guide to Claims,Guide,,2020-12-01,xml,data/local/Guide/32581_2020-12-01/20261128T134759Z.xml,False,hierarchy listing:both
+32582,Guide to Interest and Administrative Charges,Guide,,2018-05-29,xml,data/local/Guide/32582_2018-05-29/20261128T134806Z.xml,False,hierarchy listing:both
+32583,Guide to Administering Low-Value Amounts,Guide,,2018-05-29,xml,data/local/Guide/32583_2018-05-29/20261128T134812Z.xml,False,hierarchy listing:both
+32612,Directive on Identity Management - Appendix A: Standard on Identity and Credential Assurance,Standard,,2019-07-01,snapshot,data/local/Standard/32612_2019-07-01/20261128T134819Z.html,False,hierarchy listing:both
+32614,Directive on Security Management - Appendix J: Standard on Security Categorization,Standard,,2019-07-01,xml,data/hawk/data/Standard/Standard_on_Security_Categorization__Directive_on_Security_Management_-_Appendix_J_32614_2019-07-01.xml,False,listing:az
+32623,Directive on Performance Pay Administration for Certain Senior Excluded and Unrepresented Groups and Levels,Directive,,2020-04-01,xml,data/local/Directive/32623_2020-04-01/20261128T134825Z.xml,False,hierarchy listing:hierarchy
+32627,Directive on Conflict of Interest,Directive,,2020-04-01,xml,data/local/Directive/32627_2020-04-01/20261128T134832Z.xml,False,hierarchy listing:hierarchy
+32629,Directive on Term Employment,Directive,,2020-04-01,xml,data/local/Directive/32629_2020-04-01/20261128T134839Z.xml,False,hierarchy listing:hierarchy
+32630,Directive on Building Emergency and Evacuation Teams,Directive,,2020-04-01,xml,data/local/Directive/32630_2020-04-01/20261128T134846Z.xml,False,hierarchy listing:hierarchy
+32632,Directive on Occupational Health Evaluations,Directive,,2020-04-01,xml,data/local/Directive/32632_2020-04-01/20261128T134852Z.xml,False,hierarchy listing:hierarchy
+32635,"Directive on Employment Equity, Diversity and Inclusion",Directive,,2020-04-01,xml,data/local/Directive/32635_2020-04-01/20261128T134858Z.xml,False,hierarchy listing:hierarchy
+32637,Directive on Performance and Talent Management for Executives,Directive,,2021-10-29,xml,data/local/Directive/32637_2021-10-29/20261128T134905Z.xml,False,hierarchy listing:hierarchy
+32638,Directive on Student Employment,Directive,,2021-04-28,xml,data/local/Directive/32638_2021-04-28/20261128T134912Z.xml,False,hierarchy listing:hierarchy
+32639,Directive on Employee Assistance Programs,Directive,,2020-04-01,xml,data/local/Directive/32639_2020-04-01/20261128T134918Z.xml,False,hierarchy listing:hierarchy
+32648,Guide to Internal Charging and Special Financial Authorities,Guide,,2020-05-01,xml,data/local/Guide/32648_2020-05-01/20261128T134925Z.xml,False,hierarchy listing:both
+32673,Guide to Debt Deletion,Guide,,2021-03-30,xml,data/local/Guide/32673_2021-03-30/20261128T134932Z.xml,False,hierarchy listing:both

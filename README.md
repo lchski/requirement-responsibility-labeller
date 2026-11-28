@@ -27,6 +27,30 @@ To browse the output interactively, see the [policy requirements explorer](explo
 
 A GitHub Actions workflow (`.github/workflows/refresh.yml`) does the same every day and commits `output/` when it changes, so the git history of `output/responsibilities.csv` doubles as a record of how responsibilities change.
 
+### Filling Hawk's gaps from your own machine
+
+TBS's firewall rejects scripted requests from GitHub runners and cloud machines, so Hawk misses some instruments (mostly Guides and newly added ones) and some recent revisions. Your own computer usually gets through. Every few weeks, or after TBS announces changes:
+
+```sh
+scripts/fetch-hawk.sh                     # refresh Hawk first
+uv run python -m labeller.gaps            # list what's missing or behind, then download it into data/local/
+uv run python -m labeller                 # re-run the pipeline; it reads data/local/ alongside Hawk
+git add data/local && git commit -m "Fill policy capture gaps" && git push
+```
+
+What `labeller.gaps` does:
+
+1. **Builds the list of instruments** from the union of TBS's [hierarchical](https://www.tbs-sct.canada.ca/pol/hierarch-eng.aspx) and [A-Z](https://www.tbs-sct.canada.ca/pol/a-z-eng.aspx) listings (each misses some instruments), saved to `data/local/listing.csv`, plus Hawk's feed.
+2. **Prints the gaps**: instruments with no capture at all, and instruments whose newest capture (Hawk's or ours) is older than the date in Hawk's feed.
+3. **Downloads each gap** a few seconds apart: the HTML page, plus the XML when TBS still serves real XML. Files go in Hawk's snapshot layout, `data/local/<Category>/<id>_<date modified>/<UTC stamp>.html`, so the index treats them like Hawk's own captures.
+
+Options: `--list-only` prints the gaps without downloading. `--check-all` asks TBS for every instrument's current date, which also catches revisions that Hawk's feed hasn't seen (about 200 requests, so roughly 20 minutes at the default `--delay 3`).
+
+**If TBS refuses the script too**, it stops and prints the remaining links. Then use a browser:
+
+1. Open each link and save the page with File > Save Page As…, format "Webpage, HTML Only", into one folder (say `~/Downloads/tbs`).
+2. Run `uv run python -m labeller.gaps --import ~/Downloads/tbs/*.html`. It reads each page's id, type and date modified, files it under `data/local/`, and skips anything that isn't an instrument page (such as a "Request Rejected" page).
+
 ## Outputs
 
 | File | One row per | Notes |
@@ -78,7 +102,7 @@ In GitHub Actions the step runs when the `ANTHROPIC_API_KEY` repository secret i
 
 - The rules keep items that aren't responsibilities (pay entitlements, definitions, descriptive text in appendices and in some guidelines). On the hand-labelled sample about 30% of items are of this kind. The LLM pass labels them in `llm_item_type`.
 - About 17% of items have no actor, mostly appendices written as bare instructions that more than one actor cites.
-- `output/coverage.csv` lists instruments TBS lists that have no capture (many are listed only in the hierarchy, so Hawk doesn't watch them) or whose capture is older than the feed date. Fetching those into `data/local` fills the gaps.
+- `output/coverage.csv` lists instruments TBS lists that have no capture (many are listed only in the hierarchy, so Hawk doesn't watch them) or whose capture is older than the feed date. Fetching those into `data/local` fills the gaps; `uv run python -m labeller.gaps` does that from your own machine (see above).
 - The 31 Directive on Accounting Standards chapters state accounting rules with no actor, so they produce no items.
 
 ## Original R version (2019)

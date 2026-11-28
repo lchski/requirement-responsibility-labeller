@@ -1,28 +1,28 @@
 {
-  "instruments": 194,
-  "instruments_with_items": 132,
-  "items": 8739,
-  "items_with_actor": 6917,
-  "items_with_role": 6134,
-  "distinct_roles": 79,
-  "unmatched_phrases": 104,
+  "instruments": 224,
+  "instruments_with_items": 151,
+  "items": 9401,
+  "items_with_actor": 7335,
+  "items_with_role": 6421,
+  "distinct_roles": 81,
+  "unmatched_phrases": 119,
   "latest_version_date": "2026-11-19",
   "instruments_by_source": {
     "html": 27,
-    "snapshot": 12,
-    "xml": 155
+    "snapshot": 14,
+    "xml": 183
   },
-  "listed_instruments": 238,
-  "listed_behind_or_missing": 48,
+  "listed_instruments": 244,
+  "listed_behind_or_missing": 20,
   "llm": {
     "model": "claude-haiku-5-5",
     "requests": 0,
-    "requests_skipped_over_budget": 331,
+    "requests_skipped_over_budget": 360,
     "new_cache_entries": 0,
     "items_classified": 0,
     "items_by_type": {},
     "actors_filled": 0,
-    "items_with_role_final": 6134,
+    "items_with_role_final": 6421,
     "usage": {
       "input_tokens": 0,
       "output_tokens": 0

@@ -100,3 +100,12 @@ def test_local_listing_and_uncategorized_folder(tmp_path):
     cov = coverage([tmp_path, local]).set_index("id")
     assert not cov.loc[12, "is_behind"]
     assert 12 in set(build_index([tmp_path, local]).id)
+
+
+def test_coverage_without_hawk_feed(tmp_path):
+    # Only a hierarchy CSV and a local listing, no items.csv: used to crash with KeyError 'feed_date'.
+    (tmp_path / "tbs_policy_hierarchy_full.csv").write_text("ID,URL,Name,Min Level,Hierarchy Paths,Other Names\n7,x,Directive on Testing,0,,\n")
+    (tmp_path / "listing.csv").write_text("id,title,category,url,source\n12,Guide to Things,Guide,x,az\n")
+    cov = coverage([tmp_path]).set_index("id")
+    assert set(cov.index) == {7, 12}
+    assert cov.is_behind.all()
