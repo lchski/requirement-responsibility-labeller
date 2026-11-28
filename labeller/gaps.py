@@ -266,6 +266,9 @@ def main(argv=None):
 
     if not args.no_listing:
         refresh_listing(args.local)
+    if not any((Path(r) / sub / "items.csv").exists() for r in roots for sub in ("data", ".")):
+        print("! Hawk's feed (data/hawk/data/items.csv) isn't checked out, so revisions can't be detected; "
+              "run scripts/fetch-hawk.sh first.", file=sys.stderr)
     cov = find_gaps(roots, check_all=args.check_all)
     rows = cov.fillna("").astype(str).to_dict("records")
     rows = [dict(r, title=strip_tags(r.get("title", "")), category=r.get("category") or category_for(r.get("title")),

@@ -121,7 +121,9 @@ def listings(roots=DEFAULT_ROOTS):
                                             listed_in="listing:" + ls.get("source", pd.Series("", index=ls.index)).fillna(""))))
     if not frames:
         return pd.DataFrame(columns=["id", "listed_title", "listed_category", "feed_date", "listed_in"]), False
-    allrows = pd.concat(frames, ignore_index=True)
+    # Not every source has every column (e.g. no feed when Hawk's items.csv isn't checked out), so add the missing ones.
+    allrows = pd.concat(frames, ignore_index=True).reindex(
+        columns=["id", "listed_title", "listed_category", "feed_date", "listed_in"])
     out = allrows.groupby("id").agg(
         listed_title=("listed_title", "first"),
         listed_category=("listed_category", lambda s: s.dropna().iloc[0] if s.notna().any() else None),
