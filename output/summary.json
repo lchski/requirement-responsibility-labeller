@@ -13,5 +13,19 @@
     "xml": 183
   },
   "listed_instruments": 244,
-  "listed_behind_or_missing": 20
+  "listed_behind_or_missing": 20,
+  "llm": {
+    "model": "claude-haiku-5-5",
+    "requests": 0,
+    "requests_skipped_over_budget": 360,
+    "new_cache_entries": 0,
+    "items_classified": 0,
+    "items_by_type": {},
+    "actors_filled": 0,
+    "items_with_role_final": 6421,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    }
+  }
 }
