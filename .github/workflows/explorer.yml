@@ -1,0 +1,57 @@
+name: Publish explorer
+
+# Builds the policy explorer (explorer/) from output/ and publishes it to GitHub Pages.
+# The daily refresh commits output/ with the workflow token, which doesn't trigger push events,
+# so this also runs whenever "Refresh responsibilities" finishes on main.
+
+on:
+  push:
+    branches: [main]
+    paths: ["explorer/**", "output/**", "data/roles.csv", ".github/workflows/explorer.yml"]
+  workflow_run:
+    workflows: ["Refresh responsibilities"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+  pull_request:
+    paths: ["explorer/**", ".github/workflows/explorer.yml"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: explorer-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # After a refresh, build from the commit it pushed, not the one that started it.
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || '' }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build data
+        run: python explorer/build.py --out explorer/site/data
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: explorer/site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

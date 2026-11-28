@@ -23,6 +23,8 @@ uv run python -m labeller.llm --max-requests 0   # re-apply cached answers only,
 
 To add or upgrade a dependency, use `uv add <package>` or `uv lock --upgrade` and commit both `pyproject.toml` and `uv.lock`.
 
+To browse the output interactively, see the [policy requirements explorer](explorer/README.md) (`explorer/`), a static site published to GitHub Pages.
+
 A GitHub Actions workflow (`.github/workflows/refresh.yml`) does the same every day and commits `output/` when it changes, so the git history of `output/responsibilities.csv` doubles as a record of how responsibilities change.
 
 ### Filling Hawk's gaps from your own machine

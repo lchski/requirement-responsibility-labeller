@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Policy requirements explorer (prototype)</title>
+  <meta name="description" content="Find the Treasury Board policy requirements that apply to your role in the Government of Canada.">
+
+  <!-- GC Design System (Canadian Digital Service): https://design-system.canada.ca/ -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Noto+Sans:wght@400;700&display=swap">
+  <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-utility@1.11.0/dist/gcds-utility.min.css">
+  <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.47.0/dist/gcds/gcds.css">
+  <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.47.0/dist/gcds/gcds.esm.js"></script>
+
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <gcds-header skip-to-href="#main-content" signature-has-link="false">
+    <gcds-phase-banner slot="banner" banner-role="secondary" container="xl">
+      <p slot="banner-text">This is a prototype. Requirements are extracted automatically and may be incomplete or wrong. Always check the policy itself.</p>
+    </gcds-phase-banner>
+    <gcds-top-nav slot="menu" label="Main menu" alignment="right">
+      <gcds-nav-link href="#/" slot="home">Policy requirements explorer</gcds-nav-link>
+      <gcds-nav-link href="#/requirements" data-nav="requirements">Requirements</gcds-nav-link>
+      <gcds-nav-link href="#/roles" data-nav="roles">Roles</gcds-nav-link>
+      <gcds-nav-link href="#/instruments" data-nav="instruments">Instruments</gcds-nav-link>
+      <gcds-nav-link href="#/about" data-nav="about">About</gcds-nav-link>
+    </gcds-top-nav>
+  </gcds-header>
+
+  <gcds-container id="main-content" main-container size="xl" centered tag="main">
+    <div id="app" aria-live="polite">
+      <gcds-text>Loading policy requirements…</gcds-text>
+    </div>
+    <noscript><p>This explorer needs JavaScript. The underlying data is in the labeller's <code>output/</code> folder.</p></noscript>
+  </gcds-container>
+
+  <gcds-footer display="full"
+    contextual-heading="Policy requirements explorer"
+    contextual-links='{"About this prototype": "#/about", "Treasury Board policy suite": "https://www.tbs-sct.canada.ca/pol/index-eng.aspx", "Source code and data": "https://github.com/lchski/requirement-responsibility-labeller"}'>
+  </gcds-footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
