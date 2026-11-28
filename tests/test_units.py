@@ -113,4 +113,4 @@ def test_index_skips_firewall_pages(tmp_path):
     (d / "Testing_Directive_on_1_2024-01-01.xml").write_text(CURRENT, encoding="utf-8")
     (d / "Testing Directive on_2025-01-01.xml").write_text("<html><head><title>Request Rejected</title></head></html>")
     idx = build_index(tmp_path)
-    assert list(idx.id) == [1] and idx.captured.iloc[0] == "2024-01-01"
+    assert list(idx.id) == [1] and idx.version_date.iloc[0] == "2024-01-01"

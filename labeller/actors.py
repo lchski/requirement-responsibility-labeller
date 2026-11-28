@@ -34,7 +34,8 @@ ROLE_NOUN = re.compile(
     r"custodians?|cardholders?|advisors?|planners?|travell?ers?|recipients?|canada|secretaries|ombud\w*|commissioners?|clerk|registrar|general|experts?|equivalents?)\b",
     re.I,
 )
-LEADING_NUMBER = re.compile(r"^\(?\d+(?:\.\d+)*\)?\s*")
+# Clause numbers at the start of a line: "6.1", "(4.2)", and appendix forms like "A.2.1" or "A.I.9".
+LEADING_NUMBER = re.compile(r"^\(?(?:[A-Z](?:\.[IVX]+)?(?:\.\d+)+|\d+(?:\.\d+)*)\)?\s*")
 NOT_A_SUBJECT = {"in", "at", "to", "upon", "as", "prior", "whether", "that", "this", "these", "it", "there", "if", "when",
                  "where", "for", "by", "with", "on", "under", "after", "before", "once", "must", "should", "may", "be",
                  "inform", "collaborate", "annual", "objective", "role", "request", "application", "other"}

@@ -13,5 +13,5 @@ else
   git clone --depth 1 --filter=blob:none --sparse "$repo" "$dest"
 fi
 
-git -C "$dest" sparse-checkout set --no-cone '/data/*/*.xml' '/data/tbs_policy_hierarchy_full.csv'
-echo "Hawk XML files: $(find "$dest/data" -name '*.xml' | wc -l)"
+git -C "$dest" sparse-checkout set --no-cone '/data/*/*.xml' '/data/tbs_policy_hierarchy_full.csv' '/data/items.csv' '/data/*/*_*/*.html' '/data/*/*_*/*.xml'
+echo "Hawk captures: $(find "$dest/data" -name "*.xml" -o -name "*.html" | wc -l)"
