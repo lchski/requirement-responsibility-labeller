@@ -8,13 +8,17 @@
   "unmatched_phrases": 93,
   "hawk_latest_capture": "2025-08-29",
   "llm": {
-    "model": "claude-opus-5-5",
+    "model": "claude-haiku-5-5",
     "requests": 0,
     "requests_skipped_over_budget": 269,
     "new_cache_entries": 0,
     "items_classified": 0,
     "items_by_type": {},
     "actors_filled": 0,
-    "items_with_role_final": 5433
+    "items_with_role_final": 5433,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    }
   }
 }
