@@ -4,13 +4,13 @@ _Way cooler than it sounds._
 
 ## Quick start
 
-Needs R to run. `source("load.R")` will load the corpus and break it apart, then you can access the `requirements_tagged_with_responsibles` object to run analysis on the requirements.
+Needs R and git to run. First run `scripts/fetch-hawk.sh` to download the policy XML into `data/hawk` (run it again to refresh). Then `source("load.R")` will load the corpus and break it apart, then you can access the `requirements_tagged_with_responsibles` object to run analysis on the requirements.
 
 You can also [browse the output in a handy table visualization](https://tbs-policy-requirements.glitch.me).
 
 ## How it works
 
-1. Policies were downloaded from TBS’s site as XML. ([Inspired by @sleepycat’s work.](https://github.com/sleepycat/policy_graph)) [They’re now stored in this repo directly](https://github.com/lchski/requirement-responsibility-labeller/tree/master/data/policies), for easy reproducing. (Ignore the `.xml.txt`—that’s so my R script would cooperate.)
+1. Policy XML comes from [TBS Policy Hawk](https://github.com/PatLittle/TBS-Policy-Hawk), which archives TBS’s `section=xml` version of each instrument. `scripts/fetch-hawk.sh` checks out just those XML files into `data/hawk`, and `load.R` uses the most recent XML version of each instrument. (The 2019 downloads in `data/policies/` are kept for reference but are no longer read.)
 2. [`load.R`](https://github.com/lchski/requirement-responsibility-labeller/blob/master/load.R)
     1. Loads every policy as a string of plaintext.
     2. Breaks the policy into pieces. Tries to do this intelligently, looking at HTML elements. Ultimately we break it down into a sentence level, though lists kinda throw this off.
